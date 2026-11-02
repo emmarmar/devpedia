@@ -1,0 +1,1218 @@
+{
+ "subId": "bases-de-datos",
+ "topics": [
+  "database",
+  "sql"
+ ],
+ "crawledAt": "2026-11-02T20:17:56.190Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "supabase/supabase",
+   "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+   "stars": 114446,
+   "lang": "TypeScript",
+   "topics": [
+    "alternative",
+    "postgres",
+    "firebase",
+    "oauth2",
+    "database",
+    "ai",
+    "example",
+    "nextjs",
+    "websockets",
+    "realtime",
+    "postgresql",
+    "auth"
+   ],
+   "updated": "2026-11-02T19:40:18Z"
+  },
+  {
+   "full": "netdata/netdata",
+   "desc": "The fastest path to AI-powered full stack observability, even for lean teams.",
+   "stars": 81256,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "linux",
+    "docker",
+    "kubernetes",
+    "devops",
+    "machine-learning",
+    "database",
+    "ai",
+    "monitoring",
+    "mongodb",
+    "influxdb",
+    "mcp"
+   ],
+   "updated": "2026-11-02T19:15:22Z"
+  },
+  {
+   "full": "Asabeneh/30-Days-Of-Python",
+   "desc": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/ch",
+   "stars": 77966,
+   "lang": "Python",
+   "topics": [
+    "github",
+    "python",
+    "heroku",
+    "flask",
+    "data-science",
+    "data",
+    "database",
+    "mongodb",
+    "numpy",
+    "ml",
+    "pandas",
+    "python3"
+   ],
+   "updated": "2026-09-30T08:10:34Z"
+  },
+  {
+   "full": "redis/redis",
+   "desc": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+   "stars": 77149,
+   "lang": "C",
+   "topics": [
+    "redis",
+    "open-source",
+    "caching",
+    "distributed-systems",
+    "json",
+    "real-time",
+    "database",
+    "time-series",
+    "nosql",
+    "key-value",
+    "cache",
+    "realtime"
+   ],
+   "updated": "2026-11-02T13:50:49Z"
+  },
+  {
+   "full": "meilisearch/meilisearch",
+   "desc": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+   "stars": 59758,
+   "lang": "Rust",
+   "topics": [
+    "search",
+    "api",
+    "search-engine",
+    "database",
+    "ai",
+    "fuzzy-search",
+    "full-text-search",
+    "vectors",
+    "instantsearch",
+    "semantic-search",
+    "enterprise-search",
+    "geosearch"
+   ],
+   "updated": "2026-11-02T13:01:50Z"
+  },
+  {
+   "full": "etcd-io/etcd",
+   "desc": "Distributed reliable key-value store for the most critical data of a distributed system",
+   "stars": 52441,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "kubernetes",
+    "distributed-systems",
+    "database",
+    "key-value",
+    "raft",
+    "consensus",
+    "cncf",
+    "etcd",
+    "distributed-database"
+   ],
+   "updated": "2026-11-02T17:33:56Z"
+  },
+  {
+   "full": "dbeaver/dbeaver",
+   "desc": "Free universal database tool and SQL client",
+   "stars": 52273,
+   "lang": "Java",
+   "topics": [
+    "mysql",
+    "java",
+    "gui",
+    "sql",
+    "database",
+    "ai",
+    "nosql",
+    "jdbc",
+    "sqlite",
+    "postgresql",
+    "oracle",
+    "snowflake"
+   ],
+   "updated": "2026-11-02T19:18:53Z"
+  },
+  {
+   "full": "ClickHouse/ClickHouse",
+   "desc": "ClickHouse® is a real-time analytics database management system",
+   "stars": 50719,
+   "lang": "C++",
+   "topics": [
+    "rust",
+    "embedded",
+    "sql",
+    "database",
+    "big-data",
+    "ai",
+    "analytics",
+    "cpp",
+    "clickhouse",
+    "dbms",
+    "self-hosted",
+    "distributed"
+   ],
+   "updated": "2026-11-02T20:17:30Z"
+  },
+  {
+   "full": "metabase/metabase",
+   "desc": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
+   "stars": 50114,
+   "lang": "Clojure",
+   "topics": [
+    "visualization",
+    "mysql",
+    "slack",
+    "postgres",
+    "data",
+    "clojure",
+    "bi",
+    "database",
+    "dashboard",
+    "analytics",
+    "reporting",
+    "businessintelligence"
+   ],
+   "updated": "2026-11-02T20:17:46Z"
+  },
+  {
+   "full": "prisma/orm",
+   "desc": "The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.",
+   "stars": 47664,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "mysql",
+    "postgres",
+    "typescript",
+    "sql-server",
+    "orm",
+    "database",
+    "mongodb",
+    "sqlite",
+    "postgresql",
+    "mariadb"
+   ],
+   "updated": "2026-11-02T17:44:08Z"
+  },
+  {
+   "full": "LeCoupa/awesome-cheatsheets",
+   "desc": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+   "stars": 46611,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "vim",
+    "bash",
+    "docker",
+    "language",
+    "programming-language",
+    "kubernetes",
+    "redis",
+    "php",
+    "vuejs",
+    "django"
+   ],
+   "updated": "2026-10-17T14:11:21Z"
+  },
+  {
+   "full": "duckdb/duckdb",
+   "desc": "DuckDB is a high-performance analytical database system",
+   "stars": 42749,
+   "lang": "C++",
+   "topics": [
+    "sql",
+    "database",
+    "analytics",
+    "olap",
+    "embedded-database"
+   ],
+   "updated": "2026-11-02T19:53:41Z"
+  },
+  {
+   "full": "pingcap/tidb",
+   "desc": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
+   "stars": 40701,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "go",
+    "agent",
+    "sql",
+    "database",
+    "ai",
+    "scale",
+    "serverless",
+    "memory",
+    "distributed-transactions",
+    "distributed-database",
+    "cloud-native"
+   ],
+   "updated": "2026-11-02T20:01:03Z"
+  },
+  {
+   "full": "drawdb-io/drawdb",
+   "desc": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+   "stars": 40223,
+   "lang": "JavaScript",
+   "topics": [
+    "editor",
+    "sql",
+    "sql-server",
+    "database",
+    "sqlite",
+    "mcp",
+    "postgresql",
+    "mariadb",
+    "indexeddb",
+    "oracle-db",
+    "erd",
+    "database-schema"
+   ],
+   "updated": "2026-11-01T17:54:52Z"
+  },
+  {
+   "full": "The-Vibe-Company/quivr",
+   "desc": "An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.",
+   "stars": 39624,
+   "lang": "Go",
+   "topics": [
+    "react",
+    "javascript",
+    "html",
+    "api",
+    "docker",
+    "security",
+    "privacy",
+    "framework",
+    "typescript",
+    "database",
+    "ai",
+    "frontend"
+   ],
+   "updated": "2026-11-02T14:24:50Z"
+  },
+  {
+   "full": "sqlmapproject/sqlmap",
+   "desc": "Automatic SQL injection and database takeover tool",
+   "stars": 38830,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "database",
+    "detection",
+    "dbms",
+    "sql-injection",
+    "pentesting",
+    "exploitation",
+    "appsec",
+    "webappsec",
+    "sqlinjection",
+    "security-testing",
+    "api-security"
+   ],
+   "updated": "2026-11-02T10:13:45Z"
+  },
+  {
+   "full": "directus/directus",
+   "desc": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+   "stars": 38799,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "mysql",
+    "api",
+    "graphql",
+    "cms",
+    "app",
+    "node",
+    "typescript",
+    "sql",
+    "database",
+    "vue",
+    "sqlite"
+   ],
+   "updated": "2026-11-02T16:01:50Z"
+  },
+  {
+   "full": "huihut/interview",
+   "desc": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data st",
+   "stars": 38281,
+   "lang": "C++",
+   "topics": [
+    "c",
+    "algorithm",
+    "database",
+    "leetcode",
+    "cpp",
+    "stl",
+    "interview",
+    "operating-system",
+    "data-structures",
+    "interviews",
+    "interview-practice",
+    "interview-questions"
+   ],
+   "updated": "2026-09-17T07:18:55Z"
+  },
+  {
+   "full": "typeorm/typeorm",
+   "desc": "TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.",
+   "stars": 36665,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "mysql",
+    "typescript",
+    "orm",
+    "database",
+    "sqlite",
+    "postgresql",
+    "mariadb",
+    "typeorm",
+    "active-record",
+    "sqlserver",
+    "data-mapper"
+   ],
+   "updated": "2026-10-29T06:46:16Z"
+  },
+  {
+   "full": "SheetJS/sheetjs",
+   "desc": "📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs",
+   "stars": 36348,
+   "lang": null,
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "html",
+    "ios",
+    "json",
+    "data",
+    "angular",
+    "grid",
+    "csv",
+    "database",
+    "html5"
+   ],
+   "updated": "2024-04-18T08:06:46Z"
+  },
+  {
+   "full": "surrealdb/surrealdb",
+   "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+   "stars": 33261,
+   "lang": "Rust",
+   "topics": [
+    "sql",
+    "database",
+    "web",
+    "serverless",
+    "nosql",
+    "devtools",
+    "distributed",
+    "database-as-a-service",
+    "developer-tools",
+    "graph-database",
+    "distributed-database",
+    "document-database"
+   ],
+   "updated": "2026-10-29T00:36:12Z"
+  },
+  {
+   "full": "cockroachdb/cockroach",
+   "desc": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+   "stars": 32602,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "sql",
+    "database",
+    "distributed-database",
+    "hacktoberfest",
+    "cockroachdb"
+   ],
+   "updated": "2026-10-29T12:06:14Z"
+  },
+  {
+   "full": "meta/rocksdb",
+   "desc": "A library that provides an embeddable, persistent key-value store for fast storage.",
+   "stars": 32241,
+   "lang": "C++",
+   "topics": [
+    "database",
+    "storage-engine"
+   ],
+   "updated": "2026-11-02T19:07:42Z"
+  },
+  {
+   "full": "dragonflydb/dragonfly",
+   "desc": "A modern replacement for Redis and Memcached",
+   "stars": 31844,
+   "lang": "C++",
+   "topics": [
+    "redis",
+    "memcached",
+    "multi-threading",
+    "database",
+    "cpp",
+    "nosql",
+    "key-value",
+    "cache",
+    "fibers",
+    "in-memory",
+    "in-memory-database",
+    "message-broker"
+   ],
+   "updated": "2026-11-02T19:32:56Z"
+  },
+  {
+   "full": "influxdata/influxdb",
+   "desc": "Scalable datastore for metrics, events, and real-time analytics",
+   "stars": 31797,
+   "lang": "Rust",
+   "topics": [
+    "react",
+    "go",
+    "rust",
+    "database",
+    "monitoring",
+    "influxdb",
+    "time-series",
+    "metrics"
+   ],
+   "updated": "2026-11-02T20:13:31Z"
+  },
+  {
+   "full": "chroma-core/chroma",
+   "desc": "Search infrastructure for AI",
+   "stars": 29625,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "database",
+    "ai",
+    "rust-lang",
+    "agents",
+    "ai-agents"
+   ],
+   "updated": "2026-10-30T21:09:26Z"
+  },
+  {
+   "full": "mongodb/mongo",
+   "desc": "The MongoDB Database",
+   "stars": 28671,
+   "lang": "C++",
+   "topics": [
+    "c-plus-plus",
+    "database",
+    "mongodb",
+    "nosql"
+   ],
+   "updated": "2026-11-02T19:27:33Z"
+  },
+  {
+   "full": "t8y2/dbx",
+   "desc": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、",
+   "stars": 28664,
+   "lang": "Rust",
+   "topics": [
+    "mysql",
+    "docker",
+    "rust",
+    "redis",
+    "cli",
+    "gui",
+    "sql-server",
+    "database",
+    "ai",
+    "mongodb",
+    "vue",
+    "clickhouse"
+   ],
+   "updated": "2026-11-02T18:18:33Z"
+  },
+  {
+   "full": "OtterMind/Chat2DB",
+   "desc": "Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and op",
+   "stars": 28348,
+   "lang": "Java",
+   "topics": [
+    "mysql",
+    "redis",
+    "sql",
+    "sql-server",
+    "database",
+    "ai",
+    "mongodb",
+    "jdbc",
+    "clickhouse",
+    "sqlite",
+    "mcp",
+    "postgresql"
+   ],
+   "updated": "2026-11-02T06:24:37Z"
+  },
+  {
+   "full": "forthespada/CS-Books",
+   "desc": "🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~",
+   "stars": 27849,
+   "lang": null,
+   "topics": [
+    "javascript",
+    "python",
+    "c",
+    "java",
+    "linux",
+    "redis",
+    "pdf",
+    "sql",
+    "database",
+    "algorithms",
+    "cpp",
+    "os"
+   ],
+   "updated": "2025-11-06T12:55:46Z"
+  },
+  {
+   "full": "PostgREST/postgrest",
+   "desc": "REST API for any Postgres database",
+   "stars": 27740,
+   "lang": "Haskell",
+   "topics": [
+    "api",
+    "http",
+    "postgres",
+    "haskell",
+    "sql",
+    "database",
+    "rest",
+    "server",
+    "postgresql",
+    "postgrest",
+    "pgsql",
+    "pg"
+   ],
+   "updated": "2026-10-30T17:26:49Z"
+  },
+  {
+   "full": "valkey-io/valkey",
+   "desc": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+   "stars": 27584,
+   "lang": "C",
+   "topics": [
+    "redis",
+    "database",
+    "nosql",
+    "key-value",
+    "cache",
+    "key-value-store",
+    "valkey",
+    "valkey-client"
+   ],
+   "updated": "2026-11-02T19:13:26Z"
+  },
+  {
+   "full": "clockworklabs/SpacetimeDB",
+   "desc": "Development at the speed of light",
+   "stars": 25516,
+   "lang": "Rust",
+   "topics": [
+    "web-development",
+    "database",
+    "game-development",
+    "web-framework",
+    "relational-database",
+    "relational",
+    "mmorpg-server",
+    "dataoriented"
+   ],
+   "updated": "2026-11-02T19:57:57Z"
+  },
+  {
+   "full": "taosdata/TDengine",
+   "desc": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+   "stars": 25183,
+   "lang": "C",
+   "topics": [
+    "iot",
+    "sql",
+    "database",
+    "monitoring",
+    "time-series",
+    "metrics",
+    "cluster",
+    "bigdata",
+    "scalability",
+    "distributed",
+    "cloud-native",
+    "financial-analysis"
+   ],
+   "updated": "2026-11-02T09:27:52Z"
+  },
+  {
+   "full": "tursodatabase/turso",
+   "desc": "A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.",
+   "stars": 25127,
+   "lang": "Rust",
+   "topics": [
+    "sql",
+    "database",
+    "webassembly",
+    "sqlite3",
+    "embedded-database"
+   ],
+   "updated": "2026-11-02T20:13:03Z"
+  },
+  {
+   "full": "dolthub/dolt",
+   "desc": "Dolt – Git for Data",
+   "stars": 24801,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "git",
+    "sql",
+    "database",
+    "mariadb",
+    "immutable-database",
+    "data-version-control",
+    "data-versioning",
+    "ai-agents",
+    "database-version-control",
+    "decentralized-database",
+    "git-database"
+   ],
+   "updated": "2026-11-02T18:56:06Z"
+  },
+  {
+   "full": "sqlitebrowser/sqlitebrowser",
+   "desc": "Official home of the DB Browser for SQLite (DB4S) project. Previously known as \"SQLite Database Browser\" and \"Database Browser for SQLite\". Website at:",
+   "stars": 24749,
+   "lang": "C++",
+   "topics": [
+    "c-plus-plus",
+    "database",
+    "cross-platform",
+    "sqlite",
+    "database-gui",
+    "database-browser",
+    "sqlitebrowser"
+   ],
+   "updated": "2026-11-02T00:37:30Z"
+  },
+  {
+   "full": "sinaptik-ai/pandas-ai",
+   "desc": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+   "stars": 23924,
+   "lang": "Python",
+   "topics": [
+    "data-science",
+    "data",
+    "csv",
+    "sql",
+    "database",
+    "ai",
+    "pandas",
+    "data-visualization",
+    "data-analysis",
+    "datalake",
+    "text-to-sql",
+    "gpt-4"
+   ],
+   "updated": "2025-10-28T10:02:13Z"
+  },
+  {
+   "full": "Vonng/ddia",
+   "desc": "《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译",
+   "stars": 23898,
+   "lang": "Python",
+   "topics": [
+    "distributed-systems",
+    "database",
+    "book",
+    "ddia"
+   ],
+   "updated": "2026-11-02T00:30:43Z"
+  },
+  {
+   "full": "vanna-ai/vanna",
+   "desc": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.",
+   "stars": 23804,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "sql",
+    "database",
+    "ai",
+    "data-visualization",
+    "text-to-sql",
+    "rag",
+    "llm"
+   ],
+   "updated": "2026-02-02T14:14:20Z"
+  },
+  {
+   "full": "bregman-arie/devops-exercises",
+   "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+   "stars": 86413,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "git",
+    "linux",
+    "docker",
+    "kubernetes",
+    "aws",
+    "ansible",
+    "devops",
+    "sql",
+    "azure",
+    "containers",
+    "terraform"
+   ],
+   "updated": "2025-12-27T14:22:30Z"
+  },
+  {
+   "full": "DataExpert-io/data-engineer-handbook",
+   "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
+   "stars": 44943,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "data",
+    "awesome",
+    "sql",
+    "bigdata",
+    "dataengineering",
+    "apachespark"
+   ],
+   "updated": "2026-08-03T20:29:57Z"
+  },
+  {
+   "full": "apache/spark",
+   "desc": "Apache Spark - A unified analytics engine for large-scale data processing",
+   "stars": 44389,
+   "lang": "Scala",
+   "topics": [
+    "python",
+    "java",
+    "r",
+    "scala",
+    "sql",
+    "big-data",
+    "spark",
+    "jdbc"
+   ],
+   "updated": "2026-11-02T19:59:04Z"
+  },
+  {
+   "full": "drizzle-team/drizzle-orm",
+   "desc": "ORM",
+   "stars": 36205,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "mysql",
+    "postgres",
+    "typescript",
+    "sql",
+    "orm",
+    "sqlite",
+    "postgresql",
+    "bunjs",
+    "turso"
+   ],
+   "updated": "2026-11-02T17:36:14Z"
+  },
+  {
+   "full": "sequelize/sequelize",
+   "desc": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.",
+   "stars": 30343,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "mysql",
+    "typescript",
+    "sql",
+    "orm",
+    "sqlite",
+    "postgresql",
+    "sequelize",
+    "mariadb",
+    "transactions",
+    "microsoft-sql-server"
+   ],
+   "updated": "2026-11-01T00:39:28Z"
+  },
+  {
+   "full": "apache/flink",
+   "desc": "Apache Flink",
+   "stars": 26444,
+   "lang": "Java",
+   "topics": [
+    "python",
+    "java",
+    "scala",
+    "sql",
+    "big-data",
+    "flink"
+   ],
+   "updated": "2026-11-02T18:19:22Z"
+  },
+  {
+   "full": "beekeeper-studio/beekeeper-studio",
+   "desc": "Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, ClickHouse, and more. Linux, MacOS, and Windows.",
+   "stars": 23837,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "mysql",
+    "postgres",
+    "sql",
+    "sql-server",
+    "sqlite",
+    "postgresql",
+    "firebird",
+    "mariadb",
+    "database-management",
+    "mssql",
+    "database-gui"
+   ],
+   "updated": "2026-11-02T18:15:13Z"
+  },
+  {
+   "full": "timescale/timescaledb",
+   "desc": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+   "stars": 23789,
+   "lang": "C",
+   "topics": [
+    "iot",
+    "postgres",
+    "sql",
+    "database",
+    "time-series",
+    "analytics",
+    "postgresql",
+    "financial-analysis",
+    "tsdb",
+    "historian",
+    "time-series-database",
+    "timescaledb"
+   ],
+   "updated": "2026-11-02T19:22:40Z"
+  },
+  {
+   "full": "osquery/osquery",
+   "desc": "SQL powered operating system instrumentation, monitoring, and analytics.",
+   "stars": 23713,
+   "lang": "C++",
+   "topics": [
+    "security",
+    "sql",
+    "monitoring",
+    "intrusion-detection",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-31T06:05:06Z"
+  },
+  {
+   "full": "marimo-team/marimo",
+   "desc": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+   "stars": 23407,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "reactive",
+    "sql",
+    "pipeline",
+    "web-app",
+    "data-visualization",
+    "artificial-intelligence",
+    "developer-tools",
+    "dataflow",
+    "notebooks"
+   ],
+   "updated": "2026-11-02T20:00:44Z"
+  },
+  {
+   "full": "chartdb/chartdb",
+   "desc": "Database diagrams editor that allows you to visualize and design your DB with a single query.",
+   "stars": 23039,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "visualization",
+    "mysql",
+    "editor",
+    "schema-migrations",
+    "typescript",
+    "sql",
+    "database",
+    "sqlite",
+    "postgresql",
+    "mariadb",
+    "db"
+   ],
+   "updated": "2026-11-01T10:28:44Z"
+  },
+  {
+   "full": "cube-js/cube",
+   "desc": "📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics",
+   "stars": 21147,
+   "lang": "Rust",
+   "topics": [
+    "mysql",
+    "rust",
+    "bigquery",
+    "bi",
+    "sql",
+    "ai",
+    "analytics",
+    "businessintelligence",
+    "postgresql",
+    "snowflake",
+    "business-intelligence",
+    "cube"
+   ],
+   "updated": "2026-11-02T20:17:35Z"
+  },
+  {
+   "full": "apache/shardingsphere",
+   "desc": "Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",
+   "stars": 20817,
+   "lang": "Java",
+   "topics": [
+    "mysql",
+    "sql",
+    "database",
+    "bigdata",
+    "postgresql",
+    "shard",
+    "distributed-database",
+    "encrypt",
+    "data-pipeline",
+    "data-encryption",
+    "database-cluster",
+    "distributed-transaction"
+   ],
+   "updated": "2026-11-02T15:46:33Z"
+  },
+  {
+   "full": "bitwarden/server",
+   "desc": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
+   "stars": 20554,
+   "lang": "C#",
+   "topics": [
+    "api",
+    "docker",
+    "sql",
+    "sql-server",
+    "csharp",
+    "dotnet",
+    "aspnetcore",
+    "aspnet",
+    "dotnet-core",
+    "signalr",
+    "bitwarden"
+   ],
+   "updated": "2026-11-02T20:10:28Z"
+  },
+  {
+   "full": "mybatis/mybatis-3",
+   "desc": "MyBatis SQL mapper framework for Java",
+   "stars": 20435,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "sql",
+    "mybatis"
+   ],
+   "updated": "2026-11-02T12:51:37Z"
+  },
+  {
+   "full": "knex/knex",
+   "desc": "A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.",
+   "stars": 20341,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "mysql",
+    "sql",
+    "knex",
+    "postgresql",
+    "sqlite3"
+   ],
+   "updated": "2026-06-26T15:02:12Z"
+  },
+  {
+   "full": "golang-migrate/migrate",
+   "desc": "Database migrations. CLI and Golang library.",
+   "stars": 19003,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "go",
+    "golang",
+    "postgres",
+    "sql",
+    "database",
+    "cassandra",
+    "mongodb",
+    "neo4j",
+    "migrations",
+    "sqlite",
+    "aws-s3"
+   ],
+   "updated": "2026-09-09T05:06:21Z"
+  },
+  {
+   "full": "fastapi/sqlmodel",
+   "desc": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
+   "stars": 18534,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "json",
+    "sqlalchemy",
+    "sql",
+    "json-schema",
+    "pydantic",
+    "fastapi"
+   ],
+   "updated": "2026-11-02T10:56:53Z"
+  },
+  {
+   "full": "sqlc-dev/sqlc",
+   "desc": "Generate type-safe code from SQL",
+   "stars": 18432,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "kotlin",
+    "python",
+    "go",
+    "sql",
+    "orm",
+    "code-generator",
+    "sqlite",
+    "postgresql"
+   ],
+   "updated": "2026-11-02T16:01:34Z"
+  },
+  {
+   "full": "DapperLib/Dapper",
+   "desc": "Dapper - a simple object mapper for .Net",
+   "stars": 18408,
+   "lang": "C#",
+   "topics": [
+    "sql",
+    "dapper",
+    "ado-net"
+   ],
+   "updated": "2026-09-23T04:33:15Z"
+  },
+  {
+   "full": "Canner/WrenAI",
+   "desc": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, Pos",
+   "stars": 18041,
+   "lang": "Python",
+   "topics": [
+    "bigquery",
+    "charts",
+    "sql",
+    "dashboard",
+    "clickhouse",
+    "mcp",
+    "postgresql",
+    "snowflake",
+    "business-intelligence",
+    "databricks",
+    "ai-agents",
+    "genbi"
+   ],
+   "updated": "2026-11-02T03:55:14Z"
+  },
+  {
+   "full": "rqlite/rqlite",
+   "desc": "The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.",
+   "stars": 17906,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "distributed-systems",
+    "sql",
+    "database",
+    "fault-tolerance",
+    "sqlite",
+    "raft",
+    "consensus",
+    "distributed-database",
+    "high-availability",
+    "relational-database"
+   ],
+   "updated": "2026-11-02T12:14:17Z"
+  },
+  {
+   "full": "gyoogle/tech-interview-for-developer",
+   "desc": "👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖",
+   "stars": 17663,
+   "lang": "Java",
+   "topics": [
+    "javascript",
+    "java",
+    "language",
+    "computer-science",
+    "it",
+    "algorithm",
+    "sql",
+    "database",
+    "web",
+    "tech",
+    "interview",
+    "data-structures"
+   ],
+   "updated": "2025-06-04T08:16:06Z"
+  },
+  {
+   "full": "transact-rs/sqlx",
+   "desc": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+   "stars": 17623,
+   "lang": "Rust",
+   "topics": [
+    "mysql",
+    "rust",
+    "postgres",
+    "sql",
+    "async",
+    "sqlite",
+    "postgresql",
+    "mariadb",
+    "await"
+   ],
+   "updated": "2026-10-31T13:16:25Z"
+  }
+ ]
+}

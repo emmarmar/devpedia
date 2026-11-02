@@ -1,0 +1,1191 @@
+{
+ "subId": "deep-learning",
+ "topics": [
+  "deep-learning",
+  "pytorch"
+ ],
+ "crawledAt": "2026-11-02T20:16:44.423Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "tensorflow/tensorflow",
+   "desc": "An Open Source Machine Learning Framework for Everyone",
+   "stars": 201272,
+   "lang": "C++",
+   "topics": [
+    "python",
+    "machine-learning",
+    "deep-neural-networks",
+    "deep-learning",
+    "neural-network",
+    "tensorflow",
+    "ml",
+    "distributed"
+   ],
+   "updated": "2026-11-02T20:11:05Z"
+  },
+  {
+   "full": "huggingface/transformers",
+   "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+   "stars": 168458,
+   "lang": "Python",
+   "topics": [
+    "audio",
+    "python",
+    "nlp",
+    "machine-learning",
+    "natural-language-processing",
+    "deep-learning",
+    "pytorch",
+    "transformer",
+    "speech-recognition",
+    "glm",
+    "pretrained-models",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T20:12:02Z"
+  },
+  {
+   "full": "AUTOMATIC1111/stable-diffusion-webui",
+   "desc": "Stable Diffusion web UI",
+   "stars": 165228,
+   "lang": "Python",
+   "topics": [
+    "web",
+    "ai",
+    "deep-learning",
+    "torch",
+    "pytorch",
+    "unstable",
+    "image-generation",
+    "gradio",
+    "diffusion",
+    "upscaling",
+    "text2image",
+    "image2image"
+   ],
+   "updated": "2026-03-02T07:00:53Z"
+  },
+  {
+   "full": "rasbt/LLMs-from-scratch",
+   "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+   "stars": 107701,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "machine-learning",
+    "natural-language-processing",
+    "ai",
+    "deep-learning",
+    "tokenizer",
+    "transformers",
+    "pytorch",
+    "artificial-intelligence",
+    "gpt",
+    "language-model",
+    "attention-mechanism"
+   ],
+   "updated": "2026-10-30T02:15:16Z"
+  },
+  {
+   "full": "pytorch/pytorch",
+   "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+   "stars": 105087,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "deep-learning",
+    "neural-network",
+    "gpu",
+    "numpy",
+    "autograd",
+    "tensor"
+   ],
+   "updated": "2026-11-02T20:11:47Z"
+  },
+  {
+   "full": "opencv/opencv",
+   "desc": "Open Source Computer Vision Library",
+   "stars": 91413,
+   "lang": "C++",
+   "topics": [
+    "opencv",
+    "c-plus-plus",
+    "computer-vision",
+    "deep-learning",
+    "image-processing"
+   ],
+   "updated": "2026-11-02T09:18:41Z"
+  },
+  {
+   "full": "Developer-Y/cs-video-courses",
+   "desc": "List of Computer Science courses with video lectures.",
+   "stars": 84512,
+   "lang": null,
+   "topics": [
+    "computer-science",
+    "security",
+    "machine-learning",
+    "bioinformatics",
+    "web-development",
+    "reinforcement-learning",
+    "computer-vision",
+    "deep-learning",
+    "algorithms",
+    "robotics",
+    "computational-biology",
+    "databases"
+   ],
+   "updated": "2026-10-31T22:05:30Z"
+  },
+  {
+   "full": "d2l-ai/d2l-zh",
+   "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+   "stars": 82214,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "natural-language-processing",
+    "computer-vision",
+    "deep-learning",
+    "book",
+    "notebook",
+    "chinese"
+   ],
+   "updated": "2024-07-30T09:32:19Z"
+  },
+  {
+   "full": "dair-ai/Prompt-Engineering-Guide",
+   "desc": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+   "stars": 79751,
+   "lang": "MDX",
+   "topics": [
+    "agent",
+    "deep-learning",
+    "openai",
+    "language-model",
+    "agents",
+    "ai-agents",
+    "rag",
+    "prompt-engineering",
+    "llms",
+    "generative-ai",
+    "chatgpt"
+   ],
+   "updated": "2026-03-11T20:09:13Z"
+  },
+  {
+   "full": "rohitg00/ai-engineering-from-scratch",
+   "desc": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+   "stars": 76382,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "rust",
+    "machine-learning",
+    "tutorial",
+    "typescript",
+    "course",
+    "reinforcement-learning",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "mcp",
+    "transformers"
+   ],
+   "updated": "2026-11-02T04:26:52Z"
+  },
+  {
+   "full": "microsoft/AI-For-Beginners",
+   "desc": "12 Weeks, 24 Lessons, AI for All!",
+   "stars": 70484,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "nlp",
+    "machine-learning",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "cnn",
+    "artificial-intelligence",
+    "gan",
+    "rnn",
+    "microsoft-for-beginners"
+   ],
+   "updated": "2026-10-23T23:55:14Z"
+  },
+  {
+   "full": "labmlai/annotated_deep_learning_paper_implementations",
+   "desc": "🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinfor",
+   "stars": 67652,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "reinforcement-learning",
+    "deep-learning",
+    "transformers",
+    "pytorch",
+    "transformer",
+    "gan",
+    "neural-networks",
+    "literate-programming",
+    "attention",
+    "lora",
+    "deep-learning-tutorial"
+   ],
+   "updated": "2026-11-02T05:57:43Z"
+  },
+  {
+   "full": "keras-team/keras",
+   "desc": "Deep Learning for humans",
+   "stars": 64413,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "deep-learning",
+    "tensorflow",
+    "pytorch",
+    "neural-networks",
+    "jax"
+   ],
+   "updated": "2026-11-01T11:13:07Z"
+  },
+  {
+   "full": "ultralytics/ultralytics",
+   "desc": "Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
+   "stars": 63046,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "tracking",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "pytorch",
+    "yolo",
+    "image-classification",
+    "object-detection",
+    "object-tracking",
+    "semantic-segmentation",
+    "pose-estimation"
+   ],
+   "updated": "2026-11-02T11:26:47Z"
+  },
+  {
+   "full": "CorentinJ/Real-Time-Voice-Cloning",
+   "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+   "stars": 60226,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "deep-learning",
+    "tensorflow",
+    "pytorch",
+    "tts",
+    "voice-cloning"
+   ],
+   "updated": "2026-03-09T10:31:58Z"
+  },
+  {
+   "full": "ultralytics/yolov5",
+   "desc": "Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.",
+   "stars": 58246,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "inference",
+    "pytorch",
+    "yolo",
+    "image-classification",
+    "object-detection",
+    "tensorrt",
+    "instance-segmentation",
+    "model-training",
+    "coreml",
+    "onnx"
+   ],
+   "updated": "2026-11-01T14:05:36Z"
+  },
+  {
+   "full": "deepfakes/faceswap",
+   "desc": "Deepfakes Software For All",
+   "stars": 57600,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "deep-neural-networks",
+    "deep-learning",
+    "faceswap",
+    "neural-networks",
+    "face-swap",
+    "deeplearning",
+    "neural-nets",
+    "deepface",
+    "deepfakes",
+    "fakeapp",
+    "deep-face-swap"
+   ],
+   "updated": "2026-08-05T11:39:37Z"
+  },
+  {
+   "full": "Avik-Jain/100-Days-Of-ML-Code",
+   "desc": "100 Days of ML Coding",
+   "stars": 52023,
+   "lang": null,
+   "topics": [
+    "python",
+    "machine-learning",
+    "tutorial",
+    "deep-learning",
+    "svm",
+    "linear-regression",
+    "scikit-learn",
+    "linear-algebra",
+    "machine-learning-algorithms",
+    "naive-bayes-classifier",
+    "logistic-regression",
+    "implementation"
+   ],
+   "updated": "2023-12-29T07:57:53Z"
+  },
+  {
+   "full": "roboflow/supervision",
+   "desc": "We write your reusable computer vision tools. 💜",
+   "stars": 51468,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "tracking",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "metrics",
+    "tensorflow",
+    "image-processing",
+    "pytorch",
+    "video-processing",
+    "yolo",
+    "classification"
+   ],
+   "updated": "2026-11-02T18:17:58Z"
+  },
+  {
+   "full": "microsoft/qlib",
+   "desc": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynami",
+   "stars": 49940,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "platform",
+    "finance",
+    "machine-learning",
+    "research",
+    "deep-learning",
+    "paper",
+    "fintech",
+    "quant",
+    "quantitative-finance",
+    "investment",
+    "stock-data"
+   ],
+   "updated": "2026-10-30T05:12:38Z"
+  },
+  {
+   "full": "GokuMohandas/Made-With-ML",
+   "desc": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+   "stars": 49905,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "deep-learning",
+    "pytorch",
+    "data-engineering",
+    "ray",
+    "data-quality",
+    "distributed-training",
+    "mlops",
+    "distributed-ml"
+   ],
+   "updated": "2026-03-04T23:44:21Z"
+  },
+  {
+   "full": "streamlit/streamlit",
+   "desc": "Streamlit — A faster way to build and share data apps.",
+   "stars": 46213,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "deep-learning",
+    "data-visualization",
+    "developer-tools",
+    "data-analysis",
+    "streamlit"
+   ],
+   "updated": "2026-11-02T20:06:59Z"
+  },
+  {
+   "full": "coqui-ai/TTS",
+   "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+   "stars": 46177,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "text-to-speech",
+    "deep-learning",
+    "speech",
+    "pytorch",
+    "tts",
+    "speech-synthesis",
+    "voice-conversion",
+    "vocoder",
+    "voice-synthesis",
+    "tacotron",
+    "voice-cloning"
+   ],
+   "updated": "2024-08-16T12:07:14Z"
+  },
+  {
+   "full": "ray-project/ray",
+   "desc": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+   "stars": 44182,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "reinforcement-learning",
+    "deep-learning",
+    "deployment",
+    "tensorflow",
+    "optimization",
+    "parallel",
+    "pytorch",
+    "distributed",
+    "hyperparameter-optimization"
+   ],
+   "updated": "2026-11-02T20:09:12Z"
+  },
+  {
+   "full": "gradio-app/gradio",
+   "desc": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+   "stars": 43966,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "ui",
+    "deep-learning",
+    "interface",
+    "deploy",
+    "models",
+    "data-visualization",
+    "data-analysis",
+    "ui-components",
+    "gradio"
+   ],
+   "updated": "2026-11-02T19:11:21Z"
+  },
+  {
+   "full": "aymericdamien/TensorFlow-Examples",
+   "desc": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+   "stars": 43742,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "machine-learning",
+    "tutorial",
+    "deep-learning",
+    "examples",
+    "tensorflow"
+   ],
+   "updated": "2024-07-26T19:46:13Z"
+  },
+  {
+   "full": "deepspeedai/DeepSpeed",
+   "desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+   "stars": 43284,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "compression",
+    "deep-learning",
+    "gpu",
+    "inference",
+    "pytorch",
+    "zero",
+    "data-parallelism",
+    "model-parallelism",
+    "mixture-of-experts",
+    "pipeline-parallelism",
+    "billion-parameters"
+   ],
+   "updated": "2026-11-02T19:45:16Z"
+  },
+  {
+   "full": "hpcaitech/ColossalAI",
+   "desc": "Making large AI models cheaper, faster and more accessible",
+   "stars": 41434,
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "deep-learning",
+    "hpc",
+    "distributed-computing",
+    "inference",
+    "big-model",
+    "large-scale",
+    "data-parallelism",
+    "model-parallelism",
+    "pipeline-parallelism",
+    "foundation-models",
+    "heterogeneous-training"
+   ],
+   "updated": "2026-11-02T18:08:35Z"
+  },
+  {
+   "full": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+   "desc": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+   "stars": 39601,
+   "lang": "Python",
+   "topics": [
+    "deep-learning"
+   ],
+   "updated": "2022-11-27T13:18:32Z"
+  },
+  {
+   "full": "naptha/tesseract.js",
+   "desc": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+   "stars": 38805,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "ocr",
+    "deep-learning",
+    "webassembly",
+    "tesseract"
+   ],
+   "updated": "2026-05-17T04:19:12Z"
+  },
+  {
+   "full": "TencentARC/GFPGAN",
+   "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+   "stars": 37699,
+   "lang": "Python",
+   "topics": [
+    "deep-learning",
+    "pytorch",
+    "gan",
+    "super-resolution",
+    "image-restoration",
+    "face-restoration",
+    "gfpgan"
+   ],
+   "updated": "2024-07-26T18:44:02Z"
+  },
+  {
+   "full": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+   "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+   "stars": 37603,
+   "lang": null,
+   "topics": [
+    "python",
+    "nlp",
+    "data-science",
+    "machine-learning",
+    "awesome",
+    "computer-vision",
+    "deep-learning",
+    "artificial-intelligence",
+    "nlp-projects",
+    "machine-learning-projects",
+    "artificial-intelligence-projects",
+    "computer-vision-project"
+   ],
+   "updated": "2026-09-26T00:44:47Z"
+  },
+  {
+   "full": "google-ai-edge/mediapipe",
+   "desc": "Cross-platform, customizable ML solutions for live and streaming media.",
+   "stars": 37523,
+   "lang": "C++",
+   "topics": [
+    "android",
+    "c-plus-plus",
+    "calculator",
+    "machine-learning",
+    "framework",
+    "computer-vision",
+    "deep-learning",
+    "inference",
+    "pipeline-framework",
+    "stream-processing",
+    "video-processing",
+    "perception"
+   ],
+   "updated": "2026-11-02T19:18:29Z"
+  },
+  {
+   "full": "babysor/MockingBird",
+   "desc": "🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+   "stars": 36883,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "ai",
+    "deep-learning",
+    "speech",
+    "pytorch",
+    "tts"
+   ],
+   "updated": "2026-03-03T14:59:58Z"
+  },
+  {
+   "full": "huggingface/diffusers",
+   "desc": "🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.",
+   "stars": 34851,
+   "lang": "Python",
+   "topics": [
+    "flux",
+    "deep-learning",
+    "pytorch",
+    "image-generation",
+    "diffusion",
+    "text2image",
+    "image2image",
+    "text2video",
+    "score-based-generative-modeling",
+    "stable-diffusion",
+    "stable-diffusion-diffusers",
+    "latent-diffusion-models"
+   ],
+   "updated": "2026-11-02T06:04:58Z"
+  },
+  {
+   "full": "openai/CLIP",
+   "desc": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+   "stars": 34559,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "machine-learning",
+    "deep-learning"
+   ],
+   "updated": "2026-03-25T18:46:40Z"
+  },
+  {
+   "full": "BVLC/caffe",
+   "desc": "Caffe: a fast open framework for deep learning.",
+   "stars": 34553,
+   "lang": "C++",
+   "topics": [
+    "machine-learning",
+    "deep-learning",
+    "vision"
+   ],
+   "updated": "2024-07-31T23:10:28Z"
+  },
+  {
+   "full": "CMU-Perceptual-Computing-Lab/openpose",
+   "desc": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+   "stars": 34552,
+   "lang": "C++",
+   "topics": [
+    "opencv",
+    "machine-learning",
+    "real-time",
+    "caffe",
+    "computer-vision",
+    "deep-learning",
+    "cpp",
+    "face",
+    "keypoints",
+    "human-pose-estimation",
+    "pose-estimation",
+    "human-behavior-understanding"
+   ],
+   "updated": "2024-08-03T01:59:11Z"
+  },
+  {
+   "full": "mli/paper-reading",
+   "desc": "深度学习经典、新论文逐段精读",
+   "stars": 34060,
+   "lang": null,
+   "topics": [
+    "deep-learning",
+    "paper",
+    "reading-list"
+   ],
+   "updated": "2025-03-22T03:49:35Z"
+  },
+  {
+   "full": "explosion/spaCy",
+   "desc": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+   "stars": 34014,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "nlp",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "ai",
+    "deep-learning",
+    "neural-network",
+    "text-classification",
+    "cython",
+    "artificial-intelligence",
+    "spacy"
+   ],
+   "updated": "2026-10-27T12:27:21Z"
+  },
+  {
+   "full": "Comfy-Org/ComfyUI",
+   "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+   "stars": 144659,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "ai",
+    "pytorch",
+    "comfy",
+    "stable-diffusion",
+    "comfyui"
+   ],
+   "updated": "2026-11-02T19:31:48Z"
+  },
+  {
+   "full": "vllm-project/vllm",
+   "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+   "stars": 96159,
+   "lang": "Python",
+   "topics": [
+    "amd",
+    "cuda",
+    "inference",
+    "pytorch",
+    "transformer",
+    "openai",
+    "moe",
+    "llama",
+    "gpt",
+    "model-serving",
+    "tpu",
+    "kimi"
+   ],
+   "updated": "2026-11-02T20:13:23Z"
+  },
+  {
+   "full": "OpenBMB/VoxCPM",
+   "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+   "stars": 40977,
+   "lang": "Python",
+   "topics": [
+    "audio",
+    "multilingual",
+    "python",
+    "text-to-speech",
+    "speech",
+    "pytorch",
+    "tts",
+    "speech-synthesis",
+    "deeplearning",
+    "voice-cloning",
+    "voice-design",
+    "tts-model"
+   ],
+   "updated": "2026-10-08T03:26:41Z"
+  },
+  {
+   "full": "xinntao/Real-ESRGAN",
+   "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+   "stars": 37329,
+   "lang": "Python",
+   "topics": [
+    "pytorch",
+    "super-resolution",
+    "image-restoration",
+    "denoise",
+    "amine",
+    "jpeg-compression",
+    "esrgan",
+    "real-esrgan"
+   ],
+   "updated": "2024-08-06T13:15:18Z"
+  },
+  {
+   "full": "huggingface/pytorch-image-models",
+   "desc": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet",
+   "stars": 37263,
+   "lang": "Python",
+   "topics": [
+    "optimizer",
+    "pytorch",
+    "imagenet",
+    "image-classification",
+    "resnet",
+    "pretrained-models",
+    "mixnet",
+    "pretrained-weights",
+    "distributed-training",
+    "mobilenet-v2",
+    "mobile-deep-learning",
+    "mobilenetv3"
+   ],
+   "updated": "2026-10-31T23:23:15Z"
+  },
+  {
+   "full": "NandhaKishorM/laya",
+   "desc": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+   "stars": 34885,
+   "lang": "Python",
+   "topics": [
+    "multilingual",
+    "python",
+    "nlp",
+    "routing",
+    "pytorch",
+    "calibration",
+    "classification",
+    "decision-model",
+    "zero-shot",
+    "huggingface",
+    "modernbert",
+    "jev"
+   ],
+   "updated": "2026-11-01T21:25:53Z"
+  },
+  {
+   "full": "lutzroeder/netron",
+   "desc": "Visualizer for neural network, deep learning and machine learning models",
+   "stars": 33646,
+   "lang": "JavaScript",
+   "topics": [
+    "machine-learning",
+    "ai",
+    "deep-learning",
+    "neural-network",
+    "tensorflow",
+    "numpy",
+    "keras",
+    "ml",
+    "pytorch",
+    "visualizer",
+    "machinelearning",
+    "deeplearning"
+   ],
+   "updated": "2026-11-01T21:37:28Z"
+  },
+  {
+   "full": "open-mmlab/mmdetection",
+   "desc": "OpenMMLab Detection Toolbox and Benchmark",
+   "stars": 33022,
+   "lang": "Python",
+   "topics": [
+    "pytorch",
+    "fast-rcnn",
+    "transformer",
+    "yolo",
+    "ssd",
+    "faster-rcnn",
+    "object-detection",
+    "glip",
+    "instance-segmentation",
+    "mask-rcnn",
+    "retinanet",
+    "semisupervised-learning"
+   ],
+   "updated": "2024-08-21T02:01:07Z"
+  },
+  {
+   "full": "yunjey/pytorch-tutorial",
+   "desc": "PyTorch Tutorial for Deep Learning Researchers",
+   "stars": 32522,
+   "lang": "Python",
+   "topics": [
+    "deep-learning",
+    "pytorch",
+    "neural-networks",
+    "pytorch-tutorial"
+   ],
+   "updated": "2023-08-15T10:17:50Z"
+  },
+  {
+   "full": "facebookresearch/fairseq",
+   "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+   "stars": 32211,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "pytorch",
+    "artificial-intelligence"
+   ],
+   "updated": "2025-09-30T11:16:06Z"
+  },
+  {
+   "full": "Lightning-AI/pytorch-lightning",
+   "desc": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+   "stars": 31440,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "ai",
+    "deep-learning",
+    "pytorch",
+    "artificial-intelligence"
+   ],
+   "updated": "2026-10-30T08:08:36Z"
+  },
+  {
+   "full": "JaidedAI/EasyOCR",
+   "desc": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+   "stars": 30123,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "information-retrieval",
+    "data-mining",
+    "ocr",
+    "deep-learning",
+    "image-processing",
+    "cnn",
+    "pytorch",
+    "lstm",
+    "optical-character-recognition",
+    "crnn"
+   ],
+   "updated": "2025-12-05T12:23:12Z"
+  },
+  {
+   "full": "deepinsight/insightface",
+   "desc": "State-of-the-art 2D and 3D Face Analysis Project",
+   "stars": 30119,
+   "lang": "Python",
+   "topics": [
+    "mxnet",
+    "pytorch",
+    "face-recognition",
+    "face-detection",
+    "face-alignment",
+    "paddlepaddle",
+    "age-estimation",
+    "arcface",
+    "oneflow",
+    "retinaface"
+   ],
+   "updated": "2026-10-19T07:54:01Z"
+  },
+  {
+   "full": "d2l-ai/d2l-en",
+   "desc": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.",
+   "stars": 29986,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "reinforcement-learning",
+    "computer-vision",
+    "deep-learning",
+    "mxnet",
+    "book",
+    "notebook",
+    "tensorflow",
+    "keras"
+   ],
+   "updated": "2024-08-18T08:02:36Z"
+  },
+  {
+   "full": "fastai/fastai",
+   "desc": "The fastai deep learning library",
+   "stars": 28256,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "machine-learning",
+    "deep-learning",
+    "gpu",
+    "pytorch",
+    "colab",
+    "notebooks",
+    "fastai"
+   ],
+   "updated": "2026-09-21T10:41:46Z"
+  },
+  {
+   "full": "svc-develop-team/so-vits-svc",
+   "desc": "SoftVC VITS Singing Voice Conversion",
+   "stars": 28068,
+   "lang": "Python",
+   "topics": [
+    "flow",
+    "ai",
+    "deep-learning",
+    "voice",
+    "speech",
+    "pytorch",
+    "audio-analysis",
+    "generative-adversarial-network",
+    "variational-inference",
+    "voice-conversion",
+    "vc",
+    "voice-changer"
+   ],
+   "updated": "2023-11-11T13:11:31Z"
+  },
+  {
+   "full": "Anjok07/ultimatevocalremovergui",
+   "desc": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+   "stars": 26921,
+   "lang": "Python",
+   "topics": [
+    "audio",
+    "music",
+    "pytorch",
+    "source",
+    "spectrogram",
+    "karaoke",
+    "instrumental",
+    "vocal",
+    "separation",
+    "vocal-remover",
+    "vocals",
+    "kareokee"
+   ],
+   "updated": "2026-10-06T22:39:26Z"
+  },
+  {
+   "full": "WZMIAOMIAO/deep-learning-for-image-processing",
+   "desc": "deep learning for image processing including classification and object-detection etc.",
+   "stars": 26441,
+   "lang": "Python",
+   "topics": [
+    "deep-learning",
+    "pytorch",
+    "classification",
+    "segmentation",
+    "bilibili",
+    "object-detection",
+    "tensorflow2"
+   ],
+   "updated": "2026-01-01T07:16:34Z"
+  },
+  {
+   "full": "microsoft/JARVIS",
+   "desc": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
+   "stars": 25546,
+   "lang": "Python",
+   "topics": [
+    "platform",
+    "deep-learning",
+    "pytorch"
+   ],
+   "updated": "2025-07-29T13:44:13Z"
+  },
+  {
+   "full": "junyanz/pytorch-CycleGAN-and-pix2pix",
+   "desc": "Image-to-Image Translation in PyTorch",
+   "stars": 25273,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "computer-graphics",
+    "pytorch",
+    "generative-adversarial-network",
+    "gan",
+    "image-manipulation",
+    "image-generation",
+    "gans",
+    "pix2pix",
+    "cyclegan"
+   ],
+   "updated": "2025-08-06T17:58:38Z"
+  },
+  {
+   "full": "pyg-team/pytorch_geometric",
+   "desc": "Graph Neural Network Library for PyTorch",
+   "stars": 24131,
+   "lang": "Python",
+   "topics": [
+    "deep-learning",
+    "pytorch",
+    "graph-convolutional-networks",
+    "geometric-deep-learning",
+    "graph-neural-networks"
+   ],
+   "updated": "2026-10-21T23:53:00Z"
+  },
+  {
+   "full": "Tencent/ncnn",
+   "desc": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+   "stars": 24023,
+   "lang": "C++",
+   "topics": [
+    "android",
+    "ios",
+    "caffe",
+    "deep-learning",
+    "neural-network",
+    "mxnet",
+    "tensorflow",
+    "vulkan",
+    "keras",
+    "inference",
+    "pytorch",
+    "artificial-intelligence"
+   ],
+   "updated": "2026-11-02T08:46:25Z"
+  },
+  {
+   "full": "lukasmasuch/best-of-ml-python",
+   "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+   "stars": 23854,
+   "lang": null,
+   "topics": [
+    "python",
+    "nlp",
+    "data-science",
+    "machine-learning",
+    "deep-learning",
+    "tensorflow",
+    "scikit-learn",
+    "keras",
+    "ml",
+    "data-visualization",
+    "pytorch",
+    "transformer"
+   ],
+   "updated": "2026-10-29T14:11:25Z"
+  },
+  {
+   "full": "Sanster/IOPaint",
+   "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+   "stars": 23298,
+   "lang": "Python",
+   "topics": [
+    "pytorch",
+    "inpainting",
+    "mat",
+    "zits",
+    "lama",
+    "latent-diffusion",
+    "stable-diffusion"
+   ],
+   "updated": "2025-04-29T02:13:17Z"
+  }
+ ]
+}

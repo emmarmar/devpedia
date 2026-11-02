@@ -1,0 +1,1428 @@
+{
+ "subId": "build-tools",
+ "topics": [
+  "bundler",
+  "vite"
+ ],
+ "crawledAt": "2026-11-02T20:17:20.905Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "oven-sh/bun",
+   "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+   "stars": 96517,
+   "lang": "Rust",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "rust",
+    "npm",
+    "bundler",
+    "typescript",
+    "jsx",
+    "transpiler",
+    "rust-lang",
+    "javascriptcore",
+    "bun"
+   ],
+   "updated": "2026-11-02T20:04:39Z"
+  },
+  {
+   "full": "evanw/esbuild",
+   "desc": "An extremely fast bundler for the web",
+   "stars": 40122,
+   "lang": "Go",
+   "topics": [
+    "react",
+    "javascript",
+    "css",
+    "bundler",
+    "typescript",
+    "compiler",
+    "jsx",
+    "commonjs",
+    "minifier",
+    "tsx",
+    "esm"
+   ],
+   "updated": "2026-08-09T17:20:12Z"
+  },
+  {
+   "full": "browserify/browserify",
+   "desc": "browser-side require() the node.js way",
+   "stars": 14693,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "bundler",
+    "browser",
+    "modules",
+    "commonjs",
+    "module-bundler"
+   ],
+   "updated": "2026-10-24T17:27:48Z"
+  },
+  {
+   "full": "rolldown/rolldown",
+   "desc": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+   "stars": 13993,
+   "lang": "Rust",
+   "topics": [
+    "javascript",
+    "bundler",
+    "typescript"
+   ],
+   "updated": "2026-11-02T18:56:30Z"
+  },
+  {
+   "full": "nexe/nexe",
+   "desc": "🎉 create a single executable out of your node.js apps",
+   "stars": 13570,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "cli",
+    "bundler",
+    "binaries",
+    "binary",
+    "bundle",
+    "nexe",
+    "executable"
+   ],
+   "updated": "2026-03-05T04:50:47Z"
+  },
+  {
+   "full": "PlasmoHQ/plasmo",
+   "desc": "🧩 The Browser Extension Framework",
+   "stars": 13172,
+   "lang": "TypeScript",
+   "topics": [
+    "chrome-extension",
+    "bundler",
+    "typescript",
+    "sdk",
+    "firefox-addon",
+    "reactjs",
+    "parcel",
+    "browser-extension",
+    "edge-addon"
+   ],
+   "updated": "2026-10-31T12:36:04Z"
+  },
+  {
+   "full": "web-infra-dev/rspack",
+   "desc": "Fast Rust-based bundler for the web with a modernized webpack API 🦀",
+   "stars": 12970,
+   "lang": "Rust",
+   "topics": [
+    "javascript",
+    "rust",
+    "bundler",
+    "typescript",
+    "web-performance",
+    "webpack",
+    "web",
+    "compiler",
+    "jsx",
+    "build-tool",
+    "loaders",
+    "module-bundler"
+   ],
+   "updated": "2026-11-02T17:18:14Z"
+  },
+  {
+   "full": "react/metro",
+   "desc": "🚇 The JavaScript bundler for React Native",
+   "stars": 5659,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "bundler",
+    "react-native"
+   ],
+   "updated": "2026-11-02T20:05:22Z"
+  },
+  {
+   "full": "farm-fe/farm",
+   "desc": "Extremely fast Vite-compatible web build tool written in Rust",
+   "stars": 5602,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "bundler",
+    "typescript",
+    "frontend",
+    "compiler",
+    "hmr",
+    "build-tool",
+    "farm",
+    "vite"
+   ],
+   "updated": "2026-11-02T16:49:09Z"
+  },
+  {
+   "full": "trunk-rs/trunk",
+   "desc": "Build, bundle & ship your Rust WASM application to the web.",
+   "stars": 4421,
+   "lang": "Rust",
+   "topics": [
+    "html",
+    "sass",
+    "rust",
+    "bundler",
+    "compiler",
+    "assets",
+    "scss",
+    "wasm",
+    "build-tool",
+    "wasm-bindgen"
+   ],
+   "updated": "2026-11-02T19:42:42Z"
+  },
+  {
+   "full": "rolldown/tsdown",
+   "desc": "The elegant bundler for libraries powered by Rolldown",
+   "stars": 4330,
+   "lang": "TypeScript",
+   "topics": [
+    "bundler",
+    "library",
+    "typescript",
+    "rolldown",
+    "oxc"
+   ],
+   "updated": "2026-11-02T13:04:31Z"
+  },
+  {
+   "full": "fuse-box/fuse-box",
+   "desc": "A blazing fast js bundler/loader with a comprehensive API 🔥",
+   "stars": 3961,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "workflow",
+    "bundler",
+    "performance",
+    "typescript",
+    "hmr",
+    "loader",
+    "hot-reload"
+   ],
+   "updated": "2022-12-01T07:53:31Z"
+  },
+  {
+   "full": "web-infra-dev/rsbuild",
+   "desc": "Fast, extensible build tool for modern web development",
+   "stars": 3414,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "bundler",
+    "typescript",
+    "webpack",
+    "frontend",
+    "build-tool",
+    "rspack",
+    "rsbuild",
+    "rstack"
+   ],
+   "updated": "2026-11-02T14:11:32Z"
+  },
+  {
+   "full": "utooland/utoo",
+   "desc": "A unified toolchain for web development",
+   "stars": 2553,
+   "lang": "Rust",
+   "topics": [
+    "toolchain",
+    "rust",
+    "npm",
+    "bundler",
+    "webpack",
+    "turbopack"
+   ],
+   "updated": "2026-11-02T16:14:02Z"
+  },
+  {
+   "full": "webpack/webpack.js.org",
+   "desc": "Repository for webpack documentation and more!",
+   "stars": 2274,
+   "lang": "MDX",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "css",
+    "bundler",
+    "documentation",
+    "docs",
+    "performance",
+    "web-performance",
+    "webpack",
+    "web",
+    "bundle",
+    "webpack-plugin"
+   ],
+   "updated": "2026-10-30T17:27:38Z"
+  },
+  {
+   "full": "fastpack/fastpack",
+   "desc": "Pack JS code fast & easy",
+   "stars": 2256,
+   "lang": "OCaml",
+   "topics": [
+    "javascript",
+    "bundler"
+   ],
+   "updated": "2023-01-07T13:46:06Z"
+  },
+  {
+   "full": "unjs/webpackbar",
+   "desc": "Elegant ProgressBar and Profiler for Webpack 3 , 4 and 5",
+   "stars": 2095,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "profile",
+    "bundler",
+    "node",
+    "webpack",
+    "progressbar"
+   ],
+   "updated": "2026-11-01T22:28:46Z"
+  },
+  {
+   "full": "callstack/repack",
+   "desc": "A webpack-based toolkit to build your React Native application with full support of webpack ecosystem.",
+   "stars": 1947,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "bundler",
+    "typescript",
+    "react-native",
+    "webpack",
+    "code-splitting",
+    "hacktoberfest",
+    "module-federation"
+   ],
+   "updated": "2026-10-29T15:49:11Z"
+  },
+  {
+   "full": "spinel-coop/rv",
+   "desc": "💎💨 Extremely fast Ruby version and gem manager",
+   "stars": 1819,
+   "lang": "Rust",
+   "topics": [
+    "ruby",
+    "rubygems",
+    "bundler",
+    "dependency-manager"
+   ],
+   "updated": "2026-11-01T17:09:26Z"
+  },
+  {
+   "full": "privatenumber/pkgroll",
+   "desc": "📦 Zero-config package bundler for Node.js + TypeScript",
+   "stars": 1564,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "bundler",
+    "typescript",
+    "commonjs",
+    "rollup",
+    "dts",
+    "zero-config",
+    "exports",
+    "esm",
+    "cjs",
+    "declaration"
+   ],
+   "updated": "2026-10-26T20:04:02Z"
+  },
+  {
+   "full": "huozhi/bunchee",
+   "desc": "Zero config bundler for npm packages",
+   "stars": 1407,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "bundler",
+    "typescript",
+    "jsx",
+    "commonjs",
+    "minify",
+    "rsc",
+    "esmodule",
+    "server-components"
+   ],
+   "updated": "2026-10-14T17:11:05Z"
+  },
+  {
+   "full": "pionxzh/wakaru",
+   "desc": "🔪📦 Javascript decompiler for modern frontend",
+   "stars": 1075,
+   "lang": "Rust",
+   "topics": [
+    "javascript",
+    "rust",
+    "cli",
+    "bundler",
+    "browserify",
+    "babel",
+    "webpack",
+    "decompiler",
+    "reverse-engineering",
+    "ast",
+    "swc",
+    "unpack"
+   ],
+   "updated": "2026-11-02T18:55:35Z"
+  },
+  {
+   "full": "web-infra-dev/rslib",
+   "desc": "Create JavaScript libraries in a simple and intuitive way.",
+   "stars": 1043,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "bundler",
+    "library",
+    "typescript",
+    "webpack",
+    "frontend",
+    "build-tool",
+    "rspack",
+    "rsbuild",
+    "rstack",
+    "rslib"
+   ],
+   "updated": "2026-11-02T07:35:40Z"
+  },
+  {
+   "full": "egoist/bili",
+   "desc": "Bili makes it easier to bundle JavaScript libraries.",
+   "stars": 1030,
+   "lang": "TypeScript",
+   "topics": [
+    "bundler",
+    "package",
+    "babel",
+    "typescript",
+    "bundle",
+    "rollup",
+    "buble"
+   ],
+   "updated": "2023-08-11T22:49:24Z"
+  },
+  {
+   "full": "filipsobol/sonda",
+   "desc": "Universal visualizer and analyzer for JavaScript and CSS. Compatible with most bundlers and frameworks",
+   "stars": 790,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "css",
+    "bundler",
+    "angular",
+    "webpack",
+    "nextjs",
+    "rollup",
+    "nuxt",
+    "analyzer",
+    "visualizer",
+    "astro",
+    "rolldown"
+   ],
+   "updated": "2026-09-28T22:49:03Z"
+  },
+  {
+   "full": "hyoo-ru/mam_mol",
+   "desc": "$mol - fastest reactive micro-modular compact flexible lazy ui web framework.",
+   "stars": 746,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "components",
+    "bundler",
+    "framework",
+    "typescript",
+    "isomorphic",
+    "bem",
+    "lazy-loading",
+    "reactivity",
+    "lazy-evaluation",
+    "oorp",
+    "micro-modular"
+   ],
+   "updated": "2026-11-02T16:59:06Z"
+  },
+  {
+   "full": "etherspot/skandha",
+   "desc": "A modular typescript implementation of ERC4337 (Account Abstraction) bundler client.",
+   "stars": 613,
+   "lang": "TypeScript",
+   "topics": [
+    "bundler",
+    "typescript",
+    "ethereum",
+    "smart-wallet",
+    "account-abstraction",
+    "erc4337",
+    "eip4337"
+   ],
+   "updated": "2026-09-04T20:39:43Z"
+  },
+  {
+   "full": "bullptr/packem",
+   "desc": "📦⚡ A precompiled JavaScript module bundler",
+   "stars": 603,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "plugin",
+    "rust",
+    "bundler",
+    "compiler",
+    "minify",
+    "code-splitting",
+    "build-tool",
+    "prebuilt-binaries",
+    "packem"
+   ],
+   "updated": "2023-01-04T07:24:51Z"
+  },
+  {
+   "full": "WSOL12/Solana-Arbitrage-Bot",
+   "desc": "Solana Arbitrage Bot on pump.fun, Meteora, Raydium and Orca using Jito bundling, RPC and gRPC. Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bot Solana Arbitrage Bo",
+   "stars": 528,
+   "lang": "TypeScript",
+   "topics": [
+    "bot",
+    "rust",
+    "bundler",
+    "trading",
+    "bundle",
+    "grpc",
+    "rpc",
+    "arbitrage",
+    "profitable",
+    "offchain",
+    "solana",
+    "onchain"
+   ],
+   "updated": "2026-03-17T05:22:45Z"
+  },
+  {
+   "full": "bunup/bunup",
+   "desc": "📦 Bundles your TypeScript libraries faster than you can say \"bundle\"",
+   "stars": 525,
+   "lang": "TypeScript",
+   "topics": [
+    "bundler",
+    "typescript",
+    "build-tool",
+    "bun"
+   ],
+   "updated": "2026-06-17T04:33:44Z"
+  },
+  {
+   "full": "crabnebula-dev/cargo-packager",
+   "desc": "Rust executable packager, bundler and updater.",
+   "stars": 500,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "bundler",
+    "debian",
+    "bundle",
+    "installer",
+    "deb",
+    "nsis",
+    "executable",
+    "dmg",
+    "appimage",
+    "msi",
+    "wix"
+   ],
+   "updated": "2026-11-02T08:41:10Z"
+  },
+  {
+   "full": "swiftwasm/carton",
+   "desc": "[DEPRECATED] Use the new SwiftPM Plugin from JavaScriptKit instead. See https://forums.swift.org/t/deprecating-swiftwasm-carton-in-favor-of-javascriptkits-swiftpm-plugin/83460",
+   "stars": 497,
+   "lang": "Swift",
+   "topics": [
+    "swift",
+    "bundler",
+    "webpack",
+    "test-runner",
+    "webassembly",
+    "wasm",
+    "developer-tools",
+    "watcher",
+    "swiftwasm"
+   ],
+   "updated": "2025-11-29T13:59:23Z"
+  },
+  {
+   "full": "floydspace/serverless-esbuild",
+   "desc": "💨 A Serverless framework plugin to bundle JavaScript and TypeScript with extremely fast esbuild",
+   "stars": 469,
+   "lang": "TypeScript",
+   "topics": [
+    "plugin",
+    "aws",
+    "bundler",
+    "lambda",
+    "typescript",
+    "aws-lambda",
+    "serverless",
+    "serverless-plugin",
+    "minifier",
+    "esbuild"
+   ],
+   "updated": "2026-05-28T08:54:06Z"
+  },
+  {
+   "full": "killop/UnityResourceSolution",
+   "desc": "青霜-UnityResourceSolution",
+   "stars": 458,
+   "lang": "C#",
+   "topics": [
+    "bundler",
+    "unity",
+    "ab",
+    "assetbundle",
+    "unity-resources"
+   ],
+   "updated": "2023-11-13T09:14:32Z"
+  },
+  {
+   "full": "stackcss/sheetify",
+   "desc": "✨ Modular CSS bundler for browserify",
+   "stars": 443,
+   "lang": "JavaScript",
+   "topics": [
+    "css",
+    "bundler",
+    "browserify"
+   ],
+   "updated": "2020-09-19T11:16:28Z"
+  },
+  {
+   "full": "swashata/wp-webpack-script",
+   "desc": "💥🔥📦👩‍💻 An easy to use, pre configured, hackable webpack setup & development server for WordPress themes and plugins.",
+   "stars": 412,
+   "lang": "TypeScript",
+   "topics": [
+    "wordpress",
+    "bundler",
+    "babel",
+    "webpack",
+    "wordpress-development",
+    "browser-sync"
+   ],
+   "updated": "2026-11-02T20:10:33Z"
+  },
+  {
+   "full": "ecrindigital/facetpack",
+   "desc": "The missing toolkit for React Native. Rust-powered performance & developer experience.",
+   "stars": 409,
+   "lang": "TypeScript",
+   "topics": [
+    "rust",
+    "bundler",
+    "babel",
+    "performance",
+    "react-native",
+    "metro",
+    "developer-tools",
+    "swc",
+    "build-tools",
+    "expo",
+    "oxc",
+    "napi-rs"
+   ],
+   "updated": "2026-04-11T01:46:59Z"
+  },
+  {
+   "full": "ctripcorp/wean",
+   "desc": "🍀 Super fast miniapp compiler.",
+   "stars": 396,
+   "lang": "JavaScript",
+   "topics": [
+    "bundler",
+    "miniprogram",
+    "webpack-wean"
+   ],
+   "updated": "2021-09-08T06:20:36Z"
+  },
+  {
+   "full": "betatim/notebook-as-pdf",
+   "desc": "Save Jupyter Notebooks as PDF",
+   "stars": 376,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "pdf",
+    "bundler",
+    "jupyter",
+    "jupyter-notebook",
+    "jupyterlab"
+   ],
+   "updated": "2024-05-27T14:38:46Z"
+  },
+  {
+   "full": "steelbrain/pundle",
+   "desc": "👾 peaceful bundles - js bundler, built from the ground up for speed and extensibility",
+   "stars": 356,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "cli",
+    "bundler",
+    "build-tool",
+    "hot-reload"
+   ],
+   "updated": "2018-10-03T07:11:17Z"
+  },
+  {
+   "full": "shadcn-ui/ui",
+   "desc": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
+   "stars": 127191,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "components",
+    "laravel",
+    "ui",
+    "ai",
+    "nextjs",
+    "tailwindcss",
+    "vite",
+    "react-aria",
+    "radix-ui",
+    "base-ui",
+    "tanstack"
+   ],
+   "updated": "2026-11-02T07:02:07Z"
+  },
+  {
+   "full": "storybookjs/storybook",
+   "desc": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+   "stars": 91428,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "stories",
+    "testing",
+    "html",
+    "components",
+    "documentation",
+    "styleguide",
+    "design-systems",
+    "angular",
+    "typescript",
+    "ui"
+   ],
+   "updated": "2026-11-02T20:15:57Z"
+  },
+  {
+   "full": "vitejs/vite",
+   "desc": "Next generation frontend tooling. It's fast!",
+   "stars": 83676,
+   "lang": "TypeScript",
+   "topics": [
+    "frontend",
+    "hmr",
+    "dev-server",
+    "build-tool",
+    "vite"
+   ],
+   "updated": "2026-11-02T09:23:48Z"
+  },
+  {
+   "full": "makeplane/plane",
+   "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+   "stars": 61881,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "python",
+    "project-planning",
+    "docker",
+    "redis",
+    "django",
+    "jira",
+    "bug-tracker",
+    "postgresql",
+    "issue-tracker",
+    "project-management",
+    "kanban"
+   ],
+   "updated": "2026-11-02T19:15:55Z"
+  },
+  {
+   "full": "slidevjs/slidev",
+   "desc": "Presentation Slides for Developers",
+   "stars": 49335,
+   "lang": "TypeScript",
+   "topics": [
+    "markdown",
+    "vue",
+    "presentation",
+    "slides",
+    "vite",
+    "vueuse"
+   ],
+   "updated": "2026-10-23T06:54:55Z"
+  },
+  {
+   "full": "fastapi/full-stack-fastapi-template",
+   "desc": "Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.",
+   "stars": 46146,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "python",
+    "docker",
+    "jwt",
+    "typescript",
+    "docker-compose",
+    "postgresql",
+    "openapi",
+    "full-stack",
+    "pytest",
+    "tailwindcss",
+    "vite"
+   ],
+   "updated": "2026-11-02T09:10:59Z"
+  },
+  {
+   "full": "vbenjs/vue-vben-admin",
+   "desc": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+   "stars": 33736,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "vuex",
+    "monorepo",
+    "vue-router",
+    "tsx",
+    "admin-template",
+    "ant-design",
+    "vue3",
+    "vite",
+    "vite-template",
+    "vben",
+    "element-plus"
+   ],
+   "updated": "2026-11-02T19:39:50Z"
+  },
+  {
+   "full": "supermemoryai/supermemory",
+   "desc": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+   "stars": 31507,
+   "lang": "TypeScript",
+   "topics": [
+    "postgres",
+    "typescript",
+    "memory",
+    "remix",
+    "tailwindcss",
+    "vite",
+    "cloudflare-workers",
+    "cloudflare-kv",
+    "cloudflare-pages",
+    "drizzle-orm",
+    "ai-memory",
+    "agent-memory"
+   ],
+   "updated": "2026-11-02T18:53:14Z"
+  },
+  {
+   "full": "CapSoftware/Cap",
+   "desc": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+   "stars": 24271,
+   "lang": "Rust",
+   "topics": [
+    "react",
+    "rust",
+    "open-source",
+    "mac",
+    "screenshot",
+    "app",
+    "typescript",
+    "oss",
+    "nextjs",
+    "screen-recorder",
+    "screen-capture",
+    "cap"
+   ],
+   "updated": "2026-11-02T19:03:06Z"
+  },
+  {
+   "full": "kriasoft/react-starter-kit",
+   "desc": "Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.",
+   "stars": 23705,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "template",
+    "boilerplate",
+    "typescript",
+    "neon",
+    "gcp",
+    "saas",
+    "cloudflare",
+    "starter-kit",
+    "hono",
+    "bun"
+   ],
+   "updated": "2026-11-02T04:14:05Z"
+  },
+  {
+   "full": "ColorlibHQ/gentelella",
+   "desc": "Free admin dashboard template — vanilla JS, SCSS, Vite 8. No Bootstrap, no jQuery.",
+   "stars": 21556,
+   "lang": "HTML",
+   "topics": [
+    "css",
+    "html",
+    "bootstrap",
+    "admin",
+    "dashboard",
+    "scss",
+    "vanilla-javascript",
+    "html-template",
+    "admin-dashboard",
+    "admin-ui",
+    "admin-template",
+    "admin-panel"
+   ],
+   "updated": "2026-10-31T03:13:41Z"
+  },
+  {
+   "full": "pure-admin/vue-pure-admin",
+   "desc": "全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+   "stars": 20732,
+   "lang": "Vue",
+   "topics": [
+    "admin",
+    "typescript",
+    "esm",
+    "tailwindcss",
+    "vue3",
+    "vite",
+    "element-plus",
+    "pinia"
+   ],
+   "updated": "2026-10-12T06:10:23Z"
+  },
+  {
+   "full": "zxwk1998/vue-admin-better",
+   "desc": "🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
+   "stars": 18930,
+   "lang": "Vue",
+   "topics": [
+    "vuejs",
+    "admin",
+    "spring-boot",
+    "vue",
+    "element",
+    "vue-cli",
+    "admin-dashboard",
+    "axios",
+    "vue-template",
+    "admin-template",
+    "ant-design",
+    "element-ui"
+   ],
+   "updated": "2026-10-20T13:37:01Z"
+  },
+  {
+   "full": "DuarteSantos8/openGym",
+   "desc": "Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. Self-host it or use it on the phone alon",
+   "stars": 18855,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "docker",
+    "ios",
+    "pwa",
+    "mcp",
+    "fitness",
+    "health",
+    "self-hosted",
+    "gym",
+    "apple-watch",
+    "self-hosting"
+   ],
+   "updated": "2026-11-02T17:21:27Z"
+  },
+  {
+   "full": "alibaba/ice",
+   "desc": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）",
+   "stars": 18607,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "framework",
+    "typescript",
+    "spa",
+    "webpack",
+    "react-router",
+    "serverless",
+    "ssr",
+    "mpa",
+    "microfrontends",
+    "vite"
+   ],
+   "updated": "2026-04-02T11:24:47Z"
+  },
+  {
+   "full": "vuejs/vitepress",
+   "desc": "Vite & Vue powered static site generator.",
+   "stars": 18453,
+   "lang": "TypeScript",
+   "topics": [
+    "markdown",
+    "vue",
+    "docs-generator",
+    "ssg",
+    "vite"
+   ],
+   "updated": "2026-10-29T18:19:34Z"
+  },
+  {
+   "full": "vitest-dev/vitest",
+   "desc": "Next generation testing framework powered by Vite.",
+   "stars": 17323,
+   "lang": "TypeScript",
+   "topics": [
+    "test",
+    "testing-tools",
+    "vite"
+   ],
+   "updated": "2026-11-02T16:04:36Z"
+  },
+  {
+   "full": "vitejs/awesome-vite",
+   "desc": "⚡️ A curated list of awesome things related to Vite.js",
+   "stars": 17288,
+   "lang": "JavaScript",
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "vite",
+    "vitejs"
+   ],
+   "updated": "2026-02-04T13:10:54Z"
+  },
+  {
+   "full": "tamagui/tamagui",
+   "desc": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.",
+   "stars": 14296,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "typescript",
+    "ui",
+    "react-native",
+    "webpack",
+    "css-in-js",
+    "atomic-css",
+    "ui-components",
+    "react-native-web",
+    "tailwind",
+    "vite",
+    "optimizing-compiler"
+   ],
+   "updated": "2026-11-01T17:51:35Z"
+  },
+  {
+   "full": "doocs/md",
+   "desc": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
+   "stars": 13506,
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "markdown",
+    "vue",
+    "markdown-editor",
+    "weixin",
+    "wechat",
+    "tailwindcss",
+    "vue3",
+    "vite",
+    "ai-bot",
+    "doocs",
+    "llm"
+   ],
+   "updated": "2026-11-01T14:25:09Z"
+  },
+  {
+   "full": "antfu-collective/vitesse",
+   "desc": "🏕 Opinionated Vite + Vue Starter Template",
+   "stars": 9437,
+   "lang": "TypeScript",
+   "topics": [
+    "vite",
+    "vite-starter",
+    "vite-template"
+   ],
+   "updated": "2026-10-06T08:41:36Z"
+  },
+  {
+   "full": "Hiram-Wong/zyfun",
+   "desc": "跨平台桌面端视频资源播放器,免费高颜值.",
+   "stars": 9104,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "vue3",
+    "vite",
+    "zyplayer",
+    "tdesign"
+   ],
+   "updated": "2026-06-25T14:11:54Z"
+  },
+  {
+   "full": "antfu-collective/icones",
+   "desc": "⚡️ Icon Explorer with Instant searching, powered by Iconify",
+   "stars": 7494,
+   "lang": "Vue",
+   "topics": [
+    "icons",
+    "searching",
+    "iconsets",
+    "icon-collections",
+    "vue3",
+    "vite"
+   ],
+   "updated": "2026-08-24T07:15:09Z"
+  },
+  {
+   "full": "SPlayer-Dev/SPlayer",
+   "desc": "🎵 A cross-platform music player with Jellyfin / Navidrome / Emby media server support, word-by-word lyrics, desktop & taskbar lyrics, cloud music drive, local library management, audio spectrum visualization and mobile-friendly UI. 简约的跨平台音",
+   "stars": 7365,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "music",
+    "streaming",
+    "music-player",
+    "vue",
+    "cross-platform",
+    "music-library",
+    "media-server",
+    "emby",
+    "musicplayer",
+    "splayer",
+    "vue3"
+   ],
+   "updated": "2026-06-10T03:56:42Z"
+  },
+  {
+   "full": "lintsinghua/DeepAudit",
+   "desc": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。",
+   "stars": 7250,
+   "lang": "Python",
+   "topics": [
+    "react",
+    "typescript",
+    "ai",
+    "developer-tools",
+    "code-review",
+    "code-quality",
+    "security-scanner",
+    "devsecops",
+    "vulnerability-scanner",
+    "sast",
+    "xai",
+    "code-audit"
+   ],
+   "updated": "2026-11-01T10:22:41Z"
+  },
+  {
+   "full": "un-pany/v3-admin-vite",
+   "desc": "☀️ AI-friendly Vue3 admin template | Vue Admin | Vue Template | Vue3 Admin | Vue3 Template | Vue 后台 | Vue 模板 | Vue3 后台 | Vue3 模板",
+   "stars": 7070,
+   "lang": "Vue",
+   "topics": [
+    "sass",
+    "template",
+    "admin",
+    "typescript",
+    "vue",
+    "eslint",
+    "axios",
+    "vue-router",
+    "pnpm",
+    "vite",
+    "element-plus",
+    "pinia"
+   ],
+   "updated": "2026-07-11T15:57:10Z"
+  },
+  {
+   "full": "luckjiawei/frpc-desktop",
+   "desc": "Cross-platform desktop client for FRP, visual configuration, easily achieve intranet penetration!",
+   "stars": 6960,
+   "lang": "Vue",
+   "topics": [
+    "electron",
+    "javascript",
+    "typescript",
+    "vue",
+    "desktop",
+    "frp",
+    "tailwindcss",
+    "frpc",
+    "vite",
+    "frp-desktop",
+    "frp-window",
+    "frp-macos"
+   ],
+   "updated": "2026-10-14T08:24:34Z"
+  },
+  {
+   "full": "bcakmakoglu/vue-flow",
+   "desc": "A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.",
+   "stars": 6929,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "flow",
+    "typescript",
+    "vue",
+    "diagrams",
+    "flowchart",
+    "vue3",
+    "vite",
+    "vitepress",
+    "turborepo"
+   ],
+   "updated": "2026-07-14T08:09:05Z"
+  },
+  {
+   "full": "yangzongzhuan/RuoYi-Vue3",
+   "desc": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+   "stars": 6802,
+   "lang": "Vue",
+   "topics": [
+    "admin",
+    "vue",
+    "vue-router",
+    "element-ui",
+    "vue-admin",
+    "vue-element-admin",
+    "vue3",
+    "vite",
+    "element-plus",
+    "vue3-admin",
+    "vite2"
+   ],
+   "updated": "2026-09-16T04:20:22Z"
+  },
+  {
+   "full": "nraiden/cofounder",
+   "desc": "ai-generated apps , full stack + generative UI",
+   "stars": 6647,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "api",
+    "design",
+    "typescript",
+    "ui",
+    "ai",
+    "postgresql",
+    "generative",
+    "tailwind",
+    "vite"
+   ],
+   "updated": "2024-11-08T20:47:03Z"
+  },
+  {
+   "full": "jd-opensource/nutui",
+   "desc": "京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)",
+   "stars": 6516,
+   "lang": "Vue",
+   "topics": [
+    "components",
+    "typescript",
+    "vue",
+    "vue-components",
+    "jd",
+    "vue3",
+    "vite",
+    "nutui"
+   ],
+   "updated": "2026-04-02T05:55:12Z"
+  },
+  {
+   "full": "t3-oss/create-t3-turbo",
+   "desc": "Clean and simple starter repo using the T3 Stack along with Expo React Native",
+   "stars": 6110,
+   "lang": "TypeScript",
+   "topics": [
+    "nextjs",
+    "expo",
+    "tailwindcss",
+    "trpc",
+    "vite",
+    "tanstack",
+    "t3-stack",
+    "tanstack-query",
+    "tanstack-form",
+    "tanstack-start",
+    "better-auth"
+   ],
+   "updated": "2026-11-02T16:15:33Z"
+  },
+  {
+   "full": "skeletonlabs/skeleton",
+   "desc": "Skeleton is an adaptive design system powered by Tailwind CSS.",
+   "stars": 6086,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "components",
+    "design",
+    "accessibility",
+    "nextjs",
+    "a11y",
+    "svelte",
+    "astro",
+    "user-interface",
+    "design-system",
+    "tailwindcss",
+    "vite"
+   ],
+   "updated": "2026-11-02T17:33:58Z"
+  },
+  {
+   "full": "zammad/zammad",
+   "desc": "Zammad is a web based open source helpdesk/customer support system.",
+   "stars": 6067,
+   "lang": "Ruby",
+   "topics": [
+    "support",
+    "javascript",
+    "ruby",
+    "rails",
+    "coffeescript",
+    "graphql",
+    "vuejs",
+    "typescript",
+    "helpdesk",
+    "ticketing",
+    "customer-support",
+    "zammad"
+   ],
+   "updated": "2026-11-02T15:47:40Z"
+  },
+  {
+   "full": "Daymychen/art-design-pro",
+   "desc": "A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.",
+   "stars": 5971,
+   "lang": "Vue",
+   "topics": [
+    "vue-admin",
+    "vue-element-admin",
+    "vue3",
+    "vite",
+    "vue3-admin",
+    "admin-tempalte",
+    "art-design-pro"
+   ],
+   "updated": "2026-06-01T01:45:32Z"
+  },
+  {
+   "full": "vikejs/vike",
+   "desc": "(Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.",
+   "stars": 5841,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "static-site-generator",
+    "node",
+    "vue",
+    "solid",
+    "ssr",
+    "web-framework",
+    "full-stack",
+    "server-side-rendering",
+    "server-rendering",
+    "vue-ssr",
+    "react-ssr"
+   ],
+   "updated": "2026-11-02T13:23:38Z"
+  },
+  {
+   "full": "alex8088/electron-vite",
+   "desc": "Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护",
+   "stars": 5638,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "bytecode",
+    "hot-reloading",
+    "hmr",
+    "vite",
+    "source-code-protection",
+    "typescript-decorator",
+    "node-worker"
+   ],
+   "updated": "2026-10-14T16:28:56Z"
+  },
+  {
+   "full": "duxianwei520/react",
+   "desc": "React+vite+redux+ant design+axios+less全家桶后台管理框架",
+   "stars": 5343,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "redux",
+    "babel",
+    "es6",
+    "antd",
+    "es7",
+    "ant-design-pro",
+    "vite"
+   ],
+   "updated": "2026-07-22T03:25:44Z"
+  },
+  {
+   "full": "Hufe921/canvas-editor",
+   "desc": "A Canvas/SVG-based rich text editor",
+   "stars": 5250,
+   "lang": "TypeScript",
+   "topics": [
+    "svg",
+    "emr",
+    "editor",
+    "pdf",
+    "typescript",
+    "browser",
+    "control",
+    "latex",
+    "canvas",
+    "ai",
+    "word",
+    "wysiwyg"
+   ],
+   "updated": "2026-11-02T13:48:05Z"
+  }
+ ]
+}

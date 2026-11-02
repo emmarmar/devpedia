@@ -1,0 +1,1470 @@
+{
+ "subId": "ml-clasico",
+ "topics": [
+  "machine-learning",
+  "scikit-learn"
+ ],
+ "crawledAt": "2026-11-02T20:16:38.876Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "tensorflow/tensorflow",
+   "desc": "An Open Source Machine Learning Framework for Everyone",
+   "stars": 201272,
+   "lang": "C++",
+   "topics": [
+    "python",
+    "machine-learning",
+    "deep-neural-networks",
+    "deep-learning",
+    "neural-network",
+    "tensorflow",
+    "ml",
+    "distributed"
+   ],
+   "updated": "2026-11-02T20:11:05Z"
+  },
+  {
+   "full": "f/prompts.chat",
+   "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+   "stars": 175616,
+   "lang": "MDX",
+   "topics": [
+    "open-source",
+    "machine-learning",
+    "typescript",
+    "ai",
+    "nextjs",
+    "artificial-intelligence",
+    "gemini",
+    "openai",
+    "awesome-list",
+    "gpt",
+    "prompts",
+    "claude"
+   ],
+   "updated": "2026-11-02T07:21:46Z"
+  },
+  {
+   "full": "huggingface/transformers",
+   "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+   "stars": 168458,
+   "lang": "Python",
+   "topics": [
+    "audio",
+    "python",
+    "nlp",
+    "machine-learning",
+    "natural-language-processing",
+    "deep-learning",
+    "pytorch",
+    "transformer",
+    "speech-recognition",
+    "glm",
+    "pretrained-models",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T20:12:02Z"
+  },
+  {
+   "full": "rasbt/LLMs-from-scratch",
+   "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+   "stars": 107701,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "machine-learning",
+    "natural-language-processing",
+    "ai",
+    "deep-learning",
+    "tokenizer",
+    "transformers",
+    "pytorch",
+    "artificial-intelligence",
+    "gpt",
+    "language-model",
+    "attention-mechanism"
+   ],
+   "updated": "2026-10-30T02:15:16Z"
+  },
+  {
+   "full": "pytorch/pytorch",
+   "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+   "stars": 105087,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "deep-learning",
+    "neural-network",
+    "gpu",
+    "numpy",
+    "autograd",
+    "tensor"
+   ],
+   "updated": "2026-11-02T20:11:47Z"
+  },
+  {
+   "full": "microsoft/ML-For-Beginners",
+   "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+   "stars": 91954,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "education",
+    "data-science",
+    "machine-learning",
+    "r",
+    "scikit-learn",
+    "machine-learning-algorithms",
+    "ml",
+    "machinelearning",
+    "machinelearning-python",
+    "scikit-learn-python",
+    "microsoft-for-beginners"
+   ],
+   "updated": "2026-10-31T23:23:54Z"
+  },
+  {
+   "full": "mlabonne/llm-course",
+   "desc": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+   "stars": 84857,
+   "lang": null,
+   "topics": [
+    "machine-learning",
+    "roadmap",
+    "course",
+    "large-language-models",
+    "llm"
+   ],
+   "updated": "2026-02-05T13:09:26Z"
+  },
+  {
+   "full": "Developer-Y/cs-video-courses",
+   "desc": "List of Computer Science courses with video lectures.",
+   "stars": 84512,
+   "lang": null,
+   "topics": [
+    "computer-science",
+    "security",
+    "machine-learning",
+    "bioinformatics",
+    "web-development",
+    "reinforcement-learning",
+    "computer-vision",
+    "deep-learning",
+    "algorithms",
+    "robotics",
+    "computational-biology",
+    "databases"
+   ],
+   "updated": "2026-10-31T22:05:30Z"
+  },
+  {
+   "full": "d2l-ai/d2l-zh",
+   "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+   "stars": 82214,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "natural-language-processing",
+    "computer-vision",
+    "deep-learning",
+    "book",
+    "notebook",
+    "chinese"
+   ],
+   "updated": "2024-07-30T09:32:19Z"
+  },
+  {
+   "full": "netdata/netdata",
+   "desc": "The fastest path to AI-powered full stack observability, even for lean teams.",
+   "stars": 81256,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "linux",
+    "docker",
+    "kubernetes",
+    "devops",
+    "machine-learning",
+    "database",
+    "ai",
+    "monitoring",
+    "mongodb",
+    "influxdb",
+    "mcp"
+   ],
+   "updated": "2026-11-02T19:15:22Z"
+  },
+  {
+   "full": "tesseract-ocr/tesseract",
+   "desc": "Tesseract Open Source OCR Engine (main repository)",
+   "stars": 77301,
+   "lang": "C++",
+   "topics": [
+    "machine-learning",
+    "ocr",
+    "tesseract",
+    "lstm",
+    "tesseract-ocr",
+    "hacktoberfest",
+    "ocr-engine"
+   ],
+   "updated": "2026-11-02T18:20:18Z"
+  },
+  {
+   "full": "rohitg00/ai-engineering-from-scratch",
+   "desc": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+   "stars": 76382,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "rust",
+    "machine-learning",
+    "tutorial",
+    "typescript",
+    "course",
+    "reinforcement-learning",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "mcp",
+    "transformers"
+   ],
+   "updated": "2026-11-02T04:26:52Z"
+  },
+  {
+   "full": "binhnguyennus/awesome-scalability",
+   "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+   "stars": 75314,
+   "lang": null,
+   "topics": [
+    "computer-science",
+    "lists",
+    "devops",
+    "distributed-systems",
+    "machine-learning",
+    "awesome",
+    "web-development",
+    "programming",
+    "big-data",
+    "system",
+    "backend",
+    "architecture"
+   ],
+   "updated": "2026-01-04T03:51:47Z"
+  },
+  {
+   "full": "openbq-org/OpenBB",
+   "desc": "Open Data Platform for analysts, quants and AI agents.",
+   "stars": 75033,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "finance",
+    "machine-learning",
+    "options",
+    "crypto",
+    "ai",
+    "economics",
+    "derivatives",
+    "stocks",
+    "quantitative-finance",
+    "equity",
+    "fixed-income"
+   ],
+   "updated": "2026-11-02T04:58:10Z"
+  },
+  {
+   "full": "microsoft/AI-For-Beginners",
+   "desc": "12 Weeks, 24 Lessons, AI for All!",
+   "stars": 70484,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "nlp",
+    "machine-learning",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "cnn",
+    "artificial-intelligence",
+    "gan",
+    "rnn",
+    "microsoft-for-beginners"
+   ],
+   "updated": "2026-10-23T23:55:14Z"
+  },
+  {
+   "full": "scikit-learn/scikit-learn",
+   "desc": "scikit-learn: machine learning in Python",
+   "stars": 67974,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "statistics",
+    "data-analysis"
+   ],
+   "updated": "2026-11-02T16:13:25Z"
+  },
+  {
+   "full": "labmlai/annotated_deep_learning_paper_implementations",
+   "desc": "🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinfor",
+   "stars": 67652,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "reinforcement-learning",
+    "deep-learning",
+    "transformers",
+    "pytorch",
+    "transformer",
+    "gan",
+    "neural-networks",
+    "literate-programming",
+    "attention",
+    "lora",
+    "deep-learning-tutorial"
+   ],
+   "updated": "2026-11-02T05:57:43Z"
+  },
+  {
+   "full": "keras-team/keras",
+   "desc": "Deep Learning for humans",
+   "stars": 64413,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "deep-learning",
+    "tensorflow",
+    "pytorch",
+    "neural-networks",
+    "jax"
+   ],
+   "updated": "2026-11-01T11:13:07Z"
+  },
+  {
+   "full": "ultralytics/ultralytics",
+   "desc": "Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
+   "stars": 63046,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "tracking",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "pytorch",
+    "yolo",
+    "image-classification",
+    "object-detection",
+    "object-tracking",
+    "semantic-segmentation",
+    "pose-estimation"
+   ],
+   "updated": "2026-11-02T11:26:47Z"
+  },
+  {
+   "full": "deepfakes/faceswap",
+   "desc": "Deepfakes Software For All",
+   "stars": 57600,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "deep-neural-networks",
+    "deep-learning",
+    "faceswap",
+    "neural-networks",
+    "face-swap",
+    "deeplearning",
+    "neural-nets",
+    "deepface",
+    "deepfakes",
+    "fakeapp",
+    "deep-face-swap"
+   ],
+   "updated": "2026-08-05T11:39:37Z"
+  },
+  {
+   "full": "ageitgey/face_recognition",
+   "desc": "The world's simplest facial recognition api for Python and the command line",
+   "stars": 56863,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "face-recognition",
+    "face-detection"
+   ],
+   "updated": "2026-06-25T11:12:50Z"
+  },
+  {
+   "full": "Avik-Jain/100-Days-Of-ML-Code",
+   "desc": "100 Days of ML Coding",
+   "stars": 52023,
+   "lang": null,
+   "topics": [
+    "python",
+    "machine-learning",
+    "tutorial",
+    "deep-learning",
+    "svm",
+    "linear-regression",
+    "scikit-learn",
+    "linear-algebra",
+    "machine-learning-algorithms",
+    "naive-bayes-classifier",
+    "logistic-regression",
+    "implementation"
+   ],
+   "updated": "2023-12-29T07:57:53Z"
+  },
+  {
+   "full": "roboflow/supervision",
+   "desc": "We write your reusable computer vision tools. 💜",
+   "stars": 51468,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "tracking",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "metrics",
+    "tensorflow",
+    "image-processing",
+    "pytorch",
+    "video-processing",
+    "yolo",
+    "classification"
+   ],
+   "updated": "2026-11-02T18:17:58Z"
+  },
+  {
+   "full": "microsoft/qlib",
+   "desc": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynami",
+   "stars": 49940,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "platform",
+    "finance",
+    "machine-learning",
+    "research",
+    "deep-learning",
+    "paper",
+    "fintech",
+    "quant",
+    "quantitative-finance",
+    "investment",
+    "stock-data"
+   ],
+   "updated": "2026-10-30T05:12:38Z"
+  },
+  {
+   "full": "GokuMohandas/Made-With-ML",
+   "desc": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+   "stars": 49905,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "deep-learning",
+    "pytorch",
+    "data-engineering",
+    "ray",
+    "data-quality",
+    "distributed-training",
+    "mlops",
+    "distributed-ml"
+   ],
+   "updated": "2026-03-04T23:44:21Z"
+  },
+  {
+   "full": "JuliaLang/julia",
+   "desc": "The Julia Programming Language",
+   "stars": 49234,
+   "lang": "Julia",
+   "topics": [
+    "programming-language",
+    "science",
+    "machine-learning",
+    "hpc",
+    "julia",
+    "julia-language",
+    "scientific",
+    "hacktoberfest",
+    "numerical",
+    "julialang"
+   ],
+   "updated": "2026-11-02T20:07:25Z"
+  },
+  {
+   "full": "paperless-ngx/paperless-ngx",
+   "desc": "A community-supported supercharged document management system: scan, index and archive all your documents",
+   "stars": 47591,
+   "lang": "Python",
+   "topics": [
+    "pdf",
+    "machine-learning",
+    "django",
+    "angular",
+    "ocr",
+    "ai",
+    "archiving",
+    "dms",
+    "document-management",
+    "optical-character-recognition",
+    "document-management-system",
+    "llm"
+   ],
+   "updated": "2026-11-02T17:22:22Z"
+  },
+  {
+   "full": "apache/airflow",
+   "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+   "stars": 47350,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "workflow",
+    "data-science",
+    "machine-learning",
+    "airflow",
+    "automation",
+    "etl",
+    "workflow-engine",
+    "scheduler",
+    "apache",
+    "orchestration",
+    "data-engineering"
+   ],
+   "updated": "2026-11-02T19:15:22Z"
+  },
+  {
+   "full": "streamlit/streamlit",
+   "desc": "Streamlit — A faster way to build and share data apps.",
+   "stars": 46213,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "deep-learning",
+    "data-visualization",
+    "developer-tools",
+    "data-analysis",
+    "streamlit"
+   ],
+   "updated": "2026-11-02T20:06:59Z"
+  },
+  {
+   "full": "ray-project/ray",
+   "desc": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+   "stars": 44182,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "reinforcement-learning",
+    "deep-learning",
+    "deployment",
+    "tensorflow",
+    "optimization",
+    "parallel",
+    "pytorch",
+    "distributed",
+    "hyperparameter-optimization"
+   ],
+   "updated": "2026-11-02T20:09:12Z"
+  },
+  {
+   "full": "gradio-app/gradio",
+   "desc": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+   "stars": 43966,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "ui",
+    "deep-learning",
+    "interface",
+    "deploy",
+    "models",
+    "data-visualization",
+    "data-analysis",
+    "ui-components",
+    "gradio"
+   ],
+   "updated": "2026-11-02T19:11:21Z"
+  },
+  {
+   "full": "aymericdamien/TensorFlow-Examples",
+   "desc": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+   "stars": 43742,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "machine-learning",
+    "tutorial",
+    "deep-learning",
+    "examples",
+    "tensorflow"
+   ],
+   "updated": "2024-07-26T19:46:13Z"
+  },
+  {
+   "full": "deepspeedai/DeepSpeed",
+   "desc": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+   "stars": 43284,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "compression",
+    "deep-learning",
+    "gpu",
+    "inference",
+    "pytorch",
+    "zero",
+    "data-parallelism",
+    "model-parallelism",
+    "mixture-of-experts",
+    "pipeline-parallelism",
+    "billion-parameters"
+   ],
+   "updated": "2026-11-02T19:45:16Z"
+  },
+  {
+   "full": "patchy631/ai-engineering-hub",
+   "desc": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+   "stars": 40927,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "machine-learning",
+    "ai",
+    "mcp",
+    "agents",
+    "rag",
+    "llms"
+   ],
+   "updated": "2026-11-01T04:39:16Z"
+  },
+  {
+   "full": "photoprism/photoprism",
+   "desc": "AI-Powered Photos App 🌈💎✨",
+   "stars": 40395,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "machine-learning",
+    "ai",
+    "photography",
+    "tensorflow",
+    "self-hosted",
+    "google-photos",
+    "private-cloud"
+   ],
+   "updated": "2026-11-02T14:34:59Z"
+  },
+  {
+   "full": "google-research/google-research",
+   "desc": "Google Research",
+   "stars": 39096,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "machine-learning",
+    "research",
+    "ai"
+   ],
+   "updated": "2026-10-30T23:22:33Z"
+  },
+  {
+   "full": "fengdu78/Coursera-ML-AndrewNg-Notes",
+   "desc": "吴恩达老师的机器学习课程个人笔记",
+   "stars": 38072,
+   "lang": "HTML",
+   "topics": [
+    "machine-learning",
+    "coursera"
+   ],
+   "updated": "2026-10-05T08:57:53Z"
+  },
+  {
+   "full": "ItzCrazyKns/Vane",
+   "desc": "Vane is an AI-powered answering engine.",
+   "stars": 37975,
+   "lang": "TypeScript",
+   "topics": [
+    "search-engine",
+    "machine-learning",
+    "artificial-intelligence",
+    "ai-agents",
+    "rag",
+    "vane",
+    "answering-engine",
+    "searxng",
+    "llm",
+    "ai-search-engine",
+    "open-source-ai-search-engine",
+    "perplexica"
+   ],
+   "updated": "2026-09-01T14:12:12Z"
+  },
+  {
+   "full": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+   "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+   "stars": 37603,
+   "lang": null,
+   "topics": [
+    "python",
+    "nlp",
+    "data-science",
+    "machine-learning",
+    "awesome",
+    "computer-vision",
+    "deep-learning",
+    "artificial-intelligence",
+    "nlp-projects",
+    "machine-learning-projects",
+    "artificial-intelligence-projects",
+    "computer-vision-project"
+   ],
+   "updated": "2026-09-26T00:44:47Z"
+  },
+  {
+   "full": "google-ai-edge/mediapipe",
+   "desc": "Cross-platform, customizable ML solutions for live and streaming media.",
+   "stars": 37523,
+   "lang": "C++",
+   "topics": [
+    "android",
+    "c-plus-plus",
+    "calculator",
+    "machine-learning",
+    "framework",
+    "computer-vision",
+    "deep-learning",
+    "inference",
+    "pipeline-framework",
+    "stream-processing",
+    "video-processing",
+    "perception"
+   ],
+   "updated": "2026-11-02T19:18:29Z"
+  },
+  {
+   "full": "jakevdp/PythonDataScienceHandbook",
+   "desc": "Python Data Science Handbook: full text in Jupyter Notebooks",
+   "stars": 50329,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "numpy",
+    "scikit-learn",
+    "jupyter-notebook",
+    "pandas",
+    "matplotlib"
+   ],
+   "updated": "2024-06-26T19:17:33Z"
+  },
+  {
+   "full": "apachecn/ailearning",
+   "desc": "AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2",
+   "stars": 42618,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "nlp",
+    "svm",
+    "scikit-learn",
+    "sklearn",
+    "regression",
+    "logistic",
+    "dnn",
+    "lstm",
+    "pca",
+    "rnn",
+    "deeplearning"
+   ],
+   "updated": "2024-11-12T16:21:55Z"
+  },
+  {
+   "full": "donnemartin/data-science-ipython-notebooks",
+   "desc": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+   "stars": 29386,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "aws",
+    "data-science",
+    "machine-learning",
+    "caffe",
+    "theano",
+    "big-data",
+    "spark",
+    "deep-learning",
+    "hadoop",
+    "tensorflow",
+    "numpy"
+   ],
+   "updated": "2024-03-20T13:52:34Z"
+  },
+  {
+   "full": "ageron/handson-ml",
+   "desc": "⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.",
+   "stars": 25612,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "machine-learning",
+    "deep-learning",
+    "neural-network",
+    "tensorflow",
+    "scikit-learn",
+    "jupyter-notebook",
+    "ml",
+    "deprecated",
+    "distributed"
+   ],
+   "updated": "2026-05-19T23:03:15Z"
+  },
+  {
+   "full": "lukasmasuch/best-of-ml-python",
+   "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+   "stars": 23854,
+   "lang": null,
+   "topics": [
+    "python",
+    "nlp",
+    "data-science",
+    "machine-learning",
+    "deep-learning",
+    "tensorflow",
+    "scikit-learn",
+    "keras",
+    "ml",
+    "data-visualization",
+    "pytorch",
+    "transformer"
+   ],
+   "updated": "2026-10-29T14:11:25Z"
+  },
+  {
+   "full": "microsoft/onnxruntime",
+   "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+   "stars": 22213,
+   "lang": "C++",
+   "topics": [
+    "machine-learning",
+    "deep-learning",
+    "tensorflow",
+    "scikit-learn",
+    "pytorch",
+    "neural-networks",
+    "hardware-acceleration",
+    "ai-framework",
+    "onnx"
+   ],
+   "updated": "2026-11-02T20:13:14Z"
+  },
+  {
+   "full": "onnx/onnx",
+   "desc": "Open standard for machine learning interoperability",
+   "stars": 21638,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "deep-neural-networks",
+    "ai",
+    "deep-learning",
+    "neural-network",
+    "tensorflow",
+    "scikit-learn",
+    "keras",
+    "ml",
+    "dnn",
+    "pytorch",
+    "artificial-intelligence"
+   ],
+   "updated": "2026-11-02T00:38:55Z"
+  },
+  {
+   "full": "virgili0/Virgilio",
+   "desc": "Your new Mentor for Data Science E-Learning.",
+   "stars": 15005,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "nlp",
+    "learning",
+    "data-science",
+    "machine-learning",
+    "statistics",
+    "computer-vision",
+    "study",
+    "tensorflow",
+    "guide",
+    "scikit-learn",
+    "learning-python"
+   ],
+   "updated": "2025-10-14T17:32:44Z"
+  },
+  {
+   "full": "dask/dask",
+   "desc": "Parallel computing with task scheduling",
+   "stars": 13944,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "numpy",
+    "scikit-learn",
+    "pydata",
+    "pandas",
+    "scipy",
+    "dask"
+   ],
+   "updated": "2026-09-29T10:11:03Z"
+  },
+  {
+   "full": "rasbt/python-machine-learning-book",
+   "desc": "The \"Python Machine Learning (1st edition)\" book code repository and info resource",
+   "stars": 12664,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "data-mining",
+    "neural-network",
+    "scikit-learn",
+    "machine-learning-algorithms",
+    "logistic-regression"
+   ],
+   "updated": "2026-07-18T13:09:40Z"
+  },
+  {
+   "full": "autogluon/autogluon",
+   "desc": "Fast and Accurate ML in 3 Lines of Code",
+   "stars": 10809,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "computer-vision",
+    "deep-learning",
+    "time-series",
+    "scikit-learn",
+    "tabular-data",
+    "pytorch",
+    "forecasting",
+    "hyperparameter-optimization"
+   ],
+   "updated": "2026-11-02T09:03:15Z"
+  },
+  {
+   "full": "Yorko/mlcourse.ai",
+   "desc": "Open Machine Learning Course",
+   "stars": 10775,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "docker",
+    "data-science",
+    "machine-learning",
+    "math",
+    "algorithms",
+    "numpy",
+    "scikit-learn",
+    "plotly",
+    "pandas",
+    "seaborn",
+    "ipynb"
+   ],
+   "updated": "2026-09-03T08:10:01Z"
+  },
+  {
+   "full": "sktime/sktime",
+   "desc": "A unified framework for machine learning with time series",
+   "stars": 10089,
+   "lang": "Python",
+   "topics": [
+    "data-science",
+    "machine-learning",
+    "data-mining",
+    "ai",
+    "time-series",
+    "scikit-learn",
+    "forecasting",
+    "hacktoberfest",
+    "time-series-analysis",
+    "anomaly-detection",
+    "time-series-classification",
+    "time-series-regression"
+   ],
+   "updated": "2026-11-01T18:04:34Z"
+  },
+  {
+   "full": "EpistasisLab/tpot",
+   "desc": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
+   "stars": 10057,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "automation",
+    "random-forest",
+    "scikit-learn",
+    "aiml",
+    "model-selection",
+    "hyperparameter-optimization",
+    "feature-engineering",
+    "automl",
+    "gradient-boosting"
+   ],
+   "updated": "2025-09-11T21:32:19Z"
+  },
+  {
+   "full": "pycaret/pycaret",
+   "desc": "Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.",
+   "stars": 9859,
+   "lang": "Python",
+   "topics": [
+    "react",
+    "python",
+    "open-source",
+    "data-science",
+    "machine-learning",
+    "clustering",
+    "scikit-learn",
+    "ml",
+    "regression",
+    "classification",
+    "automl",
+    "anomaly-detection"
+   ],
+   "updated": "2026-07-23T00:34:25Z"
+  },
+  {
+   "full": "ljpzzz/machinelearning",
+   "desc": "My blogs and code for machine learning. http://cnblogs.com/pinard",
+   "stars": 8710,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "algorithms",
+    "scikit-learn",
+    "machinelearning",
+    "reinforcementlearning"
+   ],
+   "updated": "2024-02-16T15:26:27Z"
+  },
+  {
+   "full": "automl/auto-sklearn",
+   "desc": "Automated Machine Learning with scikit-learn",
+   "stars": 8149,
+   "lang": "Python",
+   "topics": [
+    "scikit-learn",
+    "hyperparameter-optimization",
+    "bayesian-optimization",
+    "hyperparameter-tuning",
+    "automl",
+    "automated-machine-learning",
+    "smac",
+    "meta-learning",
+    "hyperparameter-search",
+    "metalearning"
+   ],
+   "updated": "2026-09-15T14:03:23Z"
+  },
+  {
+   "full": "alteryx/featuretools",
+   "desc": "An open source python library for automated feature engineering",
+   "stars": 7694,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "scikit-learn",
+    "feature-engineering",
+    "automl",
+    "automated-machine-learning",
+    "automated-feature-engineering"
+   ],
+   "updated": "2026-09-11T08:13:00Z"
+  },
+  {
+   "full": "rasbt/python-machine-learning-book-2nd-edition",
+   "desc": "The \"Python Machine Learning (2nd edition)\" book code repository and info resource",
+   "stars": 7204,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "deep-learning",
+    "tensorflow",
+    "scikit-learn"
+   ],
+   "updated": "2020-10-01T06:20:21Z"
+  },
+  {
+   "full": "flwrlabs/flower",
+   "desc": "Flower: A Friendly Federated AI Framework",
+   "stars": 7192,
+   "lang": "Python",
+   "topics": [
+    "android",
+    "python",
+    "raspberry-pi",
+    "ios",
+    "machine-learning",
+    "framework",
+    "ai",
+    "deep-learning",
+    "cpp",
+    "tensorflow",
+    "scikit-learn",
+    "pytorch"
+   ],
+   "updated": "2026-11-02T17:53:17Z"
+  },
+  {
+   "full": "interpretml/interpret",
+   "desc": "Fit interpretable models. Explain blackbox machine learning.",
+   "stars": 6975,
+   "lang": "C++",
+   "topics": [
+    "machine-learning",
+    "ai",
+    "scikit-learn",
+    "artificial-intelligence",
+    "transparency",
+    "blackbox",
+    "bias",
+    "differential-privacy",
+    "gradient-boosting",
+    "interpretability",
+    "interpretable-ai",
+    "interpretable-ml"
+   ],
+   "updated": "2026-11-02T17:01:19Z"
+  },
+  {
+   "full": "Xtremilicious/projectlearn-project-based-learning",
+   "desc": "A curated list of project tutorials for project-based learning.",
+   "stars": 6387,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "python",
+    "machine-learning",
+    "web-development",
+    "vue",
+    "unity",
+    "tensorflow",
+    "scikit-learn",
+    "projects",
+    "game-development",
+    "tutorials",
+    "artificial-intelligence"
+   ],
+   "updated": "2026-05-30T07:41:54Z"
+  },
+  {
+   "full": "skorch-dev/skorch",
+   "desc": "A scikit-learn compatible neural network library that wraps PyTorch",
+   "stars": 6185,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "machine-learning",
+    "scikit-learn",
+    "pytorch",
+    "huggingface"
+   ],
+   "updated": "2026-10-26T07:23:36Z"
+  },
+  {
+   "full": "biolab/orange3",
+   "desc": "🍊 📊 💡 Orange: Interactive data analysis",
+   "stars": 5736,
+   "lang": "Python",
+   "topics": [
+    "visualization",
+    "python",
+    "data-science",
+    "machine-learning",
+    "data-mining",
+    "random-forest",
+    "clustering",
+    "numpy",
+    "scikit-learn",
+    "regression",
+    "pandas",
+    "data-visualization"
+   ],
+   "updated": "2026-11-02T12:03:16Z"
+  },
+  {
+   "full": "rasbt/machine-learning-book",
+   "desc": "Code Repository for Machine Learning with PyTorch and Scikit-Learn",
+   "stars": 5455,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "machine-learning",
+    "deep-learning",
+    "scikit-learn",
+    "pytorch",
+    "neural-networks"
+   ],
+   "updated": "2026-06-15T14:33:04Z"
+  },
+  {
+   "full": "apachecn/sklearn-doc-zh",
+   "desc": "📖 [译] scikit-learn（sklearn） 中文文档",
+   "stars": 5231,
+   "lang": "CSS",
+   "topics": [
+    "python",
+    "documentation",
+    "machine-learning",
+    "scikit-learn"
+   ],
+   "updated": "2026-08-27T10:41:41Z"
+  },
+  {
+   "full": "rasbt/python-machine-learning-book-3rd-edition",
+   "desc": "The \"Python Machine Learning (3rd edition)\" book code repository",
+   "stars": 5070,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "machine-learning",
+    "deep-learning",
+    "tensorflow",
+    "scikit-learn"
+   ],
+   "updated": "2023-04-19T08:03:29Z"
+  },
+  {
+   "full": "Nyandwi/machine_learning_complete",
+   "desc": "A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.",
+   "stars": 5052,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "nlp",
+    "open-source",
+    "data-science",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "tensorflow",
+    "numpy",
+    "scikit-learn",
+    "keras",
+    "pandas"
+   ],
+   "updated": "2023-09-22T22:11:36Z"
+  },
+  {
+   "full": "dusty-nv/jetson-containers",
+   "desc": "Machine Learning Containers for NVIDIA Jetson and JetPack-L4T",
+   "stars": 4897,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "docker",
+    "dockerfiles",
+    "machine-learning",
+    "containers",
+    "tensorflow",
+    "numpy",
+    "scikit-learn",
+    "pandas",
+    "pytorch",
+    "nvidia",
+    "jetson",
+    "ros2-foxy"
+   ],
+   "updated": "2026-11-02T06:49:44Z"
+  },
+  {
+   "full": "microsoft/FLAML",
+   "desc": "A fast library for AutoML and tuning. Join our Discord: https://discord.gg/Cppx2vSPVP.",
+   "stars": 4417,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "deep-learning",
+    "random-forest",
+    "scikit-learn",
+    "jupyter-notebook",
+    "tabular-data",
+    "regression",
+    "tuning",
+    "hyperparameter-optimization"
+   ],
+   "updated": "2026-11-02T14:28:55Z"
+  },
+  {
+   "full": "DistrictDataLabs/yellowbrick",
+   "desc": "Visual analysis and diagnostic tools to facilitate machine learning model selection.",
+   "stars": 4408,
+   "lang": "Python",
+   "topics": [
+    "visualization",
+    "python",
+    "machine-learning",
+    "anaconda",
+    "scikit-learn",
+    "visualizer",
+    "model-selection",
+    "estimator",
+    "visual-analysis",
+    "matplotlib"
+   ],
+   "updated": "2025-02-19T20:59:35Z"
+  },
+  {
+   "full": "astroautomata/PySR",
+   "desc": "Symbolic Learning in Python and Julia",
+   "stars": 4243,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "distributed-systems",
+    "data-science",
+    "machine-learning",
+    "algorithm",
+    "julia",
+    "genetic-algorithm",
+    "scikit-learn",
+    "symbolic",
+    "symbolic-regression",
+    "evolutionary-algorithms",
+    "automl"
+   ],
+   "updated": "2026-11-02T19:25:52Z"
+  },
+  {
+   "full": "justmarkham/scikit-learn-videos",
+   "desc": "Jupyter notebooks from the scikit-learn video series",
+   "stars": 3814,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "tutorial",
+    "scikit-learn",
+    "jupyter-notebook"
+   ],
+   "updated": "2024-03-05T19:22:42Z"
+  },
+  {
+   "full": "christianversloot/machine-learning-articles",
+   "desc": "🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com.",
+   "stars": 3700,
+   "lang": null,
+   "topics": [
+    "machine-learning",
+    "deep-learning",
+    "clustering",
+    "tensorflow",
+    "scikit-learn",
+    "keras",
+    "transformers",
+    "pytorch",
+    "gan",
+    "neural-networks",
+    "convolutional-neural-networks",
+    "gpt"
+   ],
+   "updated": "2024-06-28T07:41:35Z"
+  },
+  {
+   "full": "krzjoa/awesome-python-data-science",
+   "desc": "Probably the best curated list of data science software in Python.",
+   "stars": 3632,
+   "lang": null,
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "awesome",
+    "statistics",
+    "deep-learning",
+    "scikit-learn",
+    "data-visualization",
+    "data-analysis",
+    "awesome-list",
+    "awesome-python"
+   ],
+   "updated": "2026-04-13T07:15:05Z"
+  },
+  {
+   "full": "microsoft/hummingbird",
+   "desc": "Hummingbird compiles trained ML models into tensor computation for faster inference.",
+   "stars": 3553,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "scikit-learn",
+    "pytorch",
+    "neural-networks",
+    "tensor-computation"
+   ],
+   "updated": "2026-09-14T20:22:40Z"
+  },
+  {
+   "full": "ml-tooling/ml-workspace",
+   "desc": "🛠 All-in-one web-based IDE specialized for machine learning and data science.",
+   "stars": 3549,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "nlp",
+    "docker",
+    "kubernetes",
+    "data-science",
+    "machine-learning",
+    "r",
+    "deep-learning",
+    "jupyter",
+    "anaconda",
+    "tensorflow",
+    "gpu"
+   ],
+   "updated": "2024-07-26T07:39:39Z"
+  },
+  {
+   "full": "fnnx-ai/scikit-llm",
+   "desc": "Seamlessly integrate LLMs into scikit-learn.",
+   "stars": 3536,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "deep-learning",
+    "scikit-learn",
+    "transformers",
+    "llm",
+    "chatgpt"
+   ],
+   "updated": "2026-11-01T02:41:08Z"
+  }
+ ]
+}

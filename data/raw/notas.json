@@ -1,0 +1,1375 @@
+{
+ "subId": "notas",
+ "topics": [
+  "note-taking",
+  "knowledge-base"
+ ],
+ "crawledAt": "2026-11-02T20:20:45.016Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "AppFlowy-IO/AppFlowy",
+   "desc": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+   "stars": 78114,
+   "lang": "Dart",
+   "topics": [
+    "blog",
+    "documentation",
+    "wiki",
+    "project-management",
+    "content-management",
+    "note-taking",
+    "flutter",
+    "task-management",
+    "content-services",
+    "team-collaboration",
+    "notion-alternative",
+    "confluence-alternative"
+   ],
+   "updated": "2026-10-28T06:07:27Z"
+  },
+  {
+   "full": "usememos/memos",
+   "desc": "Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.",
+   "stars": 64236,
+   "lang": "Go",
+   "topics": [
+    "react",
+    "go",
+    "docker",
+    "markdown",
+    "open-source",
+    "timeline",
+    "notes",
+    "memo",
+    "sqlite",
+    "foss",
+    "self-hosted",
+    "note-taking"
+   ],
+   "updated": "2026-11-02T13:10:22Z"
+  },
+  {
+   "full": "laurent22/joplin",
+   "desc": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+   "stars": 56995,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "nodejs",
+    "javascript",
+    "android",
+    "react-native",
+    "dropbox",
+    "synchronisation",
+    "nextcloud",
+    "onedrive",
+    "webdav",
+    "note-taking",
+    "evernote"
+   ],
+   "updated": "2026-11-02T19:33:18Z"
+  },
+  {
+   "full": "siyuan-note/siyuan",
+   "desc": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
+   "stars": 47041,
+   "lang": "TypeScript",
+   "topics": [
+    "markdown",
+    "mcp",
+    "workspace",
+    "self-hosted",
+    "note-taking",
+    "knowledge-base",
+    "local-first",
+    "siyuan",
+    "ai-agent",
+    "agentic-ai"
+   ],
+   "updated": "2026-11-02T18:05:36Z"
+  },
+  {
+   "full": "logseq/logseq",
+   "desc": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
+   "stars": 45461,
+   "lang": "Clojure",
+   "topics": [
+    "git",
+    "markdown",
+    "clojure",
+    "graph",
+    "clojurescript",
+    "knowledge-graph",
+    "org-mode",
+    "note-taking",
+    "knowledge-base",
+    "pkm",
+    "local-first"
+   ],
+   "updated": "2026-11-01T15:18:42Z"
+  },
+  {
+   "full": "lfnovo/open-notebook",
+   "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
+   "stars": 41378,
+   "lang": "TypeScript",
+   "topics": [
+    "learning",
+    "notebook",
+    "assistant",
+    "note-taking",
+    "self-learning",
+    "notes-app"
+   ],
+   "updated": "2026-11-01T21:49:31Z"
+  },
+  {
+   "full": "TriliumNext/Trilium",
+   "desc": "Build your personal knowledge base with Trilium Notes",
+   "stars": 38670,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "wiki",
+    "notebook",
+    "notes",
+    "self-hosted",
+    "knowledge-graph",
+    "electron-app",
+    "note-taking",
+    "self-hosting",
+    "knowledge-base",
+    "personal-knowledge-base",
+    "knowledge-management"
+   ],
+   "updated": "2026-11-02T19:55:37Z"
+  },
+  {
+   "full": "foambubble/foam",
+   "desc": "A personal knowledge management and sharing system for VSCode",
+   "stars": 17474,
+   "lang": "TypeScript",
+   "topics": [
+    "markdown",
+    "markdown-editor",
+    "vscode",
+    "note-taking",
+    "graph-visualisation",
+    "pkm",
+    "personal-knowledge-base",
+    "notes-app",
+    "zettelkasten"
+   ],
+   "updated": "2026-10-29T13:34:54Z"
+  },
+  {
+   "full": "AgriciDaniel/claude-obsidian",
+   "desc": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open",
+   "stars": 16086,
+   "lang": "Python",
+   "topics": [
+    "open-source",
+    "knowledge-graph",
+    "note-taking",
+    "obsidian",
+    "pkm",
+    "knowledge-management",
+    "second-brain",
+    "personal-knowledge-management",
+    "obsidian-plugin",
+    "notion-alternative",
+    "obsidian-ai",
+    "agent-skills"
+   ],
+   "updated": "2026-10-25T22:24:31Z"
+  },
+  {
+   "full": "streetwriters/notesnook",
+   "desc": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+   "stars": 14876,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "react",
+    "productivity",
+    "open-source",
+    "opensource",
+    "privacy",
+    "react-native",
+    "notebook",
+    "notes",
+    "reactjs",
+    "foss",
+    "self-hosted"
+   ],
+   "updated": "2026-11-02T11:37:46Z"
+  },
+  {
+   "full": "vnotex/vnote",
+   "desc": "A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text.",
+   "stars": 13029,
+   "lang": "C++",
+   "topics": [
+    "vim",
+    "editor",
+    "markdown",
+    "mathjax",
+    "note-taking",
+    "mindmap",
+    "vnote",
+    "typst"
+   ],
+   "updated": "2026-11-02T16:59:59Z"
+  },
+  {
+   "full": "codexu/note-gen",
+   "desc": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.",
+   "stars": 12970,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "markdown",
+    "open-source",
+    "markdown-editor",
+    "mcp",
+    "nextjs",
+    "webdav",
+    "note-taking",
+    "knowledge-base",
+    "knowledge-management",
+    "tauri",
+    "rag"
+   ],
+   "updated": "2026-11-02T12:21:44Z"
+  },
+  {
+   "full": "Laverna/laverna",
+   "desc": "Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.",
+   "stars": 9160,
+   "lang": "JavaScript",
+   "topics": [
+    "websocket",
+    "webrtc",
+    "peer-to-peer",
+    "socket-io",
+    "note-taking",
+    "laverna"
+   ],
+   "updated": "2021-05-30T22:18:41Z"
+  },
+  {
+   "full": "reorproject/reor",
+   "desc": "Private & local AI personal knowledge management app for high entropy people.",
+   "stars": 8533,
+   "lang": "JavaScript",
+   "topics": [
+    "markdown",
+    "ai",
+    "llama",
+    "note-taking",
+    "pkm",
+    "rag",
+    "local-first",
+    "vector-database",
+    "second-brain",
+    "llamacpp",
+    "lancedb",
+    "ollama"
+   ],
+   "updated": "2025-05-13T21:28:59Z"
+  },
+  {
+   "full": "xwmx/nb",
+   "desc": "CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.",
+   "stars": 8462,
+   "lang": "Shell",
+   "topics": [
+    "git",
+    "vim",
+    "shell",
+    "bash",
+    "markdown",
+    "cli",
+    "productivity",
+    "sync",
+    "command-line",
+    "notebook",
+    "notes",
+    "archiving"
+   ],
+   "updated": "2026-11-02T00:42:50Z"
+  },
+  {
+   "full": "glushchenko/fsnotes",
+   "desc": "Fast Markdown note-taking app for Mac and iPhone",
+   "stars": 7560,
+   "lang": "Swift",
+   "topics": [
+    "macos",
+    "swift",
+    "markdown",
+    "ios",
+    "notebook",
+    "note-taking",
+    "notes-app"
+   ],
+   "updated": "2026-11-01T21:44:34Z"
+  },
+  {
+   "full": "jrnl-org/jrnl",
+   "desc": "Collect your thoughts and notes without leaving the command line.",
+   "stars": 7352,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "shell",
+    "cli",
+    "productivity",
+    "journal",
+    "command-line",
+    "notes",
+    "encrypted",
+    "jrnl",
+    "journal-application",
+    "note-taking"
+   ],
+   "updated": "2026-11-01T13:05:55Z"
+  },
+  {
+   "full": "taniarascia/takenote",
+   "desc": "📝 ‎ A web-based notes app for developers.",
+   "stars": 7122,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "markdown-editor",
+    "notes",
+    "note-taking",
+    "github-sync",
+    "hacktoberfest",
+    "notes-app"
+   ],
+   "updated": "2024-06-29T22:57:36Z"
+  },
+  {
+   "full": "plainhub/plain-app",
+   "desc": "🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.",
+   "stars": 7121,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "graphql",
+    "productivity",
+    "learning",
+    "rss",
+    "music-player",
+    "web",
+    "filemanager",
+    "rss-reader",
+    "note-taking",
+    "fdroid",
+    "android-app"
+   ],
+   "updated": "2026-11-01T18:27:47Z"
+  },
+  {
+   "full": "massCodeIO/massCode",
+   "desc": "A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.",
+   "stars": 7093,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "windows",
+    "macos",
+    "linux",
+    "markdown",
+    "productivity",
+    "snippets",
+    "vue",
+    "notes",
+    "http-client",
+    "api-client",
+    "developer-tools"
+   ],
+   "updated": "2026-11-02T13:53:06Z"
+  },
+  {
+   "full": "mbrlabs/Lorien",
+   "desc": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
+   "stars": 6871,
+   "lang": "GDScript",
+   "topics": [
+    "notebook",
+    "whiteboard",
+    "godot-engine",
+    "note-taking",
+    "vector-graphics",
+    "infinite-canvas",
+    "drawing-app"
+   ],
+   "updated": "2025-09-22T21:29:46Z"
+  },
+  {
+   "full": "standardnotes/app",
+   "desc": "Think fearlessly with end-to-end encrypted notes and files. For issues, visit https://standardnotes.com/forum or https://standardnotes.com/help.",
+   "stars": 6695,
+   "lang": "TypeScript",
+   "topics": [
+    "markdown",
+    "snippets",
+    "privacy",
+    "notes",
+    "secure",
+    "encrypted",
+    "note-taking",
+    "evernote"
+   ],
+   "updated": "2026-11-02T14:56:36Z"
+  },
+  {
+   "full": "silverbulletmd/silverbullet",
+   "desc": "The malleable knowledge base for you and your team. Powered by Markdown and Lua.",
+   "stars": 6446,
+   "lang": "TypeScript",
+   "topics": [
+    "markdown",
+    "lua",
+    "note-taking",
+    "knowledge-management",
+    "end-user-programming",
+    "personal-knowledge-management"
+   ],
+   "updated": "2026-11-02T19:34:28Z"
+  },
+  {
+   "full": "pbek/QOwnNotes",
+   "desc": "QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.",
+   "stars": 5939,
+   "lang": "C++",
+   "topics": [
+    "chrome-extension",
+    "markdown",
+    "c-plus-plus",
+    "qt",
+    "dropbox",
+    "notebook",
+    "notes",
+    "bookmark",
+    "nextcloud",
+    "owncloud",
+    "caldav",
+    "firefox-extension"
+   ],
+   "updated": "2026-11-02T19:18:42Z"
+  },
+  {
+   "full": "Achilng/floral-notepaper",
+   "desc": "花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览",
+   "stars": 5566,
+   "lang": "Rust",
+   "topics": [
+    "react",
+    "windows",
+    "macos",
+    "markdown",
+    "rust",
+    "note-taking",
+    "sticky-notes",
+    "tauri"
+   ],
+   "updated": "2026-11-02T15:20:28Z"
+  },
+  {
+   "full": "heyman/heynote",
+   "desc": "A dedicated scratchpad for power users",
+   "stars": 5380,
+   "lang": "JavaScript",
+   "topics": [
+    "editor",
+    "notes",
+    "developer-tools",
+    "note-taking",
+    "scratchpad",
+    "productivity-tools",
+    "notes-app"
+   ],
+   "updated": "2026-06-24T09:47:30Z"
+  },
+  {
+   "full": "tagspaces/tagspaces",
+   "desc": "TagSpaces is an offline, open source, document manager with tagging support",
+   "stars": 5358,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "javascript",
+    "open-source",
+    "offline-first",
+    "tagspaces",
+    "note-taking",
+    "self-hosting"
+   ],
+   "updated": "2026-10-29T08:39:23Z"
+  },
+  {
+   "full": "WorldBrain/Memex",
+   "desc": "Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.",
+   "stars": 4721,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "chrome-extension",
+    "typescript",
+    "research",
+    "annotation",
+    "firefox-addon",
+    "annotations",
+    "full-text-search",
+    "browser-extension",
+    "note-taking",
+    "web-extension",
+    "annotate"
+   ],
+   "updated": "2025-12-02T02:31:07Z"
+  },
+  {
+   "full": "freeplane/freeplane",
+   "desc": "Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.",
+   "stars": 4448,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "markdown",
+    "latex",
+    "presentation",
+    "writing",
+    "mindmaps",
+    "project-management",
+    "note-taking",
+    "outliner",
+    "knowledge-management",
+    "mindmap",
+    "groovy-scripts"
+   ],
+   "updated": "2026-10-30T13:20:13Z"
+  },
+  {
+   "full": "nuttyartist/notes",
+   "desc": "Fast and beautiful note-taking app written in C++. Write down your thoughts.",
+   "stars": 4263,
+   "lang": "C++",
+   "topics": [
+    "markdown",
+    "productivity",
+    "c-plus-plus",
+    "gui",
+    "qt",
+    "cross-platform",
+    "notes",
+    "qt5",
+    "note-taking",
+    "personal-knowledge-base",
+    "note-managment",
+    "note-taking-app"
+   ],
+   "updated": "2026-05-15T19:11:56Z"
+  },
+  {
+   "full": "GitJournal/GitJournal",
+   "desc": "Mobile first Note Taking integrated with Git",
+   "stars": 4246,
+   "lang": "Dart",
+   "topics": [
+    "git",
+    "markdown",
+    "journal",
+    "notes",
+    "knowledge-graph",
+    "note-taking",
+    "memex",
+    "knowledge-management",
+    "google-keep",
+    "notes-app"
+   ],
+   "updated": "2026-05-26T13:49:39Z"
+  },
+  {
+   "full": "Volmarg/personal-management-system",
+   "desc": "Your web application for managing personal data.",
+   "stars": 4195,
+   "lang": "PHP",
+   "topics": [
+    "docker",
+    "productivity",
+    "open-source",
+    "php",
+    "personal-finance",
+    "privacy",
+    "symfony",
+    "mit",
+    "dashboard",
+    "manager",
+    "password-manager",
+    "crm"
+   ],
+   "updated": "2026-10-29T13:31:15Z"
+  },
+  {
+   "full": "Smaug6739/Alexandrie",
+   "desc": "📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.",
+   "stars": 3792,
+   "lang": "Vue",
+   "topics": [
+    "docker",
+    "markdown",
+    "golang",
+    "vuejs",
+    "pwa",
+    "vue",
+    "wiki",
+    "offline-first",
+    "notes",
+    "selfhosted",
+    "nuxt",
+    "kanban"
+   ],
+   "updated": "2026-11-01T12:56:44Z"
+  },
+  {
+   "full": "SamurAIGPT/llm-wiki-agent",
+   "desc": "A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API ",
+   "stars": 3672,
+   "lang": "Python",
+   "topics": [
+    "markdown",
+    "open-source",
+    "automation",
+    "research",
+    "wiki",
+    "gemini",
+    "knowledge-graph",
+    "note-taking",
+    "knowledge-base",
+    "obsidian",
+    "codex",
+    "muapi"
+   ],
+   "updated": "2026-11-02T11:11:47Z"
+  },
+  {
+   "full": "artempyanykh/marksman",
+   "desc": "Write Markdown with code assist and intelligence in the comfort of your favourite editor.",
+   "stars": 3383,
+   "lang": "F#",
+   "topics": [
+    "markdown",
+    "emacs",
+    "neovim",
+    "language-server",
+    "notes",
+    "language-server-protocol",
+    "note-taking",
+    "lsp"
+   ],
+   "updated": "2026-09-14T20:33:04Z"
+  },
+  {
+   "full": "archivy/archivy",
+   "desc": "Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.",
+   "stars": 3284,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "cli",
+    "productivity",
+    "elasticsearch",
+    "knowledge",
+    "note-taking",
+    "knowledge-base",
+    "hacktoberfest",
+    "digital-brain"
+   ],
+   "updated": "2023-07-25T23:33:15Z"
+  },
+  {
+   "full": "dullage/flatnotes",
+   "desc": "A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",
+   "stars": 3272,
+   "lang": "Vue",
+   "topics": [
+    "markdown",
+    "wiki",
+    "notes",
+    "note",
+    "note-taking",
+    "notes-app"
+   ],
+   "updated": "2026-08-29T07:02:54Z"
+  },
+  {
+   "full": "aardappel/treesheets",
+   "desc": "Hierarchical spreadsheet: a free-form data organizer that replaces outliners, mind maps and spreadsheets.",
+   "stars": 3187,
+   "lang": "C++",
+   "topics": [
+    "desktop-app",
+    "windows",
+    "linux",
+    "productivity",
+    "todo",
+    "cross-platform",
+    "cpp",
+    "spreadsheet",
+    "wxwidgets",
+    "project-management",
+    "organizer",
+    "pim"
+   ],
+   "updated": "2026-11-01T18:59:12Z"
+  },
+  {
+   "full": "Natively-AI-assistant/natively-cluely-ai-assistant",
+   "desc": "Natively — Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Otter, Granola, Final Round AI, Fireflies, and Interview Coder. Real-time transcription, AI meeting notes, lecture recordin",
+   "stars": 3162,
+   "lang": "TypeScript",
+   "topics": [
+    "open-source",
+    "ai",
+    "notes",
+    "interview",
+    "cheating",
+    "trending-repositories",
+    "note-taking",
+    "ai-agents",
+    "ai-assistant",
+    "meeting-assistant",
+    "ai-tools",
+    "ai-agent"
+   ],
+   "updated": "2026-11-02T15:44:23Z"
+  },
+  {
+   "full": "dnote/dnote",
+   "desc": "A simple command line notebook",
+   "stars": 3089,
+   "lang": "Go",
+   "topics": [
+    "cli",
+    "notebook",
+    "developer-tools",
+    "note-taking",
+    "command-line-tool",
+    "personal-knowledge-base",
+    "dnote"
+   ],
+   "updated": "2026-10-17T19:10:27Z"
+  },
+  {
+   "full": "Egonex-AI/Understand-Anything",
+   "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+   "stars": 89865,
+   "lang": "TypeScript",
+   "topics": [
+    "memory",
+    "knowledge-graph",
+    "knowledge-base",
+    "codex",
+    "business-knowledge",
+    "codebase-analysis",
+    "vibe-coding",
+    "claude-code",
+    "developer-tools-ai-agent",
+    "claude-skills",
+    "codex-skills",
+    "pi-agent"
+   ],
+   "updated": "2026-10-26T07:05:22Z"
+  },
+  {
+   "full": "lobehub/lobehub",
+   "desc": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+   "stars": 83716,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "ai",
+    "skills",
+    "fable",
+    "mcp",
+    "gemini",
+    "openai",
+    "glm",
+    "gpt",
+    "knowledge-base",
+    "cao",
+    "claude"
+   ],
+   "updated": "2026-11-02T19:21:07Z"
+  },
+  {
+   "full": "toeverything/AFFiNE",
+   "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+   "stars": 74126,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "editor",
+    "markdown",
+    "rust",
+    "app",
+    "wiki",
+    "notes",
+    "table",
+    "rust-language",
+    "workspace",
+    "whiteboard",
+    "tableview"
+   ],
+   "updated": "2026-11-02T13:44:03Z"
+  },
+  {
+   "full": "volcengine/OpenViking",
+   "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+   "stars": 41384,
+   "lang": "Python",
+   "topics": [
+    "memory",
+    "memory-management",
+    "knowledge-base",
+    "vector-database",
+    "agentic-rag",
+    "self-evolving",
+    "agent-memory",
+    "context-database",
+    "agent-context",
+    "agent-plugins",
+    "dsh-plugin"
+   ],
+   "updated": "2026-11-02T15:15:57Z"
+  },
+  {
+   "full": "chatchat-space/Langchain-Chatchat",
+   "desc": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain",
+   "stars": 38714,
+   "lang": "Python",
+   "topics": [
+    "chatbot",
+    "llama",
+    "gpt",
+    "knowledge-base",
+    "embedding",
+    "faiss",
+    "rag",
+    "milvus",
+    "streamlit",
+    "llm",
+    "chatgpt",
+    "langchain"
+   ],
+   "updated": "2025-11-10T09:27:42Z"
+  },
+  {
+   "full": "virgiliojr94/book-to-skill",
+   "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+   "stars": 36779,
+   "lang": "Python",
+   "topics": [
+    "edtech",
+    "knowledge-base",
+    "self-study",
+    "knowledge-management",
+    "ai-agents",
+    "document-processing",
+    "rag",
+    "llm",
+    "study-tools",
+    "pdf-to-markdown",
+    "agent-skills",
+    "context-engineering"
+   ],
+   "updated": "2026-10-28T13:26:03Z"
+  },
+  {
+   "full": "Tencent/WeKnora",
+   "desc": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+   "stars": 36268,
+   "lang": "Go",
+   "topics": [
+    "agent",
+    "golang",
+    "multi-tenant",
+    "ai",
+    "wiki",
+    "chatbot",
+    "evaluation",
+    "embeddings",
+    "openai",
+    "question-answering",
+    "knowledge-base",
+    "semantic-search"
+   ],
+   "updated": "2026-11-02T11:16:59Z"
+  },
+  {
+   "full": "docmost/docmost",
+   "desc": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+   "stars": 22203,
+   "lang": "TypeScript",
+   "topics": [
+    "open-source",
+    "documentation",
+    "opensource",
+    "ai",
+    "wiki",
+    "mediawiki",
+    "document",
+    "dot",
+    "quip",
+    "documents",
+    "collaborative",
+    "confluence"
+   ],
+   "updated": "2026-11-02T14:17:28Z"
+  },
+  {
+   "full": "memvid/memvid",
+   "desc": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+   "stars": 17353,
+   "lang": "Rust",
+   "topics": [
+    "python",
+    "nlp",
+    "opencv",
+    "machine-learning",
+    "embedded",
+    "ai",
+    "offline-first",
+    "memory",
+    "context",
+    "knowledge-graph",
+    "video-processing",
+    "knowledge-base"
+   ],
+   "updated": "2026-07-14T14:39:07Z"
+  },
+  {
+   "full": "suitenumerique/docs",
+   "desc": "Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.",
+   "stars": 16963,
+   "lang": "TypeScript",
+   "topics": [
+    "government",
+    "documentation",
+    "django",
+    "opensource",
+    "mit",
+    "knowledge",
+    "wiki",
+    "reactjs",
+    "self-hosted",
+    "mit-license",
+    "collaborative",
+    "knowledge-base"
+   ],
+   "updated": "2026-11-02T16:33:28Z"
+  },
+  {
+   "full": "vesoft-inc/nebula",
+   "desc": "A distributed, fast open-source graph database featuring horizontal scalability and high availability",
+   "stars": 12463,
+   "lang": "C++",
+   "topics": [
+    "distributed-systems",
+    "database",
+    "big-data",
+    "cpp",
+    "graph",
+    "raft",
+    "scalability",
+    "distributed",
+    "knowledge-graph",
+    "graph-database",
+    "graphdb",
+    "knowledge-base"
+   ],
+   "updated": "2026-09-08T06:42:15Z"
+  },
+  {
+   "full": "OffcierCia/DeFi-Developer-Road-Map",
+   "desc": "DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!",
+   "stars": 10886,
+   "lang": "JavaScript",
+   "topics": [
+    "roadmap",
+    "awesome",
+    "ethereum",
+    "smart-contracts",
+    "blockchain",
+    "solidity",
+    "awesome-list",
+    "curated-list",
+    "knowledge-base",
+    "defi"
+   ],
+   "updated": "2026-10-20T15:42:14Z"
+  },
+  {
+   "full": "deeplethe/utopia",
+   "desc": "World's first open-source enterprise world model.",
+   "stars": 8669,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "postgresql",
+    "ontology",
+    "self-hosted",
+    "knowledge-graph",
+    "knowledge-base",
+    "semantic-search",
+    "bitemporal",
+    "rag",
+    "temporal-knowledge-graph",
+    "llm",
+    "pgvector"
+   ],
+   "updated": "2026-11-02T00:20:32Z"
+  },
+  {
+   "full": "xerrors/Yuxi",
+   "desc": "可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.",
+   "stars": 7577,
+   "lang": "Python",
+   "topics": [
+    "docker",
+    "vue",
+    "neo4j",
+    "mcp",
+    "self-hosted",
+    "multi-agent",
+    "knowledge-graph",
+    "knowledge-base",
+    "harness",
+    "ai-agents",
+    "kgqa",
+    "kbqa"
+   ],
+   "updated": "2026-11-02T09:10:44Z"
+  },
+  {
+   "full": "athensresearch/athens",
+   "desc": "Athens is no longer maintainted. Athens was an open-source, collaborative knowledge graph, backed by YC W21",
+   "stars": 6300,
+   "lang": "Clojure",
+   "topics": [
+    "knowledge-graph",
+    "knowledge-base",
+    "memex",
+    "hacktoberfest",
+    "knowledge-management",
+    "notetaking",
+    "tools-for-thought"
+   ],
+   "updated": "2023-02-03T12:32:15Z"
+  },
+  {
+   "full": "the-open-agent/openagent",
+   "desc": "⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org",
+   "stars": 5732,
+   "lang": "Go",
+   "topics": [
+    "agent",
+    "mcp",
+    "chatbot",
+    "agi",
+    "multi-agent",
+    "openai",
+    "gpt",
+    "knowledge-base",
+    "harness",
+    "rag",
+    "llm",
+    "chatgpt"
+   ],
+   "updated": "2026-11-02T01:23:53Z"
+  },
+  {
+   "full": "nanbingxyz/5ire",
+   "desc": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers .",
+   "stars": 5373,
+   "lang": "TypeScript",
+   "topics": [
+    "mcp",
+    "knowledge-base",
+    "llms",
+    "model-context-protocol",
+    "mcp-client"
+   ],
+   "updated": "2026-10-30T08:05:54Z"
+  },
+  {
+   "full": "colanode/colanode",
+   "desc": "Open-source and local-first Slack and Notion alternative that puts you in control of your data",
+   "stars": 5183,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "editor",
+    "slack",
+    "chat",
+    "wiki",
+    "sqlite",
+    "self-hosted",
+    "crdt",
+    "knowledge-base",
+    "chat-application",
+    "notion",
+    "yjs"
+   ],
+   "updated": "2026-04-03T14:23:17Z"
+  },
+  {
+   "full": "VectifyAI/OpenKB",
+   "desc": "OpenKB: Open LLM Knowledge Base",
+   "stars": 4841,
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "retrieval",
+    "knowledge-base",
+    "agents",
+    "rag",
+    "llm"
+   ],
+   "updated": "2026-07-22T03:45:16Z"
+  },
+  {
+   "full": "ChristianLempa/cheat-sheets",
+   "desc": "This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.",
+   "stars": 4830,
+   "lang": null,
+   "topics": [
+    "cheat-sheets",
+    "knowledge-base",
+    "second-brain"
+   ],
+   "updated": "2026-08-31T12:11:21Z"
+  },
+  {
+   "full": "inkeep/open-knowledge",
+   "desc": "Beautiful, AI-native markdown IDE and LLM wiki",
+   "stars": 4764,
+   "lang": "TypeScript",
+   "topics": [
+    "markdown",
+    "docs",
+    "skills",
+    "markdown-editor",
+    "notes",
+    "knowledge-base",
+    "pkm",
+    "mdx",
+    "knowledge-management",
+    "md",
+    "codex",
+    "claude"
+   ],
+   "updated": "2026-11-02T14:15:10Z"
+  },
+  {
+   "full": "slowmist/Knowledge-Base",
+   "desc": "Knowledge Base 慢雾安全团队知识库",
+   "stars": 4627,
+   "lang": null,
+   "topics": [
+    "security",
+    "blockchain",
+    "hacking",
+    "knowledge-base"
+   ],
+   "updated": "2026-10-30T09:03:40Z"
+  },
+  {
+   "full": "typedb/typedb",
+   "desc": "TypeDB: Built for systems, not records",
+   "stars": 4499,
+   "lang": "Rust",
+   "topics": [
+    "database",
+    "polymorphic",
+    "logic",
+    "inference",
+    "polymorphism",
+    "knowledge-base",
+    "type-system",
+    "strongly-typed",
+    "knowledge-representation",
+    "reasoning",
+    "typedb",
+    "typeql"
+   ],
+   "updated": "2026-10-29T18:01:35Z"
+  },
+  {
+   "full": "Ar9av/obsidian-wiki",
+   "desc": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki | Memory System for Agents",
+   "stars": 3662,
+   "lang": "Python",
+   "topics": [
+    "wiki",
+    "memory",
+    "mcp",
+    "knowledge-graph",
+    "knowledge-base",
+    "obsidian",
+    "brain",
+    "pkm",
+    "codex",
+    "karpathy",
+    "second-brain",
+    "llm-tools"
+   ],
+   "updated": "2026-11-02T13:37:11Z"
+  },
+  {
+   "full": "deta/surf",
+   "desc": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
+   "stars": 3615,
+   "lang": "TypeScript",
+   "topics": [
+    "rust",
+    "productivity",
+    "typescript",
+    "local",
+    "svelte",
+    "openai",
+    "knowledge-base",
+    "knowledge-management",
+    "gemma",
+    "claude",
+    "llm",
+    "local-llm"
+   ],
+   "updated": "2026-08-24T17:05:49Z"
+  },
+  {
+   "full": "chaskiq/chaskiq",
+   "desc": "A full featured Live Chat, Support & Marketing platform, alternative to Intercom, Drift, Crisp.",
+   "stars": 3580,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "rails",
+    "chat",
+    "graphql",
+    "widget",
+    "helpdesk",
+    "chatbot",
+    "messenger",
+    "support-ticket",
+    "knowledge-base",
+    "livechat",
+    "webchat"
+   ],
+   "updated": "2026-06-30T17:20:11Z"
+  },
+  {
+   "full": "agenticnotetaking/arscontexta",
+   "desc": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
+   "stars": 3517,
+   "lang": "Shell",
+   "topics": [
+    "markdown",
+    "knowledge-base",
+    "knowledge-management",
+    "second-brain",
+    "claude-code",
+    "claude-code-plugin"
+   ],
+   "updated": "2026-02-24T23:54:21Z"
+  },
+  {
+   "full": "gnebbia/kb",
+   "desc": "A minimalist command line knowledge base manager",
+   "stars": 3423,
+   "lang": "Python",
+   "topics": [
+    "cli",
+    "knowledge",
+    "notebook",
+    "notes",
+    "methodology",
+    "knowledge-base",
+    "procedures",
+    "cheatsheets",
+    "pentest-tool",
+    "rtfm",
+    "notes-management-system"
+   ],
+   "updated": "2025-06-21T22:37:31Z"
+  },
+  {
+   "full": "pashpashpash/vault-ai",
+   "desc": "OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.",
+   "stars": 3385,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "go",
+    "golang",
+    "machine-learning",
+    "ai",
+    "reactjs",
+    "artificial-intelligence",
+    "openai",
+    "question-answering",
+    "knowledge-base",
+    "generative",
+    "pinecone"
+   ],
+   "updated": "2025-07-08T16:02:56Z"
+  },
+  {
+   "full": "Peppermint-Lab/peppermint",
+   "desc": "An open source issue management & help desk solution. A zendesk & jira alternative",
+   "stars": 3161,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "docker",
+    "zendesk",
+    "jira",
+    "helpdesk",
+    "notebook",
+    "nextjs",
+    "issue-tracker",
+    "crm",
+    "self-hosted"
+   ],
+   "updated": "2025-09-21T10:59:09Z"
+  },
+  {
+   "full": "abhinavxd/libredesk",
+   "desc": "Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot.",
+   "stars": 3111,
+   "lang": "Go",
+   "topics": [
+    "support",
+    "golang",
+    "zendesk",
+    "vue",
+    "helpdesk",
+    "customer-support",
+    "self-hosted",
+    "intercom",
+    "omnichannel",
+    "knowledge-base",
+    "livechat",
+    "customer-service"
+   ],
+   "updated": "2026-11-02T16:23:14Z"
+  }
+ ]
+}

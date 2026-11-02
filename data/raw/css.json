@@ -1,0 +1,1430 @@
+{
+ "subId": "css",
+ "topics": [
+  "css-framework",
+  "tailwindcss"
+ ],
+ "crawledAt": "2026-11-02T20:17:15.248Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "twbs/bootstrap",
+   "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+   "stars": 174968,
+   "lang": "MDX",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "sass",
+    "bootstrap",
+    "scss",
+    "css-framework"
+   ],
+   "updated": "2026-11-02T20:15:06Z"
+  },
+  {
+   "full": "tailwindlabs/tailwindcss",
+   "desc": "A utility-first CSS framework for rapid UI development.",
+   "stars": 98290,
+   "lang": "TypeScript",
+   "topics": [
+    "css",
+    "postcss",
+    "responsive",
+    "css-framework",
+    "functional-css",
+    "utility-classes",
+    "tailwindcss"
+   ],
+   "updated": "2026-11-02T18:51:41Z"
+  },
+  {
+   "full": "Semantic-Org/Semantic-UI",
+   "desc": "Semantic is a UI component framework based around useful principles from natural language.",
+   "stars": 51004,
+   "lang": "JavaScript",
+   "topics": [
+    "semantic",
+    "ui",
+    "flexbox",
+    "css-framework",
+    "tooltip",
+    "button",
+    "popup",
+    "dropdown",
+    "sidebar",
+    "ui-components"
+   ],
+   "updated": "2024-11-27T21:01:48Z"
+  },
+  {
+   "full": "jgthms/bulma",
+   "desc": "Modern CSS framework based on Flexbox",
+   "stars": 50035,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "html",
+    "design",
+    "flexbox",
+    "css-framework"
+   ],
+   "updated": "2026-09-21T09:56:34Z"
+  },
+  {
+   "full": "saadeghi/daisyui",
+   "desc": "🌼 🌼 🌼 🌼 🌼 The most popular, free and open-source Tailwind CSS component library",
+   "stars": 42734,
+   "lang": "JavaScript",
+   "topics": [
+    "css",
+    "components",
+    "ui-design",
+    "design-systems",
+    "front-end",
+    "component",
+    "postcss",
+    "css-framework",
+    "svelte",
+    "ui-kit",
+    "component-library",
+    "css-components"
+   ],
+   "updated": "2026-10-31T12:32:39Z"
+  },
+  {
+   "full": "Dogfalo/materialize",
+   "desc": "Materialize, a CSS Framework based on Material Design",
+   "stars": 38774,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "css",
+    "design",
+    "framework",
+    "material",
+    "material-design",
+    "css-framework"
+   ],
+   "updated": "2026-08-20T13:49:11Z"
+  },
+  {
+   "full": "nostalgic-css/NES.css",
+   "desc": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+   "stars": 21853,
+   "lang": "SCSS",
+   "topics": [
+    "css",
+    "scss",
+    "css-framework",
+    "nes",
+    "8bit"
+   ],
+   "updated": "2024-01-17T20:53:09Z"
+  },
+  {
+   "full": "picocss/pico",
+   "desc": "Minimal CSS Framework for semantic HTML",
+   "stars": 16825,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "lightweight",
+    "semantic",
+    "minimal",
+    "dark-theme",
+    "scss",
+    "css-framework",
+    "minimalist",
+    "scss-framework",
+    "dark-mode",
+    "minimalistic",
+    "native-html"
+   ],
+   "updated": "2026-10-04T04:00:49Z"
+  },
+  {
+   "full": "thomaspark/bootswatch",
+   "desc": "Themes for Bootstrap",
+   "stars": 14748,
+   "lang": "JavaScript",
+   "topics": [
+    "css",
+    "theme",
+    "bootstrap",
+    "css-framework",
+    "bootswatch"
+   ],
+   "updated": "2026-06-06T01:28:57Z"
+  },
+  {
+   "full": "wenzhixin/bootstrap-table",
+   "desc": "An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)",
+   "stars": 11811,
+   "lang": "JavaScript",
+   "topics": [
+    "css",
+    "radio",
+    "bootstrap",
+    "pagination",
+    "semantic",
+    "vue",
+    "material",
+    "material-design",
+    "checkbox",
+    "datatables",
+    "table",
+    "foundation"
+   ],
+   "updated": "2026-10-30T00:00:12Z"
+  },
+  {
+   "full": "picturepan2/spectre",
+   "desc": "Spectre.css - A Lightweight, Responsive and Modern CSS Framework",
+   "stars": 11299,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "lightweight",
+    "modern",
+    "utilities",
+    "flexbox",
+    "css-framework",
+    "responsive-grid",
+    "spectre"
+   ],
+   "updated": "2024-04-11T16:20:19Z"
+  },
+  {
+   "full": "milligram/milligram",
+   "desc": "A minimalist CSS framework.",
+   "stars": 10211,
+   "lang": "HTML",
+   "topics": [
+    "css",
+    "html",
+    "design",
+    "framework",
+    "amp",
+    "flexbox",
+    "css-framework",
+    "milligram",
+    "minimalist",
+    "hacktoberfest"
+   ],
+   "updated": "2026-09-01T21:28:39Z"
+  },
+  {
+   "full": "troxler/awesome-css-frameworks",
+   "desc": "List of awesome CSS frameworks in 2026",
+   "stars": 9573,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "list",
+    "awesome",
+    "framework",
+    "collection",
+    "scss",
+    "css-framework",
+    "awesome-list"
+   ],
+   "updated": "2026-06-08T20:32:07Z"
+  },
+  {
+   "full": "CoreBunch/Instatic",
+   "desc": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+   "stars": 9047,
+   "lang": "TypeScript",
+   "topics": [
+    "css",
+    "cms",
+    "website",
+    "static",
+    "css-framework",
+    "page-builder"
+   ],
+   "updated": "2026-10-30T08:57:09Z"
+  },
+  {
+   "full": "kognise/water.css",
+   "desc": "A drop-in collection of CSS styles to make simple websites just a little nicer",
+   "stars": 8656,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "minimal",
+    "simple",
+    "css-framework",
+    "hacktoberfest"
+   ],
+   "updated": "2024-02-11T14:50:20Z"
+  },
+  {
+   "full": "stitchesjs/stitches",
+   "desc": "[Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.",
+   "stars": 7760,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "css",
+    "css-framework",
+    "css-in-js",
+    "stitches"
+   ],
+   "updated": "2025-02-10T18:37:23Z"
+  },
+  {
+   "full": "olton/metroui",
+   "desc": "A progressive front-end framework for creating high-performance responsive reactive web applications!",
+   "stars": 7085,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "bootstrap",
+    "components",
+    "less",
+    "reactive",
+    "html5",
+    "metro",
+    "css-framework",
+    "component-library",
+    "no-dependencies"
+   ],
+   "updated": "2026-02-01T07:42:01Z"
+  },
+  {
+   "full": "ChartsCSS/charts.css",
+   "desc": "Open source CSS framework for data visualization.",
+   "stars": 6584,
+   "lang": "HTML",
+   "topics": [
+    "visualization",
+    "css",
+    "html",
+    "chart",
+    "charts",
+    "scss",
+    "css-framework",
+    "data-visualization",
+    "ui-components"
+   ],
+   "updated": "2026-04-04T21:11:05Z"
+  },
+  {
+   "full": "knadh/oat",
+   "desc": "Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~10KB min+gz.",
+   "stars": 5582,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "ui-design",
+    "webcomponents",
+    "css-framework",
+    "web-ui",
+    "semantic-web",
+    "component-library",
+    "ui-components",
+    "semantic-html",
+    "web-ui-framework",
+    "dashboard-design"
+   ],
+   "updated": "2026-11-01T11:40:16Z"
+  },
+  {
+   "full": "RitikPatni/Front-End-Web-Development-Resources",
+   "desc": "This repository contains content which will be helpful in your journey as a front-end Web Developer",
+   "stars": 5171,
+   "lang": null,
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "front-end",
+    "tutorial",
+    "framework",
+    "frontend",
+    "color-scheme",
+    "css-framework",
+    "resources",
+    "css-grid",
+    "frontend-framework"
+   ],
+   "updated": "2024-06-24T10:38:36Z"
+  },
+  {
+   "full": "BafS/Gutenberg",
+   "desc": "Modern framework to print the web correctly.",
+   "stars": 4925,
+   "lang": "SCSS",
+   "topics": [
+    "css",
+    "framework",
+    "printer",
+    "scss",
+    "css-framework",
+    "printing",
+    "print",
+    "scss-framework",
+    "print-framework"
+   ],
+   "updated": "2024-02-03T04:40:43Z"
+  },
+  {
+   "full": "muicss/mui",
+   "desc": "Lightweight CSS framework",
+   "stars": 4475,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "material",
+    "meteor",
+    "css-framework",
+    "google-material",
+    "mui",
+    "lightweight-css-framework"
+   ],
+   "updated": "2021-08-23T07:53:31Z"
+  },
+  {
+   "full": "oxalorg/sakura",
+   "desc": "🌸 a minimal css framework/theme.",
+   "stars": 4393,
+   "lang": "HTML",
+   "topics": [
+    "css",
+    "theme",
+    "design",
+    "web",
+    "css-framework",
+    "sakura",
+    "classless",
+    "classless-theme"
+   ],
+   "updated": "2026-04-07T01:47:31Z"
+  },
+  {
+   "full": "bansal/pattern.css",
+   "desc": "CSS only library to fill empty background with beautiful patterns.",
+   "stars": 3925,
+   "lang": "HTML",
+   "topics": [
+    "css",
+    "bootstrap",
+    "ui",
+    "patterns",
+    "frontend",
+    "css3",
+    "css-framework"
+   ],
+   "updated": "2022-03-26T13:15:42Z"
+  },
+  {
+   "full": "fomantic/Fomantic-UI",
+   "desc": "Fomantic-UI is the official community fork of Semantic-UI",
+   "stars": 3771,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "css",
+    "semantic",
+    "ui",
+    "fork",
+    "css-framework",
+    "component-library",
+    "hacktoberfest",
+    "fomantic-ui",
+    "fomantic"
+   ],
+   "updated": "2026-10-30T06:03:39Z"
+  },
+  {
+   "full": "halfmoonui/halfmoon",
+   "desc": "Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.",
+   "stars": 3107,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "bootstrap",
+    "dashboard",
+    "dark-theme",
+    "css-framework",
+    "web-framework",
+    "css-custom-properties",
+    "dark-mode",
+    "css-variables",
+    "bootstrap5",
+    "halfmoon"
+   ],
+   "updated": "2024-12-16T12:21:06Z"
+  },
+  {
+   "full": "Chalarangelo/mini.css",
+   "desc": "A minimal, responsive, style-agnostic CSS framework!",
+   "stars": 2947,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "sass",
+    "front-end",
+    "framework",
+    "web-development",
+    "frontend",
+    "responsive",
+    "css-framework",
+    "sass-framework",
+    "mini"
+   ],
+   "updated": "2022-04-04T14:51:07Z"
+  },
+  {
+   "full": "usablica/front-end-frameworks",
+   "desc": "A collection of best front-end frameworks for faster and easier web development.",
+   "stars": 2778,
+   "lang": null,
+   "topics": [
+    "css-framework",
+    "css-grid",
+    "responsive-grid",
+    "responsive-css"
+   ],
+   "updated": "2023-12-11T09:00:52Z"
+  },
+  {
+   "full": "ingram-projects/animxyz",
+   "desc": "The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.",
+   "stars": 2499,
+   "lang": "CSS",
+   "topics": [
+    "react",
+    "css",
+    "vue",
+    "animation",
+    "css-animations",
+    "scss",
+    "css-framework",
+    "functional-css",
+    "composable-animations",
+    "animxyz"
+   ],
+   "updated": "2026-10-08T06:46:44Z"
+  },
+  {
+   "full": "mobi-css/mobi.css",
+   "desc": "A lightweight, scalable, mobile-first CSS framework",
+   "stars": 2312,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "design",
+    "mobile",
+    "postcss",
+    "cssnext",
+    "flexbox",
+    "css-framework",
+    "mobile-first",
+    "mobi-css"
+   ],
+   "updated": "2017-09-29T08:54:08Z"
+  },
+  {
+   "full": "ajusa/lit",
+   "desc": "World's smallest responsive 🔥 css framework (395 bytes)",
+   "stars": 2011,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "css-framework",
+    "lit",
+    "flat",
+    "microframework"
+   ],
+   "updated": "2026-03-25T22:23:16Z"
+  },
+  {
+   "full": "lowlighter/matcha",
+   "desc": "🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps!",
+   "stars": 1944,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "theme",
+    "design",
+    "web",
+    "simple",
+    "css-framework",
+    "semantic-web",
+    "minimalist",
+    "classless",
+    "classless-css"
+   ],
+   "updated": "2025-09-13T03:32:34Z"
+  },
+  {
+   "full": "yegor256/tacit",
+   "desc": "CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages",
+   "stars": 1880,
+   "lang": "SCSS",
+   "topics": [
+    "css",
+    "html",
+    "grunt",
+    "html5",
+    "responsive",
+    "css3",
+    "css-framework",
+    "dummies"
+   ],
+   "updated": "2026-10-31T02:43:34Z"
+  },
+  {
+   "full": "dohliam/dropin-minimal-css",
+   "desc": "Drop-in switcher for previewing minimal CSS frameworks",
+   "stars": 1836,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "html",
+    "minimal",
+    "css-framework",
+    "minimalist",
+    "minimal-framework",
+    "css-switcher",
+    "classless",
+    "classless-theme",
+    "ultralight",
+    "css-boilerplate",
+    "minimal-css"
+   ],
+   "updated": "2026-10-19T16:30:11Z"
+  },
+  {
+   "full": "madeleineostoja/rucksack",
+   "desc": "A little bag of CSS superpowers, built on PostCSS",
+   "stars": 1819,
+   "lang": "JavaScript",
+   "topics": [
+    "css",
+    "postcss",
+    "responsive-typography",
+    "css-framework",
+    "postcss-plugins"
+   ],
+   "updated": "2021-01-24T23:49:37Z"
+  },
+  {
+   "full": "mblode/marx",
+   "desc": "The classless CSS reset (perfect for Communists).",
+   "stars": 1710,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "html",
+    "npm-package",
+    "css-framework",
+    "css-reset",
+    "dark-mode",
+    "classless-css"
+   ],
+   "updated": "2026-10-26T08:05:32Z"
+  },
+  {
+   "full": "Spiderpig86/Cirrus",
+   "desc": "☁️ The SCSS framework for the modern web.",
+   "stars": 1431,
+   "lang": "SCSS",
+   "topics": [
+    "css",
+    "sass",
+    "font",
+    "front-end",
+    "ui",
+    "web-development",
+    "stylesheets",
+    "responsive",
+    "css3",
+    "card",
+    "flexbox",
+    "scss"
+   ],
+   "updated": "2026-11-02T04:32:08Z"
+  },
+  {
+   "full": "codedgar/Puppertino",
+   "desc": "A CSS framework based on Human Guidelines from apple",
+   "stars": 1207,
+   "lang": "MDX",
+   "topics": [
+    "css",
+    "macos",
+    "modular",
+    "css-framework",
+    "human-guidelines"
+   ],
+   "updated": "2026-10-31T16:56:46Z"
+  },
+  {
+   "full": "oruga-ui/oruga",
+   "desc": "🐛 Oruga is a lightweight Vue.js UI component library without any CSS dependency",
+   "stars": 1162,
+   "lang": "Vue",
+   "topics": [
+    "javascript",
+    "css",
+    "sass",
+    "components",
+    "vuejs",
+    "ui",
+    "vue",
+    "customization",
+    "frontend",
+    "ux",
+    "scss",
+    "css-framework"
+   ],
+   "updated": "2026-11-02T10:49:52Z"
+  },
+  {
+   "full": "digicorp/propeller",
+   "desc": "Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.",
+   "stars": 1116,
+   "lang": "HTML",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "sass",
+    "web",
+    "material-design",
+    "gitter",
+    "css-framework",
+    "bootstrap3",
+    "propeller"
+   ],
+   "updated": "2021-05-20T14:35:48Z"
+  },
+  {
+   "full": "nextlevelbuilder/ui-ux-pro-max-skill",
+   "desc": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+   "stars": 144228,
+   "lang": "Python",
+   "topics": [
+    "react",
+    "ui-design",
+    "html5",
+    "landing-page",
+    "command-line",
+    "uikit",
+    "trae",
+    "copilot",
+    "codex",
+    "mobile-ui",
+    "claude",
+    "tailwindcss"
+   ],
+   "updated": "2026-11-02T16:10:22Z"
+  },
+  {
+   "full": "shadcn-ui/ui",
+   "desc": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
+   "stars": 127191,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "components",
+    "laravel",
+    "ui",
+    "ai",
+    "nextjs",
+    "tailwindcss",
+    "vite",
+    "react-aria",
+    "radix-ui",
+    "base-ui",
+    "tanstack"
+   ],
+   "updated": "2026-11-02T07:02:07Z"
+  },
+  {
+   "full": "DavidHDev/react-bits",
+   "desc": "The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.",
+   "stars": 51061,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "javascript",
+    "components",
+    "web",
+    "reactjs",
+    "css-animations",
+    "react-components",
+    "animations",
+    "component-library",
+    "ui-components",
+    "3d",
+    "ui-library"
+   ],
+   "updated": "2026-10-31T00:02:43Z"
+  },
+  {
+   "full": "calcom/cal.diy",
+   "desc": "Scheduling infrastructure for absolutely everyone.",
+   "stars": 49651,
+   "lang": "TypeScript",
+   "topics": [
+    "open-source",
+    "typescript",
+    "nextjs",
+    "postgresql",
+    "prisma",
+    "tailwindcss",
+    "trpc",
+    "next-auth",
+    "zod",
+    "turborepo",
+    "t3-stack"
+   ],
+   "updated": "2026-11-02T07:09:20Z"
+  },
+  {
+   "full": "fastapi/full-stack-fastapi-template",
+   "desc": "Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.",
+   "stars": 46146,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "python",
+    "docker",
+    "jwt",
+    "typescript",
+    "docker-compose",
+    "postgresql",
+    "openapi",
+    "full-stack",
+    "pytest",
+    "tailwindcss",
+    "vite"
+   ],
+   "updated": "2026-11-02T09:10:59Z"
+  },
+  {
+   "full": "JCodesMore/ai-website-cloner-template",
+   "desc": "Clone any website with one command using AI coding agents",
+   "stars": 38442,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "template",
+    "boilerplate",
+    "automation",
+    "typescript",
+    "ai",
+    "clone",
+    "skills",
+    "nextjs",
+    "reverse-engineering",
+    "web-scraping",
+    "developer-tools"
+   ],
+   "updated": "2026-10-19T22:56:31Z"
+  },
+  {
+   "full": "supermemoryai/supermemory",
+   "desc": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+   "stars": 31507,
+   "lang": "TypeScript",
+   "topics": [
+    "postgres",
+    "typescript",
+    "memory",
+    "remix",
+    "tailwindcss",
+    "vite",
+    "cloudflare-workers",
+    "cloudflare-kv",
+    "cloudflare-pages",
+    "drizzle-orm",
+    "ai-memory",
+    "agent-memory"
+   ],
+   "updated": "2026-11-02T18:53:14Z"
+  },
+  {
+   "full": "plausible/analytics",
+   "desc": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+   "stars": 29752,
+   "lang": "Elixir",
+   "topics": [
+    "marketing",
+    "privacy",
+    "statistics",
+    "elixir",
+    "phoenix",
+    "analytics",
+    "clickhouse",
+    "google-analytics",
+    "web-analytics",
+    "postgresql",
+    "self-hosted",
+    "analytics-dashboard"
+   ],
+   "updated": "2026-11-02T19:50:58Z"
+  },
+  {
+   "full": "slymnoyann/hey.xyz",
+   "desc": "Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿",
+   "stars": 29353,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "graphql",
+    "social-media",
+    "typescript",
+    "crypto",
+    "nextjs",
+    "dapp",
+    "blockchain",
+    "web3",
+    "hacktoberfest",
+    "tailwindcss",
+    "turborepo"
+   ],
+   "updated": "2026-09-06T19:08:14Z"
+  },
+  {
+   "full": "t3-oss/create-t3-app",
+   "desc": "The best way to start a full-stack, typesafe Next.js app",
+   "stars": 29198,
+   "lang": "TypeScript",
+   "topics": [
+    "cli",
+    "typescript",
+    "nextjs",
+    "hacktoberfest",
+    "prisma",
+    "npx",
+    "tailwindcss",
+    "t3",
+    "trpc",
+    "next-auth",
+    "t3-stack",
+    "create-t3-app"
+   ],
+   "updated": "2025-12-13T10:39:23Z"
+  },
+  {
+   "full": "tailwindlabs/headlessui",
+   "desc": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+   "stars": 28806,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "components",
+    "vue",
+    "accessibility",
+    "a11y",
+    "tailwindcss",
+    "headless-ui",
+    "headlessui"
+   ],
+   "updated": "2026-04-13T16:12:31Z"
+  },
+  {
+   "full": "onlook-dev/onlook",
+   "desc": "The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with",
+   "stars": 27083,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "design",
+    "typescript",
+    "ui",
+    "ai",
+    "frontend",
+    "nextjs",
+    "ide",
+    "cursor",
+    "figma",
+    "codex",
+    "design-system"
+   ],
+   "updated": "2026-10-21T20:42:29Z"
+  },
+  {
+   "full": "dubinc/dub.link",
+   "desc": "The modern link attribution platform. Loved by world-class engineering teams at Twilio, Zillow, Jobber, Vercel, Raycast, and more.",
+   "stars": 25084,
+   "lang": "TypeScript",
+   "topics": [
+    "mysql",
+    "open-source",
+    "typescript",
+    "clickhouse",
+    "nextjs",
+    "prisma",
+    "tailwindcss",
+    "planetscale",
+    "vercel",
+    "upstash",
+    "tinybird"
+   ],
+   "updated": "2026-10-27T02:24:37Z"
+  },
+  {
+   "full": "kriasoft/react-starter-kit",
+   "desc": "Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.",
+   "stars": 23705,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "template",
+    "boilerplate",
+    "typescript",
+    "neon",
+    "gcp",
+    "saas",
+    "cloudflare",
+    "starter-kit",
+    "hono",
+    "bun"
+   ],
+   "updated": "2026-11-02T04:14:05Z"
+  },
+  {
+   "full": "magicuidesign/magicui",
+   "desc": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
+   "stars": 23044,
+   "lang": "MDX",
+   "topics": [
+    "react",
+    "components",
+    "typescript",
+    "nextjs",
+    "tailwindcss",
+    "framer-motion",
+    "shadcn-ui"
+   ],
+   "updated": "2026-11-02T07:26:57Z"
+  },
+  {
+   "full": "wandb/openui",
+   "desc": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+   "stars": 22724,
+   "lang": "TypeScript",
+   "topics": [
+    "ai",
+    "html-css-javascript",
+    "tailwindcss",
+    "generative-ai"
+   ],
+   "updated": "2026-10-22T06:13:49Z"
+  },
+  {
+   "full": "Open-Dev-Society/OpenStock",
+   "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+   "stars": 21061,
+   "lang": "TypeScript",
+   "topics": [
+    "nextjs",
+    "stock-market",
+    "tailwindcss",
+    "inngest",
+    "shadcn-ui",
+    "coderabbit"
+   ],
+   "updated": "2026-10-31T11:09:19Z"
+  },
+  {
+   "full": "pure-admin/vue-pure-admin",
+   "desc": "全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+   "stars": 20732,
+   "lang": "Vue",
+   "topics": [
+    "admin",
+    "typescript",
+    "esm",
+    "tailwindcss",
+    "vue3",
+    "vite",
+    "element-plus",
+    "pinia"
+   ],
+   "updated": "2026-10-12T06:10:23Z"
+  },
+  {
+   "full": "C4illin/ConvertX",
+   "desc": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+   "stars": 19344,
+   "lang": "TypeScript",
+   "topics": [
+    "converter",
+    "typescript",
+    "document-conversion",
+    "convert",
+    "conversion",
+    "pdf-converter",
+    "self-hosted",
+    "file-converter",
+    "file-conversion",
+    "hacktoberfest",
+    "bun",
+    "tailwindcss"
+   ],
+   "updated": "2026-11-02T07:27:44Z"
+  },
+  {
+   "full": "shadcn-ui/taxonomy",
+   "desc": "An open source application built using the new router, server components and everything new in Next.js 13.",
+   "stars": 19290,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "nextjs",
+    "prisma",
+    "tailwindcss",
+    "vercel",
+    "radix-ui",
+    "nextauthjs"
+   ],
+   "updated": "2026-04-20T12:01:38Z"
+  },
+  {
+   "full": "docusealco/docuseal",
+   "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+   "stars": 18979,
+   "lang": "Ruby",
+   "topics": [
+    "open-source",
+    "pdf",
+    "webpack",
+    "vue",
+    "self-hosted",
+    "e-signature",
+    "documents",
+    "ruby-on-rails",
+    "tailwindcss",
+    "pdf-signature",
+    "pdf-sign",
+    "document-signing"
+   ],
+   "updated": "2026-11-02T13:00:51Z"
+  },
+  {
+   "full": "tremorlabs/tremor-npm",
+   "desc": "React components to build charts and dashboards",
+   "stars": 16466,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "reactjs",
+    "react-components",
+    "tailwindcss",
+    "ui-system"
+   ],
+   "updated": "2025-01-13T13:06:10Z"
+  },
+  {
+   "full": "aniftyco/awesome-tailwindcss",
+   "desc": "😎 Awesome things related to Tailwind CSS",
+   "stars": 15221,
+   "lang": null,
+   "topics": [
+    "css",
+    "awesome",
+    "postcss",
+    "apps",
+    "resources",
+    "websites",
+    "awesome-list",
+    "tailwind",
+    "tailwindcss"
+   ],
+   "updated": "2026-10-27T06:37:59Z"
+  },
+  {
+   "full": "fuma-nama/fumadocs",
+   "desc": "The beautiful & flexible React.js docs framework.",
+   "stars": 13529,
+   "lang": "TypeScript",
+   "topics": [
+    "docs",
+    "typescript",
+    "react-router",
+    "nextjs",
+    "next",
+    "mdx",
+    "tailwindcss",
+    "app-router",
+    "contentlayer",
+    "content-collections",
+    "tanstack-router",
+    "fumadocs"
+   ],
+   "updated": "2026-11-02T13:34:31Z"
+  },
+  {
+   "full": "doocs/md",
+   "desc": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
+   "stars": 13506,
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "markdown",
+    "vue",
+    "markdown-editor",
+    "weixin",
+    "wechat",
+    "tailwindcss",
+    "vue3",
+    "vite",
+    "ai-bot",
+    "doocs",
+    "llm"
+   ],
+   "updated": "2026-11-01T14:25:09Z"
+  },
+  {
+   "full": "roots/sage",
+   "desc": "WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support",
+   "stars": 13280,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "wordpress",
+    "laravel",
+    "wordpress-theme",
+    "blade",
+    "wordpress-starter-theme",
+    "sage",
+    "acorn",
+    "wordpress-laravel",
+    "tailwindcss"
+   ],
+   "updated": "2026-10-07T22:19:29Z"
+  },
+  {
+   "full": "Tencent/omi",
+   "desc": "Web Components Framework - Web组件框架",
+   "stars": 13279,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "components",
+    "typescript",
+    "web",
+    "webcomponents",
+    "js",
+    "jsx",
+    "web-components",
+    "ts",
+    "custom-elements"
+   ],
+   "updated": "2026-10-10T08:14:38Z"
+  },
+  {
+   "full": "formbricks/formbricks",
+   "desc": "Open Source Qualtrics Alternative",
+   "stars": 13212,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "open-source",
+    "typescript",
+    "forms",
+    "reactjs",
+    "nextjs",
+    "form",
+    "survey",
+    "survey-data",
+    "typeform",
+    "surveys",
+    "survey-analysis"
+   ],
+   "updated": "2026-11-02T20:13:05Z"
+  },
+  {
+   "full": "mdbootstrap/TW-Elements",
+   "desc": "𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎",
+   "stars": 13189,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "design-systems",
+    "front-end",
+    "material-design",
+    "frontend",
+    "uikit",
+    "ui-components",
+    "dashboard-templates",
+    "front-end-development",
+    "tailwind"
+   ],
+   "updated": "2026-03-27T13:59:01Z"
+  },
+  {
+   "full": "ixartz/Next-js-Boilerplate",
+   "desc": "🚀🎉📚 Nextjs Boilerplate and Starter with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js 16 + TypeScript + ESLint + Prettier + Drizzle ORM + Husky + Lint-Staged + Vitest +",
+   "stars": 13093,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "boilerplate",
+    "typescript",
+    "reactjs",
+    "nextjs",
+    "react-boilerplate",
+    "starter-template",
+    "starter-kit",
+    "jamstack",
+    "starter-project",
+    "next-theme"
+   ],
+   "updated": "2026-11-01T06:15:53Z"
+  },
+  {
+   "full": "markmead/hyperui",
+   "desc": "Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀",
+   "stars": 12275,
+   "lang": "Astro",
+   "topics": [
+    "css",
+    "html",
+    "components",
+    "ui",
+    "frontend",
+    "accessibility",
+    "templates",
+    "design-system",
+    "tailwind",
+    "tailwindcss",
+    "tailwindui"
+   ],
+   "updated": "2026-10-25T21:02:13Z"
+  },
+  {
+   "full": "noodle-run/noodle",
+   "desc": "Rethinking Student Productivity",
+   "stars": 12164,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "redis",
+    "education",
+    "typescript",
+    "eslint",
+    "sqlite",
+    "prettier",
+    "next",
+    "tailwindcss",
+    "trpc",
+    "productivity-tool"
+   ],
+   "updated": "2024-10-17T02:31:07Z"
+  },
+  {
+   "full": "notionnext-org/NotionNext",
+   "desc": "Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required.",
+   "stars": 11899,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "blog",
+    "nextjs",
+    "notion",
+    "tailwindcss",
+    "vercel",
+    "zeabur"
+   ],
+   "updated": "2026-11-02T08:57:48Z"
+  },
+  {
+   "full": "huggingface/chat-ui",
+   "desc": "The open source codebase powering HuggingChat",
+   "stars": 11008,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "svelte",
+    "hacktoberfest",
+    "tailwindcss",
+    "huggingface",
+    "svelte-kit",
+    "sveltekit",
+    "llm",
+    "chatgpt"
+   ],
+   "updated": "2026-11-02T19:59:25Z"
+  },
+  {
+   "full": "cosscom/ui",
+   "desc": "coss.com/ui is the official design system of Cal.com",
+   "stars": 10782,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nextjs",
+    "tailwindcss",
+    "radix-ui",
+    "base-ui",
+    "tanstack-table",
+    "shadcn-ui",
+    "shadcn"
+   ],
+   "updated": "2026-10-31T16:34:33Z"
+  },
+  {
+   "full": "baptisteArno/typebot.io",
+   "desc": "💬 Typebot is a powerful chatbot builder that you can self-host.",
+   "stars": 10600,
+   "lang": "TypeScript",
+   "topics": [
+    "nextjs",
+    "chatbot",
+    "form-builder",
+    "chat-application",
+    "conversational-bots",
+    "tailwindcss"
+   ],
+   "updated": "2026-10-26T11:27:15Z"
+  },
+  {
+   "full": "jnsahaj/tweakcn",
+   "desc": "A visual no-code theme editor for shadcn/ui components",
+   "stars": 10503,
+   "lang": "TypeScript",
+   "topics": [
+    "tailwindcss",
+    "shadcn-ui",
+    "shadcn",
+    "tailwindcss-v4",
+    "shadcn-theme",
+    "shadcn-theme-editor"
+   ],
+   "updated": "2026-09-03T17:06:07Z"
+  },
+  {
+   "full": "BartoszJarocki/cv",
+   "desc": "Print-friendly, minimalist CV page",
+   "stars": 9675,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nextjs",
+    "tailwindcss",
+    "shadcn-ui"
+   ],
+   "updated": "2026-10-28T19:36:42Z"
+  }
+ ]
+}

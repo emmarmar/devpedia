@@ -1,0 +1,1312 @@
+{
+ "subId": "dataviz",
+ "topics": [
+  "data-visualization",
+  "charts"
+ ],
+ "crawledAt": "2026-11-02T20:17:26.428Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "d3/d3",
+   "desc": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+   "stars": 113859,
+   "lang": "Shell",
+   "topics": [
+    "visualization",
+    "d3",
+    "svg",
+    "chart",
+    "charts",
+    "data-visualization"
+   ],
+   "updated": "2026-10-21T22:24:11Z"
+  },
+  {
+   "full": "netdata/netdata",
+   "desc": "The fastest path to AI-powered full stack observability, even for lean teams.",
+   "stars": 81256,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "linux",
+    "docker",
+    "kubernetes",
+    "devops",
+    "machine-learning",
+    "database",
+    "ai",
+    "monitoring",
+    "mongodb",
+    "influxdb",
+    "mcp"
+   ],
+   "updated": "2026-11-02T19:15:22Z"
+  },
+  {
+   "full": "grafana/grafana",
+   "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+   "stars": 77640,
+   "lang": "TypeScript",
+   "topics": [
+    "mysql",
+    "go",
+    "elasticsearch",
+    "postgres",
+    "monitoring",
+    "dashboard",
+    "influxdb",
+    "analytics",
+    "metrics",
+    "grafana",
+    "alerting",
+    "prometheus"
+   ],
+   "updated": "2026-11-02T20:12:47Z"
+  },
+  {
+   "full": "apache/superset",
+   "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+   "stars": 75392,
+   "lang": "Python",
+   "topics": [
+    "react",
+    "python",
+    "flask",
+    "data-science",
+    "bi",
+    "analytics",
+    "superset",
+    "apache",
+    "data-visualization",
+    "data-engineering",
+    "business-intelligence",
+    "data-viz"
+   ],
+   "updated": "2026-11-02T19:47:15Z"
+  },
+  {
+   "full": "apache/echarts",
+   "desc": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+   "stars": 67666,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "svg",
+    "charts",
+    "canvas",
+    "charting-library",
+    "apache",
+    "data-visualization",
+    "data-viz",
+    "echarts"
+   ],
+   "updated": "2026-10-13T09:27:20Z"
+  },
+  {
+   "full": "cathrynlavery/diagram-design",
+   "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+   "stars": 64321,
+   "lang": "HTML",
+   "topics": [
+    "svg",
+    "data-visualization",
+    "diagrams",
+    "mermaid",
+    "codex",
+    "drawio",
+    "agent-skills",
+    "claude-code"
+   ],
+   "updated": "2026-11-01T09:13:30Z"
+  },
+  {
+   "full": "metabase/metabase",
+   "desc": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
+   "stars": 50114,
+   "lang": "Clojure",
+   "topics": [
+    "visualization",
+    "mysql",
+    "slack",
+    "postgres",
+    "data",
+    "clojure",
+    "bi",
+    "database",
+    "dashboard",
+    "analytics",
+    "reporting",
+    "businessintelligence"
+   ],
+   "updated": "2026-11-02T20:12:04Z"
+  },
+  {
+   "full": "pixijs/pixijs",
+   "desc": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+   "stars": 48618,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "game",
+    "webgl",
+    "canvas",
+    "rendering",
+    "glsl",
+    "data-visualization",
+    "renderer",
+    "pixijs",
+    "pixi",
+    "canvas2d",
+    "rendering-engine"
+   ],
+   "updated": "2026-10-30T22:31:56Z"
+  },
+  {
+   "full": "streamlit/streamlit",
+   "desc": "Streamlit — A faster way to build and share data apps.",
+   "stars": 46213,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "deep-learning",
+    "data-visualization",
+    "developer-tools",
+    "data-analysis",
+    "streamlit"
+   ],
+   "updated": "2026-11-02T20:06:59Z"
+  },
+  {
+   "full": "gradio-app/gradio",
+   "desc": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+   "stars": 43966,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "ui",
+    "deep-learning",
+    "interface",
+    "deploy",
+    "models",
+    "data-visualization",
+    "data-analysis",
+    "ui-components",
+    "gradio"
+   ],
+   "updated": "2026-11-02T19:11:21Z"
+  },
+  {
+   "full": "directus/directus",
+   "desc": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+   "stars": 38799,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "mysql",
+    "api",
+    "graphql",
+    "cms",
+    "app",
+    "node",
+    "typescript",
+    "sql",
+    "database",
+    "vue",
+    "sqlite"
+   ],
+   "updated": "2026-11-02T16:01:50Z"
+  },
+  {
+   "full": "microsoft/Data-Science-For-Beginners",
+   "desc": "10 Weeks, 20 Lessons, Data Science for All!",
+   "stars": 37903,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "pandas",
+    "data-visualization",
+    "data-analysis",
+    "microsoft-for-beginners"
+   ],
+   "updated": "2026-10-21T03:27:14Z"
+  },
+  {
+   "full": "academic/awesome-datascience",
+   "desc": "📝 An awesome Data Science repository to learn and apply for real world problems.",
+   "stars": 30267,
+   "lang": null,
+   "topics": [
+    "science",
+    "data-science",
+    "machine-learning",
+    "data-mining",
+    "deep-learning",
+    "analytics",
+    "data-visualization",
+    "awesome-list",
+    "data-scientists",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-31T21:12:43Z"
+  },
+  {
+   "full": "reflex-dev/reflex",
+   "desc": "🕸️ Web apps in pure Python 🐍",
+   "stars": 28987,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "open-source",
+    "data-science",
+    "gui",
+    "framework",
+    "dashboard",
+    "data-visualization",
+    "webapp",
+    "developer-tools",
+    "data-analysis",
+    "fullstack"
+   ],
+   "updated": "2026-11-02T18:17:20Z"
+  },
+  {
+   "full": "dataease/dataease",
+   "desc": "🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.",
+   "stars": 24666,
+   "lang": "Java",
+   "topics": [
+    "superset",
+    "data-visualization",
+    "business-intelligence",
+    "kettle",
+    "data-analysis",
+    "tableau",
+    "echarts",
+    "apache-doris"
+   ],
+   "updated": "2026-11-02T10:20:40Z"
+  },
+  {
+   "full": "plotly/dash",
+   "desc": "Data Apps & Dashboards for Python. No JavaScript Required.",
+   "stars": 24476,
+   "lang": "Python",
+   "topics": [
+    "react",
+    "python",
+    "productivity",
+    "flask",
+    "finance",
+    "data-science",
+    "bioinformatics",
+    "ai",
+    "jupyter",
+    "web-app",
+    "plotly",
+    "data-visualization"
+   ],
+   "updated": "2026-11-02T19:56:57Z"
+  },
+  {
+   "full": "sinaptik-ai/pandas-ai",
+   "desc": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+   "stars": 23924,
+   "lang": "Python",
+   "topics": [
+    "data-science",
+    "data",
+    "csv",
+    "sql",
+    "database",
+    "ai",
+    "pandas",
+    "data-visualization",
+    "data-analysis",
+    "datalake",
+    "text-to-sql",
+    "gpt-4"
+   ],
+   "updated": "2025-10-28T10:02:13Z"
+  },
+  {
+   "full": "lukasmasuch/best-of-ml-python",
+   "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+   "stars": 23854,
+   "lang": null,
+   "topics": [
+    "python",
+    "nlp",
+    "data-science",
+    "machine-learning",
+    "deep-learning",
+    "tensorflow",
+    "scikit-learn",
+    "keras",
+    "ml",
+    "data-visualization",
+    "pytorch",
+    "transformer"
+   ],
+   "updated": "2026-10-29T14:11:25Z"
+  },
+  {
+   "full": "vanna-ai/vanna",
+   "desc": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.",
+   "stars": 23804,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "sql",
+    "database",
+    "ai",
+    "data-visualization",
+    "text-to-sql",
+    "rag",
+    "llm"
+   ],
+   "updated": "2026-02-02T14:14:20Z"
+  },
+  {
+   "full": "matplotlib/matplotlib",
+   "desc": "matplotlib: plotting with Python",
+   "stars": 23412,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "gtk",
+    "data-science",
+    "qt",
+    "data-visualization",
+    "tk",
+    "matplotlib",
+    "plotting",
+    "wx"
+   ],
+   "updated": "2026-11-02T17:05:39Z"
+  },
+  {
+   "full": "marimo-team/marimo",
+   "desc": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+   "stars": 23407,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "reactive",
+    "sql",
+    "pipeline",
+    "web-app",
+    "data-visualization",
+    "artificial-intelligence",
+    "developer-tools",
+    "dataflow",
+    "notebooks"
+   ],
+   "updated": "2026-11-02T20:00:44Z"
+  },
+  {
+   "full": "airbnb/visx",
+   "desc": "🐯 visx | visualization components",
+   "stars": 21092,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "visualization",
+    "d3",
+    "svg",
+    "chart",
+    "data-visualization",
+    "vx",
+    "visx"
+   ],
+   "updated": "2026-06-22T14:25:22Z"
+  },
+  {
+   "full": "Avaiga/taipy",
+   "desc": "Turns Data and AI algorithms into production-ready web applications in no time.",
+   "stars": 19453,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "workflow",
+    "automation",
+    "pipeline",
+    "job-scheduler",
+    "pipelines",
+    "data-visualization",
+    "orchestration",
+    "datascience",
+    "data-engineering",
+    "developer-tools",
+    "data-integration"
+   ],
+   "updated": "2026-08-10T02:47:18Z"
+  },
+  {
+   "full": "plotly/plotly.js",
+   "desc": "Open-source JavaScript charting library behind Plotly and Dash",
+   "stars": 18378,
+   "lang": "JavaScript",
+   "topics": [
+    "visualization",
+    "d3",
+    "charts",
+    "webgl",
+    "charting-library",
+    "plotly",
+    "data-visualization",
+    "regl",
+    "plotly-dash"
+   ],
+   "updated": "2026-10-29T20:03:46Z"
+  },
+  {
+   "full": "hicccc77/WeFlow",
+   "desc": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
+   "stars": 15748,
+   "lang": "TypeScript",
+   "topics": [
+    "data-visualization",
+    "message",
+    "wechat",
+    "data-analysis",
+    "annual-report"
+   ],
+   "updated": "2026-11-02T08:45:31Z"
+  },
+  {
+   "full": "terkelg/awesome-creative-coding",
+   "desc": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
+   "stars": 15535,
+   "lang": "HTML",
+   "topics": [
+    "art",
+    "design",
+    "webgl",
+    "list",
+    "awesome",
+    "creative-coding",
+    "shaders",
+    "computer-graphics",
+    "resources",
+    "data-visualization",
+    "interaction-design",
+    "information-visualization"
+   ],
+   "updated": "2026-07-21T15:01:30Z"
+  },
+  {
+   "full": "apexcharts/apexcharts.js",
+   "desc": "📊 Interactive JavaScript Charts built on SVG",
+   "stars": 15185,
+   "lang": "JavaScript",
+   "topics": [
+    "visualization",
+    "javascript",
+    "svg",
+    "charts",
+    "interactive",
+    "graphs",
+    "data-visualization"
+   ],
+   "updated": "2026-11-02T18:07:31Z"
+  },
+  {
+   "full": "visgl/deck.gl",
+   "desc": "WebGL2 powered visualization framework",
+   "stars": 14728,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "javascript",
+    "python",
+    "webgl",
+    "maps",
+    "data-visualization",
+    "geospatial-analysis"
+   ],
+   "updated": "2026-11-02T16:55:38Z"
+  },
+  {
+   "full": "oxnr/awesome-bigdata",
+   "desc": "A curated list of awesome big data frameworks, ressources and other awesomeness.",
+   "stars": 14714,
+   "lang": null,
+   "topics": [
+    "data-science",
+    "data",
+    "awesome",
+    "database",
+    "data-stream",
+    "bigdata",
+    "series-database",
+    "data-visualization",
+    "data-warehouse",
+    "stream-processing",
+    "data-analytics",
+    "awesome-list"
+   ],
+   "updated": "2026-10-30T15:06:34Z"
+  },
+  {
+   "full": "mwaskom/seaborn",
+   "desc": "Statistical data visualization in Python",
+   "stars": 14097,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "pandas",
+    "data-visualization",
+    "matplotlib"
+   ],
+   "updated": "2026-10-08T01:29:20Z"
+  },
+  {
+   "full": "antvis/G6",
+   "desc": "♾ A Graph Visualization Framework in JavaScript.",
+   "stars": 12371,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "tree",
+    "graph",
+    "network",
+    "data-visualization",
+    "graph-visualization",
+    "graph-analytics",
+    "hacktoberfest",
+    "visual-analytics",
+    "graph-drawing"
+   ],
+   "updated": "2026-10-27T11:58:25Z"
+  },
+  {
+   "full": "jacomyal/sigma.js",
+   "desc": "A JavaScript library aimed at visualizing graphs of thousands of nodes and edges",
+   "stars": 12215,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "webgl",
+    "graph",
+    "graphs",
+    "data-visualization",
+    "graph-drawing",
+    "graph-drawing-framework"
+   ],
+   "updated": "2026-10-27T14:46:04Z"
+  },
+  {
+   "full": "keplergl/kepler.gl",
+   "desc": "Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.",
+   "stars": 12077,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "geospatial",
+    "data-visualization",
+    "kepler",
+    "mapbox"
+   ],
+   "updated": "2026-11-02T19:42:34Z"
+  },
+  {
+   "full": "perspective-dev/perspective",
+   "desc": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
+   "stars": 11386,
+   "lang": "Rust",
+   "topics": [
+    "react",
+    "javascript",
+    "python",
+    "rust",
+    "charts",
+    "streaming",
+    "real-time",
+    "bi",
+    "dashboard",
+    "jupyter",
+    "analytics",
+    "web-components"
+   ],
+   "updated": "2026-10-27T23:52:28Z"
+  },
+  {
+   "full": "FormidableLabs/victory",
+   "desc": "A collection of composable React components for building interactive data visualizations",
+   "stars": 11244,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "d3",
+    "charts",
+    "data-visualization"
+   ],
+   "updated": "2026-11-02T20:16:16Z"
+  },
+  {
+   "full": "leeoniya/uPlot",
+   "desc": "📈 A small, fast chart for time series, lines, areas, ohlc & bars",
+   "stars": 10607,
+   "lang": "JavaScript",
+   "topics": [
+    "lightweight",
+    "chart",
+    "charts",
+    "streaming",
+    "performance",
+    "timeseries",
+    "time-series",
+    "analytics",
+    "graph",
+    "graphs",
+    "plot",
+    "data-visualization"
+   ],
+   "updated": "2026-10-30T18:53:55Z"
+  },
+  {
+   "full": "polakowo/vectorbt",
+   "desc": "The research engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.",
+   "stars": 9643,
+   "lang": "Python",
+   "topics": [
+    "finance",
+    "data-science",
+    "machine-learning",
+    "time-series",
+    "trading",
+    "data-visualization",
+    "cryptocurrency",
+    "portfolio-optimization",
+    "trading-strategies",
+    "quantitative-finance",
+    "algorithmic-trading",
+    "backtesting"
+   ],
+   "updated": "2026-10-28T19:18:42Z"
+  },
+  {
+   "full": "c3js/c3",
+   "desc": "📊 A D3-based reusable chart library",
+   "stars": 9352,
+   "lang": "JavaScript",
+   "topics": [
+    "d3",
+    "svg",
+    "chart",
+    "graph",
+    "graphics",
+    "data-visualization",
+    "interactive-visualizations"
+   ],
+   "updated": "2026-10-20T17:57:19Z"
+  },
+  {
+   "full": "rawgraphs/rawgraphs-app",
+   "desc": "A web interface to create custom vector-based visualizations on top of RAWGraphs core",
+   "stars": 9052,
+   "lang": "JavaScript",
+   "topics": [
+    "visualization",
+    "svg",
+    "design",
+    "data",
+    "data-visualization",
+    "vector-graphics",
+    "d3js",
+    "rawgraphs",
+    "ddj"
+   ],
+   "updated": "2026-10-08T14:13:25Z"
+  },
+  {
+   "full": "uber/react-vis",
+   "desc": "Data Visualization Components",
+   "stars": 8787,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "visualization",
+    "chart",
+    "charting-library",
+    "uber",
+    "data-visualization"
+   ],
+   "updated": "2024-12-18T22:24:34Z"
+  },
+  {
+   "full": "umami-software/umami",
+   "desc": "Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.",
+   "stars": 39875,
+   "lang": "TypeScript",
+   "topics": [
+    "charts",
+    "statistics",
+    "analytics",
+    "google-analytics",
+    "web-analytics",
+    "user-journey",
+    "product-analytics",
+    "cohort-analysis",
+    "audience-segmentation"
+   ],
+   "updated": "2026-11-01T20:45:48Z"
+  },
+  {
+   "full": "helm/helm",
+   "desc": "The Kubernetes Package Manager",
+   "stars": 30387,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "chart",
+    "charts",
+    "helm",
+    "cncf"
+   ],
+   "updated": "2026-11-01T19:43:11Z"
+  },
+  {
+   "full": "Canner/WrenAI",
+   "desc": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, Pos",
+   "stars": 18041,
+   "lang": "Python",
+   "topics": [
+    "bigquery",
+    "charts",
+    "sql",
+    "dashboard",
+    "clickhouse",
+    "mcp",
+    "postgresql",
+    "snowflake",
+    "business-intelligence",
+    "databricks",
+    "ai-agents",
+    "genbi"
+   ],
+   "updated": "2026-11-02T03:55:14Z"
+  },
+  {
+   "full": "tradingview/lightweight-charts",
+   "desc": "Performant financial charts built with HTML5 canvas",
+   "stars": 17748,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "finance",
+    "charts",
+    "typescript",
+    "canvas",
+    "charting-library",
+    "charting",
+    "html5-charts",
+    "financial-charting-library"
+   ],
+   "updated": "2026-11-02T13:28:16Z"
+  },
+  {
+   "full": "helm/charts",
+   "desc": "⚠️(OBSOLETE) Curated applications for Kubernetes",
+   "stars": 15396,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "charts",
+    "helm"
+   ],
+   "updated": "2022-02-20T14:09:39Z"
+  },
+  {
+   "full": "sqshq/sampler",
+   "desc": "Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
+   "stars": 14811,
+   "lang": "Go",
+   "topics": [
+    "visualization",
+    "shell",
+    "golang",
+    "charts",
+    "terminal",
+    "monitoring",
+    "command-line",
+    "alerting",
+    "cmd",
+    "sampler",
+    "command-line-tool",
+    "dashbord"
+   ],
+   "updated": "2024-02-22T10:21:15Z"
+  },
+  {
+   "full": "plouc/nivo",
+   "desc": "nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries",
+   "stars": 14132,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "svg",
+    "components",
+    "charts",
+    "canvas",
+    "dataviz",
+    "isomorphic",
+    "d3js"
+   ],
+   "updated": "2026-07-21T02:46:40Z"
+  },
+  {
+   "full": "primefaces/primeng",
+   "desc": "The Most Complete Angular UI Component Library",
+   "stars": 12481,
+   "lang": "TypeScript",
+   "topics": [
+    "components",
+    "charts",
+    "angular",
+    "typescript",
+    "ui",
+    "mit",
+    "datatable",
+    "datagrid"
+   ],
+   "updated": "2026-09-24T13:05:58Z"
+  },
+  {
+   "full": "keen/dashboards",
+   "desc": "Responsive dashboard templates 📊✨",
+   "stars": 11031,
+   "lang": "HTML",
+   "topics": [
+    "charts",
+    "grid",
+    "dashboard",
+    "analytics",
+    "templates",
+    "css-grid",
+    "keen-io",
+    "css-grid-layout",
+    "analytics-dashboard",
+    "css-grid-template"
+   ],
+   "updated": "2021-11-02T12:25:42Z"
+  },
+  {
+   "full": "bitnami/charts",
+   "desc": "Bitnami Helm Charts",
+   "stars": 10424,
+   "lang": "Go Template",
+   "topics": [
+    "kubernetes",
+    "charts",
+    "vmware",
+    "helm",
+    "helm-charts",
+    "bitnami"
+   ],
+   "updated": "2026-11-02T07:53:02Z"
+  },
+  {
+   "full": "NorthwoodsSoftware/GoJS",
+   "desc": "JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.",
+   "stars": 8500,
+   "lang": "JavaScript",
+   "topics": [
+    "visualization",
+    "javascript",
+    "svg",
+    "html",
+    "chart",
+    "charts",
+    "typescript",
+    "canvas",
+    "es6",
+    "graph",
+    "diagram",
+    "layout"
+   ],
+   "updated": "2026-10-02T17:39:38Z"
+  },
+  {
+   "full": "primefaces/primereact",
+   "desc": "The Most Complete React UI Component Library",
+   "stars": 8310,
+   "lang": "CSS",
+   "topics": [
+    "react",
+    "bootstrap",
+    "charts",
+    "tree",
+    "flex",
+    "grid",
+    "material",
+    "ripple",
+    "react-components",
+    "datatable",
+    "bootstrap-table",
+    "ui-components"
+   ],
+   "updated": "2026-11-02T14:48:49Z"
+  },
+  {
+   "full": "antvis/F2",
+   "desc": "📱📈An elegant, interactive and flexible charting library for mobile.",
+   "stars": 7995,
+   "lang": "JavaScript",
+   "topics": [
+    "visualization",
+    "charts",
+    "mobile",
+    "grammar",
+    "html5-canvas",
+    "data-visualization",
+    "data-visualisation",
+    "f2",
+    "antv"
+   ],
+   "updated": "2026-05-19T10:57:41Z"
+  },
+  {
+   "full": "go-echarts/go-echarts",
+   "desc": "🎨 The adorable charts library for Golang.",
+   "stars": 7657,
+   "lang": "Go",
+   "topics": [
+    "charts",
+    "echarts",
+    "golang-visualization"
+   ],
+   "updated": "2026-10-06T04:01:19Z"
+  },
+  {
+   "full": "imaNNeo/fl_chart",
+   "desc": "FL Chart is a highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, Radar Chart and Candlestick Chart.",
+   "stars": 7592,
+   "lang": "Dart",
+   "topics": [
+    "chart",
+    "charts",
+    "graph",
+    "barchart",
+    "scatter-plot",
+    "radar-chart",
+    "flutter",
+    "datasets",
+    "linechart",
+    "radar-graphs",
+    "piechart",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-30T23:58:46Z"
+  },
+  {
+   "full": "reactchartjs/react-chartjs-2",
+   "desc": "React components for Chart.js, the most popular charting library",
+   "stars": 6937,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "visualization",
+    "datavis",
+    "chart",
+    "charts",
+    "charting-library",
+    "reactjs",
+    "chartjs",
+    "data-visualization",
+    "datavisualization",
+    "dataviz-tools",
+    "chartjs-2"
+   ],
+   "updated": "2026-10-29T06:14:16Z"
+  },
+  {
+   "full": "ScottPlot/ScottPlot",
+   "desc": "Interactive plotting library for .NET",
+   "stars": 6796,
+   "lang": "C#",
+   "topics": [
+    "visualization",
+    "chart",
+    "charts",
+    "csharp",
+    "dotnet",
+    "graphics",
+    "plot",
+    "data-visualization",
+    "plotting",
+    "charting"
+   ],
+   "updated": "2026-08-15T21:45:11Z"
+  },
+  {
+   "full": "larashero3-dotcom/lieflat-charts",
+   "desc": "Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。",
+   "stars": 6626,
+   "lang": "HTML",
+   "topics": [
+    "svg",
+    "html",
+    "charts",
+    "data-visualization",
+    "codex",
+    "agent-skills",
+    "claude-code",
+    "moxt"
+   ],
+   "updated": "2026-11-02T03:03:41Z"
+  },
+  {
+   "full": "ChartsCSS/charts.css",
+   "desc": "Open source CSS framework for data visualization.",
+   "stars": 6584,
+   "lang": "HTML",
+   "topics": [
+    "visualization",
+    "css",
+    "html",
+    "chart",
+    "charts",
+    "scss",
+    "css-framework",
+    "data-visualization",
+    "ui-components"
+   ],
+   "updated": "2026-04-04T21:11:05Z"
+  },
+  {
+   "full": "ankane/chartkick",
+   "desc": "Create beautiful JavaScript charts with one line of Ruby",
+   "stars": 6526,
+   "lang": "Ruby",
+   "topics": [
+    "visualization",
+    "charts",
+    "highcharts",
+    "chartjs",
+    "google-charts"
+   ],
+   "updated": "2026-10-22T20:17:13Z"
+  },
+  {
+   "full": "shutterstock/rickshaw",
+   "desc": "JavaScript toolkit for creating interactive real-time graphs",
+   "stars": 6504,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "d3",
+    "svg",
+    "charts",
+    "graph",
+    "rickshaw"
+   ],
+   "updated": "2025-01-17T01:12:28Z"
+  },
+  {
+   "full": "prometheus-community/helm-charts",
+   "desc": "Prometheus community Helm charts",
+   "stars": 6226,
+   "lang": "Mustache",
+   "topics": [
+    "kubernetes",
+    "charts",
+    "helm",
+    "prometheus",
+    "helm-charts"
+   ],
+   "updated": "2026-11-02T17:52:49Z"
+  },
+  {
+   "full": "livebook-dev/livebook",
+   "desc": "Automate code & data workflows with interactive Elixir notebooks",
+   "stars": 5902,
+   "lang": "Elixir",
+   "topics": [
+    "visualization",
+    "markdown",
+    "charts",
+    "elixir",
+    "phoenix",
+    "math",
+    "realtime",
+    "distributed-computing",
+    "collaborative",
+    "notebooks",
+    "liveview"
+   ],
+   "updated": "2026-10-26T14:21:59Z"
+  },
+  {
+   "full": "mui/mui-x",
+   "desc": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!",
+   "stars": 5871,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "charts",
+    "material-ui",
+    "datatable",
+    "data-grid",
+    "time-picker",
+    "date-picker",
+    "date-range-picker"
+   ],
+   "updated": "2026-11-02T17:15:47Z"
+  },
+  {
+   "full": "Mathieu2301/TradingView-API",
+   "desc": "📈 Get real-time stocks from TradingView",
+   "stars": 5808,
+   "lang": "TypeScript",
+   "topics": [
+    "charts",
+    "crypto",
+    "bitcoin",
+    "trading",
+    "ethereum",
+    "cryptocurrency",
+    "stocks",
+    "backtesting-trading-strategies",
+    "backtesting",
+    "tradingview",
+    "stocks-api",
+    "tradingview-scraper"
+   ],
+   "updated": "2026-10-30T17:31:33Z"
+  },
+  {
+   "full": "AppPear/ChartView",
+   "desc": "ChartView made in SwiftUI",
+   "stars": 5650,
+   "lang": "Swift",
+   "topics": [
+    "swift",
+    "ios",
+    "chart",
+    "charts",
+    "swiftui"
+   ],
+   "updated": "2026-03-02T08:41:42Z"
+  },
+  {
+   "full": "vega/vega-lite",
+   "desc": "A concise grammar of interactive graphics, built on Vega.",
+   "stars": 5540,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "charts",
+    "plot",
+    "vega",
+    "vega-lite",
+    "visual-analysis",
+    "visualization-grammar",
+    "declarative-language"
+   ],
+   "updated": "2026-11-02T11:36:39Z"
+  },
+  {
+   "full": "observablehq/plot",
+   "desc": "A concise API for exploratory data visualization implementing a layered grammar of graphics",
+   "stars": 5418,
+   "lang": "HTML",
+   "topics": [
+    "visualization",
+    "d3",
+    "svg",
+    "charts",
+    "data-visualization"
+   ],
+   "updated": "2026-10-30T19:54:45Z"
+  },
+  {
+   "full": "clientIO/joint",
+   "desc": "A proven SVG-based JavaScript diagramming library powering exceptional UIs",
+   "stars": 5396,
+   "lang": "JavaScript",
+   "topics": [
+    "visualization",
+    "javascript",
+    "svg",
+    "charts",
+    "typescript",
+    "html5",
+    "javascript-library",
+    "typescript-library",
+    "interactive-diagrams",
+    "low-code",
+    "no-code",
+    "diagramming"
+   ],
+   "updated": "2026-10-29T14:47:19Z"
+  },
+  {
+   "full": "wbkd/awesome-d3",
+   "desc": "A list of D3 libraries, plugins and utilities",
+   "stars": 5324,
+   "lang": null,
+   "topics": [
+    "javascript",
+    "charts",
+    "maps",
+    "d3js",
+    "datavisualization"
+   ],
+   "updated": "2023-01-13T16:10:34Z"
+  },
+  {
+   "full": "asmuth/clip",
+   "desc": "Create charts from the command line",
+   "stars": 5142,
+   "lang": "C++",
+   "topics": [
+    "visualization",
+    "chart",
+    "charts",
+    "csv",
+    "plots",
+    "data-visualization",
+    "cpp17",
+    "plotting"
+   ],
+   "updated": "2020-06-11T23:25:23Z"
+  },
+  {
+   "full": "diogobernardino/williamchart",
+   "desc": "Android Library to rapidly develop attractive and insightful charts in android applications.",
+   "stars": 5094,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "java",
+    "charts",
+    "android-library",
+    "williamchart"
+   ],
+   "updated": "2025-10-04T22:07:03Z"
+  },
+  {
+   "full": "xiaolin3303/wx-charts",
+   "desc": "微信小程序图表库，Charts for WeChat Mini Program",
+   "stars": 4983,
+   "lang": "JavaScript",
+   "topics": [
+    "charts",
+    "canvas",
+    "wechat",
+    "mini-program"
+   ],
+   "updated": "2023-10-14T02:28:53Z"
+  }
+ ]
+}

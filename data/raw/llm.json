@@ -1,0 +1,1472 @@
+{
+ "subId": "llm",
+ "topics": [
+  "llm",
+  "large-language-models"
+ ],
+ "crawledAt": "2026-11-02T20:16:16.731Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "affaan-m/ECC",
+   "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+   "stars": 295524,
+   "lang": "JavaScript",
+   "topics": [
+    "productivity",
+    "mcp",
+    "developer-tools",
+    "ai-agents",
+    "claude",
+    "llm",
+    "anthropic",
+    "claude-code"
+   ],
+   "updated": "2026-11-02T04:56:08Z"
+  },
+  {
+   "full": "NousResearch/hermes-agent",
+   "desc": "The agent that grows with you",
+   "stars": 259807,
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "openai",
+    "hermes",
+    "codex",
+    "ai-agents",
+    "claude",
+    "ai-agent",
+    "llm",
+    "chatgpt",
+    "anthropic",
+    "claude-code",
+    "hermes-agent"
+   ],
+   "updated": "2026-11-02T20:09:51Z"
+  },
+  {
+   "full": "firecrawl/firecrawl",
+   "desc": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+   "stars": 197948,
+   "lang": "TypeScript",
+   "topics": [
+    "markdown",
+    "crawler",
+    "scraper",
+    "ai",
+    "html-to-markdown",
+    "web-crawler",
+    "scraping",
+    "web-scraper",
+    "web-scraping",
+    "data-extraction",
+    "webscraping",
+    "web-data-extraction"
+   ],
+   "updated": "2026-11-02T20:05:42Z"
+  },
+  {
+   "full": "Significant-Gravitas/AutoGPT",
+   "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+   "stars": 187879,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "ai",
+    "artificial-intelligence",
+    "openai",
+    "gpt",
+    "agents",
+    "autonomous-agents",
+    "claude",
+    "llm",
+    "llama-api",
+    "agentic-ai"
+   ],
+   "updated": "2026-11-02T17:42:30Z"
+  },
+  {
+   "full": "ollama/ollama",
+   "desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+   "stars": 185704,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "muse",
+    "llama",
+    "glm",
+    "minimax",
+    "gemma",
+    "mistral",
+    "llm",
+    "llms",
+    "ollama",
+    "qwen"
+   ],
+   "updated": "2026-11-02T18:34:19Z"
+  },
+  {
+   "full": "DietrichGebert/ponytail",
+   "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "stars": 182787,
+   "lang": "JavaScript",
+   "topics": [
+    "developer-tools",
+    "ai-agents",
+    "claude",
+    "yagni",
+    "llm",
+    "prompt-engineering",
+    "agent-skills",
+    "cursor-rules",
+    "claude-code",
+    "claude-code-plugin"
+   ],
+   "updated": "2026-10-29T11:59:31Z"
+  },
+  {
+   "full": "f/prompts.chat",
+   "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+   "stars": 175616,
+   "lang": "MDX",
+   "topics": [
+    "open-source",
+    "machine-learning",
+    "typescript",
+    "ai",
+    "nextjs",
+    "artificial-intelligence",
+    "gemini",
+    "openai",
+    "awesome-list",
+    "gpt",
+    "prompts",
+    "claude"
+   ],
+   "updated": "2026-11-02T07:21:46Z"
+  },
+  {
+   "full": "huggingface/transformers",
+   "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+   "stars": 168458,
+   "lang": "Python",
+   "topics": [
+    "audio",
+    "python",
+    "nlp",
+    "machine-learning",
+    "natural-language-processing",
+    "deep-learning",
+    "pytorch",
+    "transformer",
+    "speech-recognition",
+    "glm",
+    "pretrained-models",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T20:12:02Z"
+  },
+  {
+   "full": "langgenius/dify",
+   "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+   "stars": 160251,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "workflow",
+    "automation",
+    "ai",
+    "skills",
+    "mcp",
+    "nextjs",
+    "openai",
+    "gpt",
+    "low-code",
+    "no-code"
+   ],
+   "updated": "2026-11-02T19:37:54Z"
+  },
+  {
+   "full": "open-webui/open-webui",
+   "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+   "stars": 157576,
+   "lang": "Python",
+   "topics": [
+    "ui",
+    "ai",
+    "mcp",
+    "openapi",
+    "self-hosted",
+    "openai",
+    "webui",
+    "rag",
+    "llm",
+    "llms",
+    "ollama",
+    "llm-ui"
+   ],
+   "updated": "2026-11-02T11:42:01Z"
+  },
+  {
+   "full": "langchain-ai/langchain",
+   "desc": "The agent engineering platform.",
+   "stars": 148892,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "open-source",
+    "enterprise",
+    "framework",
+    "typescript",
+    "ai",
+    "gemini",
+    "openai",
+    "multiagent",
+    "agents",
+    "ai-agents",
+    "rag"
+   ],
+   "updated": "2026-11-02T20:14:18Z"
+  },
+  {
+   "full": "Graphify-Labs/graphify",
+   "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+   "stars": 141070,
+   "lang": "Python",
+   "topics": [
+    "tree-sitter",
+    "skills",
+    "mcp",
+    "code-analysis",
+    "ast",
+    "gemini",
+    "knowledge-graph",
+    "code-search",
+    "developer-tools",
+    "cursor",
+    "leiden",
+    "codex"
+   ],
+   "updated": "2026-11-02T19:38:53Z"
+  },
+  {
+   "full": "harry0703/MoneyPrinterTurbo",
+   "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+   "stars": 137458,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "text-to-speech",
+    "ffmpeg",
+    "subtitles",
+    "workflow-automation",
+    "short-video",
+    "tiktok",
+    "content-creation",
+    "video-automation",
+    "youtube-shorts",
+    "instagram-reels",
+    "llm"
+   ],
+   "updated": "2026-11-02T09:22:43Z"
+  },
+  {
+   "full": "TauricResearch/TradingAgents",
+   "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+   "stars": 119917,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "finance",
+    "trading",
+    "multiagent",
+    "llm"
+   ],
+   "updated": "2026-10-27T08:43:04Z"
+  },
+  {
+   "full": "browser-use/browser-use",
+   "desc": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+   "stars": 119858,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "mcp",
+    "web-scraping",
+    "cdp",
+    "browser-automation",
+    "ai-agents",
+    "web-automation",
+    "headless-browser",
+    "remote-browser",
+    "playwright",
+    "cloud-browser",
+    "ai-tools"
+   ],
+   "updated": "2026-11-02T01:31:56Z"
+  },
+  {
+   "full": "JuliusBrussee/caveman",
+   "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+   "stars": 116902,
+   "lang": "Go",
+   "topics": [
+    "ai",
+    "skill",
+    "meme",
+    "tokens",
+    "caveman",
+    "claude",
+    "llm",
+    "prompt-engineering",
+    "anthropic",
+    "claude-code"
+   ],
+   "updated": "2026-11-02T07:45:06Z"
+  },
+  {
+   "full": "paperclipai/paperclip",
+   "desc": "The open-source app everyone uses to manage agents at work",
+   "stars": 110296,
+   "lang": "TypeScript",
+   "topics": [
+    "mcp",
+    "multi-agent",
+    "project-management",
+    "hermes",
+    "codex",
+    "workflow-automation",
+    "autonomous-agents",
+    "ai-agents",
+    "claude",
+    "ai-engineering",
+    "ai-tools",
+    "llm"
+   ],
+   "updated": "2026-11-02T20:14:57Z"
+  },
+  {
+   "full": "rasbt/LLMs-from-scratch",
+   "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+   "stars": 107701,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "machine-learning",
+    "natural-language-processing",
+    "ai",
+    "deep-learning",
+    "tokenizer",
+    "transformers",
+    "pytorch",
+    "artificial-intelligence",
+    "gpt",
+    "language-model",
+    "attention-mechanism"
+   ],
+   "updated": "2026-10-30T02:15:16Z"
+  },
+  {
+   "full": "vllm-project/vllm",
+   "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+   "stars": 96159,
+   "lang": "Python",
+   "topics": [
+    "amd",
+    "cuda",
+    "inference",
+    "pytorch",
+    "transformer",
+    "openai",
+    "moe",
+    "llama",
+    "gpt",
+    "model-serving",
+    "tpu",
+    "kimi"
+   ],
+   "updated": "2026-11-02T20:13:23Z"
+  },
+  {
+   "full": "tt-a1i/archify",
+   "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+   "stars": 92702,
+   "lang": "JavaScript",
+   "topics": [
+    "visualization",
+    "opencode",
+    "developer-tools",
+    "diagrams",
+    "flowchart",
+    "mermaid",
+    "software-architecture",
+    "sequence-diagram",
+    "codex",
+    "system-design",
+    "ai-agents",
+    "architecture-diagram"
+   ],
+   "updated": "2026-11-02T16:05:04Z"
+  },
+  {
+   "full": "OpenHands/OpenHands",
+   "desc": "🙌 OpenHands: AI-Driven Development",
+   "stars": 92511,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "cli",
+    "artificial-intelligence",
+    "openai",
+    "developer-tools",
+    "gpt",
+    "llm",
+    "chatgpt",
+    "claude-ai"
+   ],
+   "updated": "2026-11-02T19:29:31Z"
+  },
+  {
+   "full": "unclecode/crawl4ai",
+   "desc": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf",
+   "stars": 86783,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "markdown",
+    "open-source",
+    "crawler",
+    "scraper",
+    "ai",
+    "mcp",
+    "web-crawler",
+    "web-scraping",
+    "data-extraction",
+    "web-crawling",
+    "ai-agents"
+   ],
+   "updated": "2026-11-02T14:01:43Z"
+  },
+  {
+   "full": "datawhalechina/hello-agents",
+   "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+   "stars": 85783,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "tutorial",
+    "rag",
+    "llm"
+   ],
+   "updated": "2026-10-13T22:28:54Z"
+  },
+  {
+   "full": "rtk-ai/rtk",
+   "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+   "stars": 85329,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "cli",
+    "productivity",
+    "open-source",
+    "developer-tools",
+    "command-line-tool",
+    "llm",
+    "cost-reduction",
+    "anthropic",
+    "ai-coding",
+    "claude-code",
+    "token-optimization"
+   ],
+   "updated": "2026-11-02T14:09:22Z"
+  },
+  {
+   "full": "bytedance/deer-flow",
+   "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+   "stars": 84891,
+   "lang": "Python",
+   "topics": [
+    "nodejs",
+    "python",
+    "agent",
+    "typescript",
+    "ai",
+    "podcast",
+    "multi-agent",
+    "superagent",
+    "harness",
+    "ai-agents",
+    "llm",
+    "langchain"
+   ],
+   "updated": "2026-11-02T13:37:00Z"
+  },
+  {
+   "full": "mlabonne/llm-course",
+   "desc": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+   "stars": 84857,
+   "lang": null,
+   "topics": [
+    "machine-learning",
+    "roadmap",
+    "course",
+    "large-language-models",
+    "llm"
+   ],
+   "updated": "2026-02-05T13:09:26Z"
+  },
+  {
+   "full": "shareAI-lab/learn-claude-code",
+   "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+   "stars": 79764,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "tutorial",
+    "teaching",
+    "educational",
+    "claude",
+    "ai-agent",
+    "llm",
+    "agent-development",
+    "claude-code"
+   ],
+   "updated": "2026-10-27T04:47:00Z"
+  },
+  {
+   "full": "unslothai/unsloth",
+   "desc": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+   "stars": 78966,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "text-to-speech",
+    "ui",
+    "reinforcement-learning",
+    "ai",
+    "self-hosted",
+    "tts",
+    "openai",
+    "image-generation",
+    "llama",
+    "gemma"
+   ],
+   "updated": "2026-11-02T17:12:49Z"
+  },
+  {
+   "full": "headroomlabs-ai/headroom",
+   "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+   "stars": 78658,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "typescript",
+    "compression",
+    "ai",
+    "proxy",
+    "mcp",
+    "tokens",
+    "openai",
+    "cursor",
+    "rag",
+    "fastapi"
+   ],
+   "updated": "2026-11-02T13:17:36Z"
+  },
+  {
+   "full": "rohitg00/ai-engineering-from-scratch",
+   "desc": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+   "stars": 76382,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "rust",
+    "machine-learning",
+    "tutorial",
+    "typescript",
+    "course",
+    "reinforcement-learning",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "mcp",
+    "transformers"
+   ],
+   "updated": "2026-11-02T04:26:52Z"
+  },
+  {
+   "full": "hiyouga/LlamaFactory",
+   "desc": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+   "stars": 75851,
+   "lang": "Python",
+   "topics": [
+    "nlp",
+    "agent",
+    "ai",
+    "transformers",
+    "moe",
+    "llama",
+    "gpt",
+    "lora",
+    "quantization",
+    "gemma",
+    "fine-tuning",
+    "peft"
+   ],
+   "updated": "2026-10-31T10:28:10Z"
+  },
+  {
+   "full": "FoundationAgents/MetaGPT",
+   "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+   "stars": 71135,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "multi-agent",
+    "gpt",
+    "llm",
+    "metagpt"
+   ],
+   "updated": "2026-01-21T10:12:33Z"
+  },
+  {
+   "full": "asgeirtj/system_prompts_leaks",
+   "desc": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated re",
+   "stars": 70642,
+   "lang": "Python",
+   "topics": [
+    "google",
+    "ai",
+    "chatbot",
+    "prompt",
+    "gemini",
+    "openai",
+    "cursor",
+    "grok",
+    "codex",
+    "ai-agents",
+    "claude",
+    "llm"
+   ],
+   "updated": "2026-11-02T07:02:10Z"
+  },
+  {
+   "full": "mem0ai/mem0",
+   "desc": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+   "stars": 68288,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "state-management",
+    "ai",
+    "memory",
+    "memory-management",
+    "agents",
+    "ai-agents",
+    "long-term-memory",
+    "rag",
+    "llm",
+    "chatgpt",
+    "genai"
+   ],
+   "updated": "2026-10-30T21:36:23Z"
+  },
+  {
+   "full": "Mintplex-Labs/anything-llm",
+   "desc": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+   "stars": 67862,
+   "lang": "JavaScript",
+   "topics": [
+    "ai-agents",
+    "multimodal",
+    "rag",
+    "vector-database",
+    "llm",
+    "localai",
+    "local-ai",
+    "agentic-workflow",
+    "agentic-ai",
+    "computer-use",
+    "self-hosted-ai",
+    "agent-orchestration"
+   ],
+   "updated": "2026-10-30T23:50:45Z"
+  },
+  {
+   "full": "ZhuLinsen/daily_stock_analysis",
+   "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+   "stars": 67454,
+   "lang": "Python",
+   "topics": [
+    "quant",
+    "quantitative-finance",
+    "quantitative-trading",
+    "a-stock",
+    "ai-agent",
+    "aigc",
+    "llm"
+   ],
+   "updated": "2026-11-02T15:08:46Z"
+  },
+  {
+   "full": "upstash/context7",
+   "desc": "Context7 Platform -- Up-to-date docs for AI agents",
+   "stars": 64092,
+   "lang": "TypeScript",
+   "topics": [
+    "mcp",
+    "llm",
+    "mcp-server",
+    "vibe-coding"
+   ],
+   "updated": "2026-11-02T16:19:03Z"
+  },
+  {
+   "full": "blader/humanizer",
+   "desc": "Agent skill that removes signs of AI-generated writing from text",
+   "stars": 63956,
+   "lang": "Python",
+   "topics": [
+    "humanizer",
+    "cursor",
+    "codex",
+    "claude",
+    "ai-writing",
+    "llm",
+    "prompt-engineering",
+    "chatgpt",
+    "writing-tools",
+    "agent-skills",
+    "ai-humanizer",
+    "claude-code"
+   ],
+   "updated": "2026-10-28T07:17:33Z"
+  },
+  {
+   "full": "sansan0/TrendRadar",
+   "desc": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地",
+   "stars": 63367,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "docker",
+    "rss",
+    "mail",
+    "news",
+    "ai",
+    "mcp",
+    "bark",
+    "wechat",
+    "data-analysis",
+    "trending-topics",
+    "wework"
+   ],
+   "updated": "2026-10-29T11:41:00Z"
+  },
+  {
+   "full": "BerriAI/litellm",
+   "desc": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+   "stars": 62569,
+   "lang": "Python",
+   "topics": [
+    "rust",
+    "gateway",
+    "bedrock",
+    "openai",
+    "vertex-ai",
+    "azure-openai",
+    "llm",
+    "langchain",
+    "llmops",
+    "anthropic",
+    "openai-proxy",
+    "litellm"
+   ],
+   "updated": "2026-11-02T20:14:44Z"
+  },
+  {
+   "full": "langflow-ai/langflow",
+   "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+   "stars": 156266,
+   "lang": "Python",
+   "topics": [
+    "multiagent",
+    "agents",
+    "react-flow",
+    "large-language-models",
+    "generative-ai",
+    "chatgpt"
+   ],
+   "updated": "2026-11-02T17:54:29Z"
+  },
+  {
+   "full": "binary-husky/gpt_academic",
+   "desc": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+   "stars": 71600,
+   "lang": "Python",
+   "topics": [
+    "academic",
+    "gpt-4",
+    "large-language-models",
+    "chatgpt",
+    "chatglm-6b"
+   ],
+   "updated": "2026-01-25T12:33:10Z"
+  },
+  {
+   "full": "bojieli/ai-agent-book",
+   "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+   "stars": 56963,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "reinforcement-learning",
+    "book",
+    "mcp",
+    "multi-agent",
+    "multimodal",
+    "rag",
+    "ai-agent",
+    "large-language-models",
+    "llm",
+    "agent-memory",
+    "coding-agent"
+   ],
+   "updated": "2026-10-08T15:06:27Z"
+  },
+  {
+   "full": "FlowiseAI/Flowise",
+   "desc": "Build AI Agents, Visually",
+   "stars": 55542,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "typescript",
+    "chatbot",
+    "artificial-intelligence",
+    "openai",
+    "multiagent-systems",
+    "agents",
+    "workflow-automation",
+    "low-code",
+    "no-code",
+    "rag"
+   ],
+   "updated": "2026-08-13T12:38:19Z"
+  },
+  {
+   "full": "ray-project/ray",
+   "desc": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+   "stars": 44182,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "reinforcement-learning",
+    "deep-learning",
+    "deployment",
+    "tensorflow",
+    "optimization",
+    "parallel",
+    "pytorch",
+    "distributed",
+    "hyperparameter-optimization"
+   ],
+   "updated": "2026-11-02T20:09:12Z"
+  },
+  {
+   "full": "HKUDS/LightRAG",
+   "desc": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+   "stars": 40487,
+   "lang": "Python",
+   "topics": [
+    "knowledge-graph",
+    "gpt",
+    "rag",
+    "large-language-models",
+    "llm",
+    "genai",
+    "retrieval-augmented-generation",
+    "ragas",
+    "graphrag",
+    "mineru",
+    "docling"
+   ],
+   "updated": "2026-10-29T18:05:03Z"
+  },
+  {
+   "full": "google/langextract",
+   "desc": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+   "stars": 39253,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "nlp",
+    "gemini",
+    "structured-data",
+    "gemini-api",
+    "information-extration",
+    "large-language-models",
+    "llm",
+    "gemini-pro",
+    "gemini-ai",
+    "gemini-flash"
+   ],
+   "updated": "2026-11-02T08:13:13Z"
+  },
+  {
+   "full": "langfuse/langfuse",
+   "desc": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+   "stars": 36898,
+   "lang": "TypeScript",
+   "topics": [
+    "open-source",
+    "playground",
+    "monitoring",
+    "analytics",
+    "evaluation",
+    "self-hosted",
+    "ycombinator",
+    "openai",
+    "observability",
+    "autogen",
+    "large-language-models",
+    "llm"
+   ],
+   "updated": "2026-11-02T19:27:03Z"
+  },
+  {
+   "full": "agentscope-ai/agentscope",
+   "desc": "Build and run agents you can see, understand and trust.",
+   "stars": 35223,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "mcp",
+    "chatbot",
+    "multi-agent",
+    "multi-modal",
+    "voice-assistant",
+    "voice-agent",
+    "large-language-models",
+    "llm",
+    "llm-agent",
+    "react-agent",
+    "realtime-agent"
+   ],
+   "updated": "2026-11-02T12:49:38Z"
+  },
+  {
+   "full": "stanford-oval/storm",
+   "desc": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+   "stars": 31772,
+   "lang": "Python",
+   "topics": [
+    "nlp",
+    "naacl",
+    "report-generation",
+    "knowledge-curation",
+    "large-language-models",
+    "retrieval-augmented-generation",
+    "agentic-rag",
+    "emnlp2024",
+    "deep-research"
+   ],
+   "updated": "2025-09-30T18:07:21Z"
+  },
+  {
+   "full": "aishwaryanr/awesome-generative-ai-guide",
+   "desc": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+   "stars": 30103,
+   "lang": "HTML",
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "interview-questions",
+    "vision-and-language",
+    "notebook-jupyter",
+    "large-language-models",
+    "llms",
+    "generative-ai"
+   ],
+   "updated": "2026-10-28T23:53:56Z"
+  },
+  {
+   "full": "HandsOnLLM/Hands-On-Large-Language-Models",
+   "desc": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+   "stars": 30010,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "book",
+    "artificial-intelligence",
+    "oreilly",
+    "oreilly-books",
+    "large-language-models",
+    "llm",
+    "llms"
+   ],
+   "updated": "2026-04-24T10:20:08Z"
+  },
+  {
+   "full": "deepset-ai/haystack",
+   "desc": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalabl",
+   "stars": 26913,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "information-retrieval",
+    "framework",
+    "ai",
+    "mcp",
+    "orchestration",
+    "multi-agent",
+    "agents",
+    "semantic-search",
+    "ai-agents",
+    "rag",
+    "agent-framework"
+   ],
+   "updated": "2026-11-02T16:50:33Z"
+  },
+  {
+   "full": "dipakkr/awesome-ai-engineering",
+   "desc": "🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, fine-tuning, evaluations, and production AI systems.",
+   "stars": 22517,
+   "lang": null,
+   "topics": [
+    "machine-learning",
+    "deep-learning",
+    "mcp",
+    "artificial-intelligence",
+    "awesome-lists",
+    "ai-agents",
+    "learning-resources",
+    "fine-tuning",
+    "rag",
+    "ai-engineering",
+    "ai-tools",
+    "large-language-models"
+   ],
+   "updated": "2026-10-21T16:19:25Z"
+  },
+  {
+   "full": "QwenLM/Qwen",
+   "desc": "The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.",
+   "stars": 21989,
+   "lang": "Python",
+   "topics": [
+    "natural-language-processing",
+    "chinese",
+    "pretrained-models",
+    "large-language-models",
+    "llm",
+    "flash-attention"
+   ],
+   "updated": "2026-03-05T13:55:17Z"
+  },
+  {
+   "full": "stefan-jansen/machine-learning-for-trading",
+   "desc": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+   "stars": 21680,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "finance",
+    "data-science",
+    "machine-learning",
+    "reinforcement-learning",
+    "deep-learning",
+    "trading",
+    "artificial-intelligence",
+    "trading-strategies",
+    "quantitative-finance",
+    "investment",
+    "algorithmic-trading",
+    "backtesting"
+   ],
+   "updated": "2026-10-29T14:11:16Z"
+  },
+  {
+   "full": "AI4Finance-Foundation/FinGPT",
+   "desc": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.",
+   "stars": 21514,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "nlp",
+    "finance",
+    "machine-learning",
+    "reinforcement-learning",
+    "sentiment-analysis",
+    "pytorch",
+    "fintech",
+    "technical-analysis",
+    "robo-advisor",
+    "large-language-models",
+    "prompt-engineering",
+    "chatgpt"
+   ],
+   "updated": "2026-10-25T13:49:15Z"
+  },
+  {
+   "full": "stas00/ml-engineering",
+   "desc": "Machine Learning Engineering Open Book",
+   "stars": 19654,
+   "lang": "Python",
+   "topics": [
+    "training",
+    "debugging",
+    "machine-learning",
+    "ai",
+    "storage",
+    "network",
+    "scalability",
+    "transformers",
+    "slurm",
+    "inference",
+    "pytorch",
+    "machine-learning-engineering"
+   ],
+   "updated": "2026-11-02T02:23:24Z"
+  },
+  {
+   "full": "ymcui/Chinese-LLaMA-Alpaca",
+   "desc": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)",
+   "stars": 18923,
+   "lang": "Python",
+   "topics": [
+    "nlp",
+    "llama",
+    "lora",
+    "quantization",
+    "alpaca",
+    "plm",
+    "pre-trained-language-models",
+    "large-language-models",
+    "llm",
+    "llama-2",
+    "alpaca-2"
+   ],
+   "updated": "2026-04-19T00:58:05Z"
+  },
+  {
+   "full": "NVIDIA/Megatron-LM",
+   "desc": "Ongoing research training transformer models at scale",
+   "stars": 18317,
+   "lang": "Python",
+   "topics": [
+    "transformers",
+    "model-para",
+    "large-language-models"
+   ],
+   "updated": "2026-11-02T20:12:03Z"
+  },
+  {
+   "full": "BradyFU/Awesome-Multimodal-Large-Language-Models",
+   "desc": "✨✨Latest Advances on Multimodal Large Language Models",
+   "stars": 18074,
+   "lang": null,
+   "topics": [
+    "multi-modality",
+    "instruction-following",
+    "in-context-learning",
+    "large-language-models",
+    "chain-of-thought",
+    "instruction-tuning",
+    "visual-instruction-tuning",
+    "large-vision-language-model",
+    "multimodal-instruction-tuning",
+    "large-vision-language-models",
+    "multimodal-large-language-models",
+    "multimodal-in-context-learning"
+   ],
+   "updated": "2026-10-29T06:10:45Z"
+  },
+  {
+   "full": "camel-ai/camel",
+   "desc": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+   "stars": 18008,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "natural-language-processing",
+    "deep-learning",
+    "artificial-intelligence",
+    "multi-agent-systems",
+    "ai-societies",
+    "large-language-models",
+    "cooperative-ai",
+    "communicative-ai"
+   ],
+   "updated": "2026-11-02T10:15:02Z"
+  },
+  {
+   "full": "GoogleCloudPlatform/generative-ai",
+   "desc": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform",
+   "stars": 17838,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "google",
+    "gcp",
+    "google-cloud",
+    "gemini",
+    "agents",
+    "gemini-api",
+    "vertex-ai",
+    "vertexai",
+    "large-language-models",
+    "llm",
+    "generative-ai",
+    "langchain"
+   ],
+   "updated": "2026-11-02T12:30:19Z"
+  },
+  {
+   "full": "GreyDGL/PentestGPT",
+   "desc": "Automated Penetration Testing Agentic Framework Powered by Large Language Models",
+   "stars": 16247,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "penetration-testing",
+    "large-language-models",
+    "llm"
+   ],
+   "updated": "2026-07-14T12:58:31Z"
+  },
+  {
+   "full": "zai-org/ChatGLM2-6B",
+   "desc": "ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型",
+   "stars": 15482,
+   "lang": "Python",
+   "topics": [
+    "large-language-models",
+    "llm",
+    "chatglm",
+    "chatglm-6b"
+   ],
+   "updated": "2024-06-27T04:05:08Z"
+  },
+  {
+   "full": "NVIDIA/DeepLearningExamples",
+   "desc": "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
+   "stars": 14870,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "nlp",
+    "translation",
+    "computer-vision",
+    "deep-learning",
+    "mxnet",
+    "tensorflow",
+    "pytorch",
+    "speech-synthesis",
+    "speech-recognition",
+    "forecasting",
+    "drug-discovery",
+    "recommender-systems"
+   ],
+   "updated": "2024-08-12T14:01:29Z"
+  },
+  {
+   "full": "Lightning-AI/litgpt",
+   "desc": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+   "stars": 13742,
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "deep-learning",
+    "artificial-intelligence",
+    "large-language-models",
+    "llm",
+    "llms",
+    "llm-inference"
+   ],
+   "updated": "2026-11-01T10:26:54Z"
+  },
+  {
+   "full": "FareedKhan-dev/train-llm-from-scratch",
+   "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
+   "stars": 13099,
+   "lang": "Python",
+   "topics": [
+    "training",
+    "transformers",
+    "gemini",
+    "openai",
+    "large-language-models",
+    "llm"
+   ],
+   "updated": "2026-10-02T14:45:19Z"
+  },
+  {
+   "full": "neuml/txtai",
+   "desc": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+   "stars": 13062,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "search",
+    "nlp",
+    "search-engine",
+    "information-retrieval",
+    "ai",
+    "transformers",
+    "embeddings",
+    "language-model",
+    "agents",
+    "semantic-search",
+    "ai-agents"
+   ],
+   "updated": "2026-11-01T15:12:49Z"
+  },
+  {
+   "full": "eugeneyan/open-llms",
+   "desc": "📋 A list of open LLMs available for commercial use.",
+   "stars": 12886,
+   "lang": null,
+   "topics": [
+    "commercial",
+    "large-language-models",
+    "llm",
+    "llms"
+   ],
+   "updated": "2025-02-13T06:37:12Z"
+  },
+  {
+   "full": "steven2358/awesome-generative-ai",
+   "desc": "A curated list of modern Generative Artificial Intelligence projects and services",
+   "stars": 12802,
+   "lang": null,
+   "topics": [
+    "awesome",
+    "ai",
+    "artificial-intelligence",
+    "generative-art",
+    "awesome-list",
+    "large-language-models",
+    "llm",
+    "generative-ai"
+   ],
+   "updated": "2026-10-30T17:31:48Z"
+  },
+  {
+   "full": "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+   "desc": "Pocket Flow: Codebase to Tutorial",
+   "stars": 12731,
+   "lang": "Python",
+   "topics": [
+    "coding",
+    "large-language-models",
+    "llm",
+    "llms",
+    "large-language-model",
+    "llm-agent",
+    "llm-framework",
+    "pocket-flow",
+    "llm-apps",
+    "llm-agents",
+    "llm-application",
+    "llm-frameworks"
+   ],
+   "updated": "2026-05-31T01:26:41Z"
+  },
+  {
+   "full": "sapientinc/HRM",
+   "desc": "Hierarchical Reasoning Model Official Release",
+   "stars": 12666,
+   "lang": "Python",
+   "topics": [
+    "deep-learning",
+    "reasoning",
+    "large-language-models",
+    "brain-inspired-ai"
+   ],
+   "updated": "2026-03-31T23:08:31Z"
+  },
+  {
+   "full": "OpenMOSS/MOSS",
+   "desc": "An open-source, tool-augmented conversational language model from Fudan University",
+   "stars": 12331,
+   "lang": "Python",
+   "topics": [
+    "natural-language-processing",
+    "deep-learning",
+    "text-generation",
+    "dialogue-systems",
+    "large-language-models",
+    "chatgpt"
+   ],
+   "updated": "2026-09-06T06:19:22Z"
+  },
+  {
+   "full": "RUCAIBox/LLMSurvey",
+   "desc": "The official GitHub page for the survey paper \"A Survey of Large Language Models\".",
+   "stars": 12232,
+   "lang": "Python",
+   "topics": [
+    "natural-language-processing",
+    "pre-training",
+    "pre-trained-language-models",
+    "in-context-learning",
+    "large-language-models",
+    "llm",
+    "llms",
+    "chain-of-thought",
+    "chatgpt",
+    "rlhf",
+    "instruction-tuning"
+   ],
+   "updated": "2025-03-11T09:51:42Z"
+  },
+  {
+   "full": "tensorzero/tensorzero",
+   "desc": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+   "stars": 11709,
+   "lang": "Rust",
+   "topics": [
+    "python",
+    "rust",
+    "machine-learning",
+    "ai",
+    "deep-learning",
+    "ml",
+    "artificial-intelligence",
+    "openai",
+    "llama",
+    "gpt",
+    "mlops",
+    "ml-engineering"
+   ],
+   "updated": "2026-06-11T01:48:44Z"
+  },
+  {
+   "full": "The-Pocket/PocketFlow",
+   "desc": "Pocket Flow: 100-line LLM framework. Let Agents build Agents!",
+   "stars": 11294,
+   "lang": "Python",
+   "topics": [
+    "workflow",
+    "artificial-intelligence",
+    "flow-based-programming",
+    "agents",
+    "ai-framework",
+    "workflow-orchestration",
+    "ai-frameworks",
+    "flow-engineering",
+    "large-language-models",
+    "large-language-model",
+    "llm-agent",
+    "retrieval-augmented-generation"
+   ],
+   "updated": "2026-07-26T16:13:20Z"
+  }
+ ]
+}

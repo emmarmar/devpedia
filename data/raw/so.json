@@ -1,0 +1,1170 @@
+{
+ "subId": "so",
+ "topics": [
+  "operating-system",
+  "kernel"
+ ],
+ "crawledAt": "2026-11-02T20:20:05.251Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "HeyPuter/puter",
+   "desc": "🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.",
+   "stars": 44064,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "open-source",
+    "gui",
+    "cloud",
+    "dropbox",
+    "storage",
+    "os",
+    "desktop",
+    "cloud-storage",
+    "osjs",
+    "operating-system",
+    "remote-desktop"
+   ],
+   "updated": "2026-11-02T20:05:35Z"
+  },
+  {
+   "full": "huihut/interview",
+   "desc": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data st",
+   "stars": 38281,
+   "lang": "C++",
+   "topics": [
+    "c",
+    "algorithm",
+    "database",
+    "leetcode",
+    "cpp",
+    "stl",
+    "interview",
+    "operating-system",
+    "data-structures",
+    "interviews",
+    "interview-practice",
+    "interview-questions"
+   ],
+   "updated": "2026-09-17T07:18:55Z"
+  },
+  {
+   "full": "SerenityOS/serenity",
+   "desc": "The Serenity Operating System 🐞",
+   "stars": 33938,
+   "lang": "C++",
+   "topics": [
+    "c-plus-plus",
+    "unix",
+    "browser",
+    "kernel",
+    "os",
+    "operating-system",
+    "desktop-environment"
+   ],
+   "updated": "2026-11-02T11:09:45Z"
+  },
+  {
+   "full": "anoma/anoma",
+   "desc": "Reference implementation of Anoma",
+   "stars": 33553,
+   "lang": "Elixir",
+   "topics": [
+    "distributed-systems",
+    "cryptography",
+    "erlang",
+    "elixir",
+    "protocol",
+    "blockchain",
+    "p2p",
+    "consensus",
+    "operating-system"
+   ],
+   "updated": "2026-06-15T14:56:43Z"
+  },
+  {
+   "full": "Awesome-HarmonyOS/HarmonyOS",
+   "desc": "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。",
+   "stars": 20014,
+   "lang": "C",
+   "topics": [
+    "iot",
+    "awesome",
+    "kernel",
+    "architecture",
+    "os",
+    "operating-system",
+    "iot-platform",
+    "huawei",
+    "harmonyos"
+   ],
+   "updated": "2024-07-19T18:47:55Z"
+  },
+  {
+   "full": "reactos/reactos",
+   "desc": "A free Windows-compatible Operating System",
+   "stars": 18422,
+   "lang": "C",
+   "topics": [
+    "c",
+    "windows",
+    "kernel",
+    "os",
+    "osdev",
+    "operating-system",
+    "x86",
+    "gpl",
+    "drivers",
+    "win32",
+    "win32api",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T18:05:07Z"
+  },
+  {
+   "full": "RightNow-AI/openfang",
+   "desc": "Open-source Agent Operating System",
+   "stars": 18241,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "open-source",
+    "mcp",
+    "operating-system",
+    "ai-agents",
+    "agent-framework",
+    "llm",
+    "openclaw"
+   ],
+   "updated": "2026-07-02T08:13:12Z"
+  },
+  {
+   "full": "phil-opp/blog_os",
+   "desc": "Writing an OS in Rust",
+   "stars": 17789,
+   "lang": "HTML",
+   "topics": [
+    "rust",
+    "kernel",
+    "x86-64",
+    "operating-system"
+   ],
+   "updated": "2026-10-28T06:23:11Z"
+  },
+  {
+   "full": "redox-os/redox",
+   "desc": "Mirror of https://gitlab.redox-os.org/redox-os/redox",
+   "stars": 16679,
+   "lang": "Rust",
+   "topics": [
+    "linux",
+    "rust",
+    "open-source",
+    "freebsd",
+    "openbsd",
+    "redox",
+    "posix",
+    "operating-system",
+    "bsd",
+    "plan9",
+    "gnu",
+    "microkernel"
+   ],
+   "updated": "2026-09-27T19:17:36Z"
+  },
+  {
+   "full": "rust-embedded/rust-raspberrypi-OS-tutorials",
+   "desc": "📚 Learn to write an embedded OS in Rust 🦀",
+   "stars": 14742,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "raspberry-pi",
+    "tutorial",
+    "kernel",
+    "os",
+    "operating-system",
+    "raspberry",
+    "rpi3",
+    "arm64",
+    "aarch64",
+    "bare-metal",
+    "armv8"
+   ],
+   "updated": "2024-02-10T03:24:45Z"
+  },
+  {
+   "full": "s-matyukevich/raspberry-pi-os",
+   "desc": "Learning operating system development using Linux kernel and Raspberry Pi",
+   "stars": 13963,
+   "lang": "C",
+   "topics": [
+    "c",
+    "education",
+    "raspberry-pi",
+    "arm",
+    "tutorial",
+    "kernel",
+    "resource",
+    "linux-kernel",
+    "assembler",
+    "osdev",
+    "operating-system",
+    "learn"
+   ],
+   "updated": "2024-03-29T21:19:52Z"
+  },
+  {
+   "full": "tuhdo/os01",
+   "desc": "Bootstrap yourself to write an OS from scratch. A book for self-learner.",
+   "stars": 13764,
+   "lang": "TeX",
+   "topics": [
+    "book",
+    "operating-system"
+   ],
+   "updated": "2024-03-26T16:21:49Z"
+  },
+  {
+   "full": "gurugio/lowlevelprogramming-university",
+   "desc": "How to be low-level programmer",
+   "stars": 12762,
+   "lang": null,
+   "topics": [
+    "programming-language",
+    "arduino",
+    "hardware",
+    "firmware",
+    "assembly",
+    "linux-kernel",
+    "embedded-systems",
+    "operating-system",
+    "rust-lang",
+    "low-level",
+    "system-programming",
+    "assembly-language-programming"
+   ],
+   "updated": "2025-03-24T11:49:58Z"
+  },
+  {
+   "full": "AkashSingh3031/The-Complete-FAANG-Preparation",
+   "desc": "Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We've got Technical Subjects like Operating",
+   "stars": 12306,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "java",
+    "readme",
+    "sql",
+    "algorithms",
+    "leetcode",
+    "cpp",
+    "dbms",
+    "jupyter-notebook",
+    "operating-system",
+    "data-structures",
+    "learn"
+   ],
+   "updated": "2026-10-12T11:34:39Z"
+  },
+  {
+   "full": "wolverinn/Waking-Up",
+   "desc": "计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试；可用于模拟面试、面试前复习、短期内快速备战面试...",
+   "stars": 10307,
+   "lang": null,
+   "topics": [
+    "python",
+    "git",
+    "computer-science",
+    "database",
+    "interview",
+    "operating-system",
+    "interview-questions",
+    "computer-network"
+   ],
+   "updated": "2024-10-29T10:23:02Z"
+  },
+  {
+   "full": "bottlerocket-os/bottlerocket",
+   "desc": "An operating system designed for hosting containers",
+   "stars": 9697,
+   "lang": "Rust",
+   "topics": [
+    "linux",
+    "rust",
+    "containers",
+    "operating-system"
+   ],
+   "updated": "2026-10-31T19:07:13Z"
+  },
+  {
+   "full": "ublue-os/bazzite",
+   "desc": "Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.",
+   "stars": 9259,
+   "lang": "Just",
+   "topics": [
+    "steam",
+    "gaming",
+    "handheld",
+    "desktop",
+    "valve",
+    "operating-system",
+    "oci-image",
+    "htpc",
+    "ostree",
+    "handhelds",
+    "bazzite",
+    "fedora-silverblue"
+   ],
+   "updated": "2026-11-02T20:13:30Z"
+  },
+  {
+   "full": "NodeOS/NodeOS",
+   "desc": "Lightweight operating system using Node.js as userspace",
+   "stars": 7344,
+   "lang": "Shell",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "operating-system",
+    "nodeos"
+   ],
+   "updated": "2023-03-07T09:36:32Z"
+  },
+  {
+   "full": "ravynsoft/ravynos",
+   "desc": "An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.",
+   "stars": 7095,
+   "lang": "C",
+   "topics": [
+    "c",
+    "macos",
+    "freebsd",
+    "unix",
+    "objective-c",
+    "cpp",
+    "darwin",
+    "desktop",
+    "osdev",
+    "operating-system",
+    "cocoa",
+    "hacktoberfest"
+   ],
+   "updated": "2026-09-06T21:02:41Z"
+  },
+  {
+   "full": "klange/toaruos",
+   "desc": "Complete, independent operating system built by humans.",
+   "stars": 6865,
+   "lang": "C",
+   "topics": [
+    "c",
+    "kernel",
+    "x86-64",
+    "os",
+    "osdev",
+    "operating-system",
+    "text-editor",
+    "window-manager",
+    "toaruos",
+    "smp",
+    "x86",
+    "bootloader"
+   ],
+   "updated": "2026-10-25T14:07:03Z"
+  },
+  {
+   "full": "tock/tock",
+   "desc": "A secure embedded operating system for microcontrollers",
+   "stars": 6486,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "iot",
+    "arm",
+    "microcontroller",
+    "embedded",
+    "kernel",
+    "cortex-m",
+    "operating-system",
+    "mcu",
+    "tock",
+    "risc-v",
+    "secure-operating-system"
+   ],
+   "updated": "2026-11-02T00:25:48Z"
+  },
+  {
+   "full": "yourtion/30dayMakeOS",
+   "desc": "《30天自制操作系统》源码中文版。自己制作一个操作系统（OSASK）的过程",
+   "stars": 6471,
+   "lang": "C",
+   "topics": [
+    "c",
+    "linux",
+    "osx",
+    "nasa",
+    "stdlib",
+    "asm",
+    "os",
+    "boot",
+    "operating-system",
+    "qemu",
+    "diy",
+    "idt"
+   ],
+   "updated": "2024-04-01T08:14:55Z"
+  },
+  {
+   "full": "armbian/build",
+   "desc": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specif",
+   "stars": 5506,
+   "lang": "Shell",
+   "topics": [
+    "linux",
+    "lightweight",
+    "arm",
+    "image",
+    "framework",
+    "kernel",
+    "debian",
+    "ubuntu",
+    "firmware",
+    "iso",
+    "operating-system",
+    "linux-distribution"
+   ],
+   "updated": "2026-11-02T20:13:29Z"
+  },
+  {
+   "full": "beclab/Olares",
+   "desc": "Open-Source Personal Cloud OS for Always-On Agents",
+   "stars": 5335,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "self-hosted",
+    "operating-system",
+    "cloud-native",
+    "data-privacy",
+    "homelab",
+    "personal-cloud",
+    "ai-agents",
+    "model-serving",
+    "edge-ai",
+    "local-ai",
+    "agentic-ai"
+   ],
+   "updated": "2026-11-02T18:55:15Z"
+  },
+  {
+   "full": "oshi/oshi",
+   "desc": "Native Operating System and Hardware Information",
+   "stars": 5274,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "metrics",
+    "jna",
+    "operating-system",
+    "hardware-information",
+    "memory-usage",
+    "system-monitoring",
+    "cpu-usage",
+    "disk-utilization",
+    "process-list",
+    "foreign-function-and-memory-api"
+   ],
+   "updated": "2026-11-02T02:02:21Z"
+  },
+  {
+   "full": "includeos/IncludeOS",
+   "desc": "A minimal, resource efficient unikernel for cloud services",
+   "stars": 5257,
+   "lang": "C++",
+   "topics": [
+    "cpp",
+    "virtualization",
+    "operating-system",
+    "unikernel"
+   ],
+   "updated": "2026-05-15T07:52:49Z"
+  },
+  {
+   "full": "unikraft/unikraft",
+   "desc": "A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.",
+   "stars": 3913,
+   "lang": "C",
+   "topics": [
+    "security",
+    "application",
+    "library",
+    "performance",
+    "cloud",
+    "kernel",
+    "microservice",
+    "virtualization",
+    "os",
+    "osdev",
+    "operating-system",
+    "unikernel"
+   ],
+   "updated": "2026-10-29T23:40:50Z"
+  },
+  {
+   "full": "yhzhang0128/egos-2000",
+   "desc": "Envision a future where everyone can read all the code of an educational operating system.",
+   "stars": 3705,
+   "lang": "C",
+   "topics": [
+    "education",
+    "operating-system"
+   ],
+   "updated": "2026-08-16T12:54:44Z"
+  },
+  {
+   "full": "littlekernel/lk",
+   "desc": "LK embedded kernel",
+   "stars": 3704,
+   "lang": "C",
+   "topics": [
+    "operating-system",
+    "rtos"
+   ],
+   "updated": "2026-10-29T20:35:14Z"
+  },
+  {
+   "full": "amilajack/reading",
+   "desc": "A list of computer-science readings I recommend",
+   "stars": 3666,
+   "lang": null,
+   "topics": [
+    "computer-science",
+    "science",
+    "research",
+    "compiler",
+    "static-analysis",
+    "concurrency",
+    "parallel-computing",
+    "reading",
+    "garbage-collection",
+    "operating-system",
+    "type-system",
+    "academia"
+   ],
+   "updated": "2022-08-30T18:41:46Z"
+  },
+  {
+   "full": "nuta/kerla",
+   "desc": "A new operating system kernel with Linux binary compatibility written in Rust.",
+   "stars": 3469,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "operating-system",
+    "operating-system-kernel"
+   ],
+   "updated": "2026-02-23T14:16:30Z"
+  },
+  {
+   "full": "maestro-os/maestro",
+   "desc": "Lightweight, Linux-compatible kernel, written in Rust to leverage the safety of the typesystem. Aiming to remove as much legacy as possible while supporting most usecases",
+   "stars": 3343,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "lightweight",
+    "unix",
+    "kernel",
+    "x86-64",
+    "os",
+    "posix",
+    "operating-system"
+   ],
+   "updated": "2026-10-10T13:57:42Z"
+  },
+  {
+   "full": "theseus-os/Theseus",
+   "desc": "Theseus is a modern OS written from scratch in Rust that explores 𝐢𝐧𝐭𝐫𝐚𝐥𝐢𝐧𝐠𝐮𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧: closing the semantic gap between compiler and hardware by maximally leveraging the power of language safety and affine types. Theseus a",
+   "stars": 3222,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "research",
+    "kernel",
+    "operating-system",
+    "theseus",
+    "intralingual"
+   ],
+   "updated": "2024-09-22T18:48:20Z"
+  },
+  {
+   "full": "IceWhaleTech/ZimaOS",
+   "desc": "A Simplified, Focused and Open NAS OS_",
+   "stars": 3086,
+   "lang": "Shell",
+   "topics": [
+    "os",
+    "operating-system",
+    "nas"
+   ],
+   "updated": "2026-10-15T11:10:39Z"
+  },
+  {
+   "full": "skift-org/skift",
+   "desc": "🥑 A modern delightful operating system (mirror)",
+   "stars": 2993,
+   "lang": "C++",
+   "topics": [
+    "c-plus-plus",
+    "kernel",
+    "cpp",
+    "osdev",
+    "operating-system",
+    "desktop-environment",
+    "userspace",
+    "skift"
+   ],
+   "updated": "2026-07-08T18:55:47Z"
+  },
+  {
+   "full": "the-akira/Computer-Science-Resources",
+   "desc": "Collection of resources spanning key areas of Computer Science",
+   "stars": 2835,
+   "lang": null,
+   "topics": [
+    "javascript",
+    "python",
+    "programming-language",
+    "machine-learning",
+    "cryptography",
+    "database",
+    "networking",
+    "physics",
+    "assembly",
+    "regular-expression",
+    "mathematics",
+    "artificial-intelligence"
+   ],
+   "updated": "2025-09-19T20:07:49Z"
+  },
+  {
+   "full": "PureDarwin/PureDarwin",
+   "desc": "Darwin is the Open Source core of macOS, and PureDarwin is a community project to extend Darwin into a complete, usable operating system.",
+   "stars": 2825,
+   "lang": "C",
+   "topics": [
+    "darwin",
+    "operating-system",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-30T00:17:51Z"
+  },
+  {
+   "full": "vlang/vinix",
+   "desc": "Vinix is an effort to write a modern, fast, and useful operating system in the V programming language",
+   "stars": 2716,
+   "lang": "V",
+   "topics": [
+    "os",
+    "operating-system",
+    "v",
+    "hacktoberfest",
+    "vlang"
+   ],
+   "updated": "2026-11-02T11:03:38Z"
+  },
+  {
+   "full": "Zeal-Operating-System/ZealOS",
+   "desc": "The Zeal Operating System is a modernized fork of the 64-bit Temple Operating System, TempleOS.",
+   "stars": 2432,
+   "lang": "HolyC",
+   "topics": [
+    "operating-system",
+    "public-domain",
+    "templeos",
+    "holyc",
+    "terry-davis",
+    "zenithos",
+    "zealos"
+   ],
+   "updated": "2026-09-14T04:11:27Z"
+  },
+  {
+   "full": "haiku/haiku",
+   "desc": "The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).",
+   "stars": 2377,
+   "lang": "C++",
+   "topics": [
+    "beos",
+    "operating-system",
+    "haiku"
+   ],
+   "updated": "2026-11-02T16:00:06Z"
+  },
+  {
+   "full": "cilium/cilium",
+   "desc": "eBPF-based Networking, Security, and Observability",
+   "stars": 25760,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "security",
+    "networking",
+    "monitoring",
+    "kernel",
+    "containers",
+    "cncf",
+    "k8s",
+    "ebpf",
+    "xdp",
+    "troubleshooting",
+    "observability"
+   ],
+   "updated": "2026-11-02T20:05:24Z"
+  },
+  {
+   "full": "tiann/KernelSU",
+   "desc": "A Kernel based root solution for Android",
+   "stars": 19992,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "kernel",
+    "root",
+    "su",
+    "kernelsu"
+   ],
+   "updated": "2026-11-02T15:52:49Z"
+  },
+  {
+   "full": "google/gvisor",
+   "desc": "Application Kernel for Containers",
+   "stars": 19849,
+   "lang": "Go",
+   "topics": [
+    "linux",
+    "docker",
+    "kubernetes",
+    "kernel",
+    "containers",
+    "sandbox",
+    "oci"
+   ],
+   "updated": "2026-11-02T20:18:32Z"
+  },
+  {
+   "full": "RT-Thread/rt-thread",
+   "desc": "RT-Thread is an open source IoT Real-Time Operating System (RTOS). https://rt-thread.github.io/rt-thread/",
+   "stars": 12321,
+   "lang": "C",
+   "topics": [
+    "iot",
+    "arm",
+    "real-time",
+    "microcontroller",
+    "kernel",
+    "cortex-m",
+    "mips",
+    "embedded-systems",
+    "microkernel",
+    "rtos",
+    "risc-v",
+    "cortex-a"
+   ],
+   "updated": "2026-11-02T10:20:45Z"
+  },
+  {
+   "full": "apple/darwin-xnu",
+   "desc": "Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu",
+   "stars": 11272,
+   "lang": "C",
+   "topics": [
+    "kernel"
+   ],
+   "updated": "2023-01-13T01:48:01Z"
+  },
+  {
+   "full": "winfsp/winfsp",
+   "desc": "Windows File System Proxy - FUSE for Windows",
+   "stars": 9016,
+   "lang": "C",
+   "topics": [
+    "windows",
+    "fuse",
+    "kernel",
+    "gplv3",
+    "filesystem",
+    "driver",
+    "windows-kernel"
+   ],
+   "updated": "2026-10-13T14:32:26Z"
+  },
+  {
+   "full": "SecWiki/windows-kernel-exploits",
+   "desc": "windows-kernel-exploits Windows平台提权漏洞集合",
+   "stars": 8764,
+   "lang": "C",
+   "topics": [
+    "windows",
+    "kernel",
+    "exploit",
+    "tool",
+    "collections",
+    "pentest"
+   ],
+   "updated": "2021-06-11T23:29:15Z"
+  },
+  {
+   "full": "sysprog21/lkmpg",
+   "desc": "The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)",
+   "stars": 8636,
+   "lang": "TeX",
+   "topics": [
+    "c",
+    "linux",
+    "documentation",
+    "books",
+    "kernel",
+    "linux-kernel",
+    "device-driver",
+    "linux-kernel-module",
+    "linux-kernel-driver",
+    "lkm",
+    "lkmpg"
+   ],
+   "updated": "2026-09-07T18:07:29Z"
+  },
+  {
+   "full": "bmax121/APatch",
+   "desc": "The patching of Android kernel and Android system",
+   "stars": 8121,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "kernel",
+    "root",
+    "patch",
+    "magisk",
+    "inline-hook",
+    "magisk-module"
+   ],
+   "updated": "2026-11-02T19:20:00Z"
+  },
+  {
+   "full": "0voice/linux_kernel_wiki",
+   "desc": "linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频",
+   "stars": 7903,
+   "lang": null,
+   "topics": [
+    "linux",
+    "kernel",
+    "linux-kernel",
+    "linux-kernel-module"
+   ],
+   "updated": "2024-05-20T12:12:25Z"
+  },
+  {
+   "full": "hust-open-atom-club/linux-insides-zh",
+   "desc": "Linux 内核揭秘",
+   "stars": 7739,
+   "lang": "Python",
+   "topics": [
+    "linux",
+    "kernel",
+    "chinese-translation"
+   ],
+   "updated": "2026-09-01T03:36:04Z"
+  },
+  {
+   "full": "google/syzkaller",
+   "desc": "syzkaller is an unsupervised coverage-guided kernel fuzzer",
+   "stars": 6386,
+   "lang": "Go",
+   "topics": [
+    "testing",
+    "linux",
+    "security",
+    "kernel",
+    "fuzzing",
+    "fuzz-testing",
+    "security-vulnerability",
+    "fuzzer",
+    "security-tools"
+   ],
+   "updated": "2026-11-02T13:58:40Z"
+  },
+  {
+   "full": "leandromoreira/linux-network-performance-parameters",
+   "desc": "Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺",
+   "stars": 5829,
+   "lang": null,
+   "topics": [
+    "linux",
+    "performance",
+    "kernel",
+    "tcp",
+    "network",
+    "sysctl"
+   ],
+   "updated": "2026-06-03T22:22:15Z"
+  },
+  {
+   "full": "SecWiki/linux-kernel-exploits",
+   "desc": "linux-kernel-exploits Linux平台提权漏洞集合",
+   "stars": 5666,
+   "lang": "C",
+   "topics": [
+    "linux",
+    "awesome",
+    "collection",
+    "kernel",
+    "exploit",
+    "tool",
+    "pentest"
+   ],
+   "updated": "2020-07-13T05:02:00Z"
+  },
+  {
+   "full": "MichielDerhaeg/build-linux",
+   "desc": "A short tutorial about building Linux based operating systems.",
+   "stars": 5201,
+   "lang": "Shell",
+   "topics": [
+    "tutorial",
+    "kernel",
+    "busybox"
+   ],
+   "updated": "2024-06-03T16:41:09Z"
+  },
+  {
+   "full": "cilium/tetragon",
+   "desc": "eBPF-based Security Observability and Runtime Enforcement",
+   "stars": 5146,
+   "lang": "C",
+   "topics": [
+    "kubernetes",
+    "security",
+    "kernel",
+    "ebpf",
+    "bpf"
+   ],
+   "updated": "2026-11-02T19:13:21Z"
+  },
+  {
+   "full": "asterinas/asterinas",
+   "desc": "Asterinas aims to be a production-grade Linux alternative—memory safe, high-performance, and more.",
+   "stars": 5056,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "kernel",
+    "os",
+    "tee"
+   ],
+   "updated": "2026-11-02T14:24:24Z"
+  },
+  {
+   "full": "CachyOS/linux-cachyos",
+   "desc": "Archlinux Kernel based on different schedulers and some other performance improvements.",
+   "stars": 4769,
+   "lang": "Shell",
+   "topics": [
+    "performance",
+    "kernel",
+    "archlinux",
+    "linux-kernel",
+    "performance-tuning",
+    "cachy-scheduler",
+    "cachy",
+    "cachyos",
+    "cacule-sched",
+    "baby-sched"
+   ],
+   "updated": "2026-11-02T14:33:58Z"
+  },
+  {
+   "full": "KernelSU-Next/KernelSU-Next",
+   "desc": "An advanced Kernel based root solution for Android",
+   "stars": 4693,
+   "lang": "C",
+   "topics": [
+    "android",
+    "kernel",
+    "root",
+    "su",
+    "kernelsu",
+    "susfs",
+    "kernelsu-next",
+    "susfs4ksu"
+   ],
+   "updated": "2026-11-02T05:52:01Z"
+  },
+  {
+   "full": "Joshua-Riek/ubuntu-rockchip",
+   "desc": "Ubuntu for Rockchip RK35XX Devices",
+   "stars": 4104,
+   "lang": "Shell",
+   "topics": [
+    "linux",
+    "arm",
+    "embedded",
+    "kernel",
+    "ubuntu",
+    "firmware",
+    "rockchip",
+    "arm64",
+    "orangepi",
+    "sbc",
+    "uboot",
+    "nanopi"
+   ],
+   "updated": "2025-09-13T16:08:39Z"
+  },
+  {
+   "full": "chyyuu/os_kernel_lab",
+   "desc": "OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32",
+   "stars": 4044,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "kernel",
+    "os",
+    "lab",
+    "risc-v"
+   ],
+   "updated": "2023-01-27T03:05:28Z"
+  },
+  {
+   "full": "gopherdata/gophernotes",
+   "desc": "The Go kernel for Jupyter notebooks and nteract.",
+   "stars": 3969,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "data-science",
+    "machine-learning",
+    "kernel",
+    "jupyter",
+    "zeromq",
+    "jupyter-notebook",
+    "nteract",
+    "artificial-intelligence",
+    "numerical-methods",
+    "gophernotes"
+   ],
+   "updated": "2026-09-23T13:53:49Z"
+  },
+  {
+   "full": "cilium/pwru",
+   "desc": "Packet, where are you? -- eBPF-based Linux kernel networking debugger",
+   "stars": 3846,
+   "lang": "C",
+   "topics": [
+    "linux",
+    "kernel",
+    "network",
+    "tracing",
+    "ebpf",
+    "bpf"
+   ],
+   "updated": "2026-10-30T10:40:17Z"
+  },
+  {
+   "full": "gmh5225/awesome-game-security",
+   "desc": "awesome game security [Welcome to PR]",
+   "stars": 3687,
+   "lang": "Python",
+   "topics": [
+    "android",
+    "game",
+    "windows",
+    "security",
+    "awesome",
+    "kernel",
+    "system",
+    "hack",
+    "engine",
+    "ethereum",
+    "blockchain",
+    "driver"
+   ],
+   "updated": "2026-11-02T20:18:24Z"
+  },
+  {
+   "full": "Simple-XX/SimpleKernel",
+   "desc": "Interface-Driven OS Kernel for AI-Assisted Learning | 面向 AI 的操作系统学习项目",
+   "stars": 3213,
+   "lang": "C++",
+   "topics": [
+    "kernel",
+    "learning-by-doing"
+   ],
+   "updated": "2026-03-20T18:11:15Z"
+  },
+  {
+   "full": "Ascotbe/Kernelhub",
+   "desc": "🌴Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file (提权漏洞合集)",
+   "stars": 3200,
+   "lang": "C",
+   "topics": [
+    "windows",
+    "linux",
+    "kernel",
+    "tool",
+    "exploits",
+    "cve",
+    "pentest",
+    "cve-2021-33739",
+    "cve-2021-26868",
+    "cve-2021-36934",
+    "cve-2021-40444",
+    "cve-2021-40449"
+   ],
+   "updated": "2023-02-15T06:44:14Z"
+  },
+  {
+   "full": "vvaltchev/tilck",
+   "desc": "A Tiny Linux-Compatible Kernel",
+   "stars": 3136,
+   "lang": "C",
+   "topics": [
+    "linux",
+    "kernel",
+    "assembly",
+    "embedded-systems",
+    "x86",
+    "uefi",
+    "bootloader",
+    "acpi",
+    "bare-metal",
+    "posix-compatible",
+    "uefi-boot"
+   ],
+   "updated": "2026-10-12T17:49:21Z"
+  },
+  {
+   "full": "hacksysteam/HackSysExtremeVulnerableDriver",
+   "desc": "HackSys Extreme Vulnerable Driver (HEVD) - Windows & Linux",
+   "stars": 3120,
+   "lang": "C",
+   "topics": [
+    "windows",
+    "linux",
+    "kernel",
+    "driver",
+    "vulnerabilities",
+    "exploitation",
+    "uaf",
+    "buffer-overflow",
+    "memory-corruption",
+    "exploit-development",
+    "hevd",
+    "info-leak"
+   ],
+   "updated": "2025-02-24T12:19:16Z"
+  }
+ ]
+}

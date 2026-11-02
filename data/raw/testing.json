@@ -1,0 +1,1463 @@
+{
+ "subId": "testing",
+ "topics": [
+  "testing",
+  "e2e-testing"
+ ],
+ "crawledAt": "2026-11-02T20:19:32.582Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "goldbergyoni/nodebestpractices",
+   "desc": "✅ The Node.js best practices list (July 2026)",
+   "stars": 105713,
+   "lang": "Dockerfile",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "testing",
+    "npm",
+    "styleguide",
+    "express",
+    "microservices",
+    "rest",
+    "mocha",
+    "types",
+    "eslint",
+    "es6"
+   ],
+   "updated": "2026-06-15T11:41:04Z"
+  },
+  {
+   "full": "microsoft/playwright",
+   "desc": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+   "stars": 99122,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "javascript",
+    "testing",
+    "firefox",
+    "chrome",
+    "automation",
+    "web",
+    "test",
+    "chromium",
+    "test-automation",
+    "testing-tools",
+    "webkit"
+   ],
+   "updated": "2026-11-02T19:13:19Z"
+  },
+  {
+   "full": "puppeteer/puppeteer",
+   "desc": "JavaScript API for Chrome and Firefox",
+   "stars": 95791,
+   "lang": "TypeScript",
+   "topics": [
+    "testing",
+    "firefox",
+    "chrome",
+    "automation",
+    "web",
+    "chromium",
+    "developer-tools",
+    "node-module",
+    "headless-chrome"
+   ],
+   "updated": "2026-11-02T17:57:03Z"
+  },
+  {
+   "full": "storybookjs/storybook",
+   "desc": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+   "stars": 91428,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "stories",
+    "testing",
+    "html",
+    "components",
+    "documentation",
+    "styleguide",
+    "design-systems",
+    "angular",
+    "typescript",
+    "ui"
+   ],
+   "updated": "2026-11-02T20:15:57Z"
+  },
+  {
+   "full": "hoppscotch/hoppscotch",
+   "desc": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+   "stars": 80723,
+   "lang": "TypeScript",
+   "topics": [
+    "testing",
+    "api",
+    "graphql",
+    "http",
+    "vuejs",
+    "spa",
+    "tools",
+    "pwa",
+    "rest",
+    "vue",
+    "rest-api",
+    "websocket"
+   ],
+   "updated": "2026-10-31T09:16:29Z"
+  },
+  {
+   "full": "localstack/localstack",
+   "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+   "stars": 65127,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "testing",
+    "aws",
+    "cloud",
+    "continuous-integration",
+    "developer-tools",
+    "localstack"
+   ],
+   "updated": "2026-03-23T08:52:01Z"
+  },
+  {
+   "full": "usebruno/bruno",
+   "desc": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+   "stars": 47992,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "git",
+    "testing",
+    "graphql-client",
+    "automation",
+    "opensource",
+    "rest-api",
+    "http-client",
+    "openapi",
+    "api-client",
+    "developer-tools",
+    "testing-tools"
+   ],
+   "updated": "2026-11-02T17:38:46Z"
+  },
+  {
+   "full": "jestjs/jest",
+   "desc": "Delightful JavaScript Testing.",
+   "stars": 45472,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "testing",
+    "facebook",
+    "snapshot",
+    "expectation",
+    "easy",
+    "painless-javascript-testing",
+    "immersive",
+    "painless"
+   ],
+   "updated": "2026-11-02T15:15:04Z"
+  },
+  {
+   "full": "promptfoo/promptfoo",
+   "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI an",
+   "stars": 26753,
+   "lang": "TypeScript",
+   "topics": [
+    "testing",
+    "ci",
+    "evaluation",
+    "ci-cd",
+    "pentesting",
+    "cicd",
+    "vulnerability-scanners",
+    "prompts",
+    "evaluation-framework",
+    "red-teaming",
+    "rag",
+    "llm"
+   ],
+   "updated": "2026-11-02T20:05:34Z"
+  },
+  {
+   "full": "stretchr/testify",
+   "desc": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+   "stars": 26240,
+   "lang": "Go",
+   "topics": [
+    "testing",
+    "go",
+    "golang",
+    "toolkit",
+    "assertions",
+    "mocking",
+    "testify"
+   ],
+   "updated": "2026-11-02T11:52:25Z"
+  },
+  {
+   "full": "goldbergyoni/javascript-testing-best-practices",
+   "desc": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)",
+   "stars": 24606,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "testing",
+    "angular",
+    "express",
+    "mocha",
+    "jest",
+    "ci",
+    "mutation-testing",
+    "test",
+    "integration-testing"
+   ],
+   "updated": "2024-06-27T07:25:17Z"
+  },
+  {
+   "full": "quii/learn-go-with-tests",
+   "desc": "Learn Go with test-driven development",
+   "stars": 23937,
+   "lang": "Go",
+   "topics": [
+    "testing",
+    "go",
+    "golang",
+    "tdd",
+    "test-driven-development"
+   ],
+   "updated": "2026-10-26T09:01:37Z"
+  },
+  {
+   "full": "mochajs/mocha",
+   "desc": "☕️ Classic, reliable, trusted test framework for Node.js and the browser",
+   "stars": 22912,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "testing",
+    "node",
+    "browser",
+    "mocha",
+    "tdd",
+    "test",
+    "bdd",
+    "test-framework",
+    "testing-tools",
+    "mochajs"
+   ],
+   "updated": "2026-11-02T17:57:34Z"
+  },
+  {
+   "full": "catchorg/Catch2",
+   "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+   "stars": 21542,
+   "lang": "C++",
+   "topics": [
+    "testing",
+    "framework",
+    "tdd",
+    "cpp",
+    "bdd",
+    "cpp14",
+    "test-framework",
+    "no-dependencies"
+   ],
+   "updated": "2026-10-30T09:26:37Z"
+  },
+  {
+   "full": "avajs/ava",
+   "desc": "Node.js test runner that lets you develop with confidence 🚀",
+   "stars": 20826,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "testing",
+    "cli",
+    "tap",
+    "unit-testing",
+    "performance",
+    "node",
+    "tdd",
+    "async",
+    "unicorns",
+    "concurrency"
+   ],
+   "updated": "2026-10-31T20:23:04Z"
+  },
+  {
+   "full": "enzymejs/enzyme",
+   "desc": "JavaScript Testing utilities for React",
+   "stars": 19802,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "testing",
+    "mocha",
+    "enzyme",
+    "jest",
+    "test",
+    "react-components",
+    "test-runner",
+    "traversal",
+    "assertions",
+    "chai",
+    "ava"
+   ],
+   "updated": "2025-10-22T15:55:30Z"
+  },
+  {
+   "full": "testing-library/react-testing-library",
+   "desc": "🐐 Simple and complete React DOM testing utilities that encourage good testing practices.",
+   "stars": 19678,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "testing",
+    "reactjs"
+   ],
+   "updated": "2026-08-27T17:40:18Z"
+  },
+  {
+   "full": "joke2k/faker",
+   "desc": "Faker is a Python package that generates fake data for you.",
+   "stars": 19480,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "testing",
+    "fake",
+    "faker",
+    "dataset",
+    "test-data",
+    "fake-data",
+    "faker-generator",
+    "test-data-generator"
+   ],
+   "updated": "2026-10-28T17:06:52Z"
+  },
+  {
+   "full": "probelabs/goreplay",
+   "desc": "GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes",
+   "stars": 19327,
+   "lang": "Go",
+   "topics": [
+    "testing",
+    "go",
+    "devops",
+    "qa",
+    "testing-tools"
+   ],
+   "updated": "2026-01-27T15:26:22Z"
+  },
+  {
+   "full": "Orange-OpenSource/hurl",
+   "desc": "Hurl, run and test HTTP requests with plain text.",
+   "stars": 19296,
+   "lang": "Rust",
+   "topics": [
+    "testing",
+    "cli",
+    "http",
+    "curl",
+    "integration-testing",
+    "http-client",
+    "testing-tools",
+    "api-testing"
+   ],
+   "updated": "2026-11-02T20:14:39Z"
+  },
+  {
+   "full": "keploy/keploy",
+   "desc": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
+   "stars": 19104,
+   "lang": "Go",
+   "topics": [
+    "testing",
+    "mock",
+    "test-automation",
+    "testing-tools",
+    "code-quality",
+    "api-testing",
+    "test-generation",
+    "testing-library",
+    "testing-tool",
+    "test-automation-framework",
+    "mock-framework",
+    "mock-data-generator"
+   ],
+   "updated": "2026-11-02T20:19:08Z"
+  },
+  {
+   "full": "google/artemis",
+   "desc": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code. It also achieve",
+   "stars": 16223,
+   "lang": "Python",
+   "topics": [
+    "android",
+    "testing",
+    "google",
+    "test-automation",
+    "ai-agents"
+   ],
+   "updated": "2026-10-01T21:37:15Z"
+  },
+  {
+   "full": "jasmine/jasmine",
+   "desc": "Simple JavaScript testing framework for browsers and node.js",
+   "stars": 15810,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "testing",
+    "jasmine",
+    "tdd"
+   ],
+   "updated": "2026-10-09T01:34:20Z"
+  },
+  {
+   "full": "web-infra-dev/midscene",
+   "desc": "See interfaces like a human. E2E testing in natural language.",
+   "stars": 15472,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "testing",
+    "e2e-testing",
+    "phone-use",
+    "computer-use",
+    "gui-agent",
+    "browser-use",
+    "gpt-operator"
+   ],
+   "updated": "2026-11-02T15:22:47Z"
+  },
+  {
+   "full": "mockito/mockito",
+   "desc": "Most popular Mocking framework for unit tests written in Java",
+   "stars": 15452,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "testing",
+    "mock",
+    "test-automation",
+    "mocking",
+    "mockito",
+    "testing-tools",
+    "mock-library",
+    "java-library",
+    "test-driven-development",
+    "mocks",
+    "mocking-framework"
+   ],
+   "updated": "2026-11-02T18:02:58Z"
+  },
+  {
+   "full": "pytest-dev/pytest",
+   "desc": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+   "stars": 14662,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "testing",
+    "unit-testing",
+    "test",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T16:41:43Z"
+  },
+  {
+   "full": "phpstan/phpstan",
+   "desc": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+   "stars": 14149,
+   "lang": "PHP",
+   "topics": [
+    "testing",
+    "php",
+    "php7",
+    "static-code-analysis",
+    "static-analysis",
+    "static-analyzer",
+    "phpstan"
+   ],
+   "updated": "2026-11-02T20:02:59Z"
+  },
+  {
+   "full": "postmanlabs/httpbin",
+   "desc": "HTTP Request & Response Service, written in Python + Flask.",
+   "stars": 13641,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "testing",
+    "api",
+    "http",
+    "json",
+    "service",
+    "http-server",
+    "httpbin"
+   ],
+   "updated": "2024-05-24T07:51:48Z"
+  },
+  {
+   "full": "metersphere/metersphere",
+   "desc": "MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。",
+   "stars": 13602,
+   "lang": "Java",
+   "topics": [
+    "testing",
+    "swagger",
+    "jmeter",
+    "test-automation",
+    "postman",
+    "continuous-testing",
+    "testcase",
+    "api-testing",
+    "testlink",
+    "testlink-alternative",
+    "metersphere"
+   ],
+   "updated": "2026-10-28T11:14:00Z"
+  },
+  {
+   "full": "chromedp/chromedp",
+   "desc": "A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.",
+   "stars": 13350,
+   "lang": "Go",
+   "topics": [
+    "testing",
+    "golang",
+    "unit-testing",
+    "chrome",
+    "chrome-devtools",
+    "chrome-debugging-protocol",
+    "headless"
+   ],
+   "updated": "2026-11-01T22:24:11Z"
+  },
+  {
+   "full": "ultrafunkamsterdam/undetected-chromedriver",
+   "desc": "Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)",
+   "stars": 12896,
+   "lang": "Python",
+   "topics": [
+    "testing",
+    "chrome",
+    "automation",
+    "webdriver",
+    "browser",
+    "captcha",
+    "scraping",
+    "selenium",
+    "navigator",
+    "python3",
+    "cloudflare",
+    "chromedriver"
+   ],
+   "updated": "2025-07-05T10:42:02Z"
+  },
+  {
+   "full": "Shopify/toxiproxy",
+   "desc": "⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
+   "stars": 12481,
+   "lang": "Go",
+   "topics": [
+    "testing",
+    "go",
+    "is",
+    "proxy",
+    "chaos",
+    "resiliency",
+    "tcp-proxy",
+    "omg",
+    "down"
+   ],
+   "updated": "2026-10-27T07:02:39Z"
+  },
+  {
+   "full": "wix/Detox",
+   "desc": "Gray box end-to-end testing and automation framework for mobile apps",
+   "stars": 12051,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "android",
+    "testing",
+    "ios",
+    "automation",
+    "react-native",
+    "test-automation",
+    "e2e-tests",
+    "testing-tools",
+    "hacktoberfest",
+    "hacktoberfest2024"
+   ],
+   "updated": "2026-11-02T09:49:52Z"
+  },
+  {
+   "full": "robotframework/robotframework",
+   "desc": "Generic automation framework for acceptance testing and RPA",
+   "stars": 11979,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "testing",
+    "automation",
+    "bdd",
+    "robotframework",
+    "testautomation",
+    "rpa",
+    "attd"
+   ],
+   "updated": "2026-11-02T08:23:37Z"
+  },
+  {
+   "full": "nightwatchjs/nightwatch",
+   "desc": "Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack",
+   "stars": 11955,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "testing",
+    "webdriver",
+    "selenium",
+    "chromedriver",
+    "selenium-server",
+    "end-to-end-testing",
+    "selenium-webdriver",
+    "nightwatch",
+    "hacktoberfest",
+    "automated-testing"
+   ],
+   "updated": "2026-05-25T14:47:41Z"
+  },
+  {
+   "full": "pestphp/pest",
+   "desc": "The elegant testing framework for PHP developers and AI agents.",
+   "stars": 11755,
+   "lang": "PHP",
+   "topics": [
+    "testing",
+    "php",
+    "framework",
+    "pest"
+   ],
+   "updated": "2026-11-02T11:56:12Z"
+  },
+  {
+   "full": "foundry-rs/foundry",
+   "desc": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+   "stars": 10749,
+   "lang": "Rust",
+   "topics": [
+    "testing",
+    "rust",
+    "framework",
+    "bytecode",
+    "compiler",
+    "toolkit",
+    "tooling",
+    "ethereum",
+    "dapp",
+    "smart-contracts",
+    "blockchain",
+    "solidity"
+   ],
+   "updated": "2026-11-02T20:05:29Z"
+  },
+  {
+   "full": "Netflix/pollyjs",
+   "desc": "Record, Replay, and Stub HTTP Interactions.",
+   "stars": 10250,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "testing",
+    "browser",
+    "netflix",
+    "replay",
+    "record"
+   ],
+   "updated": "2025-05-31T22:29:19Z"
+  },
+  {
+   "full": "Quick/Quick",
+   "desc": "The Swift (and Objective-C) testing framework.",
+   "stars": 9819,
+   "lang": "Swift",
+   "topics": [
+    "testing",
+    "swift",
+    "ios",
+    "objective-c",
+    "cocoapods",
+    "carthage",
+    "bdd"
+   ],
+   "updated": "2026-05-18T15:19:28Z"
+  },
+  {
+   "full": "HypothesisWorks/hypothesis",
+   "desc": "The property-based testing library for Python",
+   "stars": 9130,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "testing",
+    "property-based-testing",
+    "fuzzing"
+   ],
+   "updated": "2026-11-01T00:06:00Z"
+  },
+  {
+   "full": "seleniumbase/SeleniumBase",
+   "desc": "📊 APIs for Web Scraping, Browser Automation, and E2E Testing. CDP Mode bypasses bot-detection and handles CAPTCHAs. Adds stealth to Playwright. Includes an MCP server.",
+   "stars": 13220,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "chromium",
+    "test-automation",
+    "pytest",
+    "web-scraping",
+    "chromedriver",
+    "end-to-end-testing",
+    "bot-detection",
+    "web-automation",
+    "selenium-python",
+    "e2e-testing",
+    "cloudflare-bypass"
+   ],
+   "updated": "2026-10-29T04:49:44Z"
+  },
+  {
+   "full": "tester-army/e2e",
+   "desc": "Next generation e2e testing framework for web and mobile apps.",
+   "stars": 12600,
+   "lang": "TypeScript",
+   "topics": [
+    "mobile",
+    "web",
+    "e2e",
+    "end-to-end-testing",
+    "e2e-testing",
+    "mobile-testing",
+    "playwright"
+   ],
+   "updated": "2026-11-02T18:38:32Z"
+  },
+  {
+   "full": "stefanprodan/podinfo",
+   "desc": "Go microservice template for Kubernetes",
+   "stars": 6034,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "golang",
+    "microservice",
+    "helm",
+    "e2e-testing",
+    "gitops",
+    "kustomize",
+    "cuelang"
+   ],
+   "updated": "2026-11-02T06:54:49Z"
+  },
+  {
+   "full": "antiwork/shortest",
+   "desc": "QA via natural language AI tests",
+   "stars": 5698,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "testing",
+    "automation",
+    "nextjs",
+    "chromium",
+    "test-automation",
+    "e2e-tests",
+    "end-to-end-testing",
+    "testing-framework",
+    "e2e-testing",
+    "testing-tool",
+    "playwright"
+   ],
+   "updated": "2026-08-06T15:23:13Z"
+  },
+  {
+   "full": "callstack/agent-device",
+   "desc": "Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.",
+   "stars": 5235,
+   "lang": "TypeScript",
+   "topics": [
+    "testing",
+    "automation",
+    "mobile",
+    "react-native",
+    "adb",
+    "mcp",
+    "android-emulator",
+    "flutter",
+    "xcuitest",
+    "agents",
+    "ios-simulator",
+    "performance-optimization"
+   ],
+   "updated": "2026-11-02T20:15:07Z"
+  },
+  {
+   "full": "TestSprite/testsprite-cli",
+   "desc": "Official TestSprite CLI — AI-powered automated testing from your terminal",
+   "stars": 5145,
+   "lang": "TypeScript",
+   "topics": [
+    "testing",
+    "cli",
+    "qa",
+    "ai",
+    "test-automation",
+    "e2e-testing",
+    "playwright"
+   ],
+   "updated": "2026-11-02T06:02:27Z"
+  },
+  {
+   "full": "hardkoded/puppeteer-sharp",
+   "desc": "Headless Chrome .NET API",
+   "stars": 3932,
+   "lang": "C#",
+   "topics": [
+    "crawler",
+    "chrome",
+    "automation",
+    "csharp",
+    "crawling",
+    "chromium",
+    "e2e",
+    "webautomation",
+    "e2e-testing",
+    "puppeteer"
+   ],
+   "updated": "2026-10-29T16:23:02Z"
+  },
+  {
+   "full": "symfony/panther",
+   "desc": "A browser testing and web crawling library for PHP and Symfony",
+   "stars": 3070,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "webdriver",
+    "symfony",
+    "scraping",
+    "selenium",
+    "chromedriver",
+    "selenium-webdriver",
+    "hacktoberfest",
+    "e2e-testing"
+   ],
+   "updated": "2026-10-03T16:12:54Z"
+  },
+  {
+   "full": "fityanos/awesome-quality-assurance-roadmap",
+   "desc": "📚 The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer 📚",
+   "stars": 2205,
+   "lang": null,
+   "topics": [
+    "testing",
+    "qa",
+    "roadmap",
+    "awesome",
+    "career",
+    "awesome-list",
+    "api-testing",
+    "software-testing",
+    "automation-test",
+    "e2e-testing",
+    "quality-engineering"
+   ],
+   "updated": "2026-06-04T11:08:57Z"
+  },
+  {
+   "full": "NoriSte/ui-testing-best-practices",
+   "desc": "The largest UI testing best practices list (last update: March 2025)",
+   "stars": 1736,
+   "lang": null,
+   "topics": [
+    "best-practices",
+    "ui-testing",
+    "cypress",
+    "e2e-testing",
+    "puppeteer"
+   ],
+   "updated": "2025-09-24T07:55:14Z"
+  },
+  {
+   "full": "pvarentsov/typescript-clean-architecture",
+   "desc": "It is my attempt to create Clean Architecture based application in TypeScript.",
+   "stars": 1504,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "unit-testing",
+    "typescript",
+    "clean-code",
+    "back-end",
+    "clean-architecture",
+    "typeorm",
+    "nestjs",
+    "e2e-testing"
+   ],
+   "updated": "2023-09-17T19:30:04Z"
+  },
+  {
+   "full": "pixielabs/cavy",
+   "desc": "An integration test framework for React Native.",
+   "stars": 1368,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "testing",
+    "ios",
+    "automation",
+    "react-native",
+    "integration-testing",
+    "e2e-tests",
+    "hacktoberfest",
+    "e2e-testing"
+   ],
+   "updated": "2023-11-16T14:02:58Z"
+  },
+  {
+   "full": "bug0inc/qa-agent",
+   "desc": "The open-source Playwright library for AI browser regression testing with intelligent caching, auto-healing, and multi-model verification.",
+   "stars": 1305,
+   "lang": "TypeScript",
+   "topics": [
+    "testing",
+    "qa",
+    "typescript",
+    "ai",
+    "regression-testing",
+    "browser-testing",
+    "ai-agents",
+    "e2e-testing",
+    "qa-automation",
+    "qaautomation",
+    "playwright",
+    "vercel"
+   ],
+   "updated": "2026-09-25T18:21:14Z"
+  },
+  {
+   "full": "testsigmahq/testsigma",
+   "desc": "Testsigma is a quality intelligence platform for AI-first engineering teams. AI made developers faster. More code ships, more surface area needs testing, and coverage gaps open faster than teams can close them.",
+   "stars": 1229,
+   "lang": "Java",
+   "topics": [
+    "testing",
+    "devops",
+    "automation",
+    "test",
+    "test-automation",
+    "test-framework",
+    "functional-testing",
+    "testing-tools",
+    "end-to-end-testing",
+    "regression-testing",
+    "automated-testing",
+    "browser-testing"
+   ],
+   "updated": "2026-08-05T09:50:27Z"
+  },
+  {
+   "full": "wellwelwel/poku",
+   "desc": "🐷 Poku makes testing easy for Node.js, Bun, Deno, and you at the same time.",
+   "stars": 1181,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "testing",
+    "unit-testing",
+    "typescript",
+    "cross-platform",
+    "tdd",
+    "bdd",
+    "integration-testing",
+    "watch",
+    "test-runner",
+    "assert"
+   ],
+   "updated": "2026-10-27T16:42:23Z"
+  },
+  {
+   "full": "apache/groovy-geb",
+   "desc": "Apache Geb: Very Groovy Browser Automation",
+   "stars": 1173,
+   "lang": "Groovy",
+   "topics": [
+    "java",
+    "open-source",
+    "groovy",
+    "webdriver",
+    "test",
+    "devtools",
+    "selenium",
+    "apache",
+    "test-automation",
+    "functional-testing",
+    "end-to-end-testing",
+    "browser-testing"
+   ],
+   "updated": "2026-10-21T15:21:22Z"
+  },
+  {
+   "full": "rogue-security/rogue",
+   "desc": "AI Agent Evaluator & Red Team Platform",
+   "stars": 1073,
+   "lang": "Python",
+   "topics": [
+    "testing",
+    "ai",
+    "agents",
+    "testing-framework",
+    "ai-agents",
+    "e2e-testing",
+    "llm"
+   ],
+   "updated": "2026-08-04T07:52:34Z"
+  },
+  {
+   "full": "microsoft/XStudio",
+   "desc": "Intelligent cloud testing made easy.",
+   "stars": 1034,
+   "lang": "Java",
+   "topics": [
+    "testing",
+    "spring-boot",
+    "cross-platform",
+    "azure",
+    "test-automation",
+    "developer-tools",
+    "ui-testing",
+    "mobile-development",
+    "performance-testing",
+    "device-farm",
+    "testing-framework",
+    "cloud-testing"
+   ],
+   "updated": "2026-11-02T04:14:07Z"
+  },
+  {
+   "full": "dsheiko/puppetry",
+   "desc": "Web testing solution for non-developers on top of Puppeteer and Jest",
+   "stars": 888,
+   "lang": "JavaScript",
+   "topics": [
+    "continuous-integration",
+    "test-automation",
+    "ci-cd",
+    "headless-testing",
+    "ui-testing",
+    "browser-automation",
+    "visual-regression",
+    "frontend-testing",
+    "no-code",
+    "web-testing",
+    "e2e-testing",
+    "qa-testing"
+   ],
+   "updated": "2026-06-19T16:31:46Z"
+  },
+  {
+   "full": "gemini-testing/testplane",
+   "desc": "Testplane (ex-hermione) browser test runner based on mocha and wdio",
+   "stars": 833,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "testing",
+    "firefox",
+    "chrome",
+    "automation",
+    "web",
+    "test",
+    "integration-testing",
+    "chromium",
+    "test-automation",
+    "testing-tools",
+    "webkit"
+   ],
+   "updated": "2026-11-02T19:43:09Z"
+  },
+  {
+   "full": "yashaka/selene",
+   "desc": "User-oriented Web UI browser tests in Python",
+   "stars": 733,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "testing",
+    "automation",
+    "webdriver",
+    "web",
+    "selenium",
+    "selenide",
+    "selene",
+    "e2e-testing"
+   ],
+   "updated": "2026-11-01T05:14:55Z"
+  },
+  {
+   "full": "michalzaq12/electron-nuxt",
+   "desc": "⚡ An Electron & Nuxt.js / Vue.js quick start boilerplate with vue-cli scaffolding, electron-builder, unit/e2e testing, vue-devtools",
+   "stars": 719,
+   "lang": "JavaScript",
+   "topics": [
+    "electron",
+    "unit-testing",
+    "boilerplate",
+    "typescript",
+    "vue",
+    "nuxt",
+    "electron-builder",
+    "scaffolding",
+    "vuetify",
+    "buefy",
+    "e2e-testing",
+    "electron-nuxt"
+   ],
+   "updated": "2023-03-06T05:10:56Z"
+  },
+  {
+   "full": "open-wxa/wxa-runner",
+   "desc": "在浏览器中用微信官方基础库运行小程序，支持 Chrome DevTools 调试与 Playwright E2E 测试",
+   "stars": 639,
+   "lang": "TypeScript",
+   "topics": [
+    "simulator",
+    "wechat",
+    "weapp",
+    "mini-program",
+    "miniprogram",
+    "e2e-testing",
+    "taro",
+    "wechat-miniprogram",
+    "uni-app",
+    "playwright"
+   ],
+   "updated": "2026-11-02T09:53:32Z"
+  },
+  {
+   "full": "pactumjs/pactum",
+   "desc": "REST API Testing Tool for all levels in a Test Pyramid",
+   "stars": 621,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "testing",
+    "bdd",
+    "integration-testing",
+    "mock-server",
+    "cucumber",
+    "api-testing",
+    "contract-testing",
+    "component-testing",
+    "e2e-testing",
+    "test-pyramid"
+   ],
+   "updated": "2026-08-11T08:13:57Z"
+  },
+  {
+   "full": "serenity-js/serenity-js",
+   "desc": "A TypeScript-native acceptance testing framework that gives your Playwright Test, WebdriverIO, or Cucumber test suite the architecture it needs to scale.",
+   "stars": 621,
+   "lang": "TypeScript",
+   "topics": [
+    "testing",
+    "acceptance-testing",
+    "typescript",
+    "bdd",
+    "domain-driven-design",
+    "test-automation",
+    "cucumber",
+    "screenplay-pattern",
+    "api-testing",
+    "webdriverio",
+    "test-reporting",
+    "testing-framework"
+   ],
+   "updated": "2026-10-30T17:43:28Z"
+  },
+  {
+   "full": "gmhafiz/go8",
+   "desc": "Go + Postgres + Chi Router + sqlx + ent + authentication + testing + opentelemetry Starter Kit for API Development",
+   "stars": 498,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "api",
+    "golang",
+    "authentication",
+    "integration-testing",
+    "starter-kit",
+    "unit-test",
+    "e2e-testing",
+    "ent",
+    "opentelemetry"
+   ],
+   "updated": "2026-08-19T22:54:23Z"
+  },
+  {
+   "full": "mobile-next/mobilewright",
+   "desc": "Mobilewright is a dev framework for Mobile App Testing and Automation. It allows testing iOS/Android app on real devices, emulators and simulators with a single API.",
+   "stars": 460,
+   "lang": "TypeScript",
+   "topics": [
+    "android",
+    "ios",
+    "app",
+    "ai",
+    "end-to-end-testing",
+    "ai-agents",
+    "e2e-testing",
+    "playwright",
+    "real-devices",
+    "real-device-automation",
+    "mobilewright"
+   ],
+   "updated": "2026-11-01T20:05:23Z"
+  },
+  {
+   "full": "ShaftHQ/SHAFT_ENGINE",
+   "desc": "Java test automation framework for web, mobile, API, CLI, database, and desktop E2E testing with a fluent API and built-in reporting.",
+   "stars": 418,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "automation",
+    "test-automation",
+    "testing-tools",
+    "end-to-end-testing",
+    "testing-framework",
+    "e2e-testing",
+    "automation-engine",
+    "test-automation-framework",
+    "mcp-server"
+   ],
+   "updated": "2026-11-02T19:30:52Z"
+  },
+  {
+   "full": "ai-dashboad/flutter-skill",
+   "desc": "AI-powered E2E testing for 10 platforms. 253 MCP tools. Zero config. Works with Claude, Cursor, Windsurf, Copilot. Test Flutter, React Native, iOS, Android, Web, Electron, Tauri, KMP, .NET MAUI — all from natural language.",
+   "stars": 399,
+   "lang": "Dart",
+   "topics": [
+    "electron",
+    "android",
+    "ios",
+    "automation",
+    "react-native",
+    "ai",
+    "cross-platform",
+    "mcp",
+    "test-automation",
+    "testing-tools",
+    "cursor",
+    "flutter"
+   ],
+   "updated": "2026-09-01T11:56:02Z"
+  },
+  {
+   "full": "Nike-Inc/burnside",
+   "desc": "Fast and Reliable E2E Web Testing with only Javascript",
+   "stars": 377,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "modular",
+    "webpack",
+    "karma",
+    "test-runner",
+    "e2e",
+    "e2e-testing",
+    "burnside-proxy",
+    "burnside"
+   ],
+   "updated": "2017-12-22T04:17:07Z"
+  },
+  {
+   "full": "stepful/cyperful",
+   "desc": "Interactive system testing UI for capybara",
+   "stars": 361,
+   "lang": "Ruby",
+   "topics": [
+    "rails",
+    "rspec",
+    "test",
+    "dx",
+    "capybara",
+    "tests",
+    "end-to-end-testing",
+    "minitest",
+    "system-testing",
+    "e2e-testing"
+   ],
+   "updated": "2025-01-09T19:45:11Z"
+  },
+  {
+   "full": "microsoft/lisa",
+   "desc": "LISA is developed and maintained by Microsoft, to empower Linux validation.",
+   "stars": 337,
+   "lang": "Python",
+   "topics": [
+    "testing",
+    "linux",
+    "azure",
+    "automation-framework",
+    "e2e-testing",
+    "hyperv",
+    "cloudtesting",
+    "linux-compatibility"
+   ],
+   "updated": "2026-11-02T19:26:10Z"
+  },
+  {
+   "full": "droid-ash/finalrun-agent",
+   "desc": "AI QA Agent for mobile apps",
+   "stars": 311,
+   "lang": "TypeScript",
+   "topics": [
+    "android",
+    "testing",
+    "open-source",
+    "ios",
+    "app",
+    "android-test",
+    "end-to-end-testing",
+    "ios-test",
+    "android-testing",
+    "mobile-app-testing",
+    "e2e-testing",
+    "ios-testing"
+   ],
+   "updated": "2026-10-15T12:42:18Z"
+  },
+  {
+   "full": "Trendyol/stove",
+   "desc": "Stove: The easiest way of writing e2e/component tests for your back-end app (jvm, go, rust, node, etc) with Kotlin",
+   "stars": 310,
+   "lang": "Kotlin",
+   "topics": [
+    "kotlin",
+    "java",
+    "testing",
+    "spring-boot",
+    "test",
+    "integration-testing",
+    "test-automation",
+    "testing-tools",
+    "testcontainers",
+    "testing-framework",
+    "ktor",
+    "component-testing"
+   ],
+   "updated": "2026-11-02T20:19:03Z"
+  },
+  {
+   "full": "microsoft/tui-test",
+   "desc": "💻 control, record, & test any tui app / cli with popular terminals - makes the terminal fully accessible to AI",
+   "stars": 305,
+   "lang": "Rust",
+   "topics": [
+    "testing",
+    "bash",
+    "cli",
+    "fish",
+    "automation",
+    "terminal",
+    "powershell",
+    "tui",
+    "xterm",
+    "alacritty",
+    "e2e-testing",
+    "ai-tools"
+   ],
+   "updated": "2026-11-02T17:45:11Z"
+  },
+  {
+   "full": "firsttris/vscode-jest-runner",
+   "desc": "VS Code extension to run and debug Jest, Vitest, Playwright, Rstest, Bun, Deno and Node.js tests with one click. CodeLens above every test, native Test Explorer, code coverage, watch mode, monorepo and Create React App support. Zero configu",
+   "stars": 303,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "testing",
+    "debugging",
+    "unit-testing",
+    "typescript",
+    "jest",
+    "vscode",
+    "test-runner",
+    "visual-studio-code",
+    "monorepo",
+    "vscode-extension",
+    "code-coverage"
+   ],
+   "updated": "2026-11-02T18:03:07Z"
+  },
+  {
+   "full": "MarcusFelling/demo.playwright",
+   "desc": "This repo is used to demo various testing scenarios with Playwright 🎭, using the official test-runner and scripts authored in TypeScript.",
+   "stars": 297,
+   "lang": "TypeScript",
+   "topics": [
+    "testing",
+    "typescript",
+    "browser-automation",
+    "e2e-testing",
+    "github-actions",
+    "playwright"
+   ],
+   "updated": "2024-08-12T17:57:50Z"
+  },
+  {
+   "full": "LambdaTest/kane-cli",
+   "desc": "Kane CLI by TestMu AI (Formerly LambdaTest)",
+   "stars": 263,
+   "lang": "JavaScript",
+   "topics": [
+    "cli",
+    "qa",
+    "mcp",
+    "natural-language",
+    "test-automation",
+    "cursor",
+    "copilot",
+    "browser-automation",
+    "ai-agents",
+    "e2e-testing",
+    "ai-testing",
+    "agentic-ai"
+   ],
+   "updated": "2026-10-29T12:41:04Z"
+  }
+ ]
+}

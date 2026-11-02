@@ -1,0 +1,1114 @@
+{
+ "subId": "lenguajes-prog",
+ "topics": [
+  "programming-language",
+  "language"
+ ],
+ "crawledAt": "2026-11-02T20:19:48.963Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "golang/go",
+   "desc": "The Go programming language",
+   "stars": 139745,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "language",
+    "programming-language",
+    "golang"
+   ],
+   "updated": "2026-11-02T20:01:59Z"
+  },
+  {
+   "full": "JetBrains/kotlin",
+   "desc": "The Kotlin Programming Language.",
+   "stars": 53537,
+   "lang": "Kotlin",
+   "topics": [
+    "kotlin",
+    "programming-language",
+    "compiler",
+    "webassembly",
+    "wasm",
+    "kotlin-library",
+    "maven-plugin",
+    "gradle-plugin",
+    "intellij-plugin"
+   ],
+   "updated": "2026-11-02T20:18:02Z"
+  },
+  {
+   "full": "charlax/professional-programming",
+   "desc": "A collection of learning resources for curious software engineers",
+   "stars": 51671,
+   "lang": "Python",
+   "topics": [
+    "programming-language",
+    "learning",
+    "computer-science",
+    "documentation",
+    "architecture",
+    "concepts",
+    "scalability",
+    "professional",
+    "programmer",
+    "software-engineering",
+    "engineer",
+    "read-articles"
+   ],
+   "updated": "2026-10-27T08:52:04Z"
+  },
+  {
+   "full": "JuliaLang/julia",
+   "desc": "The Julia Programming Language",
+   "stars": 49234,
+   "lang": "Julia",
+   "topics": [
+    "programming-language",
+    "science",
+    "machine-learning",
+    "hpc",
+    "julia",
+    "julia-language",
+    "scientific",
+    "hacktoberfest",
+    "numerical",
+    "julialang"
+   ],
+   "updated": "2026-11-02T20:07:25Z"
+  },
+  {
+   "full": "LeCoupa/awesome-cheatsheets",
+   "desc": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+   "stars": 46611,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "vim",
+    "bash",
+    "docker",
+    "language",
+    "programming-language",
+    "kubernetes",
+    "redis",
+    "php",
+    "vuejs",
+    "django"
+   ],
+   "updated": "2026-10-17T14:11:21Z"
+  },
+  {
+   "full": "vlang/v",
+   "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
+   "stars": 38086,
+   "lang": "V",
+   "topics": [
+    "language",
+    "programming-language",
+    "compiler",
+    "v"
+   ],
+   "updated": "2026-11-02T20:19:43Z"
+  },
+  {
+   "full": "carbon-language/carbon-lang",
+   "desc": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
+   "stars": 33940,
+   "lang": "C++",
+   "topics": [
+    "language",
+    "programming-language",
+    "experimental",
+    "compiler",
+    "cpp",
+    "experimental-language",
+    "carbon-lang"
+   ],
+   "updated": "2026-11-02T20:18:08Z"
+  },
+  {
+   "full": "modular/modular",
+   "desc": "The Modular Platform (includes MAX & Mojo)",
+   "stars": 30090,
+   "lang": "Mojo",
+   "topics": [
+    "language",
+    "programming-language",
+    "machine-learning",
+    "modular",
+    "ai",
+    "mojo",
+    "max"
+   ],
+   "updated": "2026-11-02T07:35:16Z"
+  },
+  {
+   "full": "hypit-ai/hypit",
+   "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+   "stars": 27534,
+   "lang": "TypeScript",
+   "topics": [
+    "programming-language",
+    "typescript",
+    "video",
+    "ai",
+    "ffmpeg",
+    "compiler",
+    "dsl",
+    "monorepo",
+    "markup-language",
+    "video-editing",
+    "plugin-system",
+    "ai-agents"
+   ],
+   "updated": "2026-11-02T11:21:51Z"
+  },
+  {
+   "full": "argotorg/solidity",
+   "desc": "Solidity, the Smart Contract Programming Language",
+   "stars": 25768,
+   "lang": "C++",
+   "topics": [
+    "language",
+    "programming-language",
+    "cpp",
+    "ethereum",
+    "blockchain",
+    "solidity",
+    "hacktoberfest",
+    "smartcontracts"
+   ],
+   "updated": "2026-11-02T18:54:52Z"
+  },
+  {
+   "full": "bendlang/bend",
+   "desc": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh",
+   "stars": 24666,
+   "lang": "TypeScript",
+   "topics": [
+    "programming-language",
+    "dependent-types",
+    "metal",
+    "gpu",
+    "proof",
+    "parallel",
+    "cuda",
+    "theorem-proving",
+    "bend"
+   ],
+   "updated": "2026-11-02T19:47:21Z"
+  },
+  {
+   "full": "ruby/ruby",
+   "desc": "The Ruby Programming Language",
+   "stars": 23799,
+   "lang": "Ruby",
+   "topics": [
+    "ruby",
+    "c",
+    "language",
+    "programming-language",
+    "rust",
+    "jit",
+    "object-oriented",
+    "ruby-language"
+   ],
+   "updated": "2026-11-02T19:24:50Z"
+  },
+  {
+   "full": "AlDanial/cloc",
+   "desc": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+   "stars": 23643,
+   "lang": "Perl",
+   "topics": [
+    "programming-language",
+    "cloc",
+    "count-lines"
+   ],
+   "updated": "2026-10-26T02:14:42Z"
+  },
+  {
+   "full": "gleam-lang/gleam",
+   "desc": "⭐️ A friendly language for building type-safe, scalable systems!",
+   "stars": 22017,
+   "lang": "Rust",
+   "topics": [
+    "programming-language",
+    "erlang",
+    "compiler",
+    "statically-typed",
+    "gleam"
+   ],
+   "updated": "2026-11-01T02:48:11Z"
+  },
+  {
+   "full": "crystal-lang/crystal",
+   "desc": "The Crystal Programming Language",
+   "stars": 20481,
+   "lang": "Crystal",
+   "topics": [
+    "programming-language",
+    "crystal",
+    "compiler",
+    "hacktoberfest",
+    "crystal-language"
+   ],
+   "updated": "2026-11-02T18:00:02Z"
+  },
+  {
+   "full": "wenyan-lang/wenyan",
+   "desc": "文言文編程語言 A programming language for the ancient Chinese.",
+   "stars": 20296,
+   "lang": "TypeScript",
+   "topics": [
+    "programming-language",
+    "esoteric-language",
+    "classical-chinese",
+    "wenyan-lang"
+   ],
+   "updated": "2023-10-20T13:39:33Z"
+  },
+  {
+   "full": "chai2010/advanced-go-programming-book",
+   "desc": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+   "stars": 20092,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "programming-language",
+    "golang",
+    "cloud",
+    "web",
+    "book",
+    "asm",
+    "rpc",
+    "cgo"
+   ],
+   "updated": "2025-10-07T01:08:59Z"
+  },
+  {
+   "full": "trekhleb/learn-python",
+   "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+   "stars": 18479,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "programming-language",
+    "learning",
+    "learning-python",
+    "python3",
+    "learning-by-doing"
+   ],
+   "updated": "2026-04-06T16:03:15Z"
+  },
+  {
+   "full": "gurugio/lowlevelprogramming-university",
+   "desc": "How to be low-level programmer",
+   "stars": 12762,
+   "lang": null,
+   "topics": [
+    "programming-language",
+    "arduino",
+    "hardware",
+    "firmware",
+    "assembly",
+    "linux-kernel",
+    "embedded-systems",
+    "operating-system",
+    "rust-lang",
+    "low-level",
+    "system-programming",
+    "assembly-language-programming"
+   ],
+   "updated": "2025-03-24T11:49:58Z"
+  },
+  {
+   "full": "odin-lang/Odin",
+   "desc": "Odin Programming Language",
+   "stars": 12252,
+   "lang": "Odin",
+   "topics": [
+    "language",
+    "programming-language",
+    "compiler",
+    "programming-languages",
+    "odin-programming-language",
+    "odin",
+    "odin-lang"
+   ],
+   "updated": "2026-11-02T19:49:38Z"
+  },
+  {
+   "full": "apple/pkl",
+   "desc": "A configuration as code language with rich validation and tooling.",
+   "stars": 11555,
+   "lang": "Java",
+   "topics": [
+    "kotlin",
+    "config",
+    "java",
+    "language",
+    "programming-language",
+    "yaml",
+    "json",
+    "data",
+    "functional",
+    "validation",
+    "xml",
+    "configuration"
+   ],
+   "updated": "2026-10-31T04:04:27Z"
+  },
+  {
+   "full": "dart-lang/sdk",
+   "desc": "The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",
+   "stars": 11331,
+   "lang": "Dart",
+   "topics": [
+    "dart",
+    "language",
+    "programming-language",
+    "sdk"
+   ],
+   "updated": "2026-11-02T19:58:48Z"
+  },
+  {
+   "full": "reasonml/reason",
+   "desc": "Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems",
+   "stars": 10337,
+   "lang": "OCaml",
+   "topics": [
+    "javascript",
+    "programming-language",
+    "ocaml",
+    "reasonml",
+    "reason"
+   ],
+   "updated": "2026-10-04T05:20:29Z"
+  },
+  {
+   "full": "aalhour/awesome-compilers",
+   "desc": "😎 Curated list of awesome resources on Compilers, Interpreters and Runtimes",
+   "stars": 9954,
+   "lang": null,
+   "topics": [
+    "programming-language",
+    "list",
+    "awesome",
+    "books",
+    "interpreter",
+    "compiler",
+    "runtime",
+    "virtual-machine",
+    "resources",
+    "awesome-list"
+   ],
+   "updated": "2024-05-26T14:07:19Z"
+  },
+  {
+   "full": "goplus/xgo",
+   "desc": "XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified software engineering ecosystem. Our vision is",
+   "stars": 9492,
+   "lang": "Go",
+   "topics": [
+    "programming-language",
+    "golang",
+    "data-science",
+    "scientific-computing",
+    "stem",
+    "low-code",
+    "xgo",
+    "goplus",
+    "stem-education",
+    "ai-native"
+   ],
+   "updated": "2026-11-02T17:32:38Z"
+  },
+  {
+   "full": "BoundaryML/baml",
+   "desc": "The programming language for agents",
+   "stars": 9470,
+   "lang": "Rust",
+   "topics": [
+    "programming-language",
+    "structured-data",
+    "guardrails",
+    "llm",
+    "boundaryml"
+   ],
+   "updated": "2026-11-02T20:11:54Z"
+  },
+  {
+   "full": "penrose/penrose",
+   "desc": "Create beautiful diagrams just by typing notation in plain text.",
+   "stars": 8011,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "programming-language",
+    "mathematics",
+    "diagrams",
+    "domain-specific-language"
+   ],
+   "updated": "2026-10-31T06:34:03Z"
+  },
+  {
+   "full": "witheve/Eve",
+   "desc": "Better tools for thought",
+   "stars": 7224,
+   "lang": "TypeScript",
+   "topics": [
+    "language",
+    "programming-language",
+    "database",
+    "ide",
+    "eve"
+   ],
+   "updated": "2018-03-20T18:37:04Z"
+  },
+  {
+   "full": "HaxeFoundation/haxe",
+   "desc": "Haxe - The Cross-Platform Toolkit",
+   "stars": 6956,
+   "lang": "Haxe",
+   "topics": [
+    "language",
+    "programming-language",
+    "cross-platform",
+    "compiler",
+    "haxe",
+    "macros",
+    "transpiler",
+    "jvm-languages"
+   ],
+   "updated": "2026-11-02T19:42:55Z"
+  },
+  {
+   "full": "supercollider/supercollider",
+   "desc": "An audio server, programming language, and IDE for sound synthesis and algorithmic composition.",
+   "stars": 6812,
+   "lang": "C++",
+   "topics": [
+    "audio",
+    "music",
+    "programming-language",
+    "c-plus-plus",
+    "sound",
+    "supercollider",
+    "synthesis",
+    "livecoding",
+    "sclang",
+    "electronic-music",
+    "scsynth",
+    "algorithmic-composition"
+   ],
+   "updated": "2026-11-02T10:27:31Z"
+  },
+  {
+   "full": "unisonweb/unison",
+   "desc": "A friendly programming language from the future",
+   "stars": 6773,
+   "lang": "Haskell",
+   "topics": [
+    "programming-language",
+    "haskell",
+    "unison",
+    "hacktoberfest",
+    "unison-language"
+   ],
+   "updated": "2026-10-28T19:36:54Z"
+  },
+  {
+   "full": "imba/imba",
+   "desc": "🐤 The friendly full-stack language",
+   "stars": 6515,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "programming-language",
+    "framework",
+    "ui",
+    "frontend",
+    "dom",
+    "declarative",
+    "imba"
+   ],
+   "updated": "2026-11-02T11:38:51Z"
+  },
+  {
+   "full": "elves/elvish",
+   "desc": "Powerful scripting language & versatile interactive shell",
+   "stars": 6396,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "shell",
+    "programming-language",
+    "unix"
+   ],
+   "updated": "2026-03-31T22:04:07Z"
+  },
+  {
+   "full": "ponylang/ponyc",
+   "desc": "Pony is an open-source, actor-model, capabilities-secure, high performance programming language",
+   "stars": 6215,
+   "lang": "Pony",
+   "topics": [
+    "programming-language",
+    "actor-model",
+    "ponylang",
+    "pony-language",
+    "pony-source",
+    "ponyc"
+   ],
+   "updated": "2026-10-30T13:46:43Z"
+  },
+  {
+   "full": "red/red",
+   "desc": "Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing",
+   "stars": 6073,
+   "lang": "Red",
+   "topics": [
+    "toolchain",
+    "language",
+    "programming-language",
+    "gui",
+    "interpreter",
+    "cross-platform",
+    "native",
+    "compiler",
+    "repl",
+    "red",
+    "scripting-language",
+    "reactive-programming"
+   ],
+   "updated": "2026-11-01T18:59:34Z"
+  },
+  {
+   "full": "luau-lang/luau",
+   "desc": "A small, fast, and embeddable programming language based on Lua with a gradual type system.",
+   "stars": 6049,
+   "lang": "C++",
+   "topics": [
+    "programming-language",
+    "lua",
+    "scripting-language"
+   ],
+   "updated": "2026-11-02T19:05:57Z"
+  },
+  {
+   "full": "huangsam/ultimate-python",
+   "desc": "Ultimate Python study guide 🐍 🐍 🐍",
+   "stars": 5979,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "programming-language",
+    "study",
+    "learning-python",
+    "python3",
+    "learn-to-code",
+    "learning-by-doing",
+    "international",
+    "hacktoberfest",
+    "newcomers",
+    "professionals",
+    "learning-resources"
+   ],
+   "updated": "2026-11-01T23:31:27Z"
+  },
+  {
+   "full": "alda-lang/alda",
+   "desc": "A music programming language for musicians. 🎶",
+   "stars": 5959,
+   "lang": "Go",
+   "topics": [
+    "music",
+    "programming-language",
+    "music-composition",
+    "music-programming-language",
+    "alda",
+    "hacktoberfest",
+    "music-programming"
+   ],
+   "updated": "2026-10-23T20:11:30Z"
+  },
+  {
+   "full": "sger/RustBooks",
+   "desc": "List of Rust books",
+   "stars": 5666,
+   "lang": null,
+   "topics": [
+    "programming-language",
+    "rust-language",
+    "rust-book",
+    "programming-rust"
+   ],
+   "updated": "2026-10-24T17:12:13Z"
+  },
+  {
+   "full": "chai2010/go-ast-book",
+   "desc": "📚 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)",
+   "stars": 5504,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "programming-language",
+    "golang",
+    "bison",
+    "flex",
+    "book",
+    "llvm",
+    "ast",
+    "lex",
+    "yacc",
+    "wa",
+    "goyacc"
+   ],
+   "updated": "2024-09-26T00:50:40Z"
+  },
+  {
+   "full": "rust-lang/rust",
+   "desc": "Empowering everyone to build reliable and efficient software.",
+   "stars": 120982,
+   "lang": "Rust",
+   "topics": [
+    "language",
+    "rust",
+    "compiler"
+   ],
+   "updated": "2026-11-02T20:01:31Z"
+  },
+  {
+   "full": "microsoft/TypeScript",
+   "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+   "stars": 111720,
+   "lang": "Go",
+   "topics": [
+    "javascript",
+    "language",
+    "typechecker",
+    "typescript"
+   ],
+   "updated": "2026-11-02T20:09:07Z"
+  },
+  {
+   "full": "FuelLabs/sway",
+   "desc": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
+   "stars": 61359,
+   "lang": "Rust",
+   "topics": [
+    "language",
+    "compiler",
+    "fuel",
+    "sway"
+   ],
+   "updated": "2026-11-01T17:20:01Z"
+  },
+  {
+   "full": "ziglang/zig",
+   "desc": "Moved to Codeberg",
+   "stars": 43262,
+   "lang": "Zig",
+   "topics": [
+    "language",
+    "compiler",
+    "zig"
+   ],
+   "updated": "2025-11-27T01:42:59Z"
+  },
+  {
+   "full": "slint-ui/slint",
+   "desc": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+   "stars": 24368,
+   "lang": "Rust",
+   "topics": [
+    "javascript",
+    "language",
+    "rust",
+    "gui",
+    "ui",
+    "native",
+    "cpp",
+    "toolkit",
+    "webassembly",
+    "wasm",
+    "widgets",
+    "desktop"
+   ],
+   "updated": "2026-11-02T17:21:04Z"
+  },
+  {
+   "full": "RustPython/RustPython",
+   "desc": "A Python Interpreter written in Rust",
+   "stars": 22454,
+   "lang": "Rust",
+   "topics": [
+    "language",
+    "rust",
+    "interpreter",
+    "compiler",
+    "wasm",
+    "jit",
+    "python3",
+    "hacktoberfest",
+    "python-language"
+   ],
+   "updated": "2026-11-02T16:59:05Z"
+  },
+  {
+   "full": "tc39/proposals",
+   "desc": "Tracking ECMAScript Proposals",
+   "stars": 19203,
+   "lang": null,
+   "topics": [
+    "javascript",
+    "language",
+    "proposal",
+    "ecmascript",
+    "spec",
+    "specification",
+    "language-design",
+    "committee"
+   ],
+   "updated": "2026-10-14T22:23:22Z"
+  },
+  {
+   "full": "keon/awesome-nlp",
+   "desc": "📖 A curated list of resources dedicated to Natural Language Processing (NLP)",
+   "stars": 19122,
+   "lang": null,
+   "topics": [
+    "nlp",
+    "language",
+    "machine-learning",
+    "natural-language-processing",
+    "text-mining",
+    "awesome",
+    "deep-learning",
+    "awesome-list"
+   ],
+   "updated": "2026-10-12T22:26:23Z"
+  },
+  {
+   "full": "nim-lang/Nim",
+   "desc": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+   "stars": 18296,
+   "lang": "Nim",
+   "topics": [
+    "language",
+    "nim",
+    "compiler",
+    "metaprogramming",
+    "efficient",
+    "macros",
+    "procedural",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T17:01:16Z"
+  },
+  {
+   "full": "gyoogle/tech-interview-for-developer",
+   "desc": "👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖",
+   "stars": 17663,
+   "lang": "Java",
+   "topics": [
+    "javascript",
+    "java",
+    "language",
+    "computer-science",
+    "it",
+    "algorithm",
+    "sql",
+    "database",
+    "web",
+    "tech",
+    "interview",
+    "data-structures"
+   ],
+   "updated": "2025-06-04T08:16:06Z"
+  },
+  {
+   "full": "less/less.js",
+   "desc": "Less. The dynamic stylesheet language.",
+   "stars": 17006,
+   "lang": "JavaScript",
+   "topics": [
+    "css",
+    "language",
+    "stylesheet-language"
+   ],
+   "updated": "2026-10-30T18:04:56Z"
+  },
+  {
+   "full": "gunthercox/ChatterBot",
+   "desc": "ChatterBot is a machine learning, conversational dialog engine for creating chat bots",
+   "stars": 14524,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "bot",
+    "language",
+    "machine-learning",
+    "chatbot",
+    "chatterbot",
+    "conversation"
+   ],
+   "updated": "2026-11-01T19:17:42Z"
+  },
+  {
+   "full": "munificent/craftinginterpreters",
+   "desc": "Repository for the book \"Crafting Interpreters\"",
+   "stars": 11131,
+   "lang": "HTML",
+   "topics": [
+    "c",
+    "java",
+    "language",
+    "markdown",
+    "parser",
+    "interpreter",
+    "bytecode",
+    "compiler",
+    "book",
+    "scripting-language",
+    "lox"
+   ],
+   "updated": "2024-08-07T12:07:07Z"
+  },
+  {
+   "full": "mxgmn/MarkovJunior",
+   "desc": "Probabilistic language based on pattern matching and constraint propagation, 153 examples",
+   "stars": 8489,
+   "lang": "C#",
+   "topics": [
+    "language",
+    "gamedev",
+    "csharp",
+    "algorithms",
+    "procedural-generation",
+    "voxel",
+    "cellular-automata",
+    "probabilistic-programming",
+    "markovjunior"
+   ],
+   "updated": "2026-03-20T00:05:35Z"
+  },
+  {
+   "full": "wren-lang/wren",
+   "desc": "The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.",
+   "stars": 8173,
+   "lang": "Wren",
+   "topics": [
+    "c",
+    "language",
+    "interpreter",
+    "bytecode",
+    "fibers",
+    "wren",
+    "scripting-languages"
+   ],
+   "updated": "2025-11-19T22:18:55Z"
+  },
+  {
+   "full": "Laravel-Lang/lang",
+   "desc": "List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.",
+   "stars": 7783,
+   "lang": "PHP",
+   "topics": [
+    "i18n",
+    "language",
+    "laravel",
+    "translation",
+    "localization",
+    "laravel-spark",
+    "laravel-application",
+    "mollie-payments-api",
+    "laravel-cashier",
+    "laravel-nova",
+    "laravel-jetstream",
+    "laravel-fortify"
+   ],
+   "updated": "2026-10-31T20:37:30Z"
+  },
+  {
+   "full": "enso-org/enso",
+   "desc": "Enso Analytics is a self-service data prep and analysis platform designed for data teams.",
+   "stars": 7443,
+   "lang": "Java",
+   "topics": [
+    "language",
+    "functional",
+    "interpreter",
+    "compiler",
+    "visual",
+    "textual",
+    "jit",
+    "polyglot",
+    "graalvm",
+    "hybrid",
+    "rts",
+    "enso"
+   ],
+   "updated": "2026-08-10T23:15:44Z"
+  },
+  {
+   "full": "roc-lang/roc",
+   "desc": "A fast, friendly, functional language.",
+   "stars": 6183,
+   "lang": "Zig",
+   "topics": [
+    "language",
+    "functional-programming",
+    "functional-language",
+    "roc-lang"
+   ],
+   "updated": "2026-11-02T20:17:02Z"
+  },
+  {
+   "full": "carp-lang/Carp",
+   "desc": "A statically typed lisp, without a GC, for real-time applications.",
+   "stars": 6082,
+   "lang": "Haskell",
+   "topics": [
+    "language",
+    "gamedev",
+    "games",
+    "functional",
+    "lisp",
+    "functional-programming",
+    "repl",
+    "game-development",
+    "static",
+    "typed"
+   ],
+   "updated": "2026-10-25T16:03:54Z"
+  },
+  {
+   "full": "c3lang/c3c",
+   "desc": "Compiler for the C3 language",
+   "stars": 5922,
+   "lang": "C3",
+   "topics": [
+    "language",
+    "compiler",
+    "c3"
+   ],
+   "updated": "2026-11-02T15:44:35Z"
+  },
+  {
+   "full": "openai-php/client",
+   "desc": "⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.",
+   "stars": 5837,
+   "lang": "PHP",
+   "topics": [
+    "processing",
+    "api",
+    "language",
+    "php",
+    "client",
+    "sdk",
+    "openai",
+    "natural",
+    "codex",
+    "gpt-3",
+    "gpt-4",
+    "gpt-5"
+   ],
+   "updated": "2026-11-01T11:17:57Z"
+  },
+  {
+   "full": "winglang/wing",
+   "desc": "A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡",
+   "stars": 5402,
+   "lang": "TypeScript",
+   "topics": [
+    "language",
+    "programming-language",
+    "rust",
+    "cloud",
+    "typescript",
+    "sdk",
+    "serverless",
+    "compiler",
+    "winglang"
+   ],
+   "updated": "2026-10-07T11:56:21Z"
+  },
+  {
+   "full": "vyperlang/vyper",
+   "desc": "Pythonic Smart Contract Language for the EVM",
+   "stars": 5182,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "language",
+    "ethereum",
+    "ethereum-dapp",
+    "vyper"
+   ],
+   "updated": "2026-11-02T15:53:34Z"
+  },
+  {
+   "full": "dariusk/corpora",
+   "desc": "A collection of small corpuses of interesting data for the creation of bots and similar stuff.",
+   "stars": 5127,
+   "lang": "JavaScript",
+   "topics": [
+    "language",
+    "bots",
+    "corpus",
+    "words"
+   ],
+   "updated": "2026-10-31T17:01:19Z"
+  },
+  {
+   "full": "yoav-lavi/melody",
+   "desc": "Melody is a language that compiles to regular expressions and aims to be more readable and maintainable",
+   "stars": 4739,
+   "lang": "Rust",
+   "topics": [
+    "language",
+    "rust",
+    "compiler",
+    "regex",
+    "regexp",
+    "regular-expression",
+    "melody",
+    "melodylang"
+   ],
+   "updated": "2024-11-24T19:14:44Z"
+  },
+  {
+   "full": "scala-js/scala-js",
+   "desc": "Scala.js, the Scala to JavaScript compiler",
+   "stars": 4708,
+   "lang": "Scala",
+   "topics": [
+    "language",
+    "scala",
+    "compiler",
+    "javascript-compiler"
+   ],
+   "updated": "2026-10-31T19:51:56Z"
+  },
+  {
+   "full": "amperser/proselint",
+   "desc": "[Mirror] A linter for prose.",
+   "stars": 4593,
+   "lang": "JavaScript",
+   "topics": [
+    "language",
+    "knowledge",
+    "linter",
+    "prose",
+    "style",
+    "writer",
+    "advice"
+   ],
+   "updated": "2026-09-04T12:53:07Z"
+  }
+ ]
+}

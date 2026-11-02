@@ -1,0 +1,1482 @@
+{
+ "subId": "rag",
+ "topics": [
+  "rag",
+  "vector-database"
+ ],
+ "crawledAt": "2026-11-02T20:16:27.664Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "open-webui/open-webui",
+   "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+   "stars": 157576,
+   "lang": "Python",
+   "topics": [
+    "ui",
+    "ai",
+    "mcp",
+    "openapi",
+    "self-hosted",
+    "openai",
+    "webui",
+    "rag",
+    "llm",
+    "llms",
+    "ollama",
+    "llm-ui"
+   ],
+   "updated": "2026-11-02T11:42:01Z"
+  },
+  {
+   "full": "langchain-ai/langchain",
+   "desc": "The agent engineering platform.",
+   "stars": 148892,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "open-source",
+    "enterprise",
+    "framework",
+    "typescript",
+    "ai",
+    "gemini",
+    "openai",
+    "multiagent",
+    "agents",
+    "ai-agents",
+    "rag"
+   ],
+   "updated": "2026-11-02T20:14:18Z"
+  },
+  {
+   "full": "Shubhamsaboo/awesome-llm-apps",
+   "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+   "stars": 143753,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agents",
+    "rag",
+    "llms"
+   ],
+   "updated": "2026-10-22T19:10:10Z"
+  },
+  {
+   "full": "Graphify-Labs/graphify",
+   "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+   "stars": 141070,
+   "lang": "Python",
+   "topics": [
+    "tree-sitter",
+    "skills",
+    "mcp",
+    "code-analysis",
+    "ast",
+    "gemini",
+    "knowledge-graph",
+    "code-search",
+    "developer-tools",
+    "cursor",
+    "leiden",
+    "codex"
+   ],
+   "updated": "2026-11-02T19:38:53Z"
+  },
+  {
+   "full": "thedotmack/claude-mem",
+   "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes",
+   "stars": 110583,
+   "lang": "TypeScript",
+   "topics": [
+    "ai",
+    "sqlite",
+    "embeddings",
+    "artificial-intelligence",
+    "ai-agents",
+    "claude",
+    "memory-engine",
+    "long-term-memory",
+    "rag",
+    "anthropic",
+    "chromadb",
+    "ai-memory"
+   ],
+   "updated": "2026-11-02T18:04:05Z"
+  },
+  {
+   "full": "infiniflow/ragflow",
+   "desc": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+   "stars": 93365,
+   "lang": "Go",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "knowledge-compilation",
+    "rag",
+    "context-engine",
+    "retrieval-augmented-generation",
+    "context-management",
+    "agentic-search",
+    "agentic-ai",
+    "context-engineering",
+    "agent-harness",
+    "agentic-retrieval"
+   ],
+   "updated": "2026-11-02T15:44:48Z"
+  },
+  {
+   "full": "PaddlePaddle/PaddleOCR",
+   "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+   "stars": 92143,
+   "lang": "Python",
+   "topics": [
+    "ocr",
+    "pdf-parser",
+    "kie",
+    "document-translation",
+    "rag",
+    "chineseocr",
+    "ai4science",
+    "pp-ocr",
+    "document-parsing",
+    "pp-structure",
+    "pdf-extractor-rag",
+    "pdf2markdown"
+   ],
+   "updated": "2026-09-16T03:31:50Z"
+  },
+  {
+   "full": "unclecode/crawl4ai",
+   "desc": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf",
+   "stars": 86783,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "markdown",
+    "open-source",
+    "crawler",
+    "scraper",
+    "ai",
+    "mcp",
+    "web-crawler",
+    "web-scraping",
+    "data-extraction",
+    "web-crawling",
+    "ai-agents"
+   ],
+   "updated": "2026-11-02T14:01:43Z"
+  },
+  {
+   "full": "datawhalechina/hello-agents",
+   "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+   "stars": 85783,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "tutorial",
+    "rag",
+    "llm"
+   ],
+   "updated": "2026-10-13T22:28:54Z"
+  },
+  {
+   "full": "dair-ai/Prompt-Engineering-Guide",
+   "desc": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+   "stars": 79751,
+   "lang": "MDX",
+   "topics": [
+    "agent",
+    "deep-learning",
+    "openai",
+    "language-model",
+    "agents",
+    "ai-agents",
+    "rag",
+    "prompt-engineering",
+    "llms",
+    "generative-ai",
+    "chatgpt"
+   ],
+   "updated": "2026-03-11T20:09:13Z"
+  },
+  {
+   "full": "headroomlabs-ai/headroom",
+   "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+   "stars": 78658,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "typescript",
+    "compression",
+    "ai",
+    "proxy",
+    "mcp",
+    "tokens",
+    "openai",
+    "cursor",
+    "rag",
+    "fastapi"
+   ],
+   "updated": "2026-11-02T13:17:36Z"
+  },
+  {
+   "full": "mem0ai/mem0",
+   "desc": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+   "stars": 68288,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "state-management",
+    "ai",
+    "memory",
+    "memory-management",
+    "agents",
+    "ai-agents",
+    "long-term-memory",
+    "rag",
+    "llm",
+    "chatgpt",
+    "genai"
+   ],
+   "updated": "2026-10-30T21:36:23Z"
+  },
+  {
+   "full": "Mintplex-Labs/anything-llm",
+   "desc": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+   "stars": 67862,
+   "lang": "JavaScript",
+   "topics": [
+    "ai-agents",
+    "multimodal",
+    "rag",
+    "vector-database",
+    "llm",
+    "localai",
+    "local-ai",
+    "agentic-workflow",
+    "agentic-ai",
+    "computer-use",
+    "self-hosted-ai",
+    "agent-orchestration"
+   ],
+   "updated": "2026-10-30T23:50:45Z"
+  },
+  {
+   "full": "pathwaycom/serviette",
+   "desc": "A no-code RAG server that keeps answers in sync with your documents. Works with 8 vector databases. Built on Pathway.",
+   "stars": 58732,
+   "lang": "Python",
+   "topics": [
+    "real-time",
+    "mongodb",
+    "self-hosted",
+    "semantic-search",
+    "pathway",
+    "no-code",
+    "pinecone",
+    "document-search",
+    "live-data",
+    "rag",
+    "weaviate",
+    "milvus"
+   ],
+   "updated": "2026-11-02T15:57:46Z"
+  },
+  {
+   "full": "bojieli/ai-agent-book",
+   "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+   "stars": 56963,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "reinforcement-learning",
+    "book",
+    "mcp",
+    "multi-agent",
+    "multimodal",
+    "rag",
+    "ai-agent",
+    "large-language-models",
+    "llm",
+    "agent-memory",
+    "coding-agent"
+   ],
+   "updated": "2026-10-08T15:06:27Z"
+  },
+  {
+   "full": "FlowiseAI/Flowise",
+   "desc": "Build AI Agents, Visually",
+   "stars": 55542,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "typescript",
+    "chatbot",
+    "artificial-intelligence",
+    "openai",
+    "multiagent-systems",
+    "agents",
+    "workflow-automation",
+    "low-code",
+    "no-code",
+    "rag"
+   ],
+   "updated": "2026-08-13T12:38:19Z"
+  },
+  {
+   "full": "HKUDS/DeepTutor",
+   "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+   "stars": 54256,
+   "lang": "Python",
+   "topics": [
+    "learning",
+    "interactive-learning",
+    "multi-agent-systems",
+    "ai-agents",
+    "cli-tool",
+    "rag",
+    "ai-tutor",
+    "deepresearch",
+    "clawbot"
+   ],
+   "updated": "2026-10-31T16:51:35Z"
+  },
+  {
+   "full": "run-llama/llama_index",
+   "desc": "LlamaIndex is the document processing platform for AI",
+   "stars": 52779,
+   "lang": "Python",
+   "topics": [
+    "application",
+    "data",
+    "framework",
+    "agents",
+    "fine-tuning",
+    "multi-agents",
+    "rag",
+    "vector-database",
+    "llm",
+    "llamaindex"
+   ],
+   "updated": "2026-10-26T21:25:10Z"
+  },
+  {
+   "full": "jeecgboot/JeecgBoot",
+   "desc": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+   "stars": 48363,
+   "lang": "Java",
+   "topics": [
+    "agent",
+    "cli",
+    "ai",
+    "skills",
+    "mcp",
+    "codegenerator",
+    "antd",
+    "springboot",
+    "activiti",
+    "mybatis-plus",
+    "codex",
+    "springcloud"
+   ],
+   "updated": "2026-11-02T01:31:30Z"
+  },
+  {
+   "full": "milvus-io/milvus",
+   "desc": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+   "stars": 46563,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "distributed",
+    "nearest-neighbor-search",
+    "cloud-native",
+    "image-search",
+    "vector-similarity",
+    "faiss",
+    "anns",
+    "rag",
+    "hnsw",
+    "vector-search",
+    "vector-database"
+   ],
+   "updated": "2026-11-02T19:20:07Z"
+  },
+  {
+   "full": "langchain-ai/langgraph",
+   "desc": "Build resilient agents.",
+   "stars": 44336,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "open-source",
+    "enterprise",
+    "framework",
+    "ai",
+    "gemini",
+    "openai",
+    "multiagent",
+    "agents",
+    "ai-agents",
+    "rag",
+    "pydantic"
+   ],
+   "updated": "2026-11-02T19:57:25Z"
+  },
+  {
+   "full": "patchy631/ai-engineering-hub",
+   "desc": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+   "stars": 40927,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "machine-learning",
+    "ai",
+    "mcp",
+    "agents",
+    "rag",
+    "llms"
+   ],
+   "updated": "2026-11-01T04:39:16Z"
+  },
+  {
+   "full": "HKUDS/LightRAG",
+   "desc": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+   "stars": 40487,
+   "lang": "Python",
+   "topics": [
+    "knowledge-graph",
+    "gpt",
+    "rag",
+    "large-language-models",
+    "llm",
+    "genai",
+    "retrieval-augmented-generation",
+    "ragas",
+    "graphrag",
+    "mineru",
+    "docling"
+   ],
+   "updated": "2026-10-29T18:05:03Z"
+  },
+  {
+   "full": "VectifyAI/PageIndex",
+   "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+   "stars": 39958,
+   "lang": "Python",
+   "topics": [
+    "information-retrieval",
+    "ai",
+    "retrieval",
+    "agents",
+    "reasoning",
+    "ai-agents",
+    "rag",
+    "vector-database",
+    "llm",
+    "retrieval-augmented-generation",
+    "agentic-ai",
+    "context-engineering"
+   ],
+   "updated": "2026-11-02T15:03:30Z"
+  },
+  {
+   "full": "The-Vibe-Company/quivr",
+   "desc": "An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules.",
+   "stars": 39624,
+   "lang": "Go",
+   "topics": [
+    "react",
+    "javascript",
+    "html",
+    "api",
+    "docker",
+    "security",
+    "privacy",
+    "framework",
+    "typescript",
+    "database",
+    "ai",
+    "frontend"
+   ],
+   "updated": "2026-11-02T14:24:50Z"
+  },
+  {
+   "full": "chatchat-space/Langchain-Chatchat",
+   "desc": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain",
+   "stars": 38714,
+   "lang": "Python",
+   "topics": [
+    "chatbot",
+    "llama",
+    "gpt",
+    "knowledge-base",
+    "embedding",
+    "faiss",
+    "rag",
+    "milvus",
+    "streamlit",
+    "llm",
+    "chatgpt",
+    "langchain"
+   ],
+   "updated": "2025-11-10T09:27:42Z"
+  },
+  {
+   "full": "ItzCrazyKns/Vane",
+   "desc": "Vane is an AI-powered answering engine.",
+   "stars": 37975,
+   "lang": "TypeScript",
+   "topics": [
+    "search-engine",
+    "machine-learning",
+    "artificial-intelligence",
+    "ai-agents",
+    "rag",
+    "vane",
+    "answering-engine",
+    "searxng",
+    "llm",
+    "ai-search-engine",
+    "open-source-ai-search-engine",
+    "perplexica"
+   ],
+   "updated": "2026-09-01T14:12:12Z"
+  },
+  {
+   "full": "khoj-ai/khoj",
+   "desc": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistr",
+   "stars": 37946,
+   "lang": "Python",
+   "topics": [
+    "chat",
+    "agent",
+    "productivity",
+    "research",
+    "ai",
+    "emacs",
+    "self-hosted",
+    "assistant",
+    "image-generation",
+    "obsidian",
+    "stt",
+    "semantic-search"
+   ],
+   "updated": "2026-08-02T01:55:40Z"
+  },
+  {
+   "full": "virgiliojr94/book-to-skill",
+   "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+   "stars": 36779,
+   "lang": "Python",
+   "topics": [
+    "edtech",
+    "knowledge-base",
+    "self-study",
+    "knowledge-management",
+    "ai-agents",
+    "document-processing",
+    "rag",
+    "llm",
+    "study-tools",
+    "pdf-to-markdown",
+    "agent-skills",
+    "context-engineering"
+   ],
+   "updated": "2026-10-28T13:26:03Z"
+  },
+  {
+   "full": "microsoft/graphrag",
+   "desc": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+   "stars": 36531,
+   "lang": "Python",
+   "topics": [
+    "gpt",
+    "rag",
+    "gpt-4",
+    "gpt4",
+    "llm",
+    "llms",
+    "graphrag"
+   ],
+   "updated": "2026-11-02T07:24:01Z"
+  },
+  {
+   "full": "Tencent/WeKnora",
+   "desc": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+   "stars": 36268,
+   "lang": "Go",
+   "topics": [
+    "agent",
+    "golang",
+    "multi-tenant",
+    "ai",
+    "wiki",
+    "chatbot",
+    "evaluation",
+    "embeddings",
+    "openai",
+    "question-answering",
+    "knowledge-base",
+    "semantic-search"
+   ],
+   "updated": "2026-11-02T11:16:59Z"
+  },
+  {
+   "full": "datawhalechina/happy-llm",
+   "desc": "📚 从零开始构建大模型",
+   "stars": 34718,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "agent",
+    "rag",
+    "llm"
+   ],
+   "updated": "2026-08-08T17:18:48Z"
+  },
+  {
+   "full": "onyx-dot-app/onyx",
+   "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+   "stars": 33170,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "information-retrieval",
+    "ai",
+    "nextjs",
+    "self-hosted",
+    "enterprise-search",
+    "chatui",
+    "rag",
+    "vector-search",
+    "ai-chat",
+    "llm",
+    "chatgpt"
+   ],
+   "updated": "2026-11-02T20:09:18Z"
+  },
+  {
+   "full": "getzep/graphiti",
+   "desc": "Build Real-Time Knowledge Graphs for AI Agents",
+   "stars": 32451,
+   "lang": "Python",
+   "topics": [
+    "graph",
+    "agents",
+    "rag",
+    "llms"
+   ],
+   "updated": "2026-11-01T01:05:00Z"
+  },
+  {
+   "full": "ScrapeGraphAI/Scrapegraph-ai",
+   "desc": "Python scraper based on AI",
+   "stars": 32439,
+   "lang": "Python",
+   "topics": [
+    "markdown",
+    "crawler",
+    "web-crawler",
+    "scraping",
+    "web-scraper",
+    "web-scraping",
+    "data-extraction",
+    "webscraping",
+    "web-data-extraction",
+    "web-search",
+    "ai-search",
+    "rag"
+   ],
+   "updated": "2026-10-06T08:27:54Z"
+  },
+  {
+   "full": "NirDiamant/RAG_Techniques",
+   "desc": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+   "stars": 30198,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "nlp",
+    "machine-learning",
+    "ai",
+    "tutorials",
+    "embeddings",
+    "openai",
+    "gpt",
+    "semantic-search",
+    "rag",
+    "vector-database",
+    "llm"
+   ],
+   "updated": "2026-11-02T00:36:15Z"
+  },
+  {
+   "full": "opendataloader-project/opendataloader-pdf",
+   "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+   "stars": 30155,
+   "lang": "Java",
+   "topics": [
+    "html",
+    "markdown",
+    "pdf",
+    "json",
+    "ocr",
+    "ai",
+    "accessibility",
+    "a11y",
+    "pdf-converter",
+    "tables",
+    "ocr-recognition",
+    "pdf-parser"
+   ],
+   "updated": "2026-11-02T09:46:11Z"
+  },
+  {
+   "full": "labring/FastGPT",
+   "desc": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex",
+   "stars": 29978,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "workflow",
+    "mcp",
+    "nextjs",
+    "openai",
+    "claude",
+    "rag",
+    "llm",
+    "qwen",
+    "deepseek"
+   ],
+   "updated": "2026-11-02T13:25:32Z"
+  },
+  {
+   "full": "simstudioai/sim",
+   "desc": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+   "stars": 29974,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "automation",
+    "typescript",
+    "ai",
+    "nextjs",
+    "chatbot",
+    "artificial-intelligence",
+    "gemini",
+    "openai",
+    "agents",
+    "low-code",
+    "no-code"
+   ],
+   "updated": "2026-11-02T20:14:10Z"
+  },
+  {
+   "full": "humanlayer/12-factor-agents",
+   "desc": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+   "stars": 26955,
+   "lang": "TypeScript",
+   "topics": [
+    "framework",
+    "ai",
+    "memory",
+    "orchestration",
+    "agents",
+    "12-factor",
+    "rag",
+    "prompt-engineering",
+    "llms",
+    "context-window",
+    "12-factor-agents"
+   ],
+   "updated": "2025-09-21T14:37:40Z"
+  },
+  {
+   "full": "meilisearch/meilisearch",
+   "desc": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+   "stars": 59758,
+   "lang": "Rust",
+   "topics": [
+    "search",
+    "api",
+    "search-engine",
+    "database",
+    "ai",
+    "fuzzy-search",
+    "full-text-search",
+    "vectors",
+    "instantsearch",
+    "semantic-search",
+    "enterprise-search",
+    "geosearch"
+   ],
+   "updated": "2026-11-02T13:01:50Z"
+  },
+  {
+   "full": "volcengine/OpenViking",
+   "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+   "stars": 41383,
+   "lang": "Python",
+   "topics": [
+    "memory",
+    "memory-management",
+    "knowledge-base",
+    "vector-database",
+    "agentic-rag",
+    "self-evolving",
+    "agent-memory",
+    "context-database",
+    "agent-context",
+    "agent-plugins",
+    "dsh-plugin"
+   ],
+   "updated": "2026-11-02T15:15:57Z"
+  },
+  {
+   "full": "qdrant/qdrant",
+   "desc": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+   "stars": 35390,
+   "lang": "Rust",
+   "topics": [
+    "search",
+    "search-engine",
+    "machine-learning",
+    "neural-network",
+    "nearest-neighbor-search",
+    "image-search",
+    "recommender-system",
+    "search-engines",
+    "similarity-search",
+    "ai-search",
+    "knn-algorithm",
+    "mlops"
+   ],
+   "updated": "2026-11-02T20:07:50Z"
+  },
+  {
+   "full": "topoteretes/cognee",
+   "desc": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
+   "stars": 33010,
+   "lang": "Python",
+   "topics": [
+    "open-source",
+    "ai",
+    "knowledge",
+    "knowledge-graph",
+    "help-wanted",
+    "graph-database",
+    "memory-management",
+    "ai-agents",
+    "contributions-welcome",
+    "cognitive-architecture",
+    "good-first-issue",
+    "good-first-pr"
+   ],
+   "updated": "2026-11-02T18:33:51Z"
+  },
+  {
+   "full": "memvid/memvid",
+   "desc": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+   "stars": 17353,
+   "lang": "Rust",
+   "topics": [
+    "python",
+    "nlp",
+    "opencv",
+    "machine-learning",
+    "embedded",
+    "ai",
+    "offline-first",
+    "memory",
+    "context",
+    "knowledge-graph",
+    "video-processing",
+    "knowledge-base"
+   ],
+   "updated": "2026-07-14T14:39:07Z"
+  },
+  {
+   "full": "weaviate/weaviate",
+   "desc": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+   "stars": 16934,
+   "lang": "Go",
+   "topics": [
+    "search-engine",
+    "information-retrieval",
+    "grpc",
+    "nearest-neighbor-search",
+    "semantic-search-engine",
+    "image-search",
+    "recommender-system",
+    "vectors",
+    "approximate-nearest-neighbor-search",
+    "semantic-search",
+    "similarity-search",
+    "mlops"
+   ],
+   "updated": "2026-11-02T19:45:04Z"
+  },
+  {
+   "full": "alibaba/zvec",
+   "desc": "A lightweight, lightning-fast, in-process vector database",
+   "stars": 16176,
+   "lang": "C++",
+   "topics": [
+    "search-engine",
+    "embedded",
+    "local",
+    "db",
+    "fts",
+    "fulltext-search",
+    "semantic-search",
+    "similarity-search",
+    "faiss",
+    "rag",
+    "hnsw",
+    "vector-database"
+   ],
+   "updated": "2026-11-02T10:49:14Z"
+  },
+  {
+   "full": "StarTrail-org/LEANN",
+   "desc": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+   "stars": 13756,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "privacy",
+    "ai",
+    "offline-first",
+    "localstorage",
+    "vectors",
+    "faiss",
+    "rag",
+    "vector-search",
+    "vector-database",
+    "llm",
+    "langchain"
+   ],
+   "updated": "2026-11-02T03:32:52Z"
+  },
+  {
+   "full": "langchain4j/langchain4j",
+   "desc": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agent",
+   "stars": 13344,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "embeddings",
+    "gemini",
+    "openai",
+    "chroma",
+    "llama",
+    "gpt",
+    "pinecone",
+    "onnx",
+    "huggingface",
+    "milvus",
+    "vector-database"
+   ],
+   "updated": "2026-11-02T15:13:51Z"
+  },
+  {
+   "full": "neuml/txtai",
+   "desc": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+   "stars": 13062,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "search",
+    "nlp",
+    "search-engine",
+    "information-retrieval",
+    "ai",
+    "transformers",
+    "embeddings",
+    "language-model",
+    "agents",
+    "semantic-search",
+    "ai-agents"
+   ],
+   "updated": "2026-11-01T15:12:49Z"
+  },
+  {
+   "full": "zilliztech/claude-context",
+   "desc": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+   "stars": 12664,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "agent",
+    "typescript",
+    "mcp",
+    "code-search",
+    "openai",
+    "vscode-extension",
+    "code-generation",
+    "cursor",
+    "merkle-tree",
+    "semantic-search",
+    "embedding"
+   ],
+   "updated": "2026-07-14T12:00:38Z"
+  },
+  {
+   "full": "lancedb/lancedb",
+   "desc": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+   "stars": 11832,
+   "lang": "Rust",
+   "topics": [
+    "search-engine",
+    "nearest-neighbor-search",
+    "image-search",
+    "recommender-system",
+    "approximate-nearest-neighbor-search",
+    "semantic-search",
+    "similarity-search",
+    "vector-database"
+   ],
+   "updated": "2026-11-02T20:16:21Z"
+  },
+  {
+   "full": "oramasearch/orama",
+   "desc": "🌌 A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.",
+   "stars": 10593,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "search",
+    "search-engine",
+    "node",
+    "typescript",
+    "vector",
+    "data-structures",
+    "full-text",
+    "search-algorithm",
+    "typo-tolerance",
+    "vector-search",
+    "vector-database"
+   ],
+   "updated": "2026-10-18T16:53:33Z"
+  },
+  {
+   "full": "oceanbase/oceanbase",
+   "desc": "OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads.",
+   "stars": 10363,
+   "lang": "C++",
+   "topics": [
+    "mysql",
+    "database",
+    "scalable",
+    "analytics",
+    "vector",
+    "olap",
+    "distributed-database",
+    "cloud-native",
+    "vectors",
+    "fulltext-support",
+    "paxos",
+    "fulltext"
+   ],
+   "updated": "2026-10-31T01:00:32Z"
+  },
+  {
+   "full": "databendlabs/databend",
+   "desc": "Data Agent Ready Warehouse : One for Analytics, Search, AI, Python Sandbox. — rebuilt from scratch. Unified architecture on your S3.",
+   "stars": 9489,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "elasticsearch",
+    "sql",
+    "database",
+    "ai",
+    "serverless",
+    "geospatial",
+    "bigdata",
+    "snowflake",
+    "olap",
+    "cloud-native",
+    "vector-search"
+   ],
+   "updated": "2026-11-02T20:15:34Z"
+  },
+  {
+   "full": "paradedb/paradedb",
+   "desc": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.",
+   "stars": 9473,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "search-engine",
+    "analytics",
+    "postgresql",
+    "olap",
+    "full-text-search",
+    "mpp",
+    "columnar-storage",
+    "semantic-search",
+    "bm25",
+    "real-time-analytics",
+    "postgresql-extension"
+   ],
+   "updated": "2026-11-02T20:11:32Z"
+  },
+  {
+   "full": "activeloopai/deeplake",
+   "desc": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+   "stars": 9265,
+   "lang": "C++",
+   "topics": [
+    "agent",
+    "postgres",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "memory",
+    "skill",
+    "filesystem",
+    "pytorch",
+    "datalake",
+    "multimodal",
+    "rag"
+   ],
+   "updated": "2026-05-21T15:28:00Z"
+  },
+  {
+   "full": "reorproject/reor",
+   "desc": "Private & local AI personal knowledge management app for high entropy people.",
+   "stars": 8533,
+   "lang": "JavaScript",
+   "topics": [
+    "markdown",
+    "ai",
+    "llama",
+    "note-taking",
+    "pkm",
+    "rag",
+    "local-first",
+    "vector-database",
+    "second-brain",
+    "llamacpp",
+    "lancedb",
+    "ollama"
+   ],
+   "updated": "2025-05-13T21:28:59Z"
+  },
+  {
+   "full": "MariaDB/server",
+   "desc": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in ",
+   "stars": 8506,
+   "lang": "C++",
+   "topics": [
+    "mysql",
+    "json",
+    "sql",
+    "database",
+    "storage-engine",
+    "mariadb",
+    "nearest-neighbor-search",
+    "rdbms",
+    "relational-databases",
+    "geographical-information-system",
+    "amazon-web-services",
+    "fulltext-search"
+   ],
+   "updated": "2026-11-02T20:03:41Z"
+  },
+  {
+   "full": "zilliztech/deep-searcher",
+   "desc": "Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.",
+   "stars": 8366,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "openai",
+    "grok",
+    "claude",
+    "rag",
+    "milvus",
+    "vector-database",
+    "llm",
+    "zilliz",
+    "deepseek",
+    "agentic-rag",
+    "grok3"
+   ],
+   "updated": "2026-09-22T10:08:42Z"
+  },
+  {
+   "full": "vespa-engine/vespa",
+   "desc": "The AI search platform",
+   "stars": 7157,
+   "lang": "Java",
+   "topics": [
+    "search",
+    "java",
+    "search-engine",
+    "machine-learning",
+    "big-data",
+    "ai",
+    "server",
+    "vector",
+    "tensor",
+    "vespa",
+    "serving-recommendation",
+    "rag"
+   ],
+   "updated": "2026-11-02T17:33:15Z"
+  },
+  {
+   "full": "postgresml/postgresml",
+   "desc": "Postgres with GPUs for ML/AI apps.",
+   "stars": 6827,
+   "lang": "Rust",
+   "topics": [
+    "postgres",
+    "machine-learning",
+    "sql",
+    "ai",
+    "clustering",
+    "ml",
+    "regression",
+    "embeddings",
+    "artificial-intelligence",
+    "forecasting",
+    "classification",
+    "ann"
+   ],
+   "updated": "2025-07-01T12:26:02Z"
+  },
+  {
+   "full": "genkit-ai/genkit",
+   "desc": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Google",
+   "stars": 6563,
+   "lang": "TypeScript",
+   "topics": [
+    "ai",
+    "agents",
+    "multimodal",
+    "rag",
+    "vector-database",
+    "embedders",
+    "llm",
+    "genkit"
+   ],
+   "updated": "2026-11-02T20:09:17Z"
+  },
+  {
+   "full": "HelixDB/helix-db",
+   "desc": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+   "stars": 6266,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "cli",
+    "database",
+    "ai",
+    "vector",
+    "databases",
+    "rust-lang",
+    "graph-database",
+    "helix",
+    "rust-crate",
+    "rag",
+    "vector-database"
+   ],
+   "updated": "2026-11-02T17:12:35Z"
+  },
+  {
+   "full": "RediSearch/RediSearch",
+   "desc": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggregations.",
+   "stars": 6247,
+   "lang": "Rust",
+   "topics": [
+    "search",
+    "redis",
+    "search-engine",
+    "geospatial",
+    "gis",
+    "inverted-index",
+    "fulltext",
+    "redis-module",
+    "vector-database"
+   ],
+   "updated": "2026-11-02T19:05:02Z"
+  },
+  {
+   "full": "volcengine/MineContext",
+   "desc": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）",
+   "stars": 5541,
+   "lang": "Python",
+   "topics": [
+    "electron",
+    "react",
+    "javascript",
+    "python",
+    "agent",
+    "typescript",
+    "memory",
+    "python3",
+    "embedding-models",
+    "rag",
+    "vector-database",
+    "vision-language-model"
+   ],
+   "updated": "2026-05-07T13:23:05Z"
+  },
+  {
+   "full": "infiniflow/infinity",
+   "desc": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.",
+   "stars": 4755,
+   "lang": "C++",
+   "topics": [
+    "search-engine",
+    "vector",
+    "nearest-neighbor-search",
+    "full-text-search",
+    "approximate-nearest-neighbor-search",
+    "embedding",
+    "bm25",
+    "information-retrival",
+    "cpp20",
+    "rag",
+    "hnsw",
+    "vector-search"
+   ],
+   "updated": "2026-11-02T13:33:52Z"
+  },
+  {
+   "full": "CaviraOSS/LongMemory",
+   "desc": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
+   "stars": 4560,
+   "lang": "TypeScript",
+   "topics": [
+    "ai",
+    "memory",
+    "embeddings",
+    "artificial-intelligence",
+    "gemini",
+    "openai",
+    "ai-agents",
+    "cognitive-architecture",
+    "one-line",
+    "memory-engine",
+    "long-term-memory",
+    "rag"
+   ],
+   "updated": "2026-10-18T15:42:48Z"
+  },
+  {
+   "full": "crate/crate",
+   "desc": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.",
+   "stars": 4450,
+   "lang": "Java",
+   "topics": [
+    "iot",
+    "elasticsearch",
+    "sql",
+    "database",
+    "big-data",
+    "time-series",
+    "analytics",
+    "dbms",
+    "postgresql",
+    "distributed",
+    "olap",
+    "distributed-database"
+   ],
+   "updated": "2026-11-02T20:08:14Z"
+  },
+  {
+   "full": "Ontos-AI/knowhere",
+   "desc": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+   "stars": 3882,
+   "lang": "Python",
+   "topics": [
+    "skills",
+    "cursor",
+    "codex",
+    "ai-agents",
+    "vector-database",
+    "document-intelligence",
+    "mutli-agent",
+    "langchain",
+    "rag-pipeline",
+    "claude-code",
+    "agent-harness"
+   ],
+   "updated": "2026-11-02T14:32:52Z"
+  },
+  {
+   "full": "giancarloerra/SocratiCode",
+   "desc": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, interactive HTML viewer, cross-proje",
+   "stars": 3364,
+   "lang": "TypeScript",
+   "topics": [
+    "docker",
+    "semantic",
+    "ai",
+    "mcp",
+    "ast",
+    "embeddings",
+    "gemini",
+    "openai",
+    "semantic-search",
+    "claude",
+    "vector-search",
+    "code-graph"
+   ],
+   "updated": "2026-11-02T18:29:19Z"
+  },
+  {
+   "full": "zilliztech/attu",
+   "desc": "The Best GUI for Milvus",
+   "stars": 3230,
+   "lang": "Shell",
+   "topics": [
+    "milvus",
+    "vector-database",
+    "attu"
+   ],
+   "updated": "2026-09-24T08:02:16Z"
+  },
+  {
+   "full": "pinecone-io/examples",
+   "desc": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
+   "stars": 3051,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "ai",
+    "jupyter-notebook",
+    "semantic-search",
+    "pinecone",
+    "rag",
+    "vector-search",
+    "vector-database",
+    "llm"
+   ],
+   "updated": "2026-10-23T00:01:31Z"
+  },
+  {
+   "full": "pingcap/autoflow",
+   "desc": "pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai",
+   "stars": 2978,
+   "lang": "TypeScript",
+   "topics": [
+    "mysql",
+    "serverless",
+    "chatbot",
+    "knowledge-graph",
+    "cot",
+    "rag",
+    "vector-database",
+    "graphrag"
+   ],
+   "updated": "2026-10-23T02:41:49Z"
+  }
+ ]
+}

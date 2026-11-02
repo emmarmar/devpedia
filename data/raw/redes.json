@@ -1,0 +1,1313 @@
+{
+ "subId": "redes",
+ "topics": [
+  "proxy",
+  "vpn"
+ ],
+ "crawledAt": "2026-11-02T20:20:11.089Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "2dust/v2rayN",
+   "desc": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
+   "stars": 119807,
+   "lang": "C#",
+   "topics": [
+    "windows",
+    "proxy",
+    "socks5",
+    "shadowsocks",
+    "trojan",
+    "v2ray",
+    "vmess",
+    "xray",
+    "v2fly",
+    "vless",
+    "xtls"
+   ],
+   "updated": "2026-11-02T18:48:20Z"
+  },
+  {
+   "full": "fatedier/frp",
+   "desc": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+   "stars": 110395,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "tunnel",
+    "proxy",
+    "firewall",
+    "nat",
+    "p2p",
+    "http-proxy",
+    "reverse-proxy",
+    "expose",
+    "frp"
+   ],
+   "updated": "2026-11-02T06:56:37Z"
+  },
+  {
+   "full": "headroomlabs-ai/headroom",
+   "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+   "stars": 78657,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "typescript",
+    "compression",
+    "ai",
+    "proxy",
+    "mcp",
+    "tokens",
+    "openai",
+    "cursor",
+    "rag",
+    "fastapi"
+   ],
+   "updated": "2026-11-02T13:17:36Z"
+  },
+  {
+   "full": "2dust/v2rayNG",
+   "desc": "A V2Ray client for Android, support Xray core and v2fly core",
+   "stars": 65200,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "proxy",
+    "socks5",
+    "shadowsocks",
+    "vpn",
+    "trojan",
+    "v2ray",
+    "vmess",
+    "xray",
+    "v2fly",
+    "vless",
+    "xtls"
+   ],
+   "updated": "2026-11-01T06:59:31Z"
+  },
+  {
+   "full": "chen08209/FlClash",
+   "desc": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+   "stars": 60532,
+   "lang": "Dart",
+   "topics": [
+    "multi-platform",
+    "proxy",
+    "vpn",
+    "clash",
+    "v2ray",
+    "flutter",
+    "vless",
+    "hysteria",
+    "clash-meta"
+   ],
+   "updated": "2026-11-01T16:33:10Z"
+  },
+  {
+   "full": "shadowsocks/shadowsocks-windows",
+   "desc": "A C# port of shadowsocks",
+   "stars": 59500,
+   "lang": "C#",
+   "topics": [
+    "c-sharp",
+    "proxy",
+    "shadowsocks"
+   ],
+   "updated": "2025-01-01T08:09:55Z"
+  },
+  {
+   "full": "bannedbook/fanqiang",
+   "desc": "翻墙-科学上网",
+   "stars": 56150,
+   "lang": "Kotlin",
+   "topics": [
+    "ssr",
+    "proxy",
+    "shadowsocks",
+    "trojan",
+    "v2ray",
+    "psiphon",
+    "brook",
+    "fanqiang",
+    "lightsocks",
+    "goflyway",
+    "daze"
+   ],
+   "updated": "2026-09-13T05:26:36Z"
+  },
+  {
+   "full": "v2ray/v2ray-core",
+   "desc": "A platform for building proxies to bypass network restrictions.",
+   "stars": 46915,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "proxy",
+    "http-proxy",
+    "socks",
+    "socks5",
+    "shadowsocks",
+    "v2ray",
+    "vmess"
+   ],
+   "updated": "2026-08-31T03:24:40Z"
+  },
+  {
+   "full": "mitmproxy/mitmproxy",
+   "desc": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+   "stars": 46568,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "tls",
+    "debugging",
+    "ssl",
+    "http",
+    "security",
+    "proxy",
+    "websocket",
+    "http2",
+    "man-in-the-middle",
+    "mitmproxy"
+   ],
+   "updated": "2026-11-01T22:07:37Z"
+  },
+  {
+   "full": "XTLS/Xray-core",
+   "desc": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+   "stars": 42572,
+   "lang": "Go",
+   "topics": [
+    "dns",
+    "tls",
+    "tunnel",
+    "network",
+    "proxy",
+    "socks5",
+    "shadowsocks",
+    "anticensorship",
+    "vpn",
+    "trojan",
+    "vision",
+    "reality"
+   ],
+   "updated": "2026-11-02T19:01:53Z"
+  },
+  {
+   "full": "songquanpeng/one-api",
+   "desc": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple",
+   "stars": 37316,
+   "lang": "JavaScript",
+   "topics": [
+    "api",
+    "api-gateway",
+    "proxy",
+    "gemini",
+    "openai",
+    "gpt",
+    "claude",
+    "openai-api",
+    "chatgpt",
+    "ernie-bot",
+    "azure-openai-api"
+   ],
+   "updated": "2026-01-09T03:26:43Z"
+  },
+  {
+   "full": "v2fly/v2ray-core",
+   "desc": "A platform for building proxies to bypass network restrictions.",
+   "stars": 34742,
+   "lang": "Go",
+   "topics": [
+    "tunnel",
+    "network",
+    "proxy",
+    "socks5",
+    "shadowsocks",
+    "anticensorship",
+    "vpn",
+    "trojan",
+    "v2ray",
+    "vmess",
+    "hacktoberfest",
+    "v2fly"
+   ],
+   "updated": "2026-11-01T13:38:48Z"
+  },
+  {
+   "full": "hiddify/hiddify-app",
+   "desc": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
+   "stars": 33599,
+   "lang": "Dart",
+   "topics": [
+    "ssh",
+    "proxy",
+    "shadowsocks",
+    "clash",
+    "v2ray",
+    "reality",
+    "vmess",
+    "xray",
+    "wireguard",
+    "ech",
+    "vless",
+    "hysteria"
+   ],
+   "updated": "2026-11-01T22:43:39Z"
+  },
+  {
+   "full": "XX-net/XX-Net",
+   "desc": "A proxy tool to bypass GFW.",
+   "stars": 33462,
+   "lang": "Python",
+   "topics": [
+    "proxy",
+    "vpn",
+    "goagent",
+    "gfw",
+    "uncensored"
+   ],
+   "updated": "2026-09-30T21:10:56Z"
+  },
+  {
+   "full": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
+   "desc": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。",
+   "stars": 31772,
+   "lang": null,
+   "topics": [
+    "proxy",
+    "adblock",
+    "v2ray",
+    "shadowrocket",
+    "gfw"
+   ],
+   "updated": "2026-11-01T23:02:46Z"
+  },
+  {
+   "full": "Loyalsoldier/clash-rules",
+   "desc": "🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。",
+   "stars": 29101,
+   "lang": null,
+   "topics": [
+    "ssr",
+    "proxy",
+    "routing",
+    "shadowsocks",
+    "anticensorship",
+    "dnsmasq",
+    "clash",
+    "adblock",
+    "easylist",
+    "surge",
+    "v2ray",
+    "gfw"
+   ],
+   "updated": "2026-11-01T22:34:40Z"
+  },
+  {
+   "full": "goauthentik/authentik",
+   "desc": "The authentication glue you need.",
+   "stars": 26209,
+   "lang": "Python",
+   "topics": [
+    "kubernetes",
+    "security",
+    "saml",
+    "oauth2",
+    "authentication",
+    "proxy",
+    "reverse-proxy",
+    "authorization",
+    "sso",
+    "oauth2-server",
+    "oidc",
+    "oauth2-client"
+   ],
+   "updated": "2026-11-02T20:17:31Z"
+  },
+  {
+   "full": "docmirror/dev-sidecar",
+   "desc": "开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速",
+   "stars": 24882,
+   "lang": "Vue",
+   "topics": [
+    "electron",
+    "internet",
+    "proxy",
+    "gfw",
+    "mitmproxy",
+    "pnpm",
+    "fastgit",
+    "dev-sidecar",
+    "dns-ip",
+    "fastgithub"
+   ],
+   "updated": "2026-11-02T07:36:44Z"
+  },
+  {
+   "full": "jhao104/proxy_pool",
+   "desc": "Python ProxyPool for web spider",
+   "stars": 23778,
+   "lang": "Python",
+   "topics": [
+    "redis",
+    "http",
+    "crawler",
+    "spider",
+    "proxy"
+   ],
+   "updated": "2026-06-15T14:36:35Z"
+  },
+  {
+   "full": "MatsuriDayo/NekoBoxForAndroid",
+   "desc": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
+   "stars": 23370,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "proxy",
+    "shadowsocks",
+    "vpn",
+    "trojan",
+    "gfw",
+    "vmess",
+    "sing-box"
+   ],
+   "updated": "2026-02-09T03:54:59Z"
+  },
+  {
+   "full": "HyNetworks/hysteria",
+   "desc": "Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software",
+   "stars": 22833,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "relay",
+    "tun",
+    "proxy",
+    "http-proxy",
+    "socks5",
+    "censorship-circumvention",
+    "vpn",
+    "quic",
+    "reliable-udp",
+    "hysteria"
+   ],
+   "updated": "2026-10-27T02:44:10Z"
+  },
+  {
+   "full": "Loyalsoldier/v2ray-rules-dat",
+   "desc": "🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-G",
+   "stars": 20990,
+   "lang": null,
+   "topics": [
+    "ipv6",
+    "proxy",
+    "routing",
+    "ipv4",
+    "anticensorship",
+    "trojan",
+    "dnsmasq",
+    "geoip",
+    "adblock",
+    "easylist",
+    "v2ray",
+    "gfw"
+   ],
+   "updated": "2026-11-01T22:04:37Z"
+  },
+  {
+   "full": "bettercap/bettercap",
+   "desc": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
+   "stars": 20228,
+   "lang": "Go",
+   "topics": [
+    "security",
+    "monitoring",
+    "hid",
+    "proxy",
+    "mitm",
+    "hacking",
+    "wifi",
+    "ble",
+    "spoofing",
+    "wpa2",
+    "mousejack",
+    "wifi-security"
+   ],
+   "updated": "2026-10-26T04:34:04Z"
+  },
+  {
+   "full": "lidge-jun/opencodex",
+   "desc": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
+   "stars": 18167,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "proxy",
+    "gemini",
+    "openai",
+    "developer-tools",
+    "grok",
+    "codex",
+    "claude",
+    "ai-tools",
+    "llm",
+    "chatgpt",
+    "anthropic"
+   ],
+   "updated": "2026-11-02T20:04:07Z"
+  },
+  {
+   "full": "joewalnes/websocketd",
+   "desc": "Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.",
+   "stars": 17454,
+   "lang": "Go",
+   "topics": [
+    "proxy",
+    "websocket-server",
+    "websockets"
+   ],
+   "updated": "2026-09-07T16:33:20Z"
+  },
+  {
+   "full": "h2y/Shadowrocket-ADBlock-Rules",
+   "desc": "提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。",
+   "stars": 16727,
+   "lang": "Python",
+   "topics": [
+    "ssr",
+    "proxy",
+    "shadowsocks",
+    "surge",
+    "shadowrocket",
+    "gfw",
+    "shadowsocksr"
+   ],
+   "updated": "2021-04-12T16:11:40Z"
+  },
+  {
+   "full": "Jackett/Jackett",
+   "desc": "API Support for your favorite torrent trackers",
+   "stars": 16308,
+   "lang": "C#",
+   "topics": [
+    "api",
+    "rss",
+    "torrent",
+    "couchpotato",
+    "proxy",
+    "sonarr",
+    "indexer",
+    "rss-proxy",
+    "medusa",
+    "sickrage",
+    "torznab",
+    "newznab"
+   ],
+   "updated": "2026-11-02T16:44:40Z"
+  },
+  {
+   "full": "FlareSolverr/FlareSolverr",
+   "desc": "Proxy server to bypass Cloudflare protection",
+   "stars": 16120,
+   "lang": "Python",
+   "topics": [
+    "api",
+    "docker",
+    "chrome",
+    "rest",
+    "server",
+    "proxy",
+    "chromium",
+    "cloudflare",
+    "hacktoberfest",
+    "puppeteer"
+   ],
+   "updated": "2026-10-24T17:06:37Z"
+  },
+  {
+   "full": "avwo/whistle",
+   "desc": "HTTP, HTTP2, HTTPS, Websocket debugging proxy",
+   "stars": 15764,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "node",
+    "web",
+    "proxy",
+    "hosts",
+    "debug",
+    "weinre",
+    "charles",
+    "fiddler"
+   ],
+   "updated": "2026-10-27T15:03:07Z"
+  },
+  {
+   "full": "txthinking/brook",
+   "desc": "A cross-platform programmable network tool",
+   "stars": 15192,
+   "lang": "Go",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "linux",
+    "tls",
+    "ios",
+    "encryption",
+    "cross-platform",
+    "openwrt",
+    "proxy",
+    "mitm",
+    "socks5"
+   ],
+   "updated": "2026-10-23T04:09:50Z"
+  },
+  {
+   "full": "rathole-org/rathole",
+   "desc": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+   "stars": 14401,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "tunnel",
+    "http",
+    "network",
+    "proxy",
+    "firewall",
+    "nat",
+    "ngrok",
+    "noise",
+    "frp",
+    "noise-protocol"
+   ],
+   "updated": "2026-08-23T15:38:44Z"
+  },
+  {
+   "full": "wanghongenpin/proxypin",
+   "desc": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
+   "stars": 14323,
+   "lang": "Dart",
+   "topics": [
+    "proxy",
+    "capture-traffic",
+    "charles",
+    "fiddler",
+    "zhuabao",
+    "proxypin"
+   ],
+   "updated": "2026-11-02T14:16:38Z"
+  },
+  {
+   "full": "DNSCrypt/dnscrypt-proxy",
+   "desc": "dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.",
+   "stars": 13805,
+   "lang": "Go",
+   "topics": [
+    "dns",
+    "dnscrypt",
+    "proxy",
+    "dns-over-https",
+    "doh",
+    "dnscrypt-proxy",
+    "dnscrypt-proxy2",
+    "anonymized",
+    "odoh",
+    "anonymized-dns",
+    "oblivious-dns-over-https",
+    "oblivious-doh"
+   ],
+   "updated": "2026-11-02T14:11:35Z"
+  },
+  {
+   "full": "selierlin/Share-SSR-V2ray",
+   "desc": "机场推荐、Clash / V2ray 客户端配置与代理工具指南",
+   "stars": 12684,
+   "lang": "Python",
+   "topics": [
+    "documentation",
+    "tutorial",
+    "proxy",
+    "vpn",
+    "shadowsocks-client",
+    "clash",
+    "mihomo"
+   ],
+   "updated": "2026-10-11T04:21:58Z"
+  },
+  {
+   "full": "dstotijn/hetty",
+   "desc": "An HTTP toolkit for security research.",
+   "stars": 12529,
+   "lang": "Go",
+   "topics": [
+    "http",
+    "proxy",
+    "mitm",
+    "infosec",
+    "pentesting",
+    "bugbounty"
+   ],
+   "updated": "2026-07-21T20:10:42Z"
+  },
+  {
+   "full": "Shopify/toxiproxy",
+   "desc": "⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
+   "stars": 12481,
+   "lang": "Go",
+   "topics": [
+    "testing",
+    "go",
+    "is",
+    "proxy",
+    "chaos",
+    "resiliency",
+    "tcp-proxy",
+    "omg",
+    "down"
+   ],
+   "updated": "2026-10-27T07:02:39Z"
+  },
+  {
+   "full": "jason5ng32/MyIP",
+   "desc": "The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, ",
+   "stars": 12289,
+   "lang": "JavaScript",
+   "topics": [
+    "dns",
+    "security",
+    "awesome",
+    "ipinfo",
+    "network",
+    "proxy",
+    "webrtc",
+    "myip",
+    "whois",
+    "speedtest",
+    "ip",
+    "censorship"
+   ],
+   "updated": "2026-11-02T16:58:33Z"
+  },
+  {
+   "full": "jina-ai/reader",
+   "desc": "Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/",
+   "stars": 12226,
+   "lang": "TypeScript",
+   "topics": [
+    "proxy",
+    "llm"
+   ],
+   "updated": "2026-05-22T02:56:46Z"
+  },
+  {
+   "full": "ekzhang/bore",
+   "desc": "🕳 bore is a simple CLI tool for making tunnels to localhost",
+   "stars": 11572,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "cli",
+    "tunnel",
+    "networking",
+    "tcp",
+    "proxy",
+    "self-hosted",
+    "localhost"
+   ],
+   "updated": "2026-02-04T18:00:26Z"
+  },
+  {
+   "full": "Hackl0us/SS-Rule-Snippet",
+   "desc": "搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。",
+   "stars": 11213,
+   "lang": "JavaScript",
+   "topics": [
+    "macos",
+    "proxy",
+    "shadowsocks",
+    "trojan",
+    "clash",
+    "surge",
+    "shadowrocket",
+    "gfw",
+    "shadowsocksr",
+    "gfwlist",
+    "hackl0us",
+    "quantumult"
+   ],
+   "updated": "2024-03-19T11:51:12Z"
+  },
+  {
+   "full": "freefq/free",
+   "desc": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
+   "stars": 43143,
+   "lang": null,
+   "topics": [
+    "shadowsocks",
+    "vpn",
+    "trojan",
+    "lantern",
+    "v2ray",
+    "gfw",
+    "vmess",
+    "fanqiang",
+    "freefq",
+    "bulink"
+   ],
+   "updated": "2024-08-20T09:43:55Z"
+  },
+  {
+   "full": "tailscale/tailscale",
+   "desc": "The easiest, most secure way to use WireGuard and 2FA.",
+   "stars": 38534,
+   "lang": "Go",
+   "topics": [
+    "oauth",
+    "vpn",
+    "sso",
+    "2fa",
+    "wireguard",
+    "tailscale"
+   ],
+   "updated": "2026-11-02T20:03:28Z"
+  },
+  {
+   "full": "netbirdio/netbird",
+   "desc": "NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®",
+   "stars": 30566,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "mesh-networks",
+    "nat-traversal",
+    "vpn",
+    "mesh",
+    "wireguard",
+    "wireguard-vpn",
+    "wiretrustee",
+    "zero-trust-network-access",
+    "netbird"
+   ],
+   "updated": "2026-11-02T19:22:07Z"
+  },
+  {
+   "full": "trailofbits/algo",
+   "desc": "Set up a personal VPN in the cloud",
+   "stars": 30448,
+   "lang": "Python",
+   "topics": [
+    "security",
+    "ansible",
+    "encryption",
+    "ipsec",
+    "vpn",
+    "vpn-server",
+    "vpn-client",
+    "ikev2",
+    "strongswan",
+    "ssh-tunnel",
+    "wireguard"
+   ],
+   "updated": "2026-10-28T08:43:42Z"
+  },
+  {
+   "full": "hwdsl2/setup-ipsec-vpn",
+   "desc": "Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and management scripts.",
+   "stars": 28931,
+   "lang": "Shell",
+   "topics": [
+    "linux",
+    "bash",
+    "raspberry-pi",
+    "security",
+    "privacy",
+    "encryption",
+    "debian",
+    "ubuntu",
+    "ipsec",
+    "network",
+    "installer",
+    "self-hosted"
+   ],
+   "updated": "2026-11-02T06:19:09Z"
+  },
+  {
+   "full": "StreisandEffect/streisand",
+   "desc": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are give",
+   "stars": 23427,
+   "lang": "Shell",
+   "topics": [
+    "ssh",
+    "ansible",
+    "openvpn",
+    "stunnel",
+    "tor",
+    "shadowsocks",
+    "vpn",
+    "censorship",
+    "openconnect",
+    "anyconnect",
+    "wireguard",
+    "streisand"
+   ],
+   "updated": "2021-05-04T09:42:40Z"
+  },
+  {
+   "full": "fosrl/pangolin",
+   "desc": "Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.",
+   "stars": 23299,
+   "lang": "TypeScript",
+   "topics": [
+    "ssh",
+    "pam",
+    "nat-traversal",
+    "gateway",
+    "self-hosted",
+    "reverse-proxy",
+    "vpn",
+    "sso",
+    "oidc",
+    "remote-access",
+    "tunneling",
+    "single-sign-on"
+   ],
+   "updated": "2026-11-02T20:18:44Z"
+  },
+  {
+   "full": "Nyr/openvpn-install",
+   "desc": "OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",
+   "stars": 20654,
+   "lang": "Shell",
+   "topics": [
+    "shell",
+    "bash",
+    "openvpn",
+    "debian",
+    "ubuntu",
+    "fedora",
+    "centos",
+    "vpn",
+    "rockylinux",
+    "almalinux"
+   ],
+   "updated": "2026-09-22T15:10:28Z"
+  },
+  {
+   "full": "getlantern/download",
+   "desc": "Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw",
+   "stars": 17857,
+   "lang": null,
+   "topics": [
+    "accelerator",
+    "censorship-circumvention",
+    "vpn",
+    "lantern",
+    "censorship",
+    "gfw"
+   ],
+   "updated": "2026-10-29T18:40:50Z"
+  },
+  {
+   "full": "DiningFactory/panda-vpn-pro",
+   "desc": "🚁🚀 2026机场推荐 | 熊猫VPN（PandaVPNPro）已确定跑路！快连VPN ，小牛加速器（小牛VPN）体验不佳且价格贵。低价机场，便宜机场，平价机场，性价比机场，高速机场，稳定机场，一元机场，翻墙机场，付费机场，收费机场，冷门机场，优质机场，廉价机场。机场评测，中国翻墙，科学上网，梯子。非永久免费梯子，官网，非永久免费VPN，非免费机场！VPN China。按量计费机场，按量付费机场，不限时机场。机场节点订阅，节点分享，Clash节点，V2ray节点，非免费节",
+   "stars": 17305,
+   "lang": null,
+   "topics": [
+    "ssr",
+    "shadowsocks",
+    "vpn",
+    "trojan",
+    "airport",
+    "clash",
+    "v2ray",
+    "gfw",
+    "vmess",
+    "vless",
+    "sing-box",
+    "hysteria2"
+   ],
+   "updated": "2026-11-02T08:38:04Z"
+  },
+  {
+   "full": "zerotier/ZeroTierOne",
+   "desc": "A Smart Ethernet Switch for Earth",
+   "stars": 17230,
+   "lang": "C++",
+   "topics": [
+    "networking",
+    "peer-to-peer",
+    "vpn",
+    "sdn",
+    "decentralization",
+    "virtual-network",
+    "sd-wan"
+   ],
+   "updated": "2026-09-03T17:04:55Z"
+  },
+  {
+   "full": "getlantern/lantern",
+   "desc": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
+   "stars": 16646,
+   "lang": "Dart",
+   "topics": [
+    "router",
+    "accelerator",
+    "vpn",
+    "lantern",
+    "censorship",
+    "gfw",
+    "circumvention"
+   ],
+   "updated": "2026-11-02T19:44:05Z"
+  },
+  {
+   "full": "angristan/openvpn-install",
+   "desc": "Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more",
+   "stars": 16178,
+   "lang": "Shell",
+   "topics": [
+    "linux",
+    "bash",
+    "openvpn",
+    "privacy",
+    "encryption",
+    "debian",
+    "ubuntu",
+    "fedora",
+    "centos",
+    "arch-linux",
+    "vpn",
+    "vpn-manager"
+   ],
+   "updated": "2026-10-01T18:02:44Z"
+  },
+  {
+   "full": "amnezia-vpn/amnezia-client",
+   "desc": "Amnezia VPN Client (Desktop+Mobile)",
+   "stars": 15663,
+   "lang": "C++",
+   "topics": [
+    "openvpn",
+    "cloak",
+    "shadowsocks",
+    "vpn",
+    "vpn-server",
+    "vpn-client",
+    "ikev2",
+    "gfw",
+    "wireguard"
+   ],
+   "updated": "2026-11-02T19:32:23Z"
+  },
+  {
+   "full": "OpenVPN/openvpn",
+   "desc": "OpenVPN is an open source VPN daemon",
+   "stars": 14763,
+   "lang": "C",
+   "topics": [
+    "security",
+    "vpn"
+   ],
+   "updated": "2026-11-02T19:43:25Z"
+  },
+  {
+   "full": "free-nodes/v2rayfree",
+   "desc": "免费节点、免费v2ray节点、最新公益免费v2ray节点订阅地址、免费v2ray节点每日更新、免费ss/v2ray/trojan节点、freefq",
+   "stars": 14752,
+   "lang": null,
+   "topics": [
+    "ssr",
+    "vpn",
+    "trojan",
+    "lantern",
+    "v2ray",
+    "gfw",
+    "vmess",
+    "ss",
+    "fanqiang",
+    "v2rayfree"
+   ],
+   "updated": "2026-11-02T18:00:52Z"
+  },
+  {
+   "full": "EasyTier/EasyTier",
+   "desc": "A simple, decentralized mesh VPN with WireGuard support.",
+   "stars": 14525,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "nat-traversal",
+    "p2p",
+    "vpn",
+    "zerotier",
+    "tailscale"
+   ],
+   "updated": "2026-11-02T08:37:01Z"
+  },
+  {
+   "full": "SoftEtherVPN/SoftEtherVPN",
+   "desc": "Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.",
+   "stars": 13698,
+   "lang": "C",
+   "topics": [
+    "tls",
+    "openvpn",
+    "ipsec",
+    "vpn",
+    "vpn-server",
+    "l2tp",
+    "wireguard",
+    "work-from-home",
+    "sstp",
+    "ssl-vpn",
+    "softethervpn",
+    "l2tpv3"
+   ],
+   "updated": "2026-10-30T08:21:48Z"
+  },
+  {
+   "full": "gravitl/netmaker",
+   "desc": "Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",
+   "stars": 11855,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "security",
+    "cloud",
+    "self-hosted",
+    "vpn",
+    "mesh",
+    "vpn-server",
+    "k8s",
+    "ipv6-support",
+    "overlay-network",
+    "wireguard",
+    "devsecops"
+   ],
+   "updated": "2026-10-30T23:42:50Z"
+  },
+  {
+   "full": "angristan/wireguard-install",
+   "desc": "WireGuard VPN installer for Linux servers",
+   "stars": 11395,
+   "lang": "Shell",
+   "topics": [
+    "linux",
+    "privacy",
+    "nat",
+    "vpn",
+    "wireguard"
+   ],
+   "updated": "2026-05-02T15:59:41Z"
+  },
+  {
+   "full": "AdAway/AdAway",
+   "desc": "AdAway is a free and open source ad blocker for Android.",
+   "stars": 9590,
+   "lang": "C",
+   "topics": [
+    "android",
+    "ad-blocker",
+    "hosts",
+    "vpn",
+    "blocker"
+   ],
+   "updated": "2026-09-13T08:48:56Z"
+  },
+  {
+   "full": "ermaozi/get_subscribe",
+   "desc": "✈️ 白嫖免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙",
+   "stars": 9425,
+   "lang": "Python",
+   "topics": [
+    "android",
+    "ssr",
+    "vpn",
+    "trojan",
+    "clash",
+    "v2ray",
+    "sr",
+    "trojan-go"
+   ],
+   "updated": "2026-11-02T12:15:08Z"
+  },
+  {
+   "full": "igareck/vpn-configs-for-russia",
+   "desc": "🗽Бесплатные и проверенные VPN/Tor конфигурации, работающие в РФ ⚪ Белые списки / обход белых списков ⚪ Free and checked VPN/Tor configurations that work in Russia ⚪ Whitelists bypass",
+   "stars": 9420,
+   "lang": null,
+   "topics": [
+    "whitelist",
+    "tor",
+    "shadowsocks",
+    "vpn",
+    "v2ray",
+    "tor-browser",
+    "xray",
+    "roskomnadzor",
+    "tor-client",
+    "tor-bridge",
+    "vless",
+    "vpn-config"
+   ],
+   "updated": "2026-11-02T20:05:10Z"
+  },
+  {
+   "full": "firezone/firezone",
+   "desc": "Blazing-fast remote access",
+   "stars": 9158,
+   "lang": "Elixir",
+   "topics": [
+    "security",
+    "cloud",
+    "elixir",
+    "phoenix",
+    "networking",
+    "network",
+    "vpn",
+    "rust-lang",
+    "vpn-server",
+    "elixir-lang",
+    "network-security",
+    "wireguard"
+   ],
+   "updated": "2026-11-02T20:11:55Z"
+  },
+  {
+   "full": "ViRb3/wgcf",
+   "desc": "🚤 Cross-platform, unofficial CLI for Cloudflare Warp",
+   "stars": 8867,
+   "lang": "Go",
+   "topics": [
+    "client",
+    "security",
+    "cloudflare",
+    "vpn",
+    "warp",
+    "plus",
+    "wireguard"
+   ],
+   "updated": "2026-10-26T11:42:54Z"
+  },
+  {
+   "full": "hoochanlon/fq-book",
+   "desc": "📖《这本书能让你连接互联网》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明",
+   "stars": 8852,
+   "lang": "Shell",
+   "topics": [
+    "tunnel",
+    "ssh",
+    "tcp",
+    "ssr",
+    "https",
+    "proxy",
+    "ipfs",
+    "shadowsocks",
+    "vpn",
+    "deep-web",
+    "gfw",
+    "rst"
+   ],
+   "updated": "2026-09-19T16:52:11Z"
+  },
+  {
+   "full": "FranzKafkaYu/x-ui",
+   "desc": "Lightweight Xray panel with multi-protocol and multi-user on the same port,supports English language and Telegram bot. Easy to use and easy to manage.",
+   "stars": 8447,
+   "lang": "JavaScript",
+   "topics": [
+    "telegram-bot",
+    "proxy",
+    "grpc",
+    "shadowsocks",
+    "vpn",
+    "trojan",
+    "v2ray",
+    "reality",
+    "vmess",
+    "xray",
+    "vless",
+    "xtls"
+   ],
+   "updated": "2024-11-13T16:02:11Z"
+  },
+  {
+   "full": "bepass-org/oblivion-desktop",
+   "desc": "Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux",
+   "stars": 8398,
+   "lang": "TypeScript",
+   "topics": [
+    "windows",
+    "linux",
+    "mac",
+    "proxy",
+    "desktop",
+    "anticensorship",
+    "cloudflare",
+    "vpn",
+    "warp",
+    "endpoint",
+    "psiphon",
+    "oblivion"
+   ],
+   "updated": "2026-06-30T04:31:48Z"
+  },
+  {
+   "full": "Genymobile/gnirehtet",
+   "desc": "Gnirehtet provides reverse tethering for Android",
+   "stars": 8031,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "rust",
+    "vpn",
+    "java-8",
+    "reverse-tethering",
+    "genyteam-system"
+   ],
+   "updated": "2024-08-11T05:17:19Z"
+  },
+  {
+   "full": "yarrick/iodine",
+   "desc": "Official git repo for iodine dns tunnel",
+   "stars": 8019,
+   "lang": "C",
+   "topics": [
+    "dns",
+    "tunnel",
+    "vpn",
+    "hacktoberfest",
+    "meson",
+    "iodine",
+    "dns-tunnel"
+   ],
+   "updated": "2026-11-01T23:26:33Z"
+  },
+  {
+   "full": "limbopro/Paolujichang",
+   "desc": "科学上网🕸️之跑路机场名单收集（2020-2026），欢迎投稿。客观描述，保持友善，Ad 🔗 🈲🙅❌",
+   "stars": 7745,
+   "lang": null,
+   "topics": [
+    "shadowsocks",
+    "vpn",
+    "trojan",
+    "v2ray",
+    "vless",
+    "limbopro",
+    "clash-verge",
+    "clash-meta",
+    "flclash",
+    "paolujichang",
+    "anytls"
+   ],
+   "updated": "2026-10-29T01:57:36Z"
+  }
+ ]
+}

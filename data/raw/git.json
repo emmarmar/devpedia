@@ -1,0 +1,1318 @@
+{
+ "subId": "git",
+ "topics": [
+  "git",
+  "version-control"
+ ],
+ "crawledAt": "2026-11-02T20:19:38.083Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "github/gitignore",
+   "desc": "A collection of useful .gitignore templates",
+   "stars": 176130,
+   "lang": null,
+   "topics": [
+    "gitignore",
+    "git"
+   ],
+   "updated": "2026-10-30T23:37:54Z"
+  },
+  {
+   "full": "Chalarangelo/30-seconds-of-code",
+   "desc": "Coding articles to level up your development skills",
+   "stars": 129391,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "css",
+    "git",
+    "html",
+    "education",
+    "snippets",
+    "programming",
+    "es6-javascript",
+    "learn-to-code",
+    "astro",
+    "awesome-list"
+   ],
+   "updated": "2026-10-26T16:14:24Z"
+  },
+  {
+   "full": "bregman-arie/devops-exercises",
+   "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+   "stars": 86414,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "git",
+    "linux",
+    "docker",
+    "kubernetes",
+    "aws",
+    "ansible",
+    "devops",
+    "sql",
+    "azure",
+    "containers",
+    "terraform"
+   ],
+   "updated": "2025-12-27T14:22:30Z"
+  },
+  {
+   "full": "jesseduffield/lazygit",
+   "desc": "simple terminal UI for git commands",
+   "stars": 83613,
+   "lang": "Go",
+   "topics": [
+    "git",
+    "cli",
+    "terminal"
+   ],
+   "updated": "2026-10-31T14:20:09Z"
+  },
+  {
+   "full": "sharkdp/bat",
+   "desc": "A cat(1) clone with wings.",
+   "stars": 61027,
+   "lang": "Rust",
+   "topics": [
+    "git",
+    "syntax-highlighting",
+    "rust",
+    "cli",
+    "terminal",
+    "command-line",
+    "tool",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T20:07:29Z"
+  },
+  {
+   "full": "tiimgreen/github-cheat-sheet",
+   "desc": "A list of cool features of Git and GitHub.",
+   "stars": 60113,
+   "lang": null,
+   "topics": [
+    "github",
+    "git",
+    "list",
+    "awesome",
+    "awesome-list"
+   ],
+   "updated": "2024-04-15T20:15:56Z"
+  },
+  {
+   "full": "go-gitea/gitea",
+   "desc": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+   "stars": 58826,
+   "lang": "Go",
+   "topics": [
+    "github",
+    "git",
+    "go",
+    "git-lfs",
+    "golang",
+    "devops",
+    "gitlab",
+    "typescript",
+    "vue",
+    "bitbucket",
+    "self-hosted",
+    "gitea"
+   ],
+   "updated": "2026-11-02T19:50:23Z"
+  },
+  {
+   "full": "usebruno/bruno",
+   "desc": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+   "stars": 47992,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "git",
+    "testing",
+    "graphql-client",
+    "automation",
+    "opensource",
+    "rest-api",
+    "http-client",
+    "openapi",
+    "api-client",
+    "developer-tools",
+    "testing-tools"
+   ],
+   "updated": "2026-11-02T17:38:46Z"
+  },
+  {
+   "full": "gogs/gogs",
+   "desc": "The painless way to host your own Git service",
+   "stars": 47914,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "git",
+    "go",
+    "docker",
+    "raspberry-pi",
+    "version-control",
+    "gogs",
+    "postgresql",
+    "self-hosted",
+    "sqlite3",
+    "source-code-management"
+   ],
+   "updated": "2026-10-31T17:18:16Z"
+  },
+  {
+   "full": "cli/cli",
+   "desc": "GitHub’s official command line tool",
+   "stars": 46846,
+   "lang": "Go",
+   "topics": [
+    "git",
+    "cli",
+    "golang",
+    "github-api-v4"
+   ],
+   "updated": "2026-11-02T16:18:53Z"
+  },
+  {
+   "full": "files-community/Files",
+   "desc": "A modern file manager that helps users organize their files and folders.",
+   "stars": 46462,
+   "lang": "C#",
+   "topics": [
+    "git",
+    "windows",
+    "productivity",
+    "files",
+    "xaml",
+    "csharp",
+    "customization",
+    "utilities",
+    "dotnet",
+    "windows-10",
+    "developer-tools",
+    "file-manager"
+   ],
+   "updated": "2026-11-02T16:38:16Z"
+  },
+  {
+   "full": "logseq/logseq",
+   "desc": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
+   "stars": 45460,
+   "lang": "Clojure",
+   "topics": [
+    "git",
+    "markdown",
+    "clojure",
+    "graph",
+    "clojurescript",
+    "knowledge-graph",
+    "org-mode",
+    "note-taking",
+    "knowledge-base",
+    "pkm",
+    "local-first"
+   ],
+   "updated": "2026-11-01T15:18:42Z"
+  },
+  {
+   "full": "harness/harness",
+   "desc": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
+   "stars": 38799,
+   "lang": "Go",
+   "topics": [
+    "git",
+    "go",
+    "docker",
+    "continuous-integration",
+    "continuous-delivery",
+    "ci",
+    "build-pipelines",
+    "build-automation",
+    "ci-cd",
+    "scm",
+    "hacktoberfest",
+    "code-repository"
+   ],
+   "updated": "2026-11-02T17:46:18Z"
+  },
+  {
+   "full": "typicode/husky",
+   "desc": "Git hooks made easy 🐶 woof!",
+   "stars": 35378,
+   "lang": "JavaScript",
+   "topics": [
+    "git",
+    "hooks",
+    "pre-commit",
+    "commit"
+   ],
+   "updated": "2026-03-19T23:03:16Z"
+  },
+  {
+   "full": "dandavison/delta",
+   "desc": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output",
+   "stars": 32636,
+   "lang": "Rust",
+   "topics": [
+    "git",
+    "rust",
+    "diff",
+    "delta",
+    "pager",
+    "syntax-highlighter",
+    "color-themes",
+    "git-delta"
+   ],
+   "updated": "2026-10-28T02:45:33Z"
+  },
+  {
+   "full": "gitleaks/gitleaks",
+   "desc": "Find secrets with Gitleaks 🔑",
+   "stars": 30604,
+   "lang": "Go",
+   "topics": [
+    "git",
+    "go",
+    "cli",
+    "golang",
+    "open-source",
+    "security",
+    "secret",
+    "ci-cd",
+    "cicd",
+    "hacktoberfest",
+    "dlp",
+    "security-tools"
+   ],
+   "updated": "2026-10-28T04:14:29Z"
+  },
+  {
+   "full": "requarks/wiki",
+   "desc": "Wiki.js | Next Generation Open Source Wiki",
+   "stars": 29128,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "git",
+    "markdown",
+    "open-source",
+    "documentation",
+    "cross-platform",
+    "wiki"
+   ],
+   "updated": "2026-11-02T10:07:32Z"
+  },
+  {
+   "full": "GitbookIO/gitbook",
+   "desc": "The open source frontend for GitBook doc sites",
+   "stars": 29085,
+   "lang": "TypeScript",
+   "topics": [
+    "git",
+    "markdown",
+    "documentation",
+    "gitbook"
+   ],
+   "updated": "2026-11-02T14:59:08Z"
+  },
+  {
+   "full": "dolthub/dolt",
+   "desc": "Dolt – Git for Data",
+   "stars": 24801,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "git",
+    "sql",
+    "database",
+    "mariadb",
+    "immutable-database",
+    "data-version-control",
+    "data-versioning",
+    "ai-agents",
+    "database-version-control",
+    "decentralized-database",
+    "git-database"
+   ],
+   "updated": "2026-11-02T20:19:28Z"
+  },
+  {
+   "full": "JanDeDobbeleer/oh-my-posh",
+   "desc": "The most customisable and low-latency cross platform/shell prompt renderer",
+   "stars": 23697,
+   "lang": "Go",
+   "topics": [
+    "tooltips",
+    "git",
+    "bash",
+    "zsh",
+    "fish",
+    "golang",
+    "powershell",
+    "prompt",
+    "fish-shell",
+    "powerline",
+    "prompt-toolkit",
+    "cmd"
+   ],
+   "updated": "2026-11-02T00:07:11Z"
+  },
+  {
+   "full": "mislav/hub",
+   "desc": "A command-line tool that makes git easier to use with GitHub.",
+   "stars": 22960,
+   "lang": "Go",
+   "topics": [
+    "git",
+    "go",
+    "homebrew",
+    "github-api",
+    "pull-request"
+   ],
+   "updated": "2024-02-02T21:00:44Z"
+  },
+  {
+   "full": "gitui-org/gitui",
+   "desc": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+   "stars": 22623,
+   "lang": "Rust",
+   "topics": [
+    "git",
+    "bash",
+    "rust",
+    "terminal",
+    "async",
+    "tui",
+    "command-line-tool",
+    "hacktoberfest",
+    "command-line-interface"
+   ],
+   "updated": "2026-10-06T07:08:04Z"
+  },
+  {
+   "full": "desktop/desktop",
+   "desc": "Focus on what matters instead of fighting with Git.",
+   "stars": 22043,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "github",
+    "git",
+    "typescript",
+    "github-desktop"
+   ],
+   "updated": "2026-11-02T20:02:58Z"
+  },
+  {
+   "full": "gitbutlerapp/gitbutler",
+   "desc": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+   "stars": 21914,
+   "lang": "Rust",
+   "topics": [
+    "github",
+    "git",
+    "tauri"
+   ],
+   "updated": "2026-11-02T20:09:54Z"
+  },
+  {
+   "full": "git-tips/tips",
+   "desc": "Most commonly used git tips and tricks.",
+   "stars": 21721,
+   "lang": "JavaScript",
+   "topics": [
+    "git",
+    "tips",
+    "tips-and-tricks"
+   ],
+   "updated": "2026-10-31T12:41:31Z"
+  },
+  {
+   "full": "conventional-changelog/commitlint",
+   "desc": "📓 Lint commit messages",
+   "stars": 18797,
+   "lang": "TypeScript",
+   "topics": [
+    "lint",
+    "git",
+    "conventions",
+    "commit"
+   ],
+   "updated": "2026-11-02T09:21:35Z"
+  },
+  {
+   "full": "tj/git-extras",
+   "desc": "GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",
+   "stars": 18127,
+   "lang": "Shell",
+   "topics": [
+    "git"
+   ],
+   "updated": "2026-10-08T06:20:14Z"
+  },
+  {
+   "full": "so-fancy/diff-so-fancy",
+   "desc": "Make your diffs human readable for improved code quality and faster defect detection. 🎉",
+   "stars": 18106,
+   "lang": "Perl",
+   "topics": [
+    "git",
+    "diffs",
+    "diff",
+    "diff-highlight",
+    "fancy",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-18T18:29:14Z"
+  },
+  {
+   "full": "commitizen/cz-cli",
+   "desc": "The commitizen command line utility. #BlackLivesMatter",
+   "stars": 17496,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "git",
+    "node",
+    "utilities",
+    "command-line",
+    "commitizen",
+    "semantic-versioning",
+    "commit-hooks",
+    "semantic-release",
+    "commitizen-adapter"
+   ],
+   "updated": "2026-09-25T03:38:33Z"
+  },
+  {
+   "full": "plandex-ai/plandex",
+   "desc": "Open source AI coding agent. Designed for large projects and real world tasks.",
+   "stars": 15888,
+   "lang": "Go",
+   "topics": [
+    "git",
+    "cli",
+    "golang",
+    "terminal",
+    "ai",
+    "command-line",
+    "openai",
+    "developer-tools",
+    "terminal-based",
+    "ai-agents",
+    "terminal-ui",
+    "polyglot-programming"
+   ],
+   "updated": "2025-10-03T21:49:58Z"
+  },
+  {
+   "full": "521xueweihan/git-tips",
+   "desc": "Git的奇技淫巧",
+   "stars": 15867,
+   "lang": null,
+   "topics": [
+    "github",
+    "git",
+    "cheatsheet"
+   ],
+   "updated": "2022-12-08T03:13:00Z"
+  },
+  {
+   "full": "arthurspk/guiadevbrasil",
+   "desc": "Um guia extenso de informações com um vasto conteúdo de várias áreas para ajudar, agregar conhecimento e retirar dúvidas, nesse guia você encontrará tudo que necessário para qualquer carreira relacionada a tecnologia.",
+   "stars": 15821,
+   "lang": null,
+   "topics": [
+    "github",
+    "javascript",
+    "css",
+    "python",
+    "c",
+    "git",
+    "java",
+    "html",
+    "php",
+    "c-plus-plus",
+    "html5",
+    "csharp"
+   ],
+   "updated": "2026-09-02T16:27:13Z"
+  },
+  {
+   "full": "pre-commit/pre-commit",
+   "desc": "A framework for managing and maintaining multi-language pre-commit hooks.",
+   "stars": 15678,
+   "lang": "Python",
+   "topics": [
+    "refactoring",
+    "python",
+    "git",
+    "linter",
+    "pre-commit"
+   ],
+   "updated": "2026-10-20T17:15:55Z"
+  },
+  {
+   "full": "theonedev/onedev",
+   "desc": "The Unified and Autonomous Development Platform",
+   "stars": 15336,
+   "lang": "Java",
+   "topics": [
+    "git",
+    "devops",
+    "ai",
+    "packages",
+    "wiki",
+    "self-hosted",
+    "ci-cd",
+    "kanban",
+    "workspaces"
+   ],
+   "updated": "2026-10-31T12:57:47Z"
+  },
+  {
+   "full": "mouredev/hello-git",
+   "desc": "Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes.",
+   "stars": 15190,
+   "lang": null,
+   "topics": [
+    "github",
+    "git",
+    "desde-cero",
+    "curso-github",
+    "curso-git"
+   ],
+   "updated": "2026-11-02T05:00:15Z"
+  },
+  {
+   "full": "mickael-kerjean/filestash",
+   "desc": "📁 Universal File Management Platform (for humans and agents)",
+   "stars": 14860,
+   "lang": "Go",
+   "topics": [
+    "git",
+    "dropbox",
+    "azure",
+    "ftp",
+    "smb",
+    "ipfs",
+    "archiving",
+    "s3",
+    "sftp",
+    "webdav",
+    "nfs",
+    "sharepoint"
+   ],
+   "updated": "2026-10-29T05:07:45Z"
+  },
+  {
+   "full": "zhongyi-tong/git-recipes",
+   "desc": "🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程.",
+   "stars": 14759,
+   "lang": null,
+   "topics": [
+    "git",
+    "tutorials",
+    "git-recipes"
+   ],
+   "updated": "2019-03-04T17:51:32Z"
+  },
+  {
+   "full": "lint-staged/lint-staged",
+   "desc": "🚫💩 — Run tasks like formatters and linters against files staged in Git",
+   "stars": 14754,
+   "lang": "JavaScript",
+   "topics": [
+    "stylelint",
+    "git",
+    "workflow",
+    "eslint",
+    "linter",
+    "precommit-hooks",
+    "developer-experience",
+    "stage-files",
+    "precommit"
+   ],
+   "updated": "2026-10-31T16:51:17Z"
+  },
+  {
+   "full": "aalansehaiyang/technology-talk",
+   "desc": "【大厂面试专栏】一份Java程序员需要的技术指南，这里有面试题、系统架构、职场锦囊、主流中间件等，让你成为更牛的自己！",
+   "stars": 14741,
+   "lang": null,
+   "topics": [
+    "git",
+    "java",
+    "kafka",
+    "spark",
+    "spring",
+    "es6",
+    "hbase",
+    "springboot",
+    "dubbo",
+    "mycat"
+   ],
+   "updated": "2025-07-21T13:17:58Z"
+  },
+  {
+   "full": "git-lfs/git-lfs",
+   "desc": "Git extension for versioning large files",
+   "stars": 14573,
+   "lang": "Go",
+   "topics": [
+    "git",
+    "go",
+    "git-lfs"
+   ],
+   "updated": "2026-11-01T04:52:48Z"
+  },
+  {
+   "full": "GitoxideLabs/gitoxide",
+   "desc": "A tasteful, lean, fast & safe pure Rust implementation of Git",
+   "stars": 12101,
+   "lang": "Rust",
+   "topics": [
+    "git",
+    "cli",
+    "version-control",
+    "blazingly-fast",
+    "built-with-rust"
+   ],
+   "updated": "2026-11-02T10:18:22Z"
+  },
+  {
+   "full": "libgit2/libgit2",
+   "desc": "A cross-platform, linkable library implementation of Git that you can use in your application.",
+   "stars": 10644,
+   "lang": "C",
+   "topics": [
+    "c",
+    "git",
+    "libgit2",
+    "library",
+    "version-control",
+    "dvcs"
+   ],
+   "updated": "2026-10-16T14:02:20Z"
+  },
+  {
+   "full": "jupytext/jupytext",
+   "desc": "Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts",
+   "stars": 7278,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "markdown",
+    "version-control",
+    "rstudio",
+    "jupyter-notebook",
+    "rmarkdown",
+    "knitr",
+    "jupyterlab",
+    "hydrogen",
+    "notebooks",
+    "jupyterlab-extension"
+   ],
+   "updated": "2026-10-31T17:55:10Z"
+  },
+  {
+   "full": "clearml/clearml",
+   "desc": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution",
+   "stars": 6927,
+   "lang": "Python",
+   "topics": [
+    "experiment",
+    "devops",
+    "machine-learning",
+    "control",
+    "ai",
+    "deep-learning",
+    "version-control",
+    "version",
+    "k8s",
+    "machinelearning",
+    "deeplearning",
+    "experiment-manager"
+   ],
+   "updated": "2026-11-02T18:04:12Z"
+  },
+  {
+   "full": "iflytek/skillhub",
+   "desc": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy on-premise with Docker or Kubernetes.",
+   "stars": 5358,
+   "lang": "Java",
+   "topics": [
+    "skills",
+    "version-control",
+    "skill",
+    "rbac",
+    "audit-log",
+    "skill-management",
+    "skill-manager",
+    "agent-framework",
+    "ai-agent",
+    "ai-governance",
+    "enterprise-ai",
+    "ai-infrastructure"
+   ],
+   "updated": "2026-11-02T11:53:22Z"
+  },
+  {
+   "full": "hbons/SparkleShare",
+   "desc": "Share and collaborate by syncing with any Git repository instantly. Linux, macOS, and Windows",
+   "stars": 5000,
+   "lang": "C#",
+   "topics": [
+    "git",
+    "git-lfs",
+    "gtk",
+    "sync",
+    "backup",
+    "debian",
+    "ubuntu",
+    "dropbox",
+    "arch",
+    "version-control",
+    "fedora",
+    "decentralized"
+   ],
+   "updated": "2026-09-01T10:42:20Z"
+  },
+  {
+   "full": "initialcommit-com/git-sim",
+   "desc": "The visual layer for Git in your own repos: simulate, record, replay, audit, and share entire Git workflows, wherever you or your agents run them.",
+   "stars": 4691,
+   "lang": "Python",
+   "topics": [
+    "visualization",
+    "python",
+    "git",
+    "devops",
+    "version-control",
+    "devtools",
+    "python3",
+    "developer-tools",
+    "vcs",
+    "git-learn",
+    "learn-git",
+    "version-control-system"
+   ],
+   "updated": "2026-10-12T23:33:25Z"
+  },
+  {
+   "full": "libgit2/libgit2sharp",
+   "desc": "Git + .NET = ❤",
+   "stars": 3473,
+   "lang": "C#",
+   "topics": [
+    "git",
+    "libgit2",
+    "dotnet",
+    "version-control",
+    "dotnet-core"
+   ],
+   "updated": "2026-07-23T09:05:29Z"
+  },
+  {
+   "full": "terminusdb/terminusdb",
+   "desc": "TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff, and query your data with Datalog.",
+   "stars": 3468,
+   "lang": "Prolog",
+   "topics": [
+    "open-source",
+    "immutable",
+    "database",
+    "linked-data",
+    "nosql",
+    "version-control",
+    "headless",
+    "collaboration",
+    "datalog",
+    "json-ld",
+    "graph-database",
+    "document-database"
+   ],
+   "updated": "2026-11-02T19:18:35Z"
+  },
+  {
+   "full": "Ataraxy-Labs/sem",
+   "desc": "Semantic version control => entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.",
+   "stars": 3438,
+   "lang": "Rust",
+   "topics": [
+    "git",
+    "tree-sitter",
+    "semantic-diff",
+    "typescript",
+    "version-control",
+    "developer-tools",
+    "ai-agents",
+    "code-intelligence",
+    "llm-tools",
+    "coding-agents"
+   ],
+   "updated": "2026-10-31T16:24:28Z"
+  },
+  {
+   "full": "radian-software/straight.el",
+   "desc": "🍀 Next-generation, purely functional package manager for the Emacs hacker.",
+   "stars": 3034,
+   "lang": "Emacs Lisp",
+   "topics": [
+    "package-manager",
+    "emacs",
+    "version-control"
+   ],
+   "updated": "2026-10-29T16:25:28Z"
+  },
+  {
+   "full": "jupyter/nbdime",
+   "desc": "Tools for diffing and merging of Jupyter notebooks.",
+   "stars": 2847,
+   "lang": "TypeScript",
+   "topics": [
+    "git",
+    "diff",
+    "jupyter",
+    "version-control",
+    "jupyter-notebook",
+    "mercurial",
+    "merge",
+    "vcs",
+    "diffing",
+    "hg",
+    "mergetool",
+    "merge-driver"
+   ],
+   "updated": "2026-06-10T10:12:19Z"
+  },
+  {
+   "full": "Ephemeral-AI-Lab/layerfs",
+   "desc": "Ephemeral Workspaces, durable shared history. LayerFS gives every agent a complete, writable filesystem Workspace over shared committed history, without copying the base. Agents work in parallel, commit what changed as deduplicated checkpoi",
+   "stars": 2642,
+   "lang": "Rust",
+   "topics": [
+    "linux",
+    "rust",
+    "fuse",
+    "version-control",
+    "filesystem",
+    "sqlite",
+    "sandbox",
+    "checkpoint",
+    "mcts",
+    "deduplication",
+    "content-addressable-storage",
+    "ai-agents"
+   ],
+   "updated": "2026-11-02T18:56:56Z"
+  },
+  {
+   "full": "versionpress/versionpress",
+   "desc": "Git-based version control for WordPress. Whoa!",
+   "stars": 2589,
+   "lang": "PHP",
+   "topics": [
+    "git",
+    "wordpress",
+    "workflow",
+    "database",
+    "version-control",
+    "staging",
+    "versionpress"
+   ],
+   "updated": "2024-07-23T15:10:41Z"
+  },
+  {
+   "full": "docmd-io/docmd",
+   "desc": "Documentation compiler for humans and machines. One Markdown source to website, search, AI context, and knowledge formats together.",
+   "stars": 2546,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "i18n",
+    "api",
+    "docker",
+    "markdown",
+    "static-site-generator",
+    "documentation",
+    "typescript",
+    "pwa",
+    "version-control",
+    "mcp"
+   ],
+   "updated": "2026-10-31T14:48:51Z"
+  },
+  {
+   "full": "elfshaker/elfshaker",
+   "desc": "elfshaker stores binary objects efficiently",
+   "stars": 2340,
+   "lang": "Rust",
+   "topics": [
+    "version-control",
+    "binary-storage",
+    "executable-packing"
+   ],
+   "updated": "2026-11-02T19:51:30Z"
+  },
+  {
+   "full": "Murmele/Gittyup",
+   "desc": "Understand your Git history!",
+   "stars": 2315,
+   "lang": "C++",
+   "topics": [
+    "git",
+    "qt",
+    "cpp",
+    "version-control",
+    "gui-application",
+    "scintilla"
+   ],
+   "updated": "2026-10-16T14:35:21Z"
+  },
+  {
+   "full": "jelmer/dulwich",
+   "desc": "Pure-Python Git implementation",
+   "stars": 2296,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "git",
+    "version-control",
+    "cpython",
+    "python-3",
+    "pypy",
+    "dulwich"
+   ],
+   "updated": "2026-11-01T23:42:36Z"
+  },
+  {
+   "full": "gitless-vcs/gitless",
+   "desc": "A simple version control system built on top of Git",
+   "stars": 1948,
+   "lang": "Python",
+   "topics": [
+    "git",
+    "cli",
+    "version-control",
+    "developer-tools"
+   ],
+   "updated": "2023-10-01T06:45:17Z"
+  },
+  {
+   "full": "Asabeneh/10-days-of-git-and-github",
+   "desc": "Some video lessons on YouTube: This videos may help too: https://www.youtube.com/watch?v=9cCApTLb_Io&t=3s&ab_channel=WasheraAcademy",
+   "stars": 1801,
+   "lang": "HTML",
+   "topics": [
+    "github",
+    "git",
+    "gitlab",
+    "version-control",
+    "bitbucket"
+   ],
+   "updated": "2025-12-06T14:39:21Z"
+  },
+  {
+   "full": "nodists/nodist",
+   "desc": "Natural node.js and npm version manager for windows.",
+   "stars": 1732,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "version-control",
+    "version-manager"
+   ],
+   "updated": "2024-01-10T00:25:44Z"
+  },
+  {
+   "full": "replicate/keepsake",
+   "desc": "Version control for machine learning",
+   "stars": 1680,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "version-control"
+   ],
+   "updated": "2025-02-25T23:52:42Z"
+  },
+  {
+   "full": "s3git/s3git",
+   "desc": "s3git: git for Cloud Storage. Distributed Version Control for Data. Create decentralized and versioned repos that scale infinitely to 100s of millions of files. Clone huge PB-scale repos on your local SSD to make changes, commit and push ba",
+   "stars": 1461,
+   "lang": "Go",
+   "topics": [
+    "git",
+    "version-control",
+    "decentralized",
+    "cloud-storage",
+    "distributed"
+   ],
+   "updated": "2016-08-02T00:27:55Z"
+  },
+  {
+   "full": "TablePlus/DBngin",
+   "desc": "DB Engine",
+   "stars": 1295,
+   "lang": null,
+   "topics": [
+    "mysql",
+    "redis",
+    "version-control",
+    "postgresql",
+    "databases",
+    "database-management"
+   ],
+   "updated": "2024-09-02T11:24:47Z"
+  },
+  {
+   "full": "Oxen-AI/Oxen",
+   "desc": "Lightning fast data version control system for large repositories of data. Feels like git, pushes and pulls like oxen.",
+   "stars": 1204,
+   "lang": "Rust",
+   "topics": [
+    "python",
+    "rust",
+    "machine-learning",
+    "version-control",
+    "vcs",
+    "data-version-control",
+    "data-versioning",
+    "unstructured-data",
+    "git-for-data"
+   ],
+   "updated": "2026-11-02T18:48:28Z"
+  },
+  {
+   "full": "dgutov/diff-hl",
+   "desc": "Emacs package for highlighting uncommitted changes",
+   "stars": 1118,
+   "lang": "Emacs Lisp",
+   "topics": [
+    "git",
+    "emacs",
+    "version-control",
+    "mercurial",
+    "vcs",
+    "git-gutter",
+    "gutter"
+   ],
+   "updated": "2026-10-01T01:35:49Z"
+  },
+  {
+   "full": "tristanisham/zvm",
+   "desc": "zvm (Zig Version Manager) lets you easily install/upgrade between different versions of Zig.",
+   "stars": 1086,
+   "lang": "Go",
+   "topics": [
+    "version-control",
+    "zig",
+    "versioning",
+    "version-manager",
+    "ziglang"
+   ],
+   "updated": "2026-11-01T13:27:31Z"
+  },
+  {
+   "full": "feder-cr/git-ai",
+   "desc": "Git designed for AI agents.",
+   "stars": 1045,
+   "lang": "Go",
+   "topics": [
+    "git",
+    "golang",
+    "version-control",
+    "ai-agents",
+    "scion",
+    "coding-agents"
+   ],
+   "updated": "2026-10-23T11:12:35Z"
+  },
+  {
+   "full": "pypa/setuptools-scm",
+   "desc": "the blessed package to manage your versions by scm tags",
+   "stars": 954,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "metadata",
+    "packaging",
+    "version-control"
+   ],
+   "updated": "2026-11-02T19:43:58Z"
+  },
+  {
+   "full": "specklesystems/speckle-server",
+   "desc": "The Speckle Server, Frontend, 3D Viewer, & other JS utilities.",
+   "stars": 860,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "threejs",
+    "frontend",
+    "version-control",
+    "viewer",
+    "monorepo",
+    "interoperability",
+    "3d",
+    "speckle",
+    "aec",
+    "speckle-server"
+   ],
+   "updated": "2026-10-29T00:22:45Z"
+  },
+  {
+   "full": "regent-vcs/re_gent",
+   "desc": "Version control for AI agents — track what your agent did, blame any line to a prompt, inspect any step.",
+   "stars": 805,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "version-control",
+    "devtools",
+    "developer-tools",
+    "ai-agent",
+    "claude-code"
+   ],
+   "updated": "2026-07-02T13:15:30Z"
+  },
+  {
+   "full": "opral/lix",
+   "desc": "Embeddable version control system for files and tables.",
+   "stars": 774,
+   "lang": "Rust",
+   "topics": [
+    "ai",
+    "version-control",
+    "ai-agents",
+    "change-detection"
+   ],
+   "updated": "2026-10-14T14:09:59Z"
+  },
+  {
+   "full": "LucasHJin/vit",
+   "desc": "Git for video editing.",
+   "stars": 736,
+   "lang": "Python",
+   "topics": [
+    "video",
+    "version-control",
+    "video-editing"
+   ],
+   "updated": "2026-09-01T01:39:21Z"
+  },
+  {
+   "full": "doorstop-dev/doorstop",
+   "desc": "Requirements management using version control.",
+   "stars": 691,
+   "lang": "Python",
+   "topics": [
+    "html",
+    "markdown",
+    "documentation",
+    "version-control",
+    "certification",
+    "requirements-management",
+    "traceability"
+   ],
+   "updated": "2026-10-31T19:15:30Z"
+  },
+  {
+   "full": "koordinates/kart",
+   "desc": "Distributed version-control for geospatial and tabular data",
+   "stars": 685,
+   "lang": "Python",
+   "topics": [
+    "data",
+    "version-control",
+    "geospatial",
+    "gis",
+    "geospatial-data",
+    "data-versioning"
+   ],
+   "updated": "2026-10-08T02:26:05Z"
+  },
+  {
+   "full": "line/centraldogma",
+   "desc": "Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2",
+   "stars": 670,
+   "lang": "Java",
+   "topics": [
+    "config",
+    "git",
+    "repository",
+    "version-control",
+    "configuration",
+    "zookeeper",
+    "configuration-management",
+    "vcs",
+    "config-server",
+    "service-configuration",
+    "configuration-server"
+   ],
+   "updated": "2026-10-26T01:32:05Z"
+  },
+  {
+   "full": "Gram-ax/gramax",
+   "desc": "Open-source, self-hosted GitBook & Confluence alternative: a WYSIWYG editor over Markdown in your own Git repo, with a documentation portal",
+   "stars": 618,
+   "lang": "TypeScript",
+   "topics": [
+    "git",
+    "markdown",
+    "rust",
+    "typescript",
+    "wiki",
+    "version-control",
+    "markdown-editor",
+    "prosemirror",
+    "wysiwyg",
+    "documentation-tool",
+    "self-hosted",
+    "knowledge-base"
+   ],
+   "updated": "2026-10-06T09:29:05Z"
+  },
+  {
+   "full": "ScottArbeit/Grace",
+   "desc": "Grace Version Control System",
+   "stars": 590,
+   "lang": "F#",
+   "topics": [
+    "fsharp",
+    "dotnet",
+    "version-control",
+    "developer-tools",
+    "cloud-native",
+    "orleans",
+    "source-control",
+    "version-control-systems"
+   ],
+   "updated": "2026-09-11T07:40:46Z"
+  },
+  {
+   "full": "git-big-picture/git-big-picture",
+   "desc": "🐙 Git — the big picture",
+   "stars": 561,
+   "lang": "Python",
+   "topics": [
+    "visualization",
+    "python",
+    "git",
+    "svg",
+    "graphviz",
+    "version-control",
+    "python3",
+    "command-line-tool"
+   ],
+   "updated": "2026-11-02T19:42:46Z"
+  }
+ ]
+}

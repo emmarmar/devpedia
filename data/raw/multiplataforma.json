@@ -1,0 +1,1414 @@
+{
+ "subId": "multiplataforma",
+ "topics": [
+  "flutter",
+  "react-native"
+ ],
+ "crawledAt": "2026-11-02T20:19:04.980Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "flutter/flutter",
+   "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+   "stars": 181018,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "dart",
+    "ios",
+    "mobile",
+    "web",
+    "material-design",
+    "cross-platform",
+    "desktop",
+    "web-framework",
+    "app-framework"
+   ],
+   "updated": "2026-11-02T19:58:16Z"
+  },
+  {
+   "full": "rustdesk/rustdesk",
+   "desc": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+   "stars": 127925,
+   "lang": "Rust",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "linux",
+    "dart",
+    "rust",
+    "ios",
+    "remote-control",
+    "p2p",
+    "teamviewer",
+    "rust-lang",
+    "rdp"
+   ],
+   "updated": "2026-11-02T15:48:28Z"
+  },
+  {
+   "full": "immich-app/immich",
+   "desc": "High performance self-hosted photo and video management solution.",
+   "stars": 117998,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "photos",
+    "typescript",
+    "svelte",
+    "photo-gallery",
+    "mobile-app",
+    "self-hosted",
+    "videos",
+    "google-photos",
+    "flutter",
+    "backup-tool"
+   ],
+   "updated": "2026-11-02T19:02:14Z"
+  },
+  {
+   "full": "localsend/localsend",
+   "desc": "An open-source cross-platform alternative to AirDrop",
+   "stars": 97059,
+   "lang": "Dart",
+   "topics": [
+    "dart",
+    "file-sharing",
+    "flutter",
+    "flutter-apps"
+   ],
+   "updated": "2026-11-02T12:51:58Z"
+  },
+  {
+   "full": "AppFlowy-IO/AppFlowy",
+   "desc": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+   "stars": 78113,
+   "lang": "Dart",
+   "topics": [
+    "blog",
+    "documentation",
+    "wiki",
+    "project-management",
+    "content-management",
+    "note-taking",
+    "flutter",
+    "task-management",
+    "content-services",
+    "team-collaboration",
+    "notion-alternative",
+    "confluence-alternative"
+   ],
+   "updated": "2026-10-28T06:07:27Z"
+  },
+  {
+   "full": "Solido/awesome-flutter",
+   "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+   "stars": 61758,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "ios",
+    "awesome",
+    "mobile",
+    "material-design",
+    "cross-platform",
+    "resources",
+    "mobile-app",
+    "reactive-programming",
+    "collections",
+    "awesome-list",
+    "flutter"
+   ],
+   "updated": "2026-09-03T04:34:54Z"
+  },
+  {
+   "full": "chen08209/FlClash",
+   "desc": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+   "stars": 60532,
+   "lang": "Dart",
+   "topics": [
+    "multi-platform",
+    "proxy",
+    "vpn",
+    "clash",
+    "v2ray",
+    "flutter",
+    "vless",
+    "hysteria",
+    "clash-meta"
+   ],
+   "updated": "2026-11-01T16:33:10Z"
+  },
+  {
+   "full": "appwrite/appwrite",
+   "desc": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+   "stars": 57854,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "swift",
+    "docker",
+    "ios",
+    "firebase",
+    "react-native",
+    "web",
+    "backend",
+    "nextjs",
+    "firewall"
+   ],
+   "updated": "2026-11-02T20:16:55Z"
+  },
+  {
+   "full": "dkhamsing/open-source-ios-apps",
+   "desc": "📱 Collaborative List of Open-Source iOS Apps",
+   "stars": 52968,
+   "lang": null,
+   "topics": [
+    "game",
+    "swift",
+    "ios",
+    "app",
+    "list",
+    "apple",
+    "awesome",
+    "react-native",
+    "objective-c",
+    "tvos",
+    "watchos",
+    "cocoapods"
+   ],
+   "updated": "2026-11-02T20:14:38Z"
+  },
+  {
+   "full": "team-spotube/spotube",
+   "desc": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+   "stars": 50555,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "music",
+    "windows",
+    "macos",
+    "linux",
+    "youtube",
+    "music-player",
+    "android-client",
+    "desktop-client",
+    "fdroid",
+    "flutter",
+    "android-music-player"
+   ],
+   "updated": "2026-11-02T09:26:30Z"
+  },
+  {
+   "full": "Predidit/Kazumi",
+   "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
+   "stars": 40751,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "ios",
+    "cross-platform",
+    "danmaku",
+    "flutter",
+    "linux-desktop"
+   ],
+   "updated": "2026-11-02T12:40:12Z"
+  },
+  {
+   "full": "ente/ente",
+   "desc": "💚 End-to-end encrypted cloud for everything.",
+   "stars": 29841,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "golang",
+    "photos",
+    "ios",
+    "opensource",
+    "privacy",
+    "typescript",
+    "encryption",
+    "google-photos",
+    "flutter",
+    "authy",
+    "2fa"
+   ],
+   "updated": "2026-11-02T16:23:07Z"
+  },
+  {
+   "full": "GopeedLab/gopeed",
+   "desc": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.",
+   "stars": 27338,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "golang",
+    "http",
+    "ios",
+    "torrent",
+    "downloader",
+    "debian",
+    "bittorrent",
+    "cross-platform",
+    "ubuntu"
+   ],
+   "updated": "2026-11-02T15:54:10Z"
+  },
+  {
+   "full": "NativeScript/NativeScript",
+   "desc": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you n",
+   "stars": 25689,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "kotlin",
+    "java",
+    "swift",
+    "ios",
+    "angular",
+    "typescript",
+    "vue",
+    "objective-c",
+    "cross-platform"
+   ],
+   "updated": "2026-11-02T18:27:47Z"
+  },
+  {
+   "full": "alibaba/flutter-go",
+   "desc": "flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档",
+   "stars": 23616,
+   "lang": "Dart",
+   "topics": [
+    "dart",
+    "flutter",
+    "flutter-demo",
+    "flutter-doc"
+   ],
+   "updated": "2023-12-11T20:49:42Z"
+  },
+  {
+   "full": "mitesh77/Best-Flutter-UI-Templates",
+   "desc": "completely free for everyone. Its build-in Flutter Dart.",
+   "stars": 22857,
+   "lang": "Dart",
+   "topics": [
+    "cross-platform",
+    "flutter",
+    "flutter-apps",
+    "flutter-material",
+    "flutter-demo",
+    "flutter-examples",
+    "flutter-widget",
+    "flutter-ui",
+    "flutter-app"
+   ],
+   "updated": "2025-12-16T10:59:44Z"
+  },
+  {
+   "full": "iampawan/FlutterExampleApps",
+   "desc": "[Example APPS] Basic Flutter apps, for flutter devs.",
+   "stars": 21517,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "dart",
+    "ios",
+    "material-design",
+    "cross-platform",
+    "apps",
+    "flutter",
+    "dartlang",
+    "flutter-plugin",
+    "flutter-apps"
+   ],
+   "updated": "2024-08-09T20:51:30Z"
+  },
+  {
+   "full": "bggRGjQaUbCoE/PiliPlus",
+   "desc": "PiliPlus",
+   "stars": 20192,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "ios",
+    "flutter",
+    "linux-desktop"
+   ],
+   "updated": "2026-11-02T12:28:28Z"
+  },
+  {
+   "full": "Tencent/MMKV",
+   "desc": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.",
+   "stars": 18773,
+   "lang": "C++",
+   "topics": [
+    "android",
+    "kotlin",
+    "python",
+    "windows",
+    "macos",
+    "swift",
+    "golang",
+    "ios",
+    "key-value",
+    "tvos",
+    "watchos",
+    "wechat"
+   ],
+   "updated": "2026-10-26T12:46:14Z"
+  },
+  {
+   "full": "flutter-team-archive/plugins",
+   "desc": "Plugins for Flutter maintained by the Flutter team",
+   "stars": 17713,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "plugin",
+    "dart",
+    "ios",
+    "flutter",
+    "flutter-plugin"
+   ],
+   "updated": "2023-02-22T19:12:53Z"
+  },
+  {
+   "full": "flet-dev/flet",
+   "desc": "Build realtime web, mobile and desktop apps in Python only. No frontend experience required.",
+   "stars": 17495,
+   "lang": "Python",
+   "topics": [
+    "android",
+    "python",
+    "ios",
+    "web",
+    "cross-platform",
+    "desktop",
+    "flutter",
+    "server-driven-ui"
+   ],
+   "updated": "2026-11-02T00:46:28Z"
+  },
+  {
+   "full": "CarGuo/gsy_github_app_flutter",
+   "desc": "Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp 系列的优势：我们目前已经拥有 Flutter、Weex、ReactNative、Kotlin View、Kotlin Jetpack Compose ，Compose MultiPlatform，Harmony ArkUI 七个版本，功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。",
+   "stars": 15504,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "dart",
+    "ios",
+    "cross-platform",
+    "mobile-app",
+    "flutter",
+    "dartlang",
+    "github-app",
+    "flutter-demo",
+    "flutter-widget",
+    "flutter-ui",
+    "flutter-app"
+   ],
+   "updated": "2026-10-25T13:24:10Z"
+  },
+  {
+   "full": "BasedHardware/omi",
+   "desc": "AI that sees your screen, listens to your conversations and tells you what to do",
+   "stars": 13879,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "c",
+    "app",
+    "mobile",
+    "ai",
+    "nextjs",
+    "summary",
+    "flutter",
+    "transcription",
+    "friend",
+    "wearable",
+    "bci"
+   ],
+   "updated": "2026-11-02T20:16:31Z"
+  },
+  {
+   "full": "supertone-oss-archive/supertonic",
+   "desc": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+   "stars": 13757,
+   "lang": "Swift",
+   "topics": [
+    "nodejs",
+    "multilingual",
+    "python",
+    "java",
+    "go",
+    "swift",
+    "rust",
+    "lightweight",
+    "ios",
+    "text-to-speech",
+    "web",
+    "csharp"
+   ],
+   "updated": "2026-09-09T06:54:13Z"
+  },
+  {
+   "full": "guozhigq/pilipala",
+   "desc": "PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。",
+   "stars": 13745,
+   "lang": "Dart",
+   "topics": [
+    "dart",
+    "material-ui",
+    "bilibili",
+    "flutter"
+   ],
+   "updated": "2025-05-14T15:37:04Z"
+  },
+  {
+   "full": "Notsfsssf/pixez-flutter",
+   "desc": "一个支持免代理直连及查看动图的第三方Pixiv flutter客户端",
+   "stars": 13255,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "ios",
+    "pixiv",
+    "flutter",
+    "pixez"
+   ],
+   "updated": "2026-11-01T15:17:45Z"
+  },
+  {
+   "full": "cfug/dio",
+   "desc": "A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapters, etc.",
+   "stars": 12841,
+   "lang": "Dart",
+   "topics": [
+    "dart",
+    "http",
+    "adapter",
+    "middleware",
+    "network",
+    "timeout",
+    "transformer",
+    "interceptor",
+    "flutter",
+    "dio",
+    "cancellable"
+   ],
+   "updated": "2026-10-25T14:55:53Z"
+  },
+  {
+   "full": "felangel/bloc",
+   "desc": "A predictable state management library that helps implement the BLoC design pattern",
+   "stars": 12488,
+   "lang": "Dart",
+   "topics": [
+    "dart",
+    "library",
+    "state-management",
+    "concurrency",
+    "flutter",
+    "bloc",
+    "dartlang",
+    "dart-web",
+    "angulardart",
+    "dart-library",
+    "flutter-package"
+   ],
+   "updated": "2026-11-02T04:43:22Z"
+  },
+  {
+   "full": "venera-app/venera",
+   "desc": "A comic app",
+   "stars": 11337,
+   "lang": "Dart",
+   "topics": [
+    "linux",
+    "comic",
+    "ios-app",
+    "android-app",
+    "flutter",
+    "windows-app",
+    "macos-app"
+   ],
+   "updated": "2026-04-05T04:33:33Z"
+  },
+  {
+   "full": "jonataslaw/getx",
+   "desc": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+   "stars": 11194,
+   "lang": "Dart",
+   "topics": [
+    "dart",
+    "http",
+    "mobile",
+    "framework",
+    "web",
+    "state-management",
+    "internationalization",
+    "routes",
+    "dependency-injection",
+    "get",
+    "flutter",
+    "getx"
+   ],
+   "updated": "2026-10-31T22:43:40Z"
+  },
+  {
+   "full": "microsoft/fluentui-system-icons",
+   "desc": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.",
+   "stars": 10936,
+   "lang": "HTML",
+   "topics": [
+    "react",
+    "android",
+    "ios",
+    "design",
+    "icons",
+    "flutter",
+    "fluent"
+   ],
+   "updated": "2026-10-30T20:07:27Z"
+  },
+  {
+   "full": "flame-engine/flame",
+   "desc": "A Flutter based game engine.",
+   "stars": 10812,
+   "lang": "Dart",
+   "topics": [
+    "game",
+    "dart",
+    "gamedev",
+    "game-engine",
+    "game-development",
+    "flutter",
+    "hacktoberfest",
+    "flame"
+   ],
+   "updated": "2026-11-02T19:13:00Z"
+  },
+  {
+   "full": "invoiceninja/invoiceninja",
+   "desc": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+   "stars": 10465,
+   "lang": "PHP",
+   "topics": [
+    "javascript",
+    "quotes",
+    "php",
+    "laravel",
+    "projects",
+    "invoices",
+    "tasks",
+    "payments",
+    "kanban",
+    "invoice",
+    "time-tracker",
+    "expenses"
+   ],
+   "updated": "2026-11-02T02:31:29Z"
+  },
+  {
+   "full": "RunanywhereAI/runanywhere-sdks",
+   "desc": "Production ready toolkit to run AI locally",
+   "stars": 10335,
+   "lang": "C++",
+   "topics": [
+    "android",
+    "kotlin",
+    "swift",
+    "ios",
+    "react-native",
+    "web",
+    "cpp",
+    "inference",
+    "edge",
+    "flutter",
+    "websdk",
+    "vlm"
+   ],
+   "updated": "2026-11-02T12:02:50Z"
+  },
+  {
+   "full": "nhost/nhost",
+   "desc": "The Open Source Firebase Alternative with GraphQL.",
+   "stars": 9382,
+   "lang": "Go",
+   "topics": [
+    "react",
+    "javascript",
+    "graphql",
+    "postgres",
+    "firebase",
+    "typescript",
+    "database",
+    "vue",
+    "authentication",
+    "serverless",
+    "backend",
+    "storage"
+   ],
+   "updated": "2026-11-02T16:23:22Z"
+  },
+  {
+   "full": "firebase/flutterfire",
+   "desc": "🔥 A collection of Firebase plugins for Flutter apps.",
+   "stars": 9264,
+   "lang": "Dart",
+   "topics": [
+    "dart",
+    "firebase",
+    "google",
+    "flutter"
+   ],
+   "updated": "2026-11-01T16:54:10Z"
+  },
+  {
+   "full": "Anxcye/anx-reader",
+   "desc": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.",
+   "stars": 9177,
+   "lang": "Dart",
+   "topics": [
+    "dart",
+    "ebook-reader",
+    "flutter"
+   ],
+   "updated": "2026-10-17T12:57:09Z"
+  },
+  {
+   "full": "galaxy-s10/billd-desk",
+   "desc": "基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流",
+   "stars": 9125,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "nodejs",
+    "typescript",
+    "webrtc",
+    "socket-io",
+    "remote-desktop",
+    "flutter",
+    "parsec",
+    "coturn",
+    "vue3",
+    "rustdesk",
+    "todesk"
+   ],
+   "updated": "2026-10-29T11:54:23Z"
+  },
+  {
+   "full": "kaina404/FlutterDouBan",
+   "desc": "🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）",
+   "stars": 9100,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "dart",
+    "ios",
+    "flutter"
+   ],
+   "updated": "2024-03-20T07:33:11Z"
+  },
+  {
+   "full": "lollipopkit/flutter_server_box",
+   "desc": "ServerBox - server status & toolbox",
+   "stars": 8931,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "dart",
+    "ssh",
+    "status",
+    "ios",
+    "server",
+    "vps",
+    "flutter"
+   ],
+   "updated": "2026-11-02T14:31:06Z"
+  },
+  {
+   "full": "react/react-native",
+   "desc": "A framework for building native applications using React",
+   "stars": 126853,
+   "lang": "C++",
+   "topics": [
+    "react",
+    "android",
+    "ios",
+    "mobile",
+    "react-native",
+    "cross-platform",
+    "app-framework",
+    "mobile-development"
+   ],
+   "updated": "2026-11-02T18:03:42Z"
+  },
+  {
+   "full": "justjavac/free-programming-books-zh_CN",
+   "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿",
+   "stars": 119489,
+   "lang": null,
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "kotlin",
+    "python",
+    "swift",
+    "pdf",
+    "ios",
+    "angular",
+    "react-native",
+    "programming",
+    "books"
+   ],
+   "updated": "2026-07-29T00:39:06Z"
+  },
+  {
+   "full": "storybookjs/storybook",
+   "desc": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+   "stars": 91428,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "stories",
+    "testing",
+    "html",
+    "components",
+    "documentation",
+    "styleguide",
+    "design-systems",
+    "angular",
+    "typescript",
+    "ui"
+   ],
+   "updated": "2026-11-02T20:15:57Z"
+  },
+  {
+   "full": "enaqx/awesome-react",
+   "desc": "A collection of awesome things regarding React ecosystem",
+   "stars": 75141,
+   "lang": null,
+   "topics": [
+    "react",
+    "javascript",
+    "awesome",
+    "tutorial",
+    "typescript",
+    "react-native",
+    "react-tutorial",
+    "samples",
+    "awesome-list",
+    "react-apps"
+   ],
+   "updated": "2026-09-04T01:13:20Z"
+  },
+  {
+   "full": "laurent22/joplin",
+   "desc": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+   "stars": 56994,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "nodejs",
+    "javascript",
+    "android",
+    "react-native",
+    "dropbox",
+    "synchronisation",
+    "nextcloud",
+    "onedrive",
+    "webdav",
+    "note-taking",
+    "evernote"
+   ],
+   "updated": "2026-11-02T19:33:18Z"
+  },
+  {
+   "full": "expo/expo",
+   "desc": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+   "stars": 53302,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "ios",
+    "mobile",
+    "framework",
+    "typescript",
+    "react-native",
+    "web",
+    "frontend",
+    "native",
+    "universal"
+   ],
+   "updated": "2026-11-02T20:14:13Z"
+  },
+  {
+   "full": "sudheerj/reactjs-interview-questions",
+   "desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+   "stars": 44918,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "redux",
+    "javascript",
+    "react-native",
+    "react-router",
+    "reactjs",
+    "javascript-framework",
+    "interview-questions",
+    "javascript-applications",
+    "interview-preparation",
+    "javascript-interview-questions",
+    "react16"
+   ],
+   "updated": "2026-10-13T20:30:23Z"
+  },
+  {
+   "full": "react-hook-form/react-hook-form",
+   "desc": "📋 React Hooks for form state management and validation (Web + React Native)",
+   "stars": 44899,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "react-native",
+    "validation",
+    "forms",
+    "reactjs",
+    "ux",
+    "dx",
+    "form-builder",
+    "react-hooks"
+   ],
+   "updated": "2026-11-01T11:20:47Z"
+  },
+  {
+   "full": "mattermost/mattermost",
+   "desc": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+   "stars": 39510,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "golang",
+    "react-native",
+    "collaboration",
+    "monorepo",
+    "mattermost",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T20:17:58Z"
+  },
+  {
+   "full": "NervJS/taro",
+   "desc": "开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。",
+   "stars": 37744,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "jquery",
+    "typescript",
+    "react-native",
+    "vue",
+    "reactjs",
+    "weixin",
+    "wechat",
+    "wxapp",
+    "wechat-mini-program",
+    "taro"
+   ],
+   "updated": "2026-11-02T12:09:40Z"
+  },
+  {
+   "full": "jondot/awesome-react-native",
+   "desc": "Awesome React Native components, news, tools, and learning material!",
+   "stars": 35707,
+   "lang": null,
+   "topics": [
+    "react",
+    "mobile",
+    "react-native",
+    "awesome-list"
+   ],
+   "updated": "2026-08-26T14:11:18Z"
+  },
+  {
+   "full": "jaredpalmer/formik",
+   "desc": "Build forms in React, without the tears 😭",
+   "stars": 34306,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "hooks",
+    "react-native",
+    "forms",
+    "form",
+    "higher-order-component",
+    "formik",
+    "render-props",
+    "react-hooks"
+   ],
+   "updated": "2025-11-10T17:02:06Z"
+  },
+  {
+   "full": "vercel/swr",
+   "desc": "React Hooks for Data Fetching",
+   "stars": 32493,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "fetch",
+    "hooks",
+    "hook",
+    "data",
+    "react-native",
+    "cache",
+    "nextjs",
+    "data-fetching",
+    "stale-while-revalidate",
+    "suspense",
+    "swr"
+   ],
+   "updated": "2026-10-16T17:57:58Z"
+  },
+  {
+   "full": "karakeep-app/karakeep",
+   "desc": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+   "stars": 30248,
+   "lang": "TypeScript",
+   "topics": [
+    "react-native",
+    "nextjs",
+    "bookmarks",
+    "self-hosted",
+    "read-it-later",
+    "bookmarks-manager",
+    "bookmark-manager"
+   ],
+   "updated": "2026-11-02T01:44:10Z"
+  },
+  {
+   "full": "maotoumao/MusicFree",
+   "desc": "插件化、定制化、无广告的免费音乐播放器",
+   "stars": 28200,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "plugin",
+    "typescript",
+    "react-native",
+    "music-player",
+    "free",
+    "musicfree"
+   ],
+   "updated": "2026-10-15T15:16:41Z"
+  },
+  {
+   "full": "zulip/zulip",
+   "desc": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+   "stars": 26158,
+   "lang": "Python",
+   "topics": [
+    "electron",
+    "javascript",
+    "python",
+    "slack",
+    "chat",
+    "react-native",
+    "foss",
+    "apache",
+    "collaboration",
+    "python3",
+    "free",
+    "zulip"
+   ],
+   "updated": "2026-11-02T16:45:24Z"
+  },
+  {
+   "full": "react-native-elements/react-native-elements",
+   "desc": "Cross-Platform React Native UI Toolkit",
+   "stars": 25877,
+   "lang": "MDX",
+   "topics": [
+    "react",
+    "android",
+    "ios",
+    "ui",
+    "react-native",
+    "cross-platform",
+    "mobile-app",
+    "ui-components",
+    "hacktoberfest"
+   ],
+   "updated": "2026-05-21T14:17:40Z"
+  },
+  {
+   "full": "react-navigation/react-navigation",
+   "desc": "Routing and navigation for React Native and Web apps",
+   "stars": 24521,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "react-native",
+    "react-navigation",
+    "navigation"
+   ],
+   "updated": "2026-10-29T14:30:35Z"
+  },
+  {
+   "full": "hasaneyldrm/exercises-dataset",
+   "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+   "stars": 23489,
+   "lang": "HTML",
+   "topics": [
+    "json",
+    "react-native",
+    "fitness",
+    "dataset",
+    "gym",
+    "exercises",
+    "workout",
+    "fitness-app",
+    "exercise-database",
+    "logpress"
+   ],
+   "updated": "2026-07-16T06:50:42Z"
+  },
+  {
+   "full": "pubkey/rxdb",
+   "desc": "The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/",
+   "stars": 23424,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "couchdb",
+    "graphql",
+    "postgres",
+    "firebase",
+    "angular",
+    "react-native",
+    "database",
+    "ionic",
+    "nosql",
+    "pouchdb",
+    "sqlite"
+   ],
+   "updated": "2026-11-02T14:12:50Z"
+  },
+  {
+   "full": "necolas/react-native-web",
+   "desc": "Cross-platform React UI packages",
+   "stars": 22160,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "react-native",
+    "react-dom",
+    "cross-platform",
+    "react-ui",
+    "react-components",
+    "css-in-js",
+    "gui-framework",
+    "react-native-web"
+   ],
+   "updated": "2026-11-02T18:14:19Z"
+  },
+  {
+   "full": "GeekyAnts/NativeBase",
+   "desc": "Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.",
+   "stars": 20368,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "android",
+    "ios",
+    "react-native",
+    "nextjs",
+    "ui-components",
+    "nativebase",
+    "native-platforms",
+    "hacktoberfest"
+   ],
+   "updated": "2026-01-31T17:46:33Z"
+  },
+  {
+   "full": "linkwarden/linkwarden",
+   "desc": "⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.",
+   "stars": 20295,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "react-native",
+    "nextjs",
+    "bookmark",
+    "collaboration",
+    "self-hosted",
+    "read-it-later",
+    "bookmark-manager"
+   ],
+   "updated": "2026-10-26T02:39:35Z"
+  },
+  {
+   "full": "infinitered/ignite",
+   "desc": "Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting.",
+   "stars": 19950,
+   "lang": "TypeScript",
+   "topics": [
+    "cli",
+    "boilerplate",
+    "react-native",
+    "generator",
+    "mst",
+    "react-native-generator",
+    "expo"
+   ],
+   "updated": "2026-06-07T01:18:58Z"
+  },
+  {
+   "full": "oblador/react-native-vector-icons",
+   "desc": "Customizable Icons for React Native with support for image source and full styling.",
+   "stars": 17926,
+   "lang": "TypeScript",
+   "topics": [
+    "ui",
+    "react-native",
+    "icon-pack",
+    "icon"
+   ],
+   "updated": "2026-10-19T06:11:10Z"
+  },
+  {
+   "full": "microsoft/react-native-windows",
+   "desc": "A framework for building native Windows apps with React.",
+   "stars": 17372,
+   "lang": "C++",
+   "topics": [
+    "react",
+    "react-native",
+    "dotnet",
+    "uwp",
+    "xbox"
+   ],
+   "updated": "2026-11-02T18:31:51Z"
+  },
+  {
+   "full": "lottie-react-native/lottie-react-native",
+   "desc": "Lottie wrapper for React Native.",
+   "stars": 17215,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "react-native",
+    "animations",
+    "after-effects",
+    "bodymovin"
+   ],
+   "updated": "2026-10-31T05:26:35Z"
+  },
+  {
+   "full": "react-native-maps/react-native-maps",
+   "desc": "React Native Mapview component for iOS + Android",
+   "stars": 16016,
+   "lang": "TypeScript",
+   "topics": [
+    "react-native",
+    "maps",
+    "google-maps"
+   ],
+   "updated": "2026-10-19T19:00:34Z"
+  },
+  {
+   "full": "infinitered/reactotron",
+   "desc": "A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.",
+   "stars": 15596,
+   "lang": "TypeScript",
+   "topics": [
+    "redux",
+    "debugging",
+    "react-native",
+    "redux-saga",
+    "reactjs",
+    "desktop",
+    "reactnative",
+    "reactotron"
+   ],
+   "updated": "2026-08-13T22:50:44Z"
+  },
+  {
+   "full": "feathersjs/feathers",
+   "desc": "The API and real-time application framework",
+   "stars": 15256,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "real-time",
+    "framework",
+    "typescript",
+    "browser",
+    "react-native",
+    "feathers",
+    "feathersjs"
+   ],
+   "updated": "2026-11-01T00:39:10Z"
+  },
+  {
+   "full": "streetwriters/notesnook",
+   "desc": "A fully open source & end-to-end encrypted note taking alternative to Evernote.",
+   "stars": 14875,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "react",
+    "productivity",
+    "open-source",
+    "opensource",
+    "privacy",
+    "react-native",
+    "notebook",
+    "notes",
+    "reactjs",
+    "foss",
+    "self-hosted"
+   ],
+   "updated": "2026-11-02T11:37:46Z"
+  },
+  {
+   "full": "callstack/react-native-paper",
+   "desc": "Material Design for React Native (Android & iOS)",
+   "stars": 14491,
+   "lang": "TypeScript",
+   "topics": [
+    "react-native",
+    "material-design",
+    "ui-kit",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T16:11:05Z"
+  },
+  {
+   "full": "FaridSafi/react-native-gifted-chat",
+   "desc": "💬 The most complete chat UI for React Native",
+   "stars": 14446,
+   "lang": "TypeScript",
+   "topics": [
+    "chat",
+    "react-native",
+    "component"
+   ],
+   "updated": "2026-10-19T00:02:40Z"
+  },
+  {
+   "full": "tamagui/tamagui",
+   "desc": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.",
+   "stars": 14296,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "typescript",
+    "ui",
+    "react-native",
+    "webpack",
+    "css-in-js",
+    "atomic-css",
+    "ui-components",
+    "react-native-web",
+    "tailwind",
+    "vite",
+    "optimizing-compiler"
+   ],
+   "updated": "2026-11-01T17:51:35Z"
+  },
+  {
+   "full": "danilowoz/react-content-loader",
+   "desc": "⚪ SVG-Powered component to easily create skeleton loadings.",
+   "stars": 13998,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "svg",
+    "react-native",
+    "skeleton",
+    "placeholder",
+    "loader",
+    "loading",
+    "hacktoberfest",
+    "skeleton-screen",
+    "react-native-components",
+    "facebook-cards-loaders"
+   ],
+   "updated": "2026-01-22T16:36:19Z"
+  },
+  {
+   "full": "expo/create-react-native-app",
+   "desc": "Create React Native apps that run on iOS, Android, and web",
+   "stars": 13240,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "android",
+    "ios",
+    "react-native",
+    "react-native-app",
+    "create-react-native-app",
+    "react-native-web"
+   ],
+   "updated": "2024-07-02T09:24:43Z"
+  },
+  {
+   "full": "wix/react-native-navigation",
+   "desc": "A complete native navigation solution for React Native",
+   "stars": 13171,
+   "lang": "MDX",
+   "topics": [
+    "react-native",
+    "navigation",
+    "navigator",
+    "react-native-navigation",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T18:31:16Z"
+  },
+  {
+   "full": "openreplay/openreplay",
+   "desc": "Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.",
+   "stars": 13090,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "ios",
+    "angular",
+    "typescript",
+    "react-native",
+    "vue",
+    "analytics",
+    "nextjs",
+    "devtools",
+    "svelte",
+    "feature-flags"
+   ],
+   "updated": "2026-11-02T17:46:30Z"
+  }
+ ]
+}

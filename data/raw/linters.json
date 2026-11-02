@@ -1,0 +1,1232 @@
+{
+ "subId": "linters",
+ "topics": [
+  "linter",
+  "formatter"
+ ],
+ "crawledAt": "2026-11-02T20:19:43.452Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "astral-sh/ruff",
+   "desc": "An extremely fast Python linter and code formatter, written in Rust.",
+   "stars": 50394,
+   "lang": "Rust",
+   "topics": [
+    "python",
+    "rust",
+    "styleguide",
+    "static-code-analysis",
+    "style-guide",
+    "linter",
+    "static-analysis",
+    "python3",
+    "pep8",
+    "ruff",
+    "rustpython"
+   ],
+   "updated": "2026-11-02T20:15:23Z"
+  },
+  {
+   "full": "koalaman/shellcheck",
+   "desc": "ShellCheck, a static analysis tool for shell scripts",
+   "stars": 40274,
+   "lang": "Haskell",
+   "topics": [
+    "shell",
+    "bash",
+    "haskell",
+    "linter",
+    "static-analysis",
+    "developer-tools"
+   ],
+   "updated": "2026-10-26T01:55:51Z"
+  },
+  {
+   "full": "standard/standard",
+   "desc": "🌟 JavaScript Style Guide, with linter & automatic code fixer",
+   "stars": 29427,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "development",
+    "eslint",
+    "es6",
+    "static-code-analysis",
+    "style-guide",
+    "linter",
+    "ecmascript",
+    "standard"
+   ],
+   "updated": "2025-07-11T08:28:23Z"
+  },
+  {
+   "full": "eslint/eslint",
+   "desc": "Find and fix problems in your JavaScript code.",
+   "stars": 27604,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "eslint",
+    "static-code-analysis",
+    "linter",
+    "ecmascript"
+   ],
+   "updated": "2026-11-02T19:42:38Z"
+  },
+  {
+   "full": "biomejs/biome",
+   "desc": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+   "stars": 26039,
+   "lang": "Rust",
+   "topics": [
+    "javascript",
+    "css",
+    "json",
+    "formatter",
+    "typescript",
+    "web",
+    "static-code-analysis",
+    "jsx",
+    "linter"
+   ],
+   "updated": "2026-11-02T19:58:20Z"
+  },
+  {
+   "full": "rome/tools",
+   "desc": "Unified developer tools for JavaScript, TypeScript, and the web",
+   "stars": 23350,
+   "lang": "Rust",
+   "topics": [
+    "javascript",
+    "toolchain",
+    "formatter",
+    "typescript",
+    "linter"
+   ],
+   "updated": "2023-09-04T08:42:49Z"
+  },
+  {
+   "full": "oxc-project/oxc",
+   "desc": "⚓ A collection of high-performance JavaScript tools.",
+   "stars": 23301,
+   "lang": "Rust",
+   "topics": [
+    "javascript",
+    "parser",
+    "typescript",
+    "compiler",
+    "linter",
+    "transpiler",
+    "minifier"
+   ],
+   "updated": "2026-11-02T19:53:37Z"
+  },
+  {
+   "full": "python/mypy",
+   "desc": "Optional static typing for Python",
+   "stars": 20714,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "typechecker",
+    "types",
+    "linter",
+    "typing"
+   ],
+   "updated": "2026-11-02T18:38:13Z"
+  },
+  {
+   "full": "realm/SwiftLint",
+   "desc": "A tool to enforce Swift style and conventions.",
+   "stars": 19779,
+   "lang": "Swift",
+   "topics": [
+    "swift",
+    "linting",
+    "linter",
+    "static-analysis",
+    "code-quality",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-16T14:54:03Z"
+  },
+  {
+   "full": "golangci/golangci-lint",
+   "desc": "Fast linters runner for Go",
+   "stars": 19495,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "ci",
+    "linter",
+    "golangci-lint"
+   ],
+   "updated": "2026-11-02T11:10:26Z"
+  },
+  {
+   "full": "ast-grep/ast-grep",
+   "desc": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+   "stars": 16421,
+   "lang": "Rust",
+   "topics": [
+    "refactoring",
+    "search",
+    "rust",
+    "tree-sitter",
+    "babel",
+    "typescript",
+    "command-line",
+    "linter",
+    "static-analysis",
+    "ast",
+    "codemod",
+    "command-line-tool"
+   ],
+   "updated": "2026-11-02T13:14:31Z"
+  },
+  {
+   "full": "pre-commit/pre-commit",
+   "desc": "A framework for managing and maintaining multi-language pre-commit hooks.",
+   "stars": 15678,
+   "lang": "Python",
+   "topics": [
+    "refactoring",
+    "python",
+    "git",
+    "linter",
+    "pre-commit"
+   ],
+   "updated": "2026-10-20T17:15:55Z"
+  },
+  {
+   "full": "analysis-tools-dev/static-analysis",
+   "desc": "⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
+   "stars": 14863,
+   "lang": "Rust",
+   "topics": [
+    "analysis",
+    "static-code-analysis",
+    "linter",
+    "static-analysis",
+    "awesome-list",
+    "code-quality",
+    "static-analyzers",
+    "hacktoberfest",
+    "sast"
+   ],
+   "updated": "2026-11-01T17:37:01Z"
+  },
+  {
+   "full": "lint-staged/lint-staged",
+   "desc": "🚫💩 — Run tasks like formatters and linters against files staged in Git",
+   "stars": 14754,
+   "lang": "JavaScript",
+   "topics": [
+    "stylelint",
+    "git",
+    "workflow",
+    "eslint",
+    "linter",
+    "precommit-hooks",
+    "developer-experience",
+    "stage-files",
+    "precommit"
+   ],
+   "updated": "2026-10-31T16:51:17Z"
+  },
+  {
+   "full": "dense-analysis/ale",
+   "desc": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
+   "stars": 14022,
+   "lang": "Vim Script",
+   "topics": [
+    "vim",
+    "autocomplete",
+    "lua",
+    "neovim",
+    "vim-plugin",
+    "linter",
+    "vim-plugins",
+    "language-server-protocol",
+    "syntax-checker",
+    "neovim-plugin",
+    "lua-plugin",
+    "languageclient"
+   ],
+   "updated": "2026-10-20T08:31:33Z"
+  },
+  {
+   "full": "rubocop/rubocop",
+   "desc": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+   "stars": 12918,
+   "lang": "Ruby",
+   "topics": [
+    "ruby",
+    "rubocop",
+    "static-code-analysis",
+    "linter",
+    "hacktoberfest",
+    "code-formatter"
+   ],
+   "updated": "2026-11-02T20:00:32Z"
+  },
+  {
+   "full": "webpro-nl/knip",
+   "desc": "✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!",
+   "stars": 12581,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "lint",
+    "typescript",
+    "linter",
+    "dependency-analysis",
+    "maintenance",
+    "dependency-management",
+    "deadcode",
+    "unused-code",
+    "unused-exports"
+   ],
+   "updated": "2026-10-31T10:39:34Z"
+  },
+  {
+   "full": "hadolint/hadolint",
+   "desc": "Dockerfile linter, validate inline bash, written in Haskell",
+   "stars": 12509,
+   "lang": "Haskell",
+   "topics": [
+    "docker",
+    "dockerfile",
+    "haskell",
+    "linter",
+    "static-analysis",
+    "shellcheck",
+    "dockerfile-linter"
+   ],
+   "updated": "2026-10-19T12:12:51Z"
+  },
+  {
+   "full": "stylelint/stylelint",
+   "desc": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+   "stars": 11541,
+   "lang": "JavaScript",
+   "topics": [
+    "css",
+    "lint",
+    "linter"
+   ],
+   "updated": "2026-11-02T14:18:19Z"
+  },
+  {
+   "full": "super-linter/super-linter",
+   "desc": "Combination of multiple linters to run as a GitHub Action or standalone",
+   "stars": 10647,
+   "lang": "Shell",
+   "topics": [
+    "ci",
+    "linter",
+    "actions",
+    "code-quality",
+    "quality-check",
+    "code-quality-analyzer",
+    "super-linter"
+   ],
+   "updated": "2026-11-02T13:35:45Z"
+  },
+  {
+   "full": "reviewdog/reviewdog",
+   "desc": "🐶 Automated code review tool integrated with any code analysis tools regardless of programming language",
+   "stars": 9716,
+   "lang": "Go",
+   "topics": [
+    "github",
+    "lint",
+    "go",
+    "cli",
+    "gitlab",
+    "static-code-analysis",
+    "ci",
+    "linter",
+    "static-analysis",
+    "bitbucket",
+    "code-review",
+    "code-quality"
+   ],
+   "updated": "2026-11-02T12:25:09Z"
+  },
+  {
+   "full": "PyCQA/bandit",
+   "desc": "Bandit is a tool designed to find common security issues in Python code.",
+   "stars": 8368,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "security",
+    "static-code-analysis",
+    "linter",
+    "security-scanner",
+    "security-tools",
+    "bandit"
+   ],
+   "updated": "2026-11-02T10:34:20Z"
+  },
+  {
+   "full": "xojs/xo",
+   "desc": "❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults",
+   "stars": 7994,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "eslint",
+    "style-linter",
+    "eslint-plugin",
+    "best-practices",
+    "linter",
+    "unicorns",
+    "shareable-configs",
+    "eslint-rules",
+    "xo",
+    "code-style"
+   ],
+   "updated": "2026-09-18T12:08:55Z"
+  },
+  {
+   "full": "detekt/detekt",
+   "desc": "Static code analysis for Kotlin",
+   "stars": 7107,
+   "lang": "Kotlin",
+   "topics": [
+    "kotlin",
+    "lint",
+    "analysis",
+    "linter",
+    "static-analysis",
+    "static",
+    "gradle-plugin",
+    "code-quality",
+    "hacktoberfest",
+    "codesmells"
+   ],
+   "updated": "2026-11-02T18:15:00Z"
+  },
+  {
+   "full": "aquasecurity/tfsec",
+   "desc": "Tfsec is now part of Trivy",
+   "stars": 7059,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "aws",
+    "security",
+    "digitalocean",
+    "devops",
+    "ci",
+    "azure",
+    "terraform",
+    "scanner",
+    "linter",
+    "static-analysis",
+    "infrastructure-as-code"
+   ],
+   "updated": "2026-03-25T08:06:52Z"
+  },
+  {
+   "full": "PyCQA/isort",
+   "desc": "A Python utility / library to sort imports.",
+   "stars": 6965,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "cli",
+    "formatter",
+    "linter",
+    "python3",
+    "cleaner",
+    "auto-formatter",
+    "hacktoberfest",
+    "isort",
+    "sorting-imports",
+    "python-utility"
+   ],
+   "updated": "2026-11-01T21:27:59Z"
+  },
+  {
+   "full": "dominikh/go-tools",
+   "desc": "Staticcheck - The advanced Go linter",
+   "stars": 6921,
+   "lang": "Go",
+   "topics": [
+    "linter",
+    "static-analysis",
+    "linters",
+    "staticcheck",
+    "sponsor"
+   ],
+   "updated": "2026-10-24T22:50:01Z"
+  },
+  {
+   "full": "ktlint/ktlint",
+   "desc": "An anti-bikeshedding Kotlin linter with built-in formatter",
+   "stars": 6768,
+   "lang": "Kotlin",
+   "topics": [
+    "kotlin",
+    "lint",
+    "linter"
+   ],
+   "updated": "2026-10-25T17:34:10Z"
+  },
+  {
+   "full": "pre-commit/pre-commit-hooks",
+   "desc": "Some out-of-the-box hooks for pre-commit",
+   "stars": 6741,
+   "lang": "Python",
+   "topics": [
+    "refactoring",
+    "python",
+    "git",
+    "linter",
+    "pre-commit"
+   ],
+   "updated": "2026-10-20T17:15:50Z"
+  },
+  {
+   "full": "kucherenko/jscpd",
+   "desc": "Copy/paste detector for source code. 220+ languages, Rust engine, SARIF/HTML/badge reporters, GitHub Action, MCP server for AI agents.",
+   "stars": 6490,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "cli",
+    "typescript",
+    "ai",
+    "skills",
+    "mcp",
+    "linter",
+    "static-analysis",
+    "duplicates",
+    "developer-tools",
+    "code-quality",
+    "cpd"
+   ],
+   "updated": "2026-11-02T07:17:46Z"
+  },
+  {
+   "full": "Allar/ue5-style-guide",
+   "desc": "An attempt to make Unreal Engine 4 projects more consistent",
+   "stars": 6333,
+   "lang": null,
+   "topics": [
+    "lint",
+    "styleguide",
+    "linting",
+    "style-guide",
+    "linter",
+    "naming-conventions",
+    "blueprint",
+    "unreal",
+    "unrealengine",
+    "unreal-engine",
+    "ue4",
+    "linters"
+   ],
+   "updated": "2023-10-05T18:32:26Z"
+  },
+  {
+   "full": "vale-cli/vale",
+   "desc": "📝 A markup-aware linter for prose built with speed and extensibility in mind.",
+   "stars": 6318,
+   "lang": "Go",
+   "topics": [
+    "linting",
+    "linter",
+    "vale"
+   ],
+   "updated": "2026-10-31T19:13:06Z"
+  },
+  {
+   "full": "palantir/tslint",
+   "desc": "🚦 An extensible linter for the TypeScript language",
+   "stars": 5891,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "tslint",
+    "linter",
+    "static-analysis",
+    "linting-rules",
+    "octo-correct-managed"
+   ],
+   "updated": "2021-03-25T15:41:38Z"
+  },
+  {
+   "full": "pylint-dev/pylint",
+   "desc": "It's not just a linter that annoys you!",
+   "stars": 5748,
+   "lang": "Python",
+   "topics": [
+    "static-code-analysis",
+    "linter",
+    "static-analysis",
+    "code-quality",
+    "pep8",
+    "hacktoberfest",
+    "closember"
+   ],
+   "updated": "2026-11-02T13:12:36Z"
+  },
+  {
+   "full": "revive-lint/revive",
+   "desc": "🔥 Fast, strict, configurable, extensible, and beautiful linter for Go",
+   "stars": 5561,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "static-code-analysis",
+    "ci",
+    "linter",
+    "static-analysis",
+    "golint"
+   ],
+   "updated": "2026-10-27T16:01:12Z"
+  },
+  {
+   "full": "pmd/pmd",
+   "desc": "An extensible multilanguage static code analyzer.",
+   "stars": 5524,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "swift",
+    "static-code-analysis",
+    "linter",
+    "static-analysis",
+    "code-analysis",
+    "plsql",
+    "apex",
+    "code-quality",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-01T04:37:00Z"
+  },
+  {
+   "full": "google/gts",
+   "desc": "☂️ TypeScript style guide, formatter, and linter.",
+   "stars": 5293,
+   "lang": "TypeScript",
+   "topics": [
+    "formatter",
+    "google",
+    "typescript",
+    "linter"
+   ],
+   "updated": "2026-01-21T23:36:42Z"
+  },
+  {
+   "full": "rrrene/credo",
+   "desc": "A static code analysis tool for the Elixir language with a focus on code consistency and teaching.",
+   "stars": 5229,
+   "lang": "Elixir",
+   "topics": [
+    "elixir",
+    "linter",
+    "static-analysis",
+    "code-analysis",
+    "credo"
+   ],
+   "updated": "2026-10-21T19:49:37Z"
+  },
+  {
+   "full": "get-alex/alex",
+   "desc": "Catch insensitive, inconsiderate writing",
+   "stars": 5105,
+   "lang": "JavaScript",
+   "topics": [
+    "linter",
+    "writing",
+    "alex",
+    "hacktoberfest2018"
+   ],
+   "updated": "2024-11-27T17:45:46Z"
+  },
+  {
+   "full": "google/pytype",
+   "desc": "A static type analyzer for Python code",
+   "stars": 5034,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "typechecker",
+    "types",
+    "static-code-analysis",
+    "linter",
+    "static-analysis",
+    "typing"
+   ],
+   "updated": "2026-03-16T14:08:32Z"
+  },
+  {
+   "full": "prettier/prettier",
+   "desc": "Prettier is an opinionated code formatter.",
+   "stars": 52405,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "graphql",
+    "markdown",
+    "flow",
+    "yaml",
+    "less",
+    "json",
+    "formatter",
+    "angular",
+    "typescript"
+   ],
+   "updated": "2026-11-02T19:24:26Z"
+  },
+  {
+   "full": "psf/black",
+   "desc": "The uncompromising Python code formatter",
+   "stars": 42096,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "formatter",
+    "code",
+    "yapf",
+    "gofmt",
+    "autopep8",
+    "hacktoberfest",
+    "codeformatter",
+    "pre-commit-hook"
+   ],
+   "updated": "2026-11-02T19:00:05Z"
+  },
+  {
+   "full": "google/yapf",
+   "desc": "A formatter for Python files",
+   "stars": 13987,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "formatter",
+    "google"
+   ],
+   "updated": "2026-10-30T16:01:25Z"
+  },
+  {
+   "full": "mvdan/sh",
+   "desc": "A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt",
+   "stars": 9173,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "shell",
+    "bash",
+    "zsh",
+    "parser",
+    "formatter",
+    "interpreter",
+    "beautify",
+    "posix",
+    "mksh",
+    "shfmt"
+   ],
+   "updated": "2026-11-02T15:47:32Z"
+  },
+  {
+   "full": "rust-lang/rustfmt",
+   "desc": "Format Rust code",
+   "stars": 7013,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "formatter",
+    "rustfmt",
+    "codeformatter"
+   ],
+   "updated": "2026-11-02T16:55:35Z"
+  },
+  {
+   "full": "google/google-java-format",
+   "desc": "Reformats Java source code to comply with Google Java Style.",
+   "stars": 6220,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "formatter"
+   ],
+   "updated": "2026-11-02T10:29:04Z"
+  },
+  {
+   "full": "diffplug/spotless",
+   "desc": "Keep your code spotless",
+   "stars": 5720,
+   "lang": "Java",
+   "topics": [
+    "javascript",
+    "css",
+    "kotlin",
+    "java",
+    "sass",
+    "groovy",
+    "formatter",
+    "typescript",
+    "scala",
+    "sql",
+    "gradle",
+    "maven"
+   ],
+   "updated": "2026-11-01T18:16:49Z"
+  },
+  {
+   "full": "prettier/prettier-vscode",
+   "desc": "Visual Studio Code extension for Prettier",
+   "stars": 5517,
+   "lang": "TypeScript",
+   "topics": [
+    "formatter",
+    "typescript",
+    "visual-studio-code",
+    "visual-studio-code-extension"
+   ],
+   "updated": "2026-06-03T17:47:39Z"
+  },
+  {
+   "full": "shufo/vscode-blade-formatter",
+   "desc": "An opinionated Blade file formatter for VSCode",
+   "stars": 5250,
+   "lang": "TypeScript",
+   "topics": [
+    "formatter",
+    "laravel",
+    "vscode",
+    "vscode-extension"
+   ],
+   "updated": "2026-10-31T07:22:45Z"
+  },
+  {
+   "full": "globalizejs/globalize",
+   "desc": "A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data",
+   "stars": 4835,
+   "lang": "JavaScript",
+   "topics": [
+    "i18n",
+    "parser",
+    "formatter",
+    "l10n",
+    "intl",
+    "cldr",
+    "cldr-data",
+    "cldr-json"
+   ],
+   "updated": "2025-09-29T18:47:13Z"
+  },
+  {
+   "full": "hhatto/autopep8",
+   "desc": "A tool that automatically formats Python code to conform to the PEP 8 style guide.",
+   "stars": 4657,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "formatter",
+    "pep8",
+    "codeformatter"
+   ],
+   "updated": "2026-07-20T12:23:40Z"
+  },
+  {
+   "full": "dprint/dprint",
+   "desc": "Pluggable and configurable code formatting platform that unifies all your formatters.",
+   "stars": 4122,
+   "lang": "Rust",
+   "topics": [
+    "formatter"
+   ],
+   "updated": "2026-11-02T20:14:31Z"
+  },
+  {
+   "full": "prettier/prettier-eslint",
+   "desc": "Code ➡️ `prettier` ➡️ `eslint --fix` ➡️ Formatted Code ✨",
+   "stars": 4102,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "formatter",
+    "eslint",
+    "prettier",
+    "hacktoberfest",
+    "prettier-eslint"
+   ],
+   "updated": "2026-11-01T14:36:37Z"
+  },
+  {
+   "full": "andialbrecht/sqlparse",
+   "desc": "A non-validating SQL parser module for Python",
+   "stars": 4022,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "formatter",
+    "sql",
+    "tokenizer",
+    "sql-parser",
+    "sql-formatter"
+   ],
+   "updated": "2026-11-01T18:07:53Z"
+  },
+  {
+   "full": "Myriad-Dreamin/tinymist",
+   "desc": "Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].",
+   "stars": 3630,
+   "lang": "Rust",
+   "topics": [
+    "formatter",
+    "language-server",
+    "vscode-extension",
+    "dap",
+    "lsp",
+    "lsp-server",
+    "dap-server",
+    "typst"
+   ],
+   "updated": "2026-11-01T03:47:14Z"
+  },
+  {
+   "full": "carthage-software/mago",
+   "desc": "Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.",
+   "stars": 3542,
+   "lang": "Rust",
+   "topics": [
+    "php",
+    "parser",
+    "formatter",
+    "linter",
+    "static-analysis",
+    "coding-standards",
+    "lexer",
+    "code-style",
+    "type-checker",
+    "code-analyzer"
+   ],
+   "updated": "2026-11-02T05:48:53Z"
+  },
+  {
+   "full": "haydenbleasel/ultracite",
+   "desc": "A highly opinionated, zero-configuration linter and formatter.",
+   "stars": 3367,
+   "lang": "TypeScript",
+   "topics": [
+    "formatter",
+    "mcp",
+    "linter",
+    "vscode",
+    "biome",
+    "cursor",
+    "zed",
+    "windsurf"
+   ],
+   "updated": "2026-11-01T20:37:00Z"
+  },
+  {
+   "full": "qltysh/qlty",
+   "desc": "💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability",
+   "stars": 3212,
+   "lang": "C",
+   "topics": [
+    "quality",
+    "formatter",
+    "linter",
+    "static-analysis",
+    "code-quality"
+   ],
+   "updated": "2026-11-02T20:15:36Z"
+  },
+  {
+   "full": "laravel/pint",
+   "desc": "Laravel Pint is an opinionated PHP code style fixer for minimalists.",
+   "stars": 3170,
+   "lang": "PHP",
+   "topics": [
+    "lint",
+    "php",
+    "formatter",
+    "format",
+    "linter"
+   ],
+   "updated": "2026-10-14T22:02:00Z"
+  },
+  {
+   "full": "uncrustify/uncrustify",
+   "desc": "Code beautifier",
+   "stars": 3071,
+   "lang": "C++",
+   "topics": [
+    "formatter",
+    "format",
+    "beautify",
+    "beautifier",
+    "code-style"
+   ],
+   "updated": "2026-11-02T05:07:15Z"
+  },
+  {
+   "full": "standardrb/standard",
+   "desc": "Ruby's bikeshed-proof linter and formatter 🚲",
+   "stars": 2928,
+   "lang": "Ruby",
+   "topics": [
+    "ruby",
+    "rubocop",
+    "formatter",
+    "linter"
+   ],
+   "updated": "2026-11-01T22:44:55Z"
+  },
+  {
+   "full": "sql-formatter-org/sql-formatter",
+   "desc": "A whitespace formatter for different query languages",
+   "stars": 2900,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "formatter",
+    "sql",
+    "n1ql"
+   ],
+   "updated": "2026-10-29T16:50:08Z"
+  },
+  {
+   "full": "prontolabs/pronto",
+   "desc": "Quick automated code review of your changes",
+   "stars": 2672,
+   "lang": "Ruby",
+   "topics": [
+    "review",
+    "formatter",
+    "gitlab",
+    "bitbucket",
+    "linters",
+    "automated-analysis",
+    "automated-review"
+   ],
+   "updated": "2026-08-30T15:53:54Z"
+  },
+  {
+   "full": "oxsecurity/megalinter",
+   "desc": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
+   "stars": 2639,
+   "lang": "Dockerfile",
+   "topics": [
+    "kotlin",
+    "python",
+    "java",
+    "markdown",
+    "golang",
+    "jenkins",
+    "security",
+    "formatter",
+    "terraform",
+    "best-practices",
+    "linter",
+    "gitlab-ci"
+   ],
+   "updated": "2026-11-02T01:48:40Z"
+  },
+  {
+   "full": "tamasfe/taplo",
+   "desc": "A TOML toolkit written in Rust",
+   "stars": 2424,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "toml-parser",
+    "toml",
+    "formatter",
+    "analyzer"
+   ],
+   "updated": "2026-07-28T10:20:09Z"
+  },
+  {
+   "full": "belav/csharpier",
+   "desc": "CSharpier is an opinionated code formatter for c#.",
+   "stars": 2353,
+   "lang": "C#",
+   "topics": [
+    "formatter",
+    "csharp",
+    "dotnet",
+    "prettier"
+   ],
+   "updated": "2026-10-05T20:03:05Z"
+  },
+  {
+   "full": "JohnnyMorganz/StyLua",
+   "desc": "A Lua code formatter",
+   "stars": 2329,
+   "lang": "Rust",
+   "topics": [
+    "formatter",
+    "printer",
+    "lua",
+    "hacktoberfest",
+    "pretty-printer",
+    "luau",
+    "stylua",
+    "luaformatter"
+   ],
+   "updated": "2026-10-30T08:01:33Z"
+  },
+  {
+   "full": "vim-autoformat/vim-autoformat",
+   "desc": "Provide easy code formatting in Vim by integrating existing code formatters.",
+   "stars": 2264,
+   "lang": "Vim Script",
+   "topics": [
+    "vim",
+    "formatter",
+    "beautify",
+    "vim-indent",
+    "prettify"
+   ],
+   "updated": "2026-06-25T06:10:58Z"
+  },
+  {
+   "full": "PowerShell/PSScriptAnalyzer",
+   "desc": "Download ScriptAnalyzer from PowerShellGallery",
+   "stars": 2181,
+   "lang": "C#",
+   "topics": [
+    "formatter",
+    "powershell",
+    "linter",
+    "analyzer",
+    "powershell-gallery",
+    "hacktoberfest",
+    "scriptanalyzer"
+   ],
+   "updated": "2026-11-02T18:28:37Z"
+  },
+  {
+   "full": "msaktype/stylefmt",
+   "desc": "stylefmt is a tool that automatically formats stylesheets.",
+   "stars": 2078,
+   "lang": "JavaScript",
+   "topics": [
+    "stylelint",
+    "css",
+    "sass",
+    "formatter",
+    "postcss",
+    "postcss-plugins"
+   ],
+   "updated": "2019-12-06T15:16:03Z"
+  },
+  {
+   "full": "sbdchd/neoformat",
+   "desc": "✨ A (Neo)vim plugin for formatting code.",
+   "stars": 2049,
+   "lang": "Vim Script",
+   "topics": [
+    "plugin",
+    "vim",
+    "formatter",
+    "neovim"
+   ],
+   "updated": "2026-04-13T16:45:43Z"
+  },
+  {
+   "full": "eslint-stylistic/eslint-stylistic",
+   "desc": "Monorepo for ESLint Stylistic plugins and configs",
+   "stars": 2005,
+   "lang": "TypeScript",
+   "topics": [
+    "formatter",
+    "eslint",
+    "eslint-plugin",
+    "eslint-config",
+    "eslint-stylistic"
+   ],
+   "updated": "2026-10-28T04:07:23Z"
+  },
+  {
+   "full": "chipsalliance/verible",
+   "desc": "Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server",
+   "stars": 1974,
+   "lang": "C++",
+   "topics": [
+    "productivity",
+    "parser",
+    "formatter",
+    "analysis",
+    "style-linter",
+    "linter",
+    "language-server-protocol",
+    "syntax-tree",
+    "lexer",
+    "yacc",
+    "systemverilog",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-29T13:45:35Z"
+  },
+  {
+   "full": "Rhymond/go-money",
+   "desc": "Go implementation of Fowler's Money pattern",
+   "stars": 1912,
+   "lang": "Go",
+   "topics": [
+    "money",
+    "formatter",
+    "currency",
+    "fowler-money-pattern",
+    "money-library"
+   ],
+   "updated": "2026-04-29T05:30:08Z"
+  },
+  {
+   "full": "prettier/plugin-php",
+   "desc": "Prettier PHP Plugin",
+   "stars": 1851,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "formatter",
+    "printer",
+    "php7",
+    "prettier",
+    "beautifier",
+    "php5",
+    "autoformat"
+   ],
+   "updated": "2026-11-01T07:54:25Z"
+  },
+  {
+   "full": "brazilian-utils/javascript",
+   "desc": "Utils library for specific Brazilian businesses",
+   "stars": 1684,
+   "lang": "TypeScript",
+   "topics": [
+    "formatter",
+    "generator",
+    "cep",
+    "email",
+    "phone",
+    "format",
+    "validator",
+    "cpf",
+    "cnpj",
+    "states",
+    "boleto",
+    "estados"
+   ],
+   "updated": "2026-11-02T12:05:06Z"
+  }
+ ]
+}

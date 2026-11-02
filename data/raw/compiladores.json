@@ -1,0 +1,1341 @@
+{
+ "subId": "compiladores",
+ "topics": [
+  "compiler",
+  "interpreter"
+ ],
+ "crawledAt": "2026-11-02T20:19:54.304Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "vercel/next.js",
+   "desc": "The React Framework",
+   "stars": 143474,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "blog",
+    "static-site-generator",
+    "components",
+    "node",
+    "browser",
+    "compiler",
+    "universal",
+    "nextjs",
+    "static",
+    "server-rendering",
+    "hybrid"
+   ],
+   "updated": "2026-11-02T20:13:02Z"
+  },
+  {
+   "full": "rust-lang/rust",
+   "desc": "Empowering everyone to build reliable and efficient software.",
+   "stars": 120982,
+   "lang": "Rust",
+   "topics": [
+    "language",
+    "rust",
+    "compiler"
+   ],
+   "updated": "2026-11-02T20:01:31Z"
+  },
+  {
+   "full": "sveltejs/svelte",
+   "desc": "web development for the rest of us",
+   "stars": 88532,
+   "lang": "JavaScript",
+   "topics": [
+    "template",
+    "ui",
+    "compiler"
+   ],
+   "updated": "2026-11-02T19:39:06Z"
+  },
+  {
+   "full": "webpack/webpack",
+   "desc": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffe",
+   "stars": 65978,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "web-performance",
+    "webpack",
+    "web",
+    "es6",
+    "compiler",
+    "commonjs",
+    "amd",
+    "es2015",
+    "plugins",
+    "javascript-compiler",
+    "build-tool"
+   ],
+   "updated": "2026-11-02T20:19:29Z"
+  },
+  {
+   "full": "FuelLabs/sway",
+   "desc": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
+   "stars": 61359,
+   "lang": "Rust",
+   "topics": [
+    "language",
+    "compiler",
+    "fuel",
+    "sway"
+   ],
+   "updated": "2026-11-01T17:20:01Z"
+  },
+  {
+   "full": "typst/typst",
+   "desc": "A markup-based typesetting system that is powerful and easy to learn.",
+   "stars": 56955,
+   "lang": "Rust",
+   "topics": [
+    "compiler",
+    "markup",
+    "typesetting",
+    "typst"
+   ],
+   "updated": "2026-10-30T02:02:23Z"
+  },
+  {
+   "full": "gatsbyjs/gatsby",
+   "desc": "React-based framework with performance, scalability, and security built in.",
+   "stars": 55921,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "blog",
+    "graphql",
+    "static-site-generator",
+    "compiler",
+    "web-app",
+    "gatsby"
+   ],
+   "updated": "2026-10-20T11:36:56Z"
+  },
+  {
+   "full": "JetBrains/kotlin",
+   "desc": "The Kotlin Programming Language.",
+   "stars": 53537,
+   "lang": "Kotlin",
+   "topics": [
+    "kotlin",
+    "programming-language",
+    "compiler",
+    "webassembly",
+    "wasm",
+    "kotlin-library",
+    "maven-plugin",
+    "gradle-plugin",
+    "intellij-plugin"
+   ],
+   "updated": "2026-11-02T20:18:02Z"
+  },
+  {
+   "full": "babel/babel",
+   "desc": "🐠 Babel is a compiler for writing next generation JavaScript.",
+   "stars": 44058,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "babel",
+    "es6",
+    "compiler",
+    "es2015",
+    "ast",
+    "flavortown"
+   ],
+   "updated": "2026-11-02T17:54:29Z"
+  },
+  {
+   "full": "parcel-bundler/parcel",
+   "desc": "The zero configuration build tool for the web. 📦🚀",
+   "stars": 44008,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "web",
+    "modules",
+    "es6",
+    "compiler",
+    "assets",
+    "commonjs",
+    "build-tool",
+    "module-bundler"
+   ],
+   "updated": "2026-11-02T07:58:30Z"
+  },
+  {
+   "full": "ziglang/zig",
+   "desc": "Moved to Codeberg",
+   "stars": 43262,
+   "lang": "Zig",
+   "topics": [
+    "language",
+    "compiler",
+    "zig"
+   ],
+   "updated": "2025-11-27T01:42:59Z"
+  },
+  {
+   "full": "evanw/esbuild",
+   "desc": "An extremely fast bundler for the web",
+   "stars": 40122,
+   "lang": "Go",
+   "topics": [
+    "react",
+    "javascript",
+    "css",
+    "bundler",
+    "typescript",
+    "compiler",
+    "jsx",
+    "commonjs",
+    "minifier",
+    "tsx",
+    "esm"
+   ],
+   "updated": "2026-08-09T17:20:12Z"
+  },
+  {
+   "full": "vlang/v",
+   "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
+   "stars": 38086,
+   "lang": "V",
+   "topics": [
+    "language",
+    "programming-language",
+    "compiler",
+    "v"
+   ],
+   "updated": "2026-11-02T20:19:43Z"
+  },
+  {
+   "full": "markedjs/marked",
+   "desc": "A markdown parser and compiler. Built for speed.",
+   "stars": 37279,
+   "lang": "JavaScript",
+   "topics": [
+    "markdown",
+    "gfm",
+    "parser",
+    "compiler",
+    "commonmark",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T17:59:18Z"
+  },
+  {
+   "full": "swc-project/swc",
+   "desc": "Rust-based platform for the Web",
+   "stars": 34210,
+   "lang": "Rust",
+   "topics": [
+    "javascript",
+    "rust",
+    "parser",
+    "babel",
+    "typescript",
+    "compiler",
+    "ecmascript",
+    "swc",
+    "typescript-compiler",
+    "typescript-parser",
+    "ecmascript-parser"
+   ],
+   "updated": "2026-11-02T06:17:48Z"
+  },
+  {
+   "full": "carbon-language/carbon-lang",
+   "desc": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
+   "stars": 33940,
+   "lang": "C++",
+   "topics": [
+    "language",
+    "programming-language",
+    "experimental",
+    "compiler",
+    "cpp",
+    "experimental-language",
+    "carbon-lang"
+   ],
+   "updated": "2026-11-02T20:18:08Z"
+  },
+  {
+   "full": "hypit-ai/hypit",
+   "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+   "stars": 27534,
+   "lang": "TypeScript",
+   "topics": [
+    "programming-language",
+    "typescript",
+    "video",
+    "ai",
+    "ffmpeg",
+    "compiler",
+    "dsl",
+    "monorepo",
+    "markup-language",
+    "video-editing",
+    "plugin-system",
+    "ai-agents"
+   ],
+   "updated": "2026-11-02T11:21:51Z"
+  },
+  {
+   "full": "v8/v8",
+   "desc": "The official mirror of the V8 Git repository",
+   "stars": 25317,
+   "lang": "C++",
+   "topics": [
+    "javascript",
+    "interpreter",
+    "compiler",
+    "virtual-machine",
+    "javascript-engine"
+   ],
+   "updated": "2026-11-02T20:15:50Z"
+  },
+  {
+   "full": "vercel/pkg",
+   "desc": "Package your Node.js project into an executable",
+   "stars": 24307,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "cli",
+    "compiler",
+    "binaries"
+   ],
+   "updated": "2024-01-03T01:38:16Z"
+  },
+  {
+   "full": "oxc-project/oxc",
+   "desc": "⚓ A collection of high-performance JavaScript tools.",
+   "stars": 23301,
+   "lang": "Rust",
+   "topics": [
+    "javascript",
+    "parser",
+    "typescript",
+    "compiler",
+    "linter",
+    "transpiler",
+    "minifier"
+   ],
+   "updated": "2026-11-02T19:53:37Z"
+  },
+  {
+   "full": "RustPython/RustPython",
+   "desc": "A Python Interpreter written in Rust",
+   "stars": 22454,
+   "lang": "Rust",
+   "topics": [
+    "language",
+    "rust",
+    "interpreter",
+    "compiler",
+    "wasm",
+    "jit",
+    "python3",
+    "hacktoberfest",
+    "python-language"
+   ],
+   "updated": "2026-11-02T16:59:05Z"
+  },
+  {
+   "full": "gleam-lang/gleam",
+   "desc": "⭐️ A friendly language for building type-safe, scalable systems!",
+   "stars": 22017,
+   "lang": "Rust",
+   "topics": [
+    "programming-language",
+    "erlang",
+    "compiler",
+    "statically-typed",
+    "gleam"
+   ],
+   "updated": "2026-11-01T02:48:11Z"
+  },
+  {
+   "full": "oracle/graal",
+   "desc": "GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",
+   "stars": 21748,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "compiler",
+    "aot",
+    "graalvm"
+   ],
+   "updated": "2026-11-02T19:58:24Z"
+  },
+  {
+   "full": "crystal-lang/crystal",
+   "desc": "The Crystal Programming Language",
+   "stars": 20481,
+   "lang": "Crystal",
+   "topics": [
+    "programming-language",
+    "crystal",
+    "compiler",
+    "hacktoberfest",
+    "crystal-language"
+   ],
+   "updated": "2026-11-02T18:00:02Z"
+  },
+  {
+   "full": "compiler-explorer/compiler-explorer",
+   "desc": "Run compilers interactively from your web browser and interact with the assembly",
+   "stars": 19167,
+   "lang": "TypeScript",
+   "topics": [
+    "python",
+    "c",
+    "go",
+    "swift",
+    "rust",
+    "c-plus-plus",
+    "haskell",
+    "compiler",
+    "cpp",
+    "assembly",
+    "dlang",
+    "rust-lang"
+   ],
+   "updated": "2026-11-02T18:19:16Z"
+  },
+  {
+   "full": "nim-lang/Nim",
+   "desc": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+   "stars": 18296,
+   "lang": "Nim",
+   "topics": [
+    "language",
+    "nim",
+    "compiler",
+    "metaprogramming",
+    "efficient",
+    "macros",
+    "procedural",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T17:01:16Z"
+  },
+  {
+   "full": "AssemblyScript/assemblyscript",
+   "desc": "A TypeScript-like language for WebAssembly.",
+   "stars": 18038,
+   "lang": "WebAssembly",
+   "topics": [
+    "typescript",
+    "compiler",
+    "webassembly",
+    "wasm",
+    "assemblyscript"
+   ],
+   "updated": "2026-10-18T13:18:38Z"
+  },
+  {
+   "full": "aidenybai/million",
+   "desc": "Optimizing compiler for React",
+   "stars": 17663,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "virtual-dom",
+    "performance",
+    "preact",
+    "compiler",
+    "optimization",
+    "memo",
+    "rendering",
+    "best-practices",
+    "optimize",
+    "renderer",
+    "hacktoberfest"
+   ],
+   "updated": "2026-05-20T16:10:55Z"
+  },
+  {
+   "full": "exaloop/codon",
+   "desc": "A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support",
+   "stars": 16864,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "compiler",
+    "high-performance",
+    "numpy",
+    "llvm",
+    "parallel-programming",
+    "gpu-programming"
+   ],
+   "updated": "2026-11-02T20:03:30Z"
+  },
+  {
+   "full": "iamgio/quarkdown",
+   "desc": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+   "stars": 16348,
+   "lang": "Kotlin",
+   "topics": [
+    "markdown",
+    "static-site-generator",
+    "pdf",
+    "documentation",
+    "compiler",
+    "wiki",
+    "markup",
+    "paper",
+    "slides",
+    "typesetting",
+    "scripting-language",
+    "presentations"
+   ],
+   "updated": "2026-11-01T09:28:54Z"
+  },
+  {
+   "full": "Konloch/bytecode-viewer",
+   "desc": "A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)",
+   "stars": 15700,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "java",
+    "bytecode",
+    "compiler",
+    "jsp",
+    "static-analysis",
+    "java-decompiler",
+    "decompiler",
+    "apk",
+    "war",
+    "smali",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-30T02:52:52Z"
+  },
+  {
+   "full": "Nuitka/Nuitka",
+   "desc": "Nuitka is a Python compiler written in Python. It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module.",
+   "stars": 15218,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "performance",
+    "programming",
+    "compiler",
+    "python-compiler",
+    "packaging-tool",
+    "nuitka"
+   ],
+   "updated": "2026-11-01T18:57:40Z"
+  },
+  {
+   "full": "BuilderIO/mitosis",
+   "desc": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.",
+   "stars": 14454,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "builder",
+    "angular",
+    "vue",
+    "compiler",
+    "solid",
+    "jsx",
+    "visual",
+    "declarative",
+    "liquid",
+    "svelte",
+    "shopify"
+   ],
+   "updated": "2026-10-28T22:04:27Z"
+  },
+  {
+   "full": "apache/tvm",
+   "desc": "Open Machine Learning Compiler Framework",
+   "stars": 13887,
+   "lang": "Python",
+   "topics": [
+    "javascript",
+    "machine-learning",
+    "performance",
+    "deep-learning",
+    "metal",
+    "compiler",
+    "gpu",
+    "vulkan",
+    "opencl",
+    "tensor",
+    "spirv",
+    "rocm"
+   ],
+   "updated": "2026-10-30T14:18:26Z"
+  },
+  {
+   "full": "DoctorWkt/acwj",
+   "desc": "A Compiler Writing Journey",
+   "stars": 13469,
+   "lang": "C",
+   "topics": [
+    "c",
+    "parsing",
+    "compiler",
+    "lexical-analysis"
+   ],
+   "updated": "2026-06-06T21:17:51Z"
+  },
+  {
+   "full": "gopherjs/gopherjs",
+   "desc": "A compiler from Go to JavaScript for running Go code in a browser",
+   "stars": 13195,
+   "lang": "Go",
+   "topics": [
+    "javascript",
+    "go",
+    "golang",
+    "compiler",
+    "hacktoberfest"
+   ],
+   "updated": "2026-08-20T17:56:18Z"
+  },
+  {
+   "full": "web-infra-dev/rspack",
+   "desc": "Fast Rust-based bundler for the web with a modernized webpack API 🦀",
+   "stars": 12970,
+   "lang": "Rust",
+   "topics": [
+    "javascript",
+    "rust",
+    "bundler",
+    "typescript",
+    "web-performance",
+    "webpack",
+    "web",
+    "compiler",
+    "jsx",
+    "build-tool",
+    "loaders",
+    "module-bundler"
+   ],
+   "updated": "2026-11-02T17:18:14Z"
+  },
+  {
+   "full": "odin-lang/Odin",
+   "desc": "Odin Programming Language",
+   "stars": 12252,
+   "lang": "Odin",
+   "topics": [
+    "language",
+    "programming-language",
+    "compiler",
+    "programming-languages",
+    "odin-programming-language",
+    "odin",
+    "odin-lang"
+   ],
+   "updated": "2026-11-02T19:49:38Z"
+  },
+  {
+   "full": "numba/numba",
+   "desc": "NumPy aware dynamic Python compiler using LLVM",
+   "stars": 11199,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "compiler",
+    "numpy",
+    "llvm",
+    "parallel",
+    "cuda",
+    "numba"
+   ],
+   "updated": "2026-10-27T02:45:47Z"
+  },
+  {
+   "full": "munificent/craftinginterpreters",
+   "desc": "Repository for the book \"Crafting Interpreters\"",
+   "stars": 11131,
+   "lang": "HTML",
+   "topics": [
+    "c",
+    "java",
+    "language",
+    "markdown",
+    "parser",
+    "interpreter",
+    "bytecode",
+    "compiler",
+    "book",
+    "scripting-language",
+    "lox"
+   ],
+   "updated": "2024-08-07T12:07:07Z"
+  },
+  {
+   "full": "statelyai/xstate",
+   "desc": "State machines, statecharts, and actors for complex logic",
+   "stars": 30403,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "workflow",
+    "typescript",
+    "reactive",
+    "interpreter",
+    "state-management",
+    "fsm",
+    "state-machine",
+    "actor-model",
+    "statechart",
+    "state",
+    "background-jobs"
+   ],
+   "updated": "2026-11-02T18:55:01Z"
+  },
+  {
+   "full": "aalhour/awesome-compilers",
+   "desc": "😎 Curated list of awesome resources on Compilers, Interpreters and Runtimes",
+   "stars": 9954,
+   "lang": null,
+   "topics": [
+    "programming-language",
+    "list",
+    "awesome",
+    "books",
+    "interpreter",
+    "compiler",
+    "runtime",
+    "virtual-machine",
+    "resources",
+    "awesome-list"
+   ],
+   "updated": "2024-05-26T14:07:19Z"
+  },
+  {
+   "full": "mvdan/sh",
+   "desc": "A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt",
+   "stars": 9173,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "shell",
+    "bash",
+    "zsh",
+    "parser",
+    "formatter",
+    "interpreter",
+    "beautify",
+    "posix",
+    "mksh",
+    "shfmt"
+   ],
+   "updated": "2026-11-02T15:47:32Z"
+  },
+  {
+   "full": "traefik/yaegi",
+   "desc": "Yaegi is Another Elegant Go Interpreter",
+   "stars": 8435,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "interpreter"
+   ],
+   "updated": "2026-11-02T14:08:31Z"
+  },
+  {
+   "full": "wren-lang/wren",
+   "desc": "The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.",
+   "stars": 8173,
+   "lang": "Wren",
+   "topics": [
+    "c",
+    "language",
+    "interpreter",
+    "bytecode",
+    "fibers",
+    "wren",
+    "scripting-languages"
+   ],
+   "updated": "2025-11-19T22:18:55Z"
+  },
+  {
+   "full": "boa-dev/boa",
+   "desc": "Boa is an embeddable Javascript engine written in Rust.",
+   "stars": 7657,
+   "lang": "Rust",
+   "topics": [
+    "javascript",
+    "rust",
+    "parser",
+    "interpreter",
+    "runtime",
+    "ecmascript",
+    "webassembly",
+    "wasm",
+    "javascript-interpreter",
+    "javascript-engine",
+    "hacktoberfest",
+    "rust-crate"
+   ],
+   "updated": "2026-10-31T09:30:21Z"
+  },
+  {
+   "full": "enso-org/enso",
+   "desc": "Enso Analytics is a self-service data prep and analysis platform designed for data teams.",
+   "stars": 7443,
+   "lang": "Java",
+   "topics": [
+    "language",
+    "functional",
+    "interpreter",
+    "compiler",
+    "visual",
+    "textual",
+    "jit",
+    "polyglot",
+    "graalvm",
+    "hybrid",
+    "rts",
+    "enso"
+   ],
+   "updated": "2026-08-10T23:15:44Z"
+  },
+  {
+   "full": "wasm-micro-runtime/wasm-micro-runtime",
+   "desc": "WebAssembly Micro Runtime (WAMR)",
+   "stars": 6184,
+   "lang": "C",
+   "topics": [
+    "iot",
+    "embedded",
+    "interpreter",
+    "runtime",
+    "webassembly",
+    "wasm",
+    "jit",
+    "aot",
+    "sgx",
+    "pthread",
+    "assembly-script",
+    "wasi-nn"
+   ],
+   "updated": "2026-11-02T02:02:15Z"
+  },
+  {
+   "full": "red/red",
+   "desc": "Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing",
+   "stars": 6073,
+   "lang": "Red",
+   "topics": [
+    "toolchain",
+    "language",
+    "programming-language",
+    "gui",
+    "interpreter",
+    "cross-platform",
+    "native",
+    "compiler",
+    "repl",
+    "red",
+    "scripting-language",
+    "reactive-programming"
+   ],
+   "updated": "2026-11-01T18:59:34Z"
+  },
+  {
+   "full": "karma9874/AndroRAT",
+   "desc": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
+   "stars": 5260,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "python",
+    "java",
+    "interpreter",
+    "backdoor",
+    "reverse-shell",
+    "exploit",
+    "sockets",
+    "apk",
+    "android-application",
+    "rat",
+    "hacktoberfest"
+   ],
+   "updated": "2024-07-17T17:22:43Z"
+  },
+  {
+   "full": "zpoint/CPython-Internals",
+   "desc": "Dive into CPython internals, trying to illustrate every detail of CPython implementation",
+   "stars": 5091,
+   "lang": "C",
+   "topics": [
+    "python",
+    "c",
+    "interpreter",
+    "python3",
+    "cpython",
+    "learning-material",
+    "cpython-internals"
+   ],
+   "updated": "2026-02-03T01:09:31Z"
+  },
+  {
+   "full": "sebastienros/jint",
+   "desc": "Javascript Interpreter for .NET",
+   "stars": 4749,
+   "lang": "C#",
+   "topics": [
+    "javascript",
+    "interpreter",
+    "dotnet"
+   ],
+   "updated": "2026-11-02T19:48:12Z"
+  },
+  {
+   "full": "marcobambini/gravity",
+   "desc": "Gravity Programming Language",
+   "stars": 4588,
+   "lang": "C",
+   "topics": [
+    "c",
+    "language",
+    "programming-language",
+    "json",
+    "interpreter",
+    "bytecode",
+    "objective-c",
+    "portable",
+    "virtual-machine",
+    "fibers",
+    "pratt-parser",
+    "scripting-language"
+   ],
+   "updated": "2026-10-11T12:04:25Z"
+  },
+  {
+   "full": "janet-lang/janet",
+   "desc": "A dynamic language and bytecode vm",
+   "stars": 4473,
+   "lang": "C",
+   "topics": [
+    "c",
+    "language",
+    "vm",
+    "lisp",
+    "interpreter",
+    "repl",
+    "macros",
+    "functional-language",
+    "imperative-language"
+   ],
+   "updated": "2026-11-01T22:20:28Z"
+  },
+  {
+   "full": "root-project/cling",
+   "desc": "The cling C++ interpreter",
+   "stars": 4203,
+   "lang": "C++",
+   "topics": [
+    "c-plus-plus",
+    "interpreter",
+    "jupyter",
+    "llvm",
+    "clang"
+   ],
+   "updated": "2026-10-30T11:20:19Z"
+  },
+  {
+   "full": "DulLabs/bhai-lang",
+   "desc": "A toy programming language written in Typescript",
+   "stars": 4092,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "programming-language",
+    "parser",
+    "typescript",
+    "interpreter"
+   ],
+   "updated": "2024-06-15T09:54:53Z"
+  },
+  {
+   "full": "facebookincubator/MetaPython",
+   "desc": "This is Meta's fork of the CPython runtime. The name \"cinder\" here is historical, see https://github.com/facebookincubator/cinderx for the Python extension / JIT compiler.",
+   "stars": 3793,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "interpreter",
+    "compiler",
+    "runtime",
+    "jit"
+   ],
+   "updated": "2026-11-02T20:14:33Z"
+  },
+  {
+   "full": "eclipse-openj9/openj9",
+   "desc": "Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput. Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo",
+   "stars": 3548,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "interpreter",
+    "compiler",
+    "runtime",
+    "jvm",
+    "virtual-machine",
+    "jit",
+    "garbage-collector",
+    "gc",
+    "hacktoberfest",
+    "eclipse-openj9"
+   ],
+   "updated": "2026-11-02T15:04:05Z"
+  },
+  {
+   "full": "AmrDeveloper/GQL",
+   "desc": "GitQL is a extensible SQL-like query language and SDK to perform queries on various data sources such .git files with supports of most of SQL features such as grouping, ordering and aggregation and window functions and allow customization l",
+   "stars": 3509,
+   "lang": "Rust",
+   "topics": [
+    "git",
+    "rust",
+    "sql",
+    "database",
+    "interpreter",
+    "engine",
+    "memory-database",
+    "gql",
+    "gitql",
+    "gitql-sdk"
+   ],
+   "updated": "2026-04-21T18:52:06Z"
+  },
+  {
+   "full": "goby-lang/goby",
+   "desc": "Goby - Yet another programming language written in Go",
+   "stars": 3505,
+   "lang": "Go",
+   "topics": [
+    "ruby",
+    "golang",
+    "interpreter",
+    "bytecode",
+    "api-server",
+    "object-oriented",
+    "goby",
+    "goby-language",
+    "goby-codes"
+   ],
+   "updated": "2023-02-25T04:27:37Z"
+  },
+  {
+   "full": "root-project/root",
+   "desc": "The official repository for ROOT: analyzing, storing and visualizing big data, scientifically",
+   "stars": 3336,
+   "lang": "C++",
+   "topics": [
+    "visualization",
+    "python",
+    "c-plus-plus",
+    "machine-learning",
+    "statistics",
+    "interpreter",
+    "geometry",
+    "graphics",
+    "physics",
+    "parallel",
+    "mathematics",
+    "root"
+   ],
+   "updated": "2026-11-02T16:04:43Z"
+  },
+  {
+   "full": "jcubic/jquery.terminal",
+   "desc": "jQuery Terminal Emulator - JavaScript library for creating web-based terminals with custom commands",
+   "stars": 3239,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "shell",
+    "console",
+    "jquery-plugin",
+    "terminal",
+    "interpreter",
+    "command-line",
+    "tui",
+    "json-rpc",
+    "terminal-emulators",
+    "ansi-art",
+    "jquery-terminal"
+   ],
+   "updated": "2026-10-27T17:28:29Z"
+  },
+  {
+   "full": "metakirby5/codi.vim",
+   "desc": "📔 The interactive scratchpad for hackers.",
+   "stars": 3055,
+   "lang": "Vim Script",
+   "topics": [
+    "vim",
+    "interpreter",
+    "repl",
+    "instant"
+   ],
+   "updated": "2023-02-28T15:46:33Z"
+  },
+  {
+   "full": "d4l3k/go-pry",
+   "desc": "An interactive REPL for Go that allows you to drop into your code at any point.",
+   "stars": 3002,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "interpreter",
+    "repl"
+   ],
+   "updated": "2023-02-21T05:42:01Z"
+  },
+  {
+   "full": "vnmakarov/mir",
+   "desc": "A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR",
+   "stars": 2672,
+   "lang": "C",
+   "topics": [
+    "c",
+    "macos",
+    "linux",
+    "apple",
+    "interpreter",
+    "compiler",
+    "x86-64",
+    "intermediate-representation",
+    "jit-compiler",
+    "aarch64",
+    "m1",
+    "s390x"
+   ],
+   "updated": "2026-10-23T19:45:57Z"
+  },
+  {
+   "full": "wasmi-labs/wasmi",
+   "desc": "WebAssembly (Wasm) Interpreter - An efficient, lightweight, and deterministic WebAssembly interpreter for embedded systems and plug-in runtimes.",
+   "stars": 2341,
+   "lang": "Rust",
+   "topics": [
+    "fast",
+    "interpreter",
+    "cross-platform",
+    "game-engine",
+    "runtime",
+    "virtual-machine",
+    "smart-contracts",
+    "webassembly",
+    "wasm",
+    "efficient",
+    "embedded-systems",
+    "rust-lang"
+   ],
+   "updated": "2026-11-02T19:44:19Z"
+  },
+  {
+   "full": "cosmos72/gomacro",
+   "desc": "Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros",
+   "stars": 2301,
+   "lang": "Go",
+   "topics": [
+    "debugger",
+    "golang",
+    "interpreter",
+    "repl",
+    "macros",
+    "generics",
+    "eval"
+   ],
+   "updated": "2026-09-01T20:53:31Z"
+  },
+  {
+   "full": "vtereshkov/umka-lang",
+   "desc": "Umka: a statically typed embeddable scripting language",
+   "stars": 2137,
+   "lang": "C",
+   "topics": [
+    "c",
+    "language",
+    "programming-language",
+    "interpreter",
+    "cross-platform",
+    "compiler",
+    "virtual-machine",
+    "coroutines",
+    "concurrency",
+    "fibers",
+    "scripting-language",
+    "static-typing"
+   ],
+   "updated": "2026-11-02T11:18:48Z"
+  },
+  {
+   "full": "pocketpy/pocketpy",
+   "desc": "Portable Python 3.x Interpreter in Modern C",
+   "stars": 2135,
+   "lang": "C",
+   "topics": [
+    "python",
+    "c",
+    "language",
+    "programming-language",
+    "vm",
+    "interpreter",
+    "scripting-language",
+    "header-only",
+    "c11"
+   ],
+   "updated": "2026-10-25T11:22:27Z"
+  },
+  {
+   "full": "benhoyt/goawk",
+   "desc": "A POSIX-compliant AWK interpreter written in Go, with CSV support",
+   "stars": 2068,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "parser",
+    "csv",
+    "interpreter",
+    "awk"
+   ],
+   "updated": "2026-11-02T17:30:43Z"
+  },
+  {
+   "full": "candid82/joker",
+   "desc": "Small Clojure interpreter, linter and formatter.",
+   "stars": 1777,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "clojure",
+    "interpreter",
+    "linter"
+   ],
+   "updated": "2026-10-05T14:53:23Z"
+  },
+  {
+   "full": "michaelb/sniprun",
+   "desc": "A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages",
+   "stars": 1715,
+   "lang": "Rust",
+   "topics": [
+    "plugin",
+    "rust",
+    "interpreter",
+    "lua",
+    "neovim",
+    "code",
+    "runner",
+    "languages",
+    "neovim-plugin",
+    "hacktoberfest",
+    "partial-evaluators",
+    "compiled-language"
+   ],
+   "updated": "2026-07-29T19:45:05Z"
+  },
+  {
+   "full": "moonsharp-devs/moonsharp",
+   "desc": "An interpreter for the Lua language, written entirely in C# for the .NET, Mono, Xamarin and Unity3D platforms, including handy remote debugger facilities.",
+   "stars": 1623,
+   "lang": "C#",
+   "topics": [
+    "c-sharp",
+    "debugger",
+    "xamarin",
+    "interpreter",
+    "lua",
+    "mono",
+    "unity3d",
+    "moonsharp"
+   ],
+   "updated": "2026-10-14T12:20:11Z"
+  },
+  {
+   "full": "ThakeeNathees/pocketlang",
+   "desc": "A lightweight, fast embeddable scripting language.",
+   "stars": 1550,
+   "lang": "C",
+   "topics": [
+    "c",
+    "language",
+    "programming-language",
+    "vm",
+    "functional",
+    "interpreter",
+    "scripting-language",
+    "bytecode-compiler"
+   ],
+   "updated": "2026-01-03T10:47:53Z"
+  },
+  {
+   "full": "Water-Melon/Melon",
+   "desc": "A generic cross-platform C library that includes many commonly used components and frameworks, and a new scripting language interpreter. It currently supports C99 and Aspect-Oriented Programming (AOP).",
+   "stars": 1462,
+   "lang": "C",
+   "topics": [
+    "c",
+    "http",
+    "json",
+    "framework",
+    "base64",
+    "interpreter",
+    "algorithms",
+    "multiprocessing",
+    "c99",
+    "regular-expression",
+    "multithreading",
+    "md5"
+   ],
+   "updated": "2026-05-30T17:06:51Z"
+  },
+  {
+   "full": "babashka/sci",
+   "desc": "Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs",
+   "stars": 1392,
+   "lang": "Clojure",
+   "topics": [
+    "javascript",
+    "language",
+    "clojure",
+    "interpreter",
+    "clojurescript",
+    "graalvm",
+    "babashka"
+   ],
+   "updated": "2026-10-31T19:36:28Z"
+  },
+  {
+   "full": "michaelmacinnis/oh",
+   "desc": "A new Unix shell.",
+   "stars": 1380,
+   "lang": "Go",
+   "topics": [
+    "shell",
+    "language",
+    "scheme",
+    "unix",
+    "functional",
+    "interpreter",
+    "command-line",
+    "scripting-language",
+    "concurrent"
+   ],
+   "updated": "2023-09-19T17:46:30Z"
+  }
+ ]
+}

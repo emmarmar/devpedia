@@ -1,0 +1,1513 @@
+{
+ "subId": "serverless",
+ "topics": [
+  "serverless",
+  "edge-computing"
+ ],
+ "crawledAt": "2026-11-02T20:18:42.635Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "anuraghazra/github-readme-stats",
+   "desc": "⚡ Dynamically generated stats for your github readmes",
+   "stars": 79861,
+   "lang": "JavaScript",
+   "topics": [
+    "serverless",
+    "dynamic",
+    "readme-generator",
+    "profile-readme",
+    "readme-stats"
+   ],
+   "updated": "2026-10-01T01:02:55Z"
+  },
+  {
+   "full": "serverless/serverless",
+   "desc": "⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.",
+   "stars": 46928,
+   "lang": "JavaScript",
+   "topics": [
+    "aws",
+    "aws-lambda",
+    "microservice",
+    "serverless",
+    "serverless-framework",
+    "azure-functions",
+    "serverless-architectures",
+    "google-cloud-functions",
+    "aws-dynamodb"
+   ],
+   "updated": "2026-11-02T15:28:40Z"
+  },
+  {
+   "full": "Kong/kong",
+   "desc": "🦍 The API and AI Gateway",
+   "stars": 44347,
+   "lang": "Lua",
+   "topics": [
+    "kubernetes",
+    "devops",
+    "microservices",
+    "ai",
+    "microservice",
+    "serverless",
+    "api-management",
+    "api-gateway",
+    "mcp",
+    "reverse-proxy",
+    "artificial-intelligence",
+    "apis"
+   ],
+   "updated": "2026-10-19T02:45:09Z"
+  },
+  {
+   "full": "pingcap/tidb",
+   "desc": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
+   "stars": 40701,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "go",
+    "agent",
+    "sql",
+    "database",
+    "ai",
+    "scale",
+    "serverless",
+    "memory",
+    "distributed-transactions",
+    "distributed-database",
+    "cloud-native"
+   ],
+   "updated": "2026-11-02T20:01:03Z"
+  },
+  {
+   "full": "firecracker-microvm/firecracker",
+   "desc": "Secure and fast microVMs for serverless computing.",
+   "stars": 37791,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "open-source",
+    "serverless",
+    "containers",
+    "virtual-machine",
+    "sandbox",
+    "virtualization",
+    "minimalist",
+    "oversubscription"
+   ],
+   "updated": "2026-11-02T16:57:09Z"
+  },
+  {
+   "full": "surrealdb/surrealdb",
+   "desc": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+   "stars": 33261,
+   "lang": "Rust",
+   "topics": [
+    "sql",
+    "database",
+    "web",
+    "serverless",
+    "nosql",
+    "devtools",
+    "distributed",
+    "database-as-a-service",
+    "developer-tools",
+    "graph-database",
+    "distributed-database",
+    "document-database"
+   ],
+   "updated": "2026-10-29T00:36:12Z"
+  },
+  {
+   "full": "openfaas/faas",
+   "desc": "OpenFaaS - Serverless Functions Made Simple",
+   "stars": 26254,
+   "lang": "Go",
+   "topics": [
+    "nodejs",
+    "docker",
+    "kubernetes",
+    "golang",
+    "lambda",
+    "serverless",
+    "functions",
+    "prometheus",
+    "paas",
+    "faas",
+    "serverless-functions",
+    "k8s"
+   ],
+   "updated": "2026-10-23T13:59:20Z"
+  },
+  {
+   "full": "dapr/dapr",
+   "desc": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
+   "stars": 26174,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "distributed-systems",
+    "microservices",
+    "state-management",
+    "microservice",
+    "serverless",
+    "containers",
+    "workflow-engine",
+    "pubsub",
+    "event-driven",
+    "workflows",
+    "sidecar"
+   ],
+   "updated": "2026-11-02T20:09:02Z"
+  },
+  {
+   "full": "pulumi/pulumi",
+   "desc": "Pulumi - Infrastructure as Code in any programming language 🚀",
+   "stars": 25840,
+   "lang": "Go",
+   "topics": [
+    "javascript",
+    "python",
+    "go",
+    "kubernetes",
+    "golang",
+    "aws",
+    "cloud",
+    "typescript",
+    "csharp",
+    "serverless",
+    "fsharp",
+    "dotnet"
+   ],
+   "updated": "2026-11-02T20:07:04Z"
+  },
+  {
+   "full": "neondatabase/neon",
+   "desc": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.",
+   "stars": 23292,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "postgres",
+    "database",
+    "serverless",
+    "postgresql"
+   ],
+   "updated": "2026-08-31T11:03:14Z"
+  },
+  {
+   "full": "alibaba/ice",
+   "desc": "🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）",
+   "stars": 18607,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "framework",
+    "typescript",
+    "spa",
+    "webpack",
+    "react-router",
+    "serverless",
+    "ssr",
+    "mpa",
+    "microfrontends",
+    "vite"
+   ],
+   "updated": "2026-04-02T11:24:47Z"
+  },
+  {
+   "full": "APIJSON/APIJSON",
+   "desc": "🏆 Real-Time no-code, powerful and secure ORM 🚀 providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构",
+   "stars": 18392,
+   "lang": "Java",
+   "topics": [
+    "elasticsearch",
+    "crud",
+    "influxdb",
+    "hive",
+    "hadoop",
+    "serverless",
+    "clickhouse",
+    "postgresql",
+    "oracle",
+    "snowflake",
+    "baas",
+    "postgresql-database"
+   ],
+   "updated": "2026-11-01T02:02:55Z"
+  },
+  {
+   "full": "apache/apisix",
+   "desc": "The Cloud-Native API Gateway and AI Gateway",
+   "stars": 17290,
+   "lang": "Lua",
+   "topics": [
+    "api",
+    "nginx",
+    "kubernetes",
+    "iot",
+    "devops",
+    "microservices",
+    "serverless",
+    "api-management",
+    "api-gateway",
+    "luajit",
+    "openapi",
+    "reverse-proxy"
+   ],
+   "updated": "2026-11-02T08:02:44Z"
+  },
+  {
+   "full": "triggerdotdev/trigger.dev",
+   "desc": "Trigger.dev – build and deploy durable AI agents and workflows",
+   "stars": 16699,
+   "lang": "TypeScript",
+   "topics": [
+    "automation",
+    "ai",
+    "serverless",
+    "mcp",
+    "nextjs",
+    "scheduler",
+    "background-jobs",
+    "orchestration",
+    "workflows",
+    "workflow-automation",
+    "ai-agents",
+    "ai-agent-framework"
+   ],
+   "updated": "2026-10-31T11:59:31Z"
+  },
+  {
+   "full": "prisma/prisma1",
+   "desc": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]",
+   "stars": 16371,
+   "lang": "Scala",
+   "topics": [
+    "graphql",
+    "orm",
+    "database",
+    "serverless",
+    "dao",
+    "datamapper",
+    "prisma1"
+   ],
+   "updated": "2022-09-01T18:57:41Z"
+  },
+  {
+   "full": "donnemartin/awesome-aws",
+   "desc": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.",
+   "stars": 14193,
+   "lang": "Python",
+   "topics": [
+    "route53",
+    "aws",
+    "elasticsearch",
+    "lambda",
+    "machine-learning",
+    "cloud",
+    "cloudformation",
+    "ec2",
+    "serverless",
+    "aws-sdk",
+    "dynamodb",
+    "s3"
+   ],
+   "updated": "2024-03-12T09:29:54Z"
+  },
+  {
+   "full": "schickling/chromeless",
+   "desc": "🖥 Chrome automation made simple. Runs locally or headless on AWS Lambda.",
+   "stars": 13212,
+   "lang": "TypeScript",
+   "topics": [
+    "chrome",
+    "serverless",
+    "integration-testing",
+    "headless",
+    "selenium",
+    "graphcool",
+    "nightmarejs",
+    "headless-chrome"
+   ],
+   "updated": "2018-11-13T02:23:55Z"
+  },
+  {
+   "full": "encoredev/encore",
+   "desc": "Infrastructure orchestration from local to your cloud",
+   "stars": 12683,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "aws",
+    "devops",
+    "distributed-systems",
+    "cloud",
+    "microservices",
+    "typescript",
+    "database",
+    "serverless",
+    "backend",
+    "gcp"
+   ],
+   "updated": "2026-10-29T10:10:20Z"
+  },
+  {
+   "full": "crossplane/crossplane",
+   "desc": "The Cloud Native Control Plane",
+   "stars": 12222,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "infrastructure",
+    "serverless",
+    "containers",
+    "cncf",
+    "cloud-management",
+    "cloud-computing",
+    "infrastructure-as-code",
+    "cloud-native",
+    "control-plane",
+    "multicloud"
+   ],
+   "updated": "2026-11-02T15:19:38Z"
+  },
+  {
+   "full": "firebase/functions-samples",
+   "desc": "Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase",
+   "stars": 12211,
+   "lang": "JavaScript",
+   "topics": [
+    "firebase",
+    "google",
+    "serverless",
+    "google-cloud-storage",
+    "faas",
+    "google-cloud-functions",
+    "google-cloud-platform",
+    "faas-platform"
+   ],
+   "updated": "2026-11-02T12:18:27Z"
+  },
+  {
+   "full": "Miserlou/Zappa",
+   "desc": "Serverless Python",
+   "stars": 11811,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "flask",
+    "lambda",
+    "django",
+    "aws-lambda",
+    "serverless",
+    "api-gateway",
+    "serverless-framework",
+    "pyramid",
+    "zappa",
+    "bottle"
+   ],
+   "updated": "2023-03-23T13:59:31Z"
+  },
+  {
+   "full": "PipedreamHQ/pipedream",
+   "desc": "Connect APIs, remarkably fast. Free for developers.",
+   "stars": 11767,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "python",
+    "bash",
+    "cli",
+    "golang",
+    "workflow",
+    "integrations",
+    "automation",
+    "typescript",
+    "serverless",
+    "event-sourcing",
+    "data-flow"
+   ],
+   "updated": "2026-11-02T19:37:22Z"
+  },
+  {
+   "full": "serverless/examples",
+   "desc": "Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.",
+   "stars": 11513,
+   "lang": "JavaScript",
+   "topics": [
+    "serverless",
+    "examples",
+    "serverless-framework"
+   ],
+   "updated": "2026-10-28T20:58:18Z"
+  },
+  {
+   "full": "aws/chalice",
+   "desc": "Python Serverless Microframework for AWS",
+   "stars": 11060,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "aws",
+    "lambda",
+    "cloud",
+    "aws-lambda",
+    "serverless",
+    "aws-apigateway",
+    "python3",
+    "serverless-framework",
+    "python27"
+   ],
+   "updated": "2026-10-28T15:54:10Z"
+  },
+  {
+   "full": "AutoMQ/automq",
+   "desc": "Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
+   "stars": 10920,
+   "lang": "Java",
+   "topics": [
+    "kafka",
+    "serverless",
+    "diskless",
+    "automq"
+   ],
+   "updated": "2026-11-02T20:00:59Z"
+  },
+  {
+   "full": "WasmEdge/WasmEdge",
+   "desc": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
+   "stars": 10853,
+   "lang": "C++",
+   "topics": [
+    "docker",
+    "kubernetes",
+    "cloud",
+    "serverless",
+    "container",
+    "cncf",
+    "webassembly",
+    "wasm",
+    "artificial-intelligence",
+    "rust-lang",
+    "cloud-native",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T10:18:59Z"
+  },
+  {
+   "full": "kedacore/keda",
+   "desc": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+   "stars": 10688,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "serverless",
+    "event-driven",
+    "autoscaling",
+    "hacktoberfest",
+    "keda"
+   ],
+   "updated": "2026-11-02T12:59:52Z"
+  },
+  {
+   "full": "cncf/landscape",
+   "desc": "🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location.",
+   "stars": 10027,
+   "lang": null,
+   "topics": [
+    "svg",
+    "serverless",
+    "cncf",
+    "wasm",
+    "landscape",
+    "logo",
+    "cloud-native",
+    "crunchbase"
+   ],
+   "updated": "2026-11-02T17:56:34Z"
+  },
+  {
+   "full": "aws/serverless-application-model",
+   "desc": "The AWS Serverless Application Model (AWS SAM) transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.",
+   "stars": 9580,
+   "lang": "Python",
+   "topics": [
+    "aws",
+    "lambda",
+    "serverless",
+    "sam",
+    "serverless-applications",
+    "aws-sam",
+    "serverless-application-model",
+    "sam-specification"
+   ],
+   "updated": "2026-10-30T22:18:41Z"
+  },
+  {
+   "full": "databendlabs/databend",
+   "desc": "Data Agent Ready Warehouse : One for Analytics, Search, AI, Python Sandbox. — rebuilt from scratch. Unified architecture on your S3.",
+   "stars": 9489,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "elasticsearch",
+    "sql",
+    "database",
+    "ai",
+    "serverless",
+    "geospatial",
+    "bigdata",
+    "snowflake",
+    "olap",
+    "cloud-native",
+    "vector-search"
+   ],
+   "updated": "2026-11-02T20:15:34Z"
+  },
+  {
+   "full": "nhost/nhost",
+   "desc": "The Open Source Firebase Alternative with GraphQL.",
+   "stars": 9382,
+   "lang": "Go",
+   "topics": [
+    "react",
+    "javascript",
+    "graphql",
+    "postgres",
+    "firebase",
+    "typescript",
+    "database",
+    "vue",
+    "authentication",
+    "serverless",
+    "backend",
+    "storage"
+   ],
+   "updated": "2026-11-02T16:23:22Z"
+  },
+  {
+   "full": "artilleryio/artillery",
+   "desc": "The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module.",
+   "stars": 9111,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "testing",
+    "api",
+    "aws",
+    "lambda",
+    "automation",
+    "performance",
+    "typescript",
+    "browser",
+    "serverless",
+    "stress",
+    "websocket"
+   ],
+   "updated": "2026-10-20T10:02:53Z"
+  },
+  {
+   "full": "fission/fission",
+   "desc": "Fast and Simple Serverless Functions for Kubernetes",
+   "stars": 8939,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "docker",
+    "kubernetes",
+    "devops",
+    "lambda",
+    "serverless",
+    "containers",
+    "functions",
+    "faas",
+    "serverless-functions",
+    "cloud-native",
+    "functions-as-a-service"
+   ],
+   "updated": "2026-10-27T01:59:23Z"
+  },
+  {
+   "full": "apex/up",
+   "desc": "Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.",
+   "stars": 8794,
+   "lang": "Go",
+   "topics": [
+    "nodejs",
+    "heroku",
+    "api",
+    "graphql",
+    "golang",
+    "http",
+    "aws",
+    "lambda",
+    "microservices",
+    "aws-lambda",
+    "microservice",
+    "deployment"
+   ],
+   "updated": "2024-03-15T07:24:56Z"
+  },
+  {
+   "full": "wasm3/wasm3",
+   "desc": "🚀 A fast WebAssembly interpreter and the most universal WASM runtime",
+   "stars": 8077,
+   "lang": "C",
+   "topics": [
+    "iot",
+    "devops",
+    "embedded",
+    "serverless",
+    "containers",
+    "virtual-machine",
+    "sandbox",
+    "scripting",
+    "smart-contracts",
+    "webassembly",
+    "wasm",
+    "edge-computing"
+   ],
+   "updated": "2026-09-30T22:02:43Z"
+  },
+  {
+   "full": "webiny/webiny-js",
+   "desc": "Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built for developers at large organizations.",
+   "stars": 8051,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "graphql",
+    "open-source",
+    "cms",
+    "aws",
+    "lambda",
+    "multi-tenant",
+    "typescript",
+    "aws-lambda",
+    "serverless",
+    "mcp"
+   ],
+   "updated": "2026-11-02T16:04:59Z"
+  },
+  {
+   "full": "kubevela/kubevela",
+   "desc": "The Modern Application Platform.",
+   "stars": 7920,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "application",
+    "microservices",
+    "serverless",
+    "continuous-delivery",
+    "helm",
+    "trait",
+    "cncf",
+    "paas",
+    "cue",
+    "control-plane",
+    "cloudnative"
+   ],
+   "updated": "2026-10-31T18:50:42Z"
+  },
+  {
+   "full": "ggerganov/ggwave",
+   "desc": "Tiny data-over-sound library",
+   "stars": 7917,
+   "lang": "C++",
+   "topics": [
+    "python",
+    "arduino",
+    "serverless",
+    "ecc",
+    "qrcode",
+    "internet-of-things",
+    "modem",
+    "ultrasound",
+    "fsk",
+    "pairing",
+    "sound-library",
+    "data-over-sound"
+   ],
+   "updated": "2026-04-16T08:00:59Z"
+  },
+  {
+   "full": "2FastLabs/agent-squad",
+   "desc": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+   "stars": 7795,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "aws",
+    "machine-learning",
+    "framework",
+    "typescript",
+    "aws-lambda",
+    "serverless",
+    "chatbot",
+    "openai",
+    "agents",
+    "orchestrator",
+    "ai-agents"
+   ],
+   "updated": "2026-10-08T09:03:31Z"
+  },
+  {
+   "full": "midwayjs/midway",
+   "desc": "🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈",
+   "stars": 7759,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "enterprise",
+    "aws",
+    "ioc",
+    "cloud",
+    "framework",
+    "typescript",
+    "web",
+    "vue",
+    "serverless",
+    "azure",
+    "serverless-framework"
+   ],
+   "updated": "2026-10-30T13:07:07Z"
+  },
+  {
+   "full": "nats-io/nats-server",
+   "desc": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+   "stars": 20989,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "distributed-systems",
+    "cloud",
+    "messaging",
+    "message-bus",
+    "edge",
+    "message-queue",
+    "cloud-computing",
+    "cloud-native",
+    "microservices-architecture",
+    "nats-server"
+   ],
+   "updated": "2026-11-02T17:46:53Z"
+  },
+  {
+   "full": "Fractal-Compute-Orchestrations/FractalWorkspace",
+   "desc": "A unified ecosystem and workspace for large-scale federated learning, bridging the gap between centralized model evolution and decentralized edge intelligence.",
+   "stars": 9253,
+   "lang": "Python",
+   "topics": [
+    "iot",
+    "distributed-systems",
+    "machine-learning",
+    "edge-computing",
+    "federated-learning",
+    "edge-intelligence",
+    "edge-training",
+    "compute-orchestration",
+    "parent-repo",
+    "wifi-downloading"
+   ],
+   "updated": "2026-10-22T08:56:47Z"
+  },
+  {
+   "full": "kubeedge/kubeedge",
+   "desc": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+   "stars": 7621,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "kubernetes",
+    "golang",
+    "mqtt",
+    "iot",
+    "container",
+    "cncf",
+    "cloud-native",
+    "mosquitto",
+    "device-management",
+    "edge-computing"
+   ],
+   "updated": "2026-10-29T02:22:09Z"
+  },
+  {
+   "full": "MarSeventh/CloudFlare-ImgBed",
+   "desc": "🏖️ A serverless, open-source file hosting solution built on Cloudflare. Supports image hosting, secure file storage, and personal cloud drive capabilities.",
+   "stars": 6852,
+   "lang": "JavaScript",
+   "topics": [
+    "multi-platform",
+    "serverless",
+    "image-gallery",
+    "media-server",
+    "infra",
+    "uploader",
+    "cloud-native",
+    "imgbed",
+    "image-hosting",
+    "asset-management",
+    "edge-computing",
+    "cloudflare-workers"
+   ],
+   "updated": "2026-10-31T16:43:24Z"
+  },
+  {
+   "full": "lucaong/minisearch",
+   "desc": "Tiny and powerful JavaScript full-text search engine for browser and Node",
+   "stars": 6191,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "search",
+    "search-engine",
+    "autocomplete",
+    "fuzzy-search",
+    "fulltext-search",
+    "text-search",
+    "edge-computing",
+    "typo-tolerance",
+    "autosuggestion"
+   ],
+   "updated": "2025-09-16T12:43:59Z"
+  },
+  {
+   "full": "partykit/partykit",
+   "desc": "PartyKit simplifies developing multiplayer applications",
+   "stars": 5745,
+   "lang": "TypeScript",
+   "topics": [
+    "games",
+    "real-time",
+    "gaming",
+    "multiplayer",
+    "websockets",
+    "realtime",
+    "collaboration",
+    "yjs",
+    "edge-computing",
+    "backends",
+    "crdts",
+    "durable-objects"
+   ],
+   "updated": "2026-10-09T08:29:49Z"
+  },
+  {
+   "full": "Fractal-Compute-Orchestrations/FractalAndroid",
+   "desc": "A human-centric, resource-aware Android node for edge computing and federated learning. Orchestrates distributed intelligence with privacy-first localization and empathetic hardware management.",
+   "stars": 4892,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "kotlin",
+    "distributed-systems",
+    "machine-learning",
+    "mvvm",
+    "resource-management",
+    "edge-computing",
+    "litert",
+    "federated-learning",
+    "privacy-by-design",
+    "tflite",
+    "edge-ai"
+   ],
+   "updated": "2026-08-22T08:54:24Z"
+  },
+  {
+   "full": "dgiot/dgiot",
+   "desc": "Open Source Industrial IoT Platform | 300+ protocols | 6-min deploy | Modbus OPC UA MQTT | 12K Stars",
+   "stars": 4862,
+   "lang": "Erlang",
+   "topics": [
+    "mqtt",
+    "iot",
+    "erlang",
+    "modbus",
+    "iot-platform",
+    "scada",
+    "opc-ua",
+    "low-code",
+    "edge-computing",
+    "digital-twin",
+    "industrial-iot"
+   ],
+   "updated": "2026-10-13T14:55:12Z"
+  },
+  {
+   "full": "huangjunsen0406/py-xiaozhi",
+   "desc": "Open-source AI assistant ecosystem with MCP integrations, multimodal workflows, IoT support, and cross-platform voice interaction.",
+   "stars": 3541,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "raspberry-pi",
+    "iot",
+    "cross-platform",
+    "robotics",
+    "mcp",
+    "esp32",
+    "multi-modal",
+    "voice-assistant",
+    "edge-computing",
+    "embodied-ai",
+    "esp32-s3"
+   ],
+   "updated": "2026-10-31T15:29:40Z"
+  },
+  {
+   "full": "eclipse-zenoh/zenoh",
+   "desc": "zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well bey",
+   "stars": 3314,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "iot",
+    "distributed-systems",
+    "embedded",
+    "networking",
+    "robotics",
+    "storage",
+    "protocol",
+    "messaging",
+    "distributed-computing",
+    "rust-lang",
+    "distributed-storage"
+   ],
+   "updated": "2026-11-02T10:08:34Z"
+  },
+  {
+   "full": "Mininglamp-AI/Mano-P",
+   "desc": "Mano-P: Open-source GUI-VLA agent for edge devices. #1 on OSWorld (specialized, 58.2%). Runs locally on Apple M4 Mac mini/MacBook — no data leaves your device.Mano-P 是一个开源 GUI-VLA 项目，支持在 Mac mini/MacBook 上或通过算力棒本地运行推理，实现纯视觉驱动的跨平台 GUI 自动化操作。",
+   "stars": 2840,
+   "lang": null,
+   "topics": [
+    "desktop-automation",
+    "mano",
+    "gui-automation",
+    "edge-computing",
+    "on-device-ai",
+    "local-inference",
+    "vision-language-action",
+    "multimodal-ai",
+    "gui-grounding",
+    "osworld",
+    "computer-use-agents",
+    "visual-language-model"
+   ],
+   "updated": "2026-06-25T03:00:01Z"
+  },
+  {
+   "full": "elliothux/open-compute",
+   "desc": "Self-hosted Cloudflare Workers-compatible platform with Workers、KV、D1、R2、DO、Queues、Workflows、Cron、Cache、Images、Vectorize、AI Search、Artifacts、Static Assets、Service Bindings、Dynamic Workers、LogTail、Gateway in one Rust binary.",
+   "stars": 2829,
+   "lang": "Rust",
+   "topics": [
+    "javascript",
+    "rust",
+    "cloud",
+    "typescript",
+    "v8",
+    "serverless",
+    "runtime",
+    "worker",
+    "sqlite",
+    "container",
+    "wasm",
+    "self-hosted"
+   ],
+   "updated": "2026-11-02T18:35:21Z"
+  },
+  {
+   "full": "absmach/magistrala",
+   "desc": "IoT Platform Framework",
+   "stars": 2658,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "mqtt",
+    "iot",
+    "coap",
+    "distributed-systems",
+    "messaging",
+    "telecom",
+    "internet-of-things",
+    "edge",
+    "iot-platform",
+    "iiot",
+    "lora"
+   ],
+   "updated": "2026-11-02T17:41:50Z"
+  },
+  {
+   "full": "wasmi-labs/wasmi",
+   "desc": "WebAssembly (Wasm) Interpreter - An efficient, lightweight, and deterministic WebAssembly interpreter for embedded systems and plug-in runtimes.",
+   "stars": 2341,
+   "lang": "Rust",
+   "topics": [
+    "fast",
+    "interpreter",
+    "cross-platform",
+    "game-engine",
+    "runtime",
+    "virtual-machine",
+    "smart-contracts",
+    "webassembly",
+    "wasm",
+    "efficient",
+    "embedded-systems",
+    "rust-lang"
+   ],
+   "updated": "2026-11-02T19:44:19Z"
+  },
+  {
+   "full": "innovation-cat/Awesome-Federated-Machine-Learning",
+   "desc": "Everything about federated learning, including research papers, books, codes, tutorials, videos and beyond",
+   "stars": 2102,
+   "lang": null,
+   "topics": [
+    "security",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "distributed-computing",
+    "differential-privacy",
+    "edge-computing",
+    "federated-learning",
+    "privacy-preserving-machine-learning"
+   ],
+   "updated": "2024-05-30T21:21:42Z"
+  },
+  {
+   "full": "openyurtio/openyurt",
+   "desc": "OpenYurt - Extending your native Kubernetes to edge(project under CNCF)",
+   "stars": 2010,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "golang",
+    "k8s",
+    "cloud-native",
+    "edge-computing"
+   ],
+   "updated": "2026-10-26T07:19:06Z"
+  },
+  {
+   "full": "openremote/core",
+   "desc": "100% open-source IoT Platform - Integrate your devices, add intelligence, build custom apps",
+   "stars": 1942,
+   "lang": "Java",
+   "topics": [
+    "mqtt",
+    "iot",
+    "energy",
+    "dashboard",
+    "modbus",
+    "energy-monitor",
+    "iot-platform",
+    "mqtt-broker",
+    "building",
+    "rules-engine",
+    "device-management",
+    "fleet-management"
+   ],
+   "updated": "2026-11-02T15:57:04Z"
+  },
+  {
+   "full": "uTensor/uTensor",
+   "desc": "TinyML AI inference library",
+   "stars": 1936,
+   "lang": "C++",
+   "topics": [
+    "iot",
+    "machine-learning",
+    "microcontroller",
+    "embedded",
+    "deep-learning",
+    "cortex-m",
+    "tensorflow",
+    "mbed",
+    "iot-middleware",
+    "edge-computing"
+   ],
+   "updated": "2025-05-10T08:53:34Z"
+  },
+  {
+   "full": "baetyl/baetyl",
+   "desc": "Extend cloud computing, data and service seamlessly to edge devices.",
+   "stars": 1901,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "golang",
+    "mqtt",
+    "iot",
+    "container",
+    "edge",
+    "faas",
+    "micro-service",
+    "functions-as-a-service",
+    "edge-computing",
+    "ml-in-production"
+   ],
+   "updated": "2024-05-11T06:12:43Z"
+  },
+  {
+   "full": "SonicJs-Org/sonicjs",
+   "desc": "SonicJS - The edge-native headless CMS for Cloudflare Workers. Sub-100ms response times, zero cold starts, TypeScript-first. Built on D1, R2, and Hono.",
+   "stars": 1786,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "api",
+    "graphql",
+    "open-source",
+    "cms",
+    "typescript",
+    "serverless",
+    "backend",
+    "rest-api",
+    "content-management",
+    "jamstack",
+    "headless-cms"
+   ],
+   "updated": "2026-11-02T18:15:39Z"
+  },
+  {
+   "full": "lf-edge/ekuiper",
+   "desc": "Lightweight data stream processing engine for IoT edge",
+   "stars": 1745,
+   "lang": "Go",
+   "topics": [
+    "iot",
+    "sql",
+    "rule-engine",
+    "edge",
+    "hacktoberfest",
+    "edge-computing",
+    "edge-analytics",
+    "edge-streaming"
+   ],
+   "updated": "2026-11-02T11:52:33Z"
+  },
+  {
+   "full": "microsoft/EdgeML",
+   "desc": "This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India.",
+   "stars": 1697,
+   "lang": "C++",
+   "topics": [
+    "microsoft",
+    "classifier",
+    "machine-learning",
+    "deep-learning",
+    "cpp",
+    "tensorflow",
+    "sensor",
+    "machine-learning-algorithms",
+    "pytorch",
+    "bonsai",
+    "iot-device",
+    "edge-computing"
+   ],
+   "updated": "2024-05-20T12:28:33Z"
+  },
+  {
+   "full": "rulego/rulego",
+   "desc": "⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.",
+   "stars": 1632,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "iot",
+    "workflow",
+    "automation",
+    "ai",
+    "rule-engine",
+    "mcp",
+    "workflow-engine",
+    "data-flow",
+    "ipaas",
+    "workflow-automation",
+    "low-code"
+   ],
+   "updated": "2026-10-30T05:05:41Z"
+  },
+  {
+   "full": "DT42/BerryNet",
+   "desc": "Deep learning gateway on Raspberry Pi and other edge devices",
+   "stars": 1614,
+   "lang": "Python",
+   "topics": [
+    "mqtt",
+    "raspberry-pi",
+    "iot",
+    "deep-learning",
+    "edge-computing",
+    "edge-devices",
+    "aiot",
+    "onnx",
+    "litert",
+    "edge-ai",
+    "onnxruntime"
+   ],
+   "updated": "2026-10-31T16:13:20Z"
+  },
+  {
+   "full": "nanovms/ops",
+   "desc": "ops - build and run nanos unikernels",
+   "stars": 1527,
+   "lang": "Go",
+   "topics": [
+    "devops",
+    "microservice",
+    "serverless",
+    "sandbox",
+    "virtualization",
+    "unikernel",
+    "minimalist",
+    "operating-systems",
+    "orchestrator",
+    "edge-computing",
+    "imagebuilder",
+    "unikernels"
+   ],
+   "updated": "2026-09-29T00:03:29Z"
+  },
+  {
+   "full": "good-lly/s3mini",
+   "desc": "⚠️ Moved to Code.NOLOG: https://code.nolog.cz/thinking.tools/s3mini - Tiny S3 client. Edge computing ready. No-dep. In Typescript.",
+   "stars": 1347,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "digitalocean",
+    "serverless",
+    "aws-s3",
+    "s3",
+    "oracle",
+    "s3-bucket",
+    "typescript-library",
+    "cloudflare",
+    "backblaze",
+    "minio",
+    "s3-storage"
+   ],
+   "updated": "2026-10-15T08:30:01Z"
+  },
+  {
+   "full": "pnoker/iot-dc3",
+   "desc": "IoT DC3 — Connect the Physical World to AI. An open-source Industrial IoT Runtime for Physical AI: 36 protocol drivers, edge-to-cloud data delivery, and an MCP tool gateway so AI agents act on devices in a safe, controllable, traceable loop",
+   "stars": 1268,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "mqtt",
+    "iot",
+    "ai",
+    "mcp",
+    "spring-cloud",
+    "modbus",
+    "plc",
+    "cloud-native",
+    "data-collection",
+    "iiot",
+    "scada"
+   ],
+   "updated": "2026-11-01T00:33:21Z"
+  },
+  {
+   "full": "GeekAlexis/FastMOT",
+   "desc": "High-performance multiple object tracking based on YOLO, Deep SORT, and KLT 🚀",
+   "stars": 1219,
+   "lang": "Python",
+   "topics": [
+    "real-time",
+    "computer-vision",
+    "deep-learning",
+    "ssd",
+    "object-detection",
+    "multi-object-tracking",
+    "jetson",
+    "lucas-kanade",
+    "people-counter",
+    "tensorrt",
+    "edge-computing",
+    "video-analysis"
+   ],
+   "updated": "2024-07-25T06:06:18Z"
+  },
+  {
+   "full": "planetscale/database-js",
+   "desc": "A Fetch API-compatible PlanetScale database driver",
+   "stars": 1208,
+   "lang": "TypeScript",
+   "topics": [
+    "mysql",
+    "database",
+    "serverless",
+    "edge-computing",
+    "vercel"
+   ],
+   "updated": "2026-10-30T02:45:37Z"
+  },
+  {
+   "full": "Dobiasd/frugally-deep",
+   "desc": "A lightweight header-only library for using Keras (TensorFlow) models in C++.",
+   "stars": 1129,
+   "lang": "C++",
+   "topics": [
+    "python",
+    "c-plus-plus",
+    "machine-learning",
+    "library",
+    "deep-learning",
+    "cpp",
+    "tensorflow",
+    "cpp14",
+    "keras",
+    "prediction",
+    "c-plus-plus-14",
+    "header-only"
+   ],
+   "updated": "2026-10-31T11:13:18Z"
+  },
+  {
+   "full": "seashell/drago",
+   "desc": "☁️ Securely connect anything with WireGuard® and manage all your networks from a single place.",
+   "stars": 1122,
+   "lang": "Go",
+   "topics": [
+    "linux",
+    "api",
+    "golang",
+    "iot",
+    "security",
+    "cloud",
+    "ui",
+    "networking",
+    "mesh-networks",
+    "rest-api",
+    "configuration",
+    "vpn"
+   ],
+   "updated": "2023-10-13T08:01:54Z"
+  },
+  {
+   "full": "superedge/superedge",
+   "desc": "An edge-native container management system for edge computing",
+   "stars": 1072,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "container",
+    "edge-computing"
+   ],
+   "updated": "2024-02-20T10:02:19Z"
+  },
+  {
+   "full": "zai-org/GLM-TTS",
+   "desc": "GLM-TTS: Controllable & Emotion-Expressive Zero-shot TTS with Multi-Reward Reinforcement Learning",
+   "stars": 1070,
+   "lang": "Python",
+   "topics": [
+    "tts",
+    "edge-computing",
+    "llm"
+   ],
+   "updated": "2026-04-10T08:50:23Z"
+  },
+  {
+   "full": "supabase/edge-runtime",
+   "desc": "A server based on Deno runtime, capable of running JavaScript, TypeScript, and WASM services.",
+   "stars": 1000,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "web-server",
+    "edge-computing",
+    "deno",
+    "edge-functions"
+   ],
+   "updated": "2026-10-28T07:16:50Z"
+  },
+  {
+   "full": "superfly/fly",
+   "desc": "Deploy app servers close to your users. Package your app as a Docker image, and launch it in 17 cities with one simple CLI.",
+   "stars": 990,
+   "lang": null,
+   "topics": [
+    "cli",
+    "serverless",
+    "cdn",
+    "edge-computing"
+   ],
+   "updated": "2026-10-30T00:36:10Z"
+  },
+  {
+   "full": "mit-han-lab/TinyChatEngine",
+   "desc": "TinyChatEngine: On-Device LLM Inference Library",
+   "stars": 970,
+   "lang": "C++",
+   "topics": [
+    "c",
+    "arm",
+    "deep-learning",
+    "cpp",
+    "x86-64",
+    "quantization",
+    "edge-computing",
+    "cuda-programming",
+    "on-device-ai",
+    "large-language-models"
+   ],
+   "updated": "2024-07-04T04:20:45Z"
+  },
+  {
+   "full": "mit-han-lab/tinyengine",
+   "desc": "[NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning; [NeurIPS 2022] MCUNetV3: On-Device Training Under 256KB Memory",
+   "stars": 968,
+   "lang": "C",
+   "topics": [
+    "c",
+    "microcontroller",
+    "deep-learning",
+    "cpp",
+    "pytorch",
+    "codegenerator",
+    "quantization",
+    "edge-computing",
+    "neural-architecture-search",
+    "tinyml"
+   ],
+   "updated": "2024-11-27T18:51:37Z"
+  },
+  {
+   "full": "insight-platform/Savant",
+   "desc": "Python Computer Vision & Video Analytics Framework With Batteries Included",
+   "stars": 866,
+   "lang": "Python",
+   "topics": [
+    "opencv",
+    "machine-learning",
+    "video",
+    "computer-vision",
+    "deep-learning",
+    "cuda",
+    "nvidia",
+    "yolo",
+    "object-detection",
+    "deepstream",
+    "tensorrt",
+    "inference-engine"
+   ],
+   "updated": "2026-09-23T04:18:35Z"
+  }
+ ]
+}

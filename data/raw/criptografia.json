@@ -1,0 +1,1339 @@
+{
+ "subId": "criptografia",
+ "topics": [
+  "cryptography",
+  "encryption"
+ ],
+ "crawledAt": "2026-11-02T20:18:53.766Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "bitcoin/bitcoin",
+   "desc": "Bitcoin Core integration/staging tree",
+   "stars": 90589,
+   "lang": "C++",
+   "topics": [
+    "c-plus-plus",
+    "cryptography",
+    "bitcoin",
+    "p2p",
+    "cryptocurrency"
+   ],
+   "updated": "2026-11-02T15:49:55Z"
+  },
+  {
+   "full": "TheAlgorithms/JavaScript",
+   "desc": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
+   "stars": 34280,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "search",
+    "cryptography",
+    "algorithm",
+    "cipher",
+    "algorithms",
+    "mathematics",
+    "sort",
+    "data-structures",
+    "conversions",
+    "sorting-algorithms",
+    "algorithm-challenges"
+   ],
+   "updated": "2026-03-07T14:45:13Z"
+  },
+  {
+   "full": "anoma/anoma",
+   "desc": "Reference implementation of Anoma",
+   "stars": 33553,
+   "lang": "Elixir",
+   "topics": [
+    "distributed-systems",
+    "cryptography",
+    "erlang",
+    "elixir",
+    "protocol",
+    "blockchain",
+    "p2p",
+    "consensus",
+    "operating-system"
+   ],
+   "updated": "2026-06-15T14:56:43Z"
+  },
+  {
+   "full": "openssl/openssl",
+   "desc": "General purpose TLS and crypto library",
+   "stars": 31164,
+   "lang": "C",
+   "topics": [
+    "tls",
+    "ssl",
+    "cryptography",
+    "encryption",
+    "openssl",
+    "decryption"
+   ],
+   "updated": "2026-11-02T17:18:14Z"
+  },
+  {
+   "full": "bee-san/Ciphey",
+   "desc": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+   "stars": 21735,
+   "lang": "Rust",
+   "topics": [
+    "python",
+    "natural-language-processing",
+    "cryptography",
+    "cipher",
+    "cpp",
+    "hacking",
+    "artificial-intelligence",
+    "pentesting",
+    "ctf",
+    "hashes",
+    "encodings",
+    "decryption"
+   ],
+   "updated": "2026-11-01T03:25:47Z"
+  },
+  {
+   "full": "amark/gun",
+   "desc": "An open source cybersecurity protocol for syncing decentralized graph data.",
+   "stars": 19161,
+   "lang": "JavaScript",
+   "topics": [
+    "machine-learning",
+    "cryptography",
+    "crypto",
+    "encryption",
+    "database",
+    "big-data",
+    "graph",
+    "offline-first",
+    "protocol",
+    "end-to-end",
+    "dapp",
+    "decentralized"
+   ],
+   "updated": "2026-10-15T00:29:24Z"
+  },
+  {
+   "full": "cryptomator/cryptomator",
+   "desc": "Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.",
+   "stars": 16422,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "security",
+    "cryptography",
+    "privacy",
+    "crypto",
+    "encryption",
+    "cloud-storage",
+    "cryptomator"
+   ],
+   "updated": "2026-11-02T12:38:46Z"
+  },
+  {
+   "full": "javascript-obfuscator/javascript-obfuscator",
+   "desc": "A powerful obfuscator for JavaScript and Node.js",
+   "stars": 16318,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "flow",
+    "security",
+    "encoding",
+    "cryptography",
+    "javascript-obfuscator",
+    "obfuscation",
+    "uglify",
+    "protection",
+    "obfuscate",
+    "js-obfuscator"
+   ],
+   "updated": "2026-11-02T05:36:49Z"
+  },
+  {
+   "full": "zama-ai/bounty-program",
+   "desc": "Zama Bounty Program: Contribute to the FHE space and Zama's open source libraries and get rewarded 💰",
+   "stars": 15220,
+   "lang": null,
+   "topics": [
+    "cryptography",
+    "fully-homomorphic-encryption",
+    "zama",
+    "bounty-program"
+   ],
+   "updated": "2026-02-20T10:59:03Z"
+  },
+  {
+   "full": "jedisct1/libsodium",
+   "desc": "A modern, portable, easy to use crypto library.",
+   "stars": 14038,
+   "lang": "C",
+   "topics": [
+    "c",
+    "cryptography",
+    "crypto",
+    "zig-package"
+   ],
+   "updated": "2026-10-31T18:35:30Z"
+  },
+  {
+   "full": "tink-crypto/tink",
+   "desc": "Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",
+   "stars": 13537,
+   "lang": "Java",
+   "topics": [
+    "javascript",
+    "java",
+    "go",
+    "security",
+    "cryptography",
+    "crypto",
+    "cpp",
+    "objc"
+   ],
+   "updated": "2024-04-17T11:08:35Z"
+  },
+  {
+   "full": "halfrost/Halfrost-Field",
+   "desc": "✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记",
+   "stars": 13255,
+   "lang": "Go",
+   "topics": [
+    "javascript",
+    "blog",
+    "go",
+    "swift",
+    "tls",
+    "golang",
+    "ios",
+    "machine-learning",
+    "cryptography",
+    "protobuf",
+    "objective-c",
+    "algorithms"
+   ],
+   "updated": "2026-09-30T03:25:27Z"
+  },
+  {
+   "full": "monero-project/monero",
+   "desc": "Monero: the secure, private, untraceable cryptocurrency",
+   "stars": 10968,
+   "lang": "C++",
+   "topics": [
+    "security",
+    "c-plus-plus",
+    "cryptography",
+    "privacy",
+    "cmake",
+    "blockchain",
+    "p2p",
+    "cryptocurrency",
+    "monero",
+    "cryptonote"
+   ],
+   "updated": "2026-11-02T15:48:00Z"
+  },
+  {
+   "full": "krzyzanowskim/CryptoSwift",
+   "desc": "CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift",
+   "stars": 10577,
+   "lang": "Swift",
+   "topics": [
+    "swift",
+    "cryptography",
+    "aes",
+    "cipher",
+    "md5",
+    "digest",
+    "aes-gcm",
+    "hmac",
+    "sha1",
+    "hmac-authentication",
+    "commoncrypto",
+    "sha3"
+   ],
+   "updated": "2026-08-19T14:45:33Z"
+  },
+  {
+   "full": "OpenMined/PySyft",
+   "desc": "Perform data science on data that remains in someone else's server",
+   "stars": 10051,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "cryptography",
+    "privacy",
+    "deep-learning",
+    "pytorch",
+    "hacktoberfest",
+    "secure-computation",
+    "syft",
+    "federated-learning"
+   ],
+   "updated": "2026-11-02T18:04:15Z"
+  },
+  {
+   "full": "PrivateBin/PrivateBin",
+   "desc": "A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",
+   "stars": 8726,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "security",
+    "cryptography",
+    "crypto",
+    "paste",
+    "pastebin",
+    "self-hosted",
+    "one-time",
+    "encrypted",
+    "self-hosting",
+    "self-destroy",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-30T23:17:35Z"
+  },
+  {
+   "full": "lightningnetwork/lnd",
+   "desc": "Lightning Network Daemon ⚡️",
+   "stars": 8210,
+   "lang": "Go",
+   "topics": [
+    "cryptography",
+    "lightning",
+    "bitcoin",
+    "protocol",
+    "peer-to-peer",
+    "blockchain",
+    "payments",
+    "cryptocurrency",
+    "micropayments",
+    "lightning-network"
+   ],
+   "updated": "2026-11-02T13:40:08Z"
+  },
+  {
+   "full": "pyca/cryptography",
+   "desc": "cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.",
+   "stars": 7832,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "cryptography"
+   ],
+   "updated": "2026-11-02T12:04:36Z"
+  },
+  {
+   "full": "rustls/rustls",
+   "desc": "A modern TLS library in Rust",
+   "stars": 7733,
+   "lang": "Rust",
+   "topics": [
+    "tls",
+    "rust",
+    "ssl",
+    "cryptography"
+   ],
+   "updated": "2026-11-02T18:02:26Z"
+  },
+  {
+   "full": "kroma-network/tachyon",
+   "desc": "Modular ZK(Zero Knowledge) backend accelerated by GPU",
+   "stars": 7641,
+   "lang": "C++",
+   "topics": [
+    "c-plus-plus",
+    "cryptography",
+    "blockchain",
+    "cuda",
+    "cryptocurrency",
+    "cpp17",
+    "zk",
+    "zero-knowledge",
+    "tachyon",
+    "kroma"
+   ],
+   "updated": "2024-11-29T10:05:23Z"
+  },
+  {
+   "full": "RsaCtfTool/RsaCtfTool",
+   "desc": "RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data",
+   "stars": 7205,
+   "lang": "Python",
+   "topics": [
+    "cryptography",
+    "rsa",
+    "rsa-attack"
+   ],
+   "updated": "2026-10-23T20:01:57Z"
+  },
+  {
+   "full": "sobolevn/awesome-cryptography",
+   "desc": "A curated list of cryptography resources and links.",
+   "stars": 7192,
+   "lang": null,
+   "topics": [
+    "list",
+    "awesome",
+    "cryptography",
+    "crypto",
+    "encryption",
+    "awesome-list"
+   ],
+   "updated": "2026-07-15T08:39:47Z"
+  },
+  {
+   "full": "upspin/upspin",
+   "desc": "Upspin: A framework for naming everyone's everything.",
+   "stars": 6405,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "fuse",
+    "cryptography",
+    "storage",
+    "sharing",
+    "upspin"
+   ],
+   "updated": "2025-07-14T15:59:35Z"
+  },
+  {
+   "full": "tendermint/tendermint",
+   "desc": "⟁ Tendermint Core (BFT Consensus) in Go",
+   "stars": 5868,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "distributed-systems",
+    "cryptography",
+    "consistency",
+    "blockchain",
+    "consensus",
+    "cryptocurrency",
+    "db",
+    "bft"
+   ],
+   "updated": "2026-10-31T05:23:56Z"
+  },
+  {
+   "full": "weidai11/cryptopp",
+   "desc": "free C++ class library of cryptographic schemes",
+   "stars": 5525,
+   "lang": "C++",
+   "topics": [
+    "c-plus-plus",
+    "cryptography",
+    "crypto"
+   ],
+   "updated": "2026-10-02T01:17:50Z"
+  },
+  {
+   "full": "cjdelisle/cjdns",
+   "desc": "An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.",
+   "stars": 5422,
+   "lang": "C",
+   "topics": [
+    "cryptography",
+    "networking",
+    "mesh-networks",
+    "routing",
+    "dht",
+    "mesh",
+    "cjdns",
+    "fcp",
+    "hyperboria"
+   ],
+   "updated": "2026-09-22T20:53:35Z"
+  },
+  {
+   "full": "digitalbazaar/forge",
+   "desc": "A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps",
+   "stars": 5350,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "tls",
+    "cryptography",
+    "crypto",
+    "certificate",
+    "aes",
+    "cipher",
+    "md5",
+    "pbkdf2",
+    "pkcs7",
+    "x509",
+    "asn1"
+   ],
+   "updated": "2026-10-30T20:03:38Z"
+  },
+  {
+   "full": "XRPLF/rippled",
+   "desc": "Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++",
+   "stars": 5242,
+   "lang": "C++",
+   "topics": [
+    "c-plus-plus",
+    "cryptography",
+    "cplusplus",
+    "blockchain",
+    "xrp",
+    "xrp-ledger",
+    "xrpl"
+   ],
+   "updated": "2026-10-30T18:44:00Z"
+  },
+  {
+   "full": "mimblewimble/grin",
+   "desc": "Minimal implementation of the Mimblewimble protocol.",
+   "stars": 5101,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "cryptography",
+    "cryptocurrency",
+    "grin",
+    "mimblewimble",
+    "zero-knowledge-proofs"
+   ],
+   "updated": "2026-10-15T21:03:20Z"
+  },
+  {
+   "full": "aws/s2n-tls",
+   "desc": "An implementation of the TLS/SSL protocols",
+   "stars": 4784,
+   "lang": "C",
+   "topics": [
+    "c",
+    "tls",
+    "ssl",
+    "cryptography",
+    "crypto",
+    "encryption",
+    "c99",
+    "s2n"
+   ],
+   "updated": "2026-11-02T00:12:19Z"
+  },
+  {
+   "full": "aleo-labs-protocol/snarkOS",
+   "desc": "A Decentralized Operating System for ZK Applications",
+   "stars": 4528,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "cryptography",
+    "blockchain",
+    "zero-knowledge",
+    "zksnarks",
+    "aleo"
+   ],
+   "updated": "2026-11-02T09:18:02Z"
+  },
+  {
+   "full": "smallstep/cli",
+   "desc": "🧰 A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.",
+   "stars": 4362,
+   "lang": "Go",
+   "topics": [
+    "tls",
+    "ssh",
+    "security",
+    "oauth",
+    "jwt",
+    "cryptography",
+    "encryption",
+    "certificate",
+    "jose",
+    "x509",
+    "totp",
+    "sso"
+   ],
+   "updated": "2026-11-02T19:26:24Z"
+  },
+  {
+   "full": "PurpleI2P/i2pd",
+   "desc": "🛡 I2P: End-to-End encrypted and anonymous Internet",
+   "stars": 4250,
+   "lang": "C++",
+   "topics": [
+    "security",
+    "c-plus-plus",
+    "cryptography",
+    "privacy",
+    "communication",
+    "openssl",
+    "p2p",
+    "vpn",
+    "anonymity",
+    "i2p",
+    "i2p-client"
+   ],
+   "updated": "2026-11-02T15:44:52Z"
+  },
+  {
+   "full": "google/end-to-end",
+   "desc": "End-To-End is a crypto library to encrypt, decrypt, digital sign, and verify signed messages (implementing OpenPGP)",
+   "stars": 4118,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "cryptography",
+    "otr",
+    "openpgp"
+   ],
+   "updated": "2023-04-09T23:42:46Z"
+  },
+  {
+   "full": "briansmith/ring",
+   "desc": "An experiment.",
+   "stars": 4113,
+   "lang": "Assembly",
+   "topics": [
+    "rust",
+    "security",
+    "cryptography"
+   ],
+   "updated": "2026-07-23T18:48:09Z"
+  },
+  {
+   "full": "openssh/openssh-portable",
+   "desc": "Portable OpenSSH",
+   "stars": 4079,
+   "lang": "C",
+   "topics": [
+    "c",
+    "security",
+    "cryptography",
+    "login",
+    "keychain",
+    "file-sharing"
+   ],
+   "updated": "2026-11-02T07:32:35Z"
+  },
+  {
+   "full": "microsoft/SEAL",
+   "desc": "Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.",
+   "stars": 4064,
+   "lang": "C++",
+   "topics": [
+    "cryptography",
+    "encryption",
+    "homomorphic-encryption"
+   ],
+   "updated": "2026-10-28T04:59:56Z"
+  },
+  {
+   "full": "KuroLabs/stegcloak",
+   "desc": "Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐",
+   "stars": 3932,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "security",
+    "cryptography",
+    "privacy",
+    "compression",
+    "cipher",
+    "functional-programming",
+    "hacking",
+    "steganography",
+    "infosec",
+    "ramdajs",
+    "hacking-tool"
+   ],
+   "updated": "2024-10-01T20:19:13Z"
+  },
+  {
+   "full": "nakov/Practical-Cryptography-for-Developers-Book",
+   "desc": "Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatures, ECDSA, EdDSA",
+   "stars": 3841,
+   "lang": "CSS",
+   "topics": [
+    "python",
+    "cryptography",
+    "tutorial",
+    "programming",
+    "aes",
+    "book",
+    "ecc",
+    "digital-signature",
+    "ecdh",
+    "hmac",
+    "elliptic-curves",
+    "kdf"
+   ],
+   "updated": "2024-06-07T09:01:50Z"
+  },
+  {
+   "full": "google/fully-homomorphic-encryption",
+   "desc": "Homomorphic Encryption demos",
+   "stars": 3786,
+   "lang": "Starlark",
+   "topics": [
+    "cryptography",
+    "privacy",
+    "encryption",
+    "compiler",
+    "homomorphic-encryption",
+    "fhe",
+    "fully-homomorphic-encryption"
+   ],
+   "updated": "2026-10-19T16:30:15Z"
+  },
+  {
+   "full": "rclone/rclone",
+   "desc": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+   "stars": 60740,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "sync",
+    "encryption",
+    "dropbox",
+    "ftp",
+    "s3",
+    "google-cloud-storage",
+    "onedrive",
+    "google-drive",
+    "sftp",
+    "webdav"
+   ],
+   "updated": "2026-11-02T17:40:44Z"
+  },
+  {
+   "full": "spacedriveapp/spacedrive",
+   "desc": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+   "stars": 39386,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "open-source",
+    "distributed-systems",
+    "typescript",
+    "encryption",
+    "cross-platform",
+    "storage",
+    "file-manager"
+   ],
+   "updated": "2026-10-31T11:23:45Z"
+  },
+  {
+   "full": "gchq/CyberChef",
+   "desc": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+   "stars": 36297,
+   "lang": "JavaScript",
+   "topics": [
+    "hashing",
+    "encoding",
+    "compression",
+    "encryption",
+    "parsing",
+    "data-analysis",
+    "data-manipulation"
+   ],
+   "updated": "2026-11-02T14:31:04Z"
+  },
+  {
+   "full": "trailofbits/algo",
+   "desc": "Set up a personal VPN in the cloud",
+   "stars": 30448,
+   "lang": "Python",
+   "topics": [
+    "security",
+    "ansible",
+    "encryption",
+    "ipsec",
+    "vpn",
+    "vpn-server",
+    "vpn-client",
+    "ikev2",
+    "strongswan",
+    "ssh-tunnel",
+    "wireguard"
+   ],
+   "updated": "2026-10-28T08:43:42Z"
+  },
+  {
+   "full": "ente/ente",
+   "desc": "💚 End-to-end encrypted cloud for everything.",
+   "stars": 29841,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "golang",
+    "photos",
+    "ios",
+    "opensource",
+    "privacy",
+    "typescript",
+    "encryption",
+    "google-photos",
+    "flutter",
+    "authy",
+    "2fa"
+   ],
+   "updated": "2026-11-02T16:23:07Z"
+  },
+  {
+   "full": "hwdsl2/setup-ipsec-vpn",
+   "desc": "Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and management scripts.",
+   "stars": 28931,
+   "lang": "Shell",
+   "topics": [
+    "linux",
+    "bash",
+    "raspberry-pi",
+    "security",
+    "privacy",
+    "encryption",
+    "debian",
+    "ubuntu",
+    "ipsec",
+    "network",
+    "installer",
+    "self-hosted"
+   ],
+   "updated": "2026-11-02T06:19:09Z"
+  },
+  {
+   "full": "simplex-chat/simplex-chat",
+   "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+   "stars": 19632,
+   "lang": "Haskell",
+   "topics": [
+    "chat",
+    "security",
+    "haskell",
+    "privacy",
+    "encryption",
+    "protocol",
+    "messaging",
+    "e2ee",
+    "double-ratchet"
+   ],
+   "updated": "2026-11-02T18:25:47Z"
+  },
+  {
+   "full": "angristan/openvpn-install",
+   "desc": "Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more",
+   "stars": 16178,
+   "lang": "Shell",
+   "topics": [
+    "linux",
+    "bash",
+    "openvpn",
+    "privacy",
+    "encryption",
+    "debian",
+    "ubuntu",
+    "fedora",
+    "centos",
+    "arch-linux",
+    "vpn",
+    "vpn-manager"
+   ],
+   "updated": "2026-10-01T18:02:44Z"
+  },
+  {
+   "full": "txthinking/brook",
+   "desc": "A cross-platform programmable network tool",
+   "stars": 15192,
+   "lang": "Go",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "linux",
+    "tls",
+    "ios",
+    "encryption",
+    "cross-platform",
+    "openwrt",
+    "proxy",
+    "mitm",
+    "socks5"
+   ],
+   "updated": "2026-10-23T04:09:50Z"
+  },
+  {
+   "full": "duplicati/duplicati",
+   "desc": "Store securely encrypted backups in the cloud!",
+   "stars": 15177,
+   "lang": "C#",
+   "topics": [
+    "c-sharp",
+    "backup",
+    "encryption",
+    "sftp",
+    "webdav",
+    "cloud-storage-services",
+    "duplicati",
+    "trust-no-one-backup",
+    "tno-backup",
+    "cloud-backup",
+    "client-only-backup"
+   ],
+   "updated": "2026-11-02T15:57:29Z"
+  },
+  {
+   "full": "kopia/kopia",
+   "desc": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+   "stars": 14562,
+   "lang": "Go",
+   "topics": [
+    "cloud",
+    "backup",
+    "encryption",
+    "google-cloud-storage",
+    "deduplication"
+   ],
+   "updated": "2026-11-01T23:44:34Z"
+  },
+  {
+   "full": "borgbackup/borg",
+   "desc": "Deduplicating archiver with compression and authenticated encryption.",
+   "stars": 13904,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "ssh",
+    "backup",
+    "compression",
+    "encryption",
+    "borgbackup",
+    "deduplication"
+   ],
+   "updated": "2026-11-02T10:45:40Z"
+  },
+  {
+   "full": "beemdevelopment/Aegis",
+   "desc": "A free, secure and open source app for Android to manage your 2-step verification tokens.",
+   "stars": 13448,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "otp",
+    "encryption",
+    "fingerprint",
+    "secure",
+    "totp",
+    "hotp",
+    "authenticator",
+    "2fa"
+   ],
+   "updated": "2026-09-06T10:30:01Z"
+  },
+  {
+   "full": "veracrypt/VeraCrypt",
+   "desc": "Disk encryption with strong security based on TrueCrypt",
+   "stars": 12031,
+   "lang": "C",
+   "topics": [
+    "encryption",
+    "encryption-algorithms",
+    "encryption-decryption",
+    "veracrypt",
+    "idrix",
+    "veracrypt-source"
+   ],
+   "updated": "2026-11-02T15:08:59Z"
+  },
+  {
+   "full": "alexanderepstein/Bash-Snippets",
+   "desc": "A collection of small bash scripts for heavy terminal users",
+   "stars": 9950,
+   "lang": "Shell",
+   "topics": [
+    "bash",
+    "weather",
+    "backup",
+    "movies",
+    "encryption",
+    "cheatsheet",
+    "recommendation-engine",
+    "url-shortner",
+    "stock-prices",
+    "currency-converter",
+    "youtube-player",
+    "qrencode"
+   ],
+   "updated": "2024-05-04T18:12:41Z"
+  },
+  {
+   "full": "LearningCircuit/local-deep-research",
+   "desc": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+   "stars": 9483,
+   "lang": "Python",
+   "topics": [
+    "home-automation",
+    "encryption",
+    "research",
+    "local",
+    "homeserver",
+    "self-hosted",
+    "pubmed",
+    "openai",
+    "brave",
+    "research-tool",
+    "arxiv",
+    "academia"
+   ],
+   "updated": "2026-11-02T20:10:39Z"
+  },
+  {
+   "full": "berty/berty",
+   "desc": "Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network",
+   "stars": 9343,
+   "lang": "TypeScript",
+   "topics": [
+    "android",
+    "ios",
+    "privacy",
+    "react-native",
+    "encryption",
+    "offline-first",
+    "surveillance",
+    "messaging",
+    "ipfs",
+    "p2p",
+    "mobile-app",
+    "monorepo"
+   ],
+   "updated": "2026-11-01T12:53:52Z"
+  },
+  {
+   "full": "tutao/tutanota",
+   "desc": "Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.",
+   "stars": 8101,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "security",
+    "privacy",
+    "encryption",
+    "email",
+    "mithril",
+    "tutanota"
+   ],
+   "updated": "2026-11-02T17:28:09Z"
+  },
+  {
+   "full": "robinmoisson/staticrypt",
+   "desc": "Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.",
+   "stars": 8065,
+   "lang": "HTML",
+   "topics": [
+    "javascript",
+    "html",
+    "cli",
+    "encryption",
+    "static",
+    "password",
+    "webcrypto",
+    "static-html"
+   ],
+   "updated": "2026-07-06T12:07:28Z"
+  },
+  {
+   "full": "peazip/PeaZip",
+   "desc": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LH",
+   "stars": 8060,
+   "lang": "Pascal",
+   "topics": [
+    "compression",
+    "encryption",
+    "zip",
+    "extractor",
+    "rar",
+    "brotli",
+    "archiver",
+    "peazip",
+    "zstandard",
+    "paq"
+   ],
+   "updated": "2026-10-21T08:48:49Z"
+  },
+  {
+   "full": "timvisee/ffsend",
+   "desc": "📬 Easily and securely share files from the command line. A fully featured Firefox Send client.",
+   "stars": 7423,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "cli",
+    "encryption",
+    "file-upload",
+    "file-sharing",
+    "hacktoberfest",
+    "firefox-send"
+   ],
+   "updated": "2025-11-20T08:45:23Z"
+  },
+  {
+   "full": "hwdsl2/docker-ipsec-vpn-server",
+   "desc": "Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2. Auto-generates server config and supports VPN client setup on Linux, Windows, macOS, iOS and Android.",
+   "stars": 7155,
+   "lang": "Shell",
+   "topics": [
+    "linux",
+    "docker",
+    "raspberry-pi",
+    "security",
+    "privacy",
+    "encryption",
+    "ipsec",
+    "docker-compose",
+    "network",
+    "docker-image",
+    "self-hosted",
+    "vpn"
+   ],
+   "updated": "2026-11-02T06:18:27Z"
+  },
+  {
+   "full": "sigalor/whatsapp-web-reveng",
+   "desc": "Reverse engineering WhatsApp Web.",
+   "stars": 6512,
+   "lang": "JavaScript",
+   "topics": [
+    "node",
+    "encryption",
+    "reverse-engineering",
+    "whatsapp",
+    "whatsapp-web"
+   ],
+   "updated": "2024-04-22T11:38:56Z"
+  },
+  {
+   "full": "yadm-dev/yadm",
+   "desc": "Yet Another Dotfiles Manager",
+   "stars": 6471,
+   "lang": "Python",
+   "topics": [
+    "git",
+    "bootstrap",
+    "dotfiles",
+    "bash",
+    "commandline",
+    "hooks",
+    "template",
+    "encryption",
+    "jinja2",
+    "manager",
+    "gpg",
+    "yadm"
+   ],
+   "updated": "2026-04-13T23:43:24Z"
+  },
+  {
+   "full": "ldqk/Masuit.Tools",
+   "desc": "全龄段友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！",
+   "stars": 6196,
+   "lang": "C#",
+   "topics": [
+    "linq",
+    "lambda",
+    "reflection",
+    "encryption",
+    "datetime",
+    "excel",
+    "multithreading",
+    "expression",
+    "excel-export",
+    "net5",
+    "net6"
+   ],
+   "updated": "2026-10-30T07:58:53Z"
+  },
+  {
+   "full": "guanzhi/GmSSL",
+   "desc": "支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱",
+   "stars": 6175,
+   "lang": "C",
+   "topics": [
+    "tls",
+    "ssl",
+    "crypto",
+    "encryption",
+    "sm2",
+    "sm3",
+    "sm4",
+    "sm9",
+    "pairing",
+    "post-quantum",
+    "zuc",
+    "tlcp"
+   ],
+   "updated": "2026-06-30T05:50:24Z"
+  },
+  {
+   "full": "capcom6/android-sms-gateway",
+   "desc": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.",
+   "stars": 5971,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "api",
+    "encryption",
+    "sms",
+    "gateway",
+    "ttl",
+    "sim",
+    "sms-gateway",
+    "simcard",
+    "httpsms",
+    "smsgate",
+    "textbee"
+   ],
+   "updated": "2026-11-01T23:18:15Z"
+  },
+  {
+   "full": "timvisee/send",
+   "desc": "📬 Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send",
+   "stars": 5943,
+   "lang": "JavaScript",
+   "topics": [
+    "encryption",
+    "file-upload",
+    "file-sharing",
+    "send",
+    "hacktoberfest",
+    "firefox-send"
+   ],
+   "updated": "2026-11-02T19:32:30Z"
+  },
+  {
+   "full": "qTox/qTox",
+   "desc": "qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.",
+   "stars": 4972,
+   "lang": "C++",
+   "topics": [
+    "audio",
+    "c-plus-plus",
+    "qt",
+    "privacy",
+    "encryption",
+    "video",
+    "communication",
+    "messaging",
+    "p2p",
+    "distributed",
+    "voip",
+    "tox"
+   ],
+   "updated": "2025-02-16T14:21:41Z"
+  },
+  {
+   "full": "backup/backup",
+   "desc": "Easy full stack backup operations on UNIX-like systems.",
+   "stars": 4859,
+   "lang": "Ruby",
+   "topics": [
+    "mysql",
+    "ruby",
+    "slack",
+    "backup",
+    "encryption",
+    "database",
+    "mongodb",
+    "postgresql",
+    "s3"
+   ],
+   "updated": "2024-07-03T12:44:26Z"
+  },
+  {
+   "full": "HotCakeX/Harden-Windows-Security",
+   "desc": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military s",
+   "stars": 4825,
+   "lang": "C#",
+   "topics": [
+    "windows",
+    "security",
+    "encryption",
+    "audit",
+    "defender",
+    "compliance",
+    "security-hardening",
+    "tpm2",
+    "proactive",
+    "bitlocker",
+    "firewall-configuration",
+    "intune"
+   ],
+   "updated": "2026-10-30T08:38:53Z"
+  },
+  {
+   "full": "rfjakob/gocryptfs",
+   "desc": "Encrypted overlay filesystem written in Go",
+   "stars": 4734,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "fuse",
+    "encryption",
+    "filesystem",
+    "gcm"
+   ],
+   "updated": "2026-10-28T08:12:40Z"
+  },
+  {
+   "full": "build-trust/ockam",
+   "desc": "Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.",
+   "stars": 4639,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "security",
+    "distributed-systems",
+    "identity",
+    "encryption",
+    "kafka",
+    "authentication",
+    "credentials",
+    "messaging",
+    "snowflake",
+    "authorization",
+    "encrypted-connections"
+   ],
+   "updated": "2026-01-04T22:01:38Z"
+  },
+  {
+   "full": "isar/hive",
+   "desc": "Lightweight and blazing fast key-value database written in pure Dart.",
+   "stars": 4392,
+   "lang": "Dart",
+   "topics": [
+    "dart",
+    "encryption",
+    "database",
+    "hive",
+    "nosql",
+    "key-value",
+    "flutter"
+   ],
+   "updated": "2024-06-28T11:57:48Z"
+  },
+  {
+   "full": "buttercup/buttercup-desktop",
+   "desc": "🔑 Cross-Platform Passwords & Secrets Vault",
+   "stars": 4379,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "security",
+    "encryption",
+    "login",
+    "password-manager",
+    "password-vault",
+    "buttercup"
+   ],
+   "updated": "2025-03-04T09:00:43Z"
+  }
+ ]
+}

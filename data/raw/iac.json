@@ -1,0 +1,1329 @@
+{
+ "subId": "iac",
+ "topics": [
+  "infrastructure-as-code",
+  "terraform"
+ ],
+ "crawledAt": "2026-11-02T20:18:25.144Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "hashicorp/terraform",
+   "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edit",
+   "stars": 50351,
+   "lang": "Go",
+   "topics": [
+    "cloud",
+    "graph",
+    "terraform",
+    "cloud-management",
+    "infrastructure-as-code"
+   ],
+   "updated": "2026-11-02T20:05:50Z"
+  },
+  {
+   "full": "aquasecurity/trivy",
+   "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+   "stars": 38915,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "docker",
+    "kubernetes",
+    "golang",
+    "security",
+    "containers",
+    "iac",
+    "vulnerability",
+    "infrastructure-as-code",
+    "vulnerability-detection",
+    "hacktoberfest",
+    "vulnerability-scanners"
+   ],
+   "updated": "2026-11-02T08:37:30Z"
+  },
+  {
+   "full": "kestra-io/kestra",
+   "desc": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.",
+   "stars": 30122,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "workflow",
+    "devops",
+    "automation",
+    "pipeline",
+    "etl",
+    "scheduler",
+    "orchestration",
+    "data-engineering",
+    "infrastructure-as-code",
+    "high-availability",
+    "control-plane"
+   ],
+   "updated": "2026-11-02T20:08:09Z"
+  },
+  {
+   "full": "pulumi/pulumi",
+   "desc": "Pulumi - Infrastructure as Code in any programming language 🚀",
+   "stars": 25840,
+   "lang": "Go",
+   "topics": [
+    "javascript",
+    "python",
+    "go",
+    "kubernetes",
+    "golang",
+    "aws",
+    "cloud",
+    "typescript",
+    "csharp",
+    "serverless",
+    "fsharp",
+    "dotnet"
+   ],
+   "updated": "2026-11-02T20:07:04Z"
+  },
+  {
+   "full": "saltstack/salt",
+   "desc": "Software to automate the management and configuration of infrastructure and applications at scale.",
+   "stars": 15729,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "infrastructure",
+    "iot",
+    "cloud",
+    "event-stream",
+    "zeromq",
+    "cloud-providers",
+    "event-management",
+    "configuration-management",
+    "edge",
+    "remote-execution",
+    "infrastructure-management"
+   ],
+   "updated": "2026-11-02T19:35:30Z"
+  },
+  {
+   "full": "GoogleCloudPlatform/terraformer",
+   "desc": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+   "stars": 14542,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "golang",
+    "aws",
+    "cloud",
+    "terraform",
+    "gcp",
+    "google-cloud",
+    "hcl",
+    "infrastructure-as-code",
+    "terraform-configurations"
+   ],
+   "updated": "2026-03-16T20:12:11Z"
+  },
+  {
+   "full": "aws/aws-cdk",
+   "desc": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+   "stars": 12958,
+   "lang": "TypeScript",
+   "topics": [
+    "aws",
+    "typescript",
+    "cloud-infrastructure",
+    "infrastructure-as-code",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T19:22:37Z"
+  },
+  {
+   "full": "encoredev/encore",
+   "desc": "Infrastructure orchestration from local to your cloud",
+   "stars": 12683,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "aws",
+    "devops",
+    "distributed-systems",
+    "cloud",
+    "microservices",
+    "typescript",
+    "database",
+    "serverless",
+    "backend",
+    "gcp"
+   ],
+   "updated": "2026-10-29T10:10:20Z"
+  },
+  {
+   "full": "infracost/infracost",
+   "desc": "Cloud cost intelligence for engineers, AI coding agents, and CI/CD 💰📉 Shift FinOps Left!",
+   "stars": 12605,
+   "lang": "Go",
+   "topics": [
+    "aws",
+    "devops",
+    "google",
+    "cloud",
+    "azure",
+    "terraform",
+    "gcp",
+    "infrastructure-as-code",
+    "cloud-formation",
+    "cdk",
+    "cost-estimation",
+    "cost-optimization"
+   ],
+   "updated": "2026-11-02T20:16:45Z"
+  },
+  {
+   "full": "crossplane/crossplane",
+   "desc": "The Cloud Native Control Plane",
+   "stars": 12222,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "infrastructure",
+    "serverless",
+    "containers",
+    "cncf",
+    "cloud-management",
+    "cloud-computing",
+    "infrastructure-as-code",
+    "cloud-native",
+    "control-plane",
+    "multicloud"
+   ],
+   "updated": "2026-11-02T15:19:38Z"
+  },
+  {
+   "full": "meshery/meshery",
+   "desc": "Meshery, the cloud native manager",
+   "stars": 12116,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "kubernetes",
+    "golang",
+    "reactjs",
+    "cncf",
+    "webassembly",
+    "opa",
+    "infrastructure-as-code",
+    "cloud-native",
+    "gsoc",
+    "kubernetes-operator",
+    "control-plane"
+   ],
+   "updated": "2026-11-02T19:43:02Z"
+  },
+  {
+   "full": "bridgecrewio/checkov",
+   "desc": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+   "stars": 9127,
+   "lang": "Python",
+   "topics": [
+    "kubernetes",
+    "aws",
+    "devops",
+    "cloudformation",
+    "azure",
+    "terraform",
+    "static-analysis",
+    "gcp",
+    "infrastructure-as-code",
+    "scans",
+    "compliance",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T17:21:18Z"
+  },
+  {
+   "full": "Orange-Cyberdefense/GOAD",
+   "desc": "game of active directory",
+   "stars": 8565,
+   "lang": "PowerShell",
+   "topics": [
+    "ansible",
+    "vagrant",
+    "terraform",
+    "active-directory",
+    "infrastructure-as-code",
+    "pentest"
+   ],
+   "updated": "2026-10-23T22:21:10Z"
+  },
+  {
+   "full": "gocd/gocd",
+   "desc": "GoCD - Continuous Delivery server main repository",
+   "stars": 7436,
+   "lang": "Java",
+   "topics": [
+    "continuous-integration",
+    "continuous-delivery",
+    "ci",
+    "cd",
+    "continuous-deployment",
+    "ci-cd",
+    "continuous-testing",
+    "infrastructure-as-code",
+    "gocd",
+    "continuous-delivery-server"
+   ],
+   "updated": "2026-11-02T06:40:37Z"
+  },
+  {
+   "full": "Haxxnet/Compose-Examples",
+   "desc": "Various Docker Compose examples of selfhosted FOSS and proprietary projects.",
+   "stars": 7411,
+   "lang": null,
+   "topics": [
+    "docker",
+    "devops",
+    "automation",
+    "awesome",
+    "microservices",
+    "stack",
+    "docker-compose",
+    "docker-swarm",
+    "container",
+    "selfhosted",
+    "infrastructure-as-code",
+    "compose"
+   ],
+   "updated": "2026-11-01T17:21:21Z"
+  },
+  {
+   "full": "aquasecurity/tfsec",
+   "desc": "Tfsec is now part of Trivy",
+   "stars": 7059,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "aws",
+    "security",
+    "digitalocean",
+    "devops",
+    "ci",
+    "azure",
+    "terraform",
+    "scanner",
+    "linter",
+    "static-analysis",
+    "infrastructure-as-code"
+   ],
+   "updated": "2026-03-25T08:06:52Z"
+  },
+  {
+   "full": "shuaibiyy/awesome-tf",
+   "desc": "Curated list of resources on HashiCorp's Terraform and OpenTofu",
+   "stars": 6672,
+   "lang": null,
+   "topics": [
+    "devops",
+    "awesome",
+    "terraform",
+    "infrastructure-as-code",
+    "awesome-list",
+    "terraform-modules",
+    "hashicorp-terraform",
+    "opentofu"
+   ],
+   "updated": "2026-10-30T18:16:12Z"
+  },
+  {
+   "full": "goss-org/goss",
+   "desc": "Quick and Easy server testing/validation",
+   "stars": 6000,
+   "lang": "Go",
+   "topics": [
+    "testing",
+    "go",
+    "linux",
+    "docker",
+    "golang",
+    "tap",
+    "devops",
+    "tdd",
+    "sensu",
+    "health-check",
+    "nagios",
+    "goss"
+   ],
+   "updated": "2026-11-01T12:24:22Z"
+  },
+  {
+   "full": "tenable/terrascan",
+   "desc": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
+   "stars": 5215,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "infrastructure",
+    "aws",
+    "security",
+    "devops",
+    "terraform",
+    "architecture",
+    "iac",
+    "infrastructure-as-code",
+    "scans",
+    "aws-security",
+    "security-tools"
+   ],
+   "updated": "2025-11-20T19:37:10Z"
+  },
+  {
+   "full": "hashicorp/terraform-cdk",
+   "desc": "Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform",
+   "stars": 5066,
+   "lang": "TypeScript",
+   "topics": [
+    "hack",
+    "terraform",
+    "infrastructure-as-code",
+    "cdk",
+    "cdktf"
+   ],
+   "updated": "2025-12-10T14:12:01Z"
+  },
+  {
+   "full": "diggerhq/digger",
+   "desc": "Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️",
+   "stars": 5061,
+   "lang": "Go",
+   "topics": [
+    "terraform",
+    "tacos",
+    "infrastructure-as-code",
+    "hacktoberfest",
+    "terraform-aws",
+    "terraform-gcp",
+    "github-actions",
+    "terraform-github-actions",
+    "terraformcloud"
+   ],
+   "updated": "2026-10-30T14:47:53Z"
+  },
+  {
+   "full": "decodingai-magazine/llm-twin-course",
+   "desc": "🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴",
+   "stars": 4406,
+   "lang": "Python",
+   "topics": [
+    "docker",
+    "aws",
+    "course",
+    "infrastructure-as-code",
+    "machine-learning-engineering",
+    "comet-ml",
+    "rag",
+    "mlops",
+    "pulumi",
+    "qdrant",
+    "large-language-models",
+    "bytewax"
+   ],
+   "updated": "2026-04-20T10:53:45Z"
+  },
+  {
+   "full": "DNSControl/dnscontrol",
+   "desc": "Infrastructure as code for DNS!",
+   "stars": 3991,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "dns",
+    "infrastructure-as-code",
+    "dnscontrol"
+   ],
+   "updated": "2026-11-02T14:39:15Z"
+  },
+  {
+   "full": "octodns/octodns",
+   "desc": "Tools for managing DNS across multiple providers",
+   "stars": 3774,
+   "lang": "Python",
+   "topics": [
+    "dns",
+    "workflow",
+    "infrastructure-as-code"
+   ],
+   "updated": "2026-10-26T14:50:23Z"
+  },
+  {
+   "full": "aws/copilot-cli",
+   "desc": "AWS Copilot CLI will reach end-of-support on June 12, 2026.",
+   "stars": 3730,
+   "lang": "Go",
+   "topics": [
+    "devops",
+    "containers",
+    "developer-tools",
+    "infrastructure-as-code",
+    "aws-ecs",
+    "aws-fargate",
+    "cd-pipelines",
+    "aws-fargate-application",
+    "modern-applications",
+    "aws-apprunner"
+   ],
+   "updated": "2026-05-11T00:23:45Z"
+  },
+  {
+   "full": "fabio-rovai/open-ontologies",
+   "desc": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.",
+   "stars": 2771,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "sparql",
+    "mcp",
+    "theorem-proving",
+    "owl",
+    "ontology",
+    "knowledge-graph",
+    "lean",
+    "infrastructure-as-code",
+    "formal-verification",
+    "description-logics",
+    "shacl"
+   ],
+   "updated": "2026-11-02T13:25:58Z"
+  },
+  {
+   "full": "Checkmarx/kics",
+   "desc": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
+   "stars": 2730,
+   "lang": "Open Policy Agent",
+   "topics": [
+    "golang",
+    "security",
+    "iac",
+    "infrastructure-as-code",
+    "cloudnative",
+    "appsec",
+    "vulnerability-detection",
+    "hacktoberfest",
+    "vulnerability-scanners",
+    "security-tools",
+    "devsecops",
+    "open-policy-agent"
+   ],
+   "updated": "2026-11-02T14:54:01Z"
+  },
+  {
+   "full": "snyk/driftctl",
+   "desc": "Detect, track and alert on infrastructure drift",
+   "stars": 2666,
+   "lang": "Go",
+   "topics": [
+    "aws",
+    "terraform",
+    "iac",
+    "infrastructure-as-code",
+    "drift",
+    "hacktoberfest",
+    "infrastructure-drift"
+   ],
+   "updated": "2026-10-22T05:39:31Z"
+  },
+  {
+   "full": "architect/architect",
+   "desc": "The simplest, most powerful way to build a functional web app (fwa)",
+   "stars": 2627,
+   "lang": "JavaScript",
+   "topics": [
+    "aws",
+    "aws-lambda",
+    "serverless",
+    "aws-apigateway",
+    "infrastructure-as-code",
+    "arc",
+    "aws-dynamodb",
+    "fwa"
+   ],
+   "updated": "2026-09-05T00:20:10Z"
+  },
+  {
+   "full": "akuity/awesome-argo",
+   "desc": "A curated list of awesome projects and resources related to Argo (a CNCF graduated project)",
+   "stars": 2506,
+   "lang": null,
+   "topics": [
+    "kubernetes",
+    "devops",
+    "machine-learning",
+    "awesome",
+    "continuous-delivery",
+    "workflow-engine",
+    "cncf",
+    "argo",
+    "infrastructure-as-code",
+    "awesome-list",
+    "cloud-native",
+    "workflow-management"
+   ],
+   "updated": "2026-09-18T00:59:48Z"
+  },
+  {
+   "full": "pytest-dev/pytest-testinfra",
+   "desc": "Testinfra test your infrastructures",
+   "stars": 2480,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "testing",
+    "docker",
+    "kubernetes",
+    "ansible",
+    "devops",
+    "puppet",
+    "tdd",
+    "chef",
+    "nagios",
+    "saltstack",
+    "testing-tools"
+   ],
+   "updated": "2026-07-20T20:32:30Z"
+  },
+  {
+   "full": "kcl-lang/kcl",
+   "desc": "KCL Language Core and API",
+   "stars": 2440,
+   "lang": "Rust",
+   "topics": [
+    "language",
+    "programming-language",
+    "kubernetes",
+    "rust",
+    "devops",
+    "functional",
+    "schema",
+    "validation",
+    "compiler",
+    "configuration",
+    "policy",
+    "configuration-management"
+   ],
+   "updated": "2026-11-02T12:10:15Z"
+  },
+  {
+   "full": "antonbabenko/terraform-skill",
+   "desc": "Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns",
+   "stars": 2436,
+   "lang": null,
+   "topics": [
+    "testing",
+    "devops",
+    "modules",
+    "terraform",
+    "best-practices",
+    "infrastructure-as-code",
+    "opentofu",
+    "agent-skills",
+    "claude-code",
+    "claude-skills"
+   ],
+   "updated": "2026-10-24T11:55:58Z"
+  },
+  {
+   "full": "cycloidio/terracognita",
+   "desc": "Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration",
+   "stars": 2397,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "aws",
+    "devops",
+    "cloud",
+    "vmware",
+    "azure",
+    "terraform",
+    "reverse-engineering",
+    "gcp",
+    "iac",
+    "tfstate"
+   ],
+   "updated": "2025-09-02T12:57:33Z"
+  },
+  {
+   "full": "Artemmkin/infrastructure-as-code-tutorial",
+   "desc": "Infrastructure As Code Tutorial. Covers Packer, Terraform, Ansible, Vagrant, Docker, Docker Compose, Kubernetes",
+   "stars": 2307,
+   "lang": null,
+   "topics": [
+    "docker",
+    "kubernetes",
+    "ansible",
+    "vagrant",
+    "packer",
+    "docker-compose",
+    "terraform",
+    "infrastructure-as-code",
+    "googlecloudplatform"
+   ],
+   "updated": "2022-11-19T00:17:00Z"
+  },
+  {
+   "full": "someengineering/fixinventory",
+   "desc": "Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes.",
+   "stars": 2088,
+   "lang": "Python",
+   "topics": [
+    "aws",
+    "security",
+    "digitalocean",
+    "security-audit",
+    "gcp",
+    "cybersecurity",
+    "infrastructure-as-code",
+    "security-automation",
+    "policy-as-code",
+    "cspm",
+    "cnapp"
+   ],
+   "updated": "2026-03-28T19:14:05Z"
+  },
+  {
+   "full": "nitrictech/nitric",
+   "desc": "Nitric is a multi-language framework for cloud applications with infrastructure from code.",
+   "stars": 2020,
+   "lang": "Go",
+   "topics": [
+    "javascript",
+    "python",
+    "go",
+    "dart",
+    "golang",
+    "aws",
+    "devops",
+    "cloud",
+    "microservices",
+    "typescript",
+    "ai",
+    "serverless"
+   ],
+   "updated": "2026-10-24T20:07:32Z"
+  },
+  {
+   "full": "camptocamp/terraboard",
+   "desc": "🌍 📋 A web dashboard to inspect Terraform States",
+   "stars": 2011,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "aws",
+    "devops",
+    "diff",
+    "terraform",
+    "versioning",
+    "infrastructure-as-code",
+    "devops-tools",
+    "web-dashboard",
+    "terraform-states"
+   ],
+   "updated": "2026-10-31T16:49:45Z"
+  },
+  {
+   "full": "ozbillwang/terraform-best-practices",
+   "desc": "Terraform Best Practices for AWS users",
+   "stars": 1845,
+   "lang": "HCL",
+   "topics": [
+    "terraform",
+    "best-practices",
+    "hashicorp",
+    "infrastructure-as-code",
+    "best-practises"
+   ],
+   "updated": "2024-12-20T00:40:37Z"
+  },
+  {
+   "full": "infracost/vscode-infracost",
+   "desc": "See cost estimates for Terraform right in your editor💰📉",
+   "stars": 1835,
+   "lang": "TypeScript",
+   "topics": [
+    "aws",
+    "google",
+    "azure",
+    "terraform",
+    "gcp",
+    "infrastructure-as-code",
+    "cost-estimation",
+    "cost-optimization",
+    "cost-management",
+    "finops",
+    "shift-left",
+    "terraform-cost-estimation"
+   ],
+   "updated": "2026-11-01T01:04:44Z"
+  },
+  {
+   "full": "bregman-arie/devops-exercises",
+   "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+   "stars": 86413,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "git",
+    "linux",
+    "docker",
+    "kubernetes",
+    "aws",
+    "ansible",
+    "devops",
+    "sql",
+    "azure",
+    "containers",
+    "terraform"
+   ],
+   "updated": "2025-12-27T14:22:30Z"
+  },
+  {
+   "full": "MichaelCade/90DaysOfDevOps",
+   "desc": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooli",
+   "stars": 29942,
+   "lang": "Shell",
+   "topics": [
+    "kubernetes",
+    "ansible",
+    "devops",
+    "backup",
+    "networking",
+    "containers",
+    "terraform",
+    "iac"
+   ],
+   "updated": "2026-06-24T15:29:07Z"
+  },
+  {
+   "full": "GoogleCloudPlatform/microservices-demo",
+   "desc": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+   "stars": 21121,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "terraform",
+    "gcp",
+    "google-cloud",
+    "grpc",
+    "samples",
+    "gke",
+    "istio",
+    "sample-application",
+    "skaffold",
+    "kustomize"
+   ],
+   "updated": "2026-10-27T20:20:06Z"
+  },
+  {
+   "full": "coder/coder",
+   "desc": "Secure environments for developers and their agents",
+   "stars": 17257,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "jetbrains",
+    "terraform",
+    "ide",
+    "vscode",
+    "development-environment",
+    "agents",
+    "dev-tools",
+    "remote-development"
+   ],
+   "updated": "2026-11-02T20:04:16Z"
+  },
+  {
+   "full": "mikefarah/yq",
+   "desc": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
+   "stars": 16216,
+   "lang": "Go",
+   "topics": [
+    "bash",
+    "cli",
+    "golang",
+    "yaml",
+    "toml",
+    "json",
+    "csv",
+    "portable",
+    "xml",
+    "terraform",
+    "properties",
+    "hcl"
+   ],
+   "updated": "2026-10-29T03:55:46Z"
+  },
+  {
+   "full": "semaphoreui/semaphore",
+   "desc": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
+   "stars": 14366,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "docker",
+    "golang",
+    "jenkins",
+    "ansible",
+    "devops",
+    "ci",
+    "terraform",
+    "cicd",
+    "docker-ui",
+    "terragrunt",
+    "terraform-ui"
+   ],
+   "updated": "2026-11-02T20:17:20Z"
+  },
+  {
+   "full": "hashicorp/terraform-provider-aws",
+   "desc": "The AWS Provider enables Terraform to manage AWS resources.",
+   "stars": 11131,
+   "lang": "Go",
+   "topics": [
+    "aws",
+    "terraform",
+    "terraform-provider"
+   ],
+   "updated": "2026-11-02T20:08:54Z"
+  },
+  {
+   "full": "Agents365-ai/drawio-skill",
+   "desc": "Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view projection, drift diff, CI architecture tes",
+   "stars": 10524,
+   "lang": "Python",
+   "topics": [
+    "graphql",
+    "kubernetes",
+    "protobuf",
+    "diagram",
+    "terraform",
+    "architecture",
+    "uml",
+    "bpmn",
+    "flowchart",
+    "sysml",
+    "architecture-diagram",
+    "drawio"
+   ],
+   "updated": "2026-11-01T07:26:09Z"
+  },
+  {
+   "full": "gruntwork-io/terragrunt",
+   "desc": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+   "stars": 9910,
+   "lang": "Go",
+   "topics": [
+    "cli",
+    "aws",
+    "devops",
+    "terraform",
+    "developer-tools",
+    "opentofu"
+   ],
+   "updated": "2026-11-02T16:09:52Z"
+  },
+  {
+   "full": "khuedoan/homelab",
+   "desc": "Fully automated homelab from empty disk to running services with a single command.",
+   "stars": 9709,
+   "lang": "Python",
+   "topics": [
+    "docker",
+    "kubernetes",
+    "ansible",
+    "devops",
+    "terraform",
+    "fedora",
+    "helm",
+    "netboot",
+    "self-hosting",
+    "pxe",
+    "homelab",
+    "gitops"
+   ],
+   "updated": "2026-11-02T01:41:38Z"
+  },
+  {
+   "full": "runatlantis/atlantis",
+   "desc": "Terraform Pull Request Automation",
+   "stars": 9341,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "devops",
+    "automation",
+    "terraform",
+    "tacos",
+    "sre",
+    "hacktoberfest",
+    "atlantis"
+   ],
+   "updated": "2026-11-02T18:54:31Z"
+  },
+  {
+   "full": "openstatusHQ/openstatus",
+   "desc": "Open-source status page, incident response and uptime monitoring",
+   "stars": 9244,
+   "lang": "TypeScript",
+   "topics": [
+    "open-source",
+    "monitoring",
+    "mcp",
+    "terraform",
+    "alerting",
+    "statuspage",
+    "uptime-monitor",
+    "uptime",
+    "on-call",
+    "sre",
+    "observability",
+    "incident-management"
+   ],
+   "updated": "2026-11-01T10:20:44Z"
+  },
+  {
+   "full": "HariSekhon/DevOps-Bash-tools",
+   "desc": "1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Lin",
+   "stars": 8439,
+   "lang": "Shell",
+   "topics": [
+    "github",
+    "mysql",
+    "git",
+    "linux",
+    "api",
+    "bash",
+    "docker",
+    "kubernetes",
+    "jenkins",
+    "aws",
+    "devops",
+    "kafka"
+   ],
+   "updated": "2026-10-30T17:39:21Z"
+  },
+  {
+   "full": "ChristianLempa/boilerplates",
+   "desc": "Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.",
+   "stars": 7997,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "bash",
+    "docker",
+    "kubernetes",
+    "ansible",
+    "packer",
+    "docker-compose",
+    "terraform",
+    "docker-swarm"
+   ],
+   "updated": "2026-08-31T12:11:20Z"
+  },
+  {
+   "full": "turbot/steampipe",
+   "desc": "Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.",
+   "stars": 7993,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "golang",
+    "aws",
+    "security",
+    "devops",
+    "cis",
+    "cloud",
+    "etl",
+    "azure",
+    "sqlite",
+    "terraform",
+    "postgresql"
+   ],
+   "updated": "2026-11-01T12:41:32Z"
+  },
+  {
+   "full": "gruntwork-io/terratest",
+   "desc": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+   "stars": 7989,
+   "lang": "Go",
+   "topics": [
+    "testing",
+    "docker",
+    "golang",
+    "aws",
+    "devops",
+    "packer",
+    "terraform",
+    "testing-library"
+   ],
+   "updated": "2026-10-22T16:00:28Z"
+  },
+  {
+   "full": "fullstackhero/dotnet-starter-kit",
+   "desc": "Production Grade Cloud-Ready .NET 10 Starter Kit (Web API + React Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.",
+   "stars": 6847,
+   "lang": "C#",
+   "topics": [
+    "docker",
+    "template",
+    "aws",
+    "boilerplate",
+    "dotnet",
+    "terraform",
+    "clean-architecture",
+    "starter-kit",
+    "webapi",
+    "multitenancy",
+    "blazor",
+    "modular-monolith"
+   ],
+   "updated": "2026-10-09T04:09:06Z"
+  },
+  {
+   "full": "ThreeDotsLabs/wild-workouts-go-ddd-example",
+   "desc": "Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.",
+   "stars": 6488,
+   "lang": "Go",
+   "topics": [
+    "refactoring",
+    "go",
+    "golang",
+    "firebase",
+    "cqrs",
+    "serverless",
+    "ddd",
+    "terraform",
+    "gcp",
+    "google-cloud",
+    "clean-architecture",
+    "hexagonal-architecture"
+   ],
+   "updated": "2026-08-27T08:28:31Z"
+  },
+  {
+   "full": "cloud-custodian/cloud-custodian",
+   "desc": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+   "stars": 6102,
+   "lang": "Python",
+   "topics": [
+    "kubernetes",
+    "aws",
+    "cloud",
+    "serverless",
+    "azure",
+    "terraform",
+    "management",
+    "gcp",
+    "oci",
+    "cloud-computing",
+    "compliance",
+    "rules-engine"
+   ],
+   "updated": "2026-11-02T14:11:09Z"
+  },
+  {
+   "full": "terraform-linters/tflint",
+   "desc": "A Pluggable Terraform Linter",
+   "stars": 5849,
+   "lang": "Go",
+   "topics": [
+    "terraform",
+    "tflint"
+   ],
+   "updated": "2026-11-02T06:50:47Z"
+  },
+  {
+   "full": "dependabot/dependabot-core",
+   "desc": "🤖 Dependabot's core logic for creating update PRs.",
+   "stars": 5831,
+   "lang": "Ruby",
+   "topics": [
+    "javascript",
+    "ruby",
+    "python",
+    "java",
+    "go",
+    "docker",
+    "rust",
+    "php",
+    "rubygems",
+    "elixir",
+    "dotnet",
+    "elm"
+   ],
+   "updated": "2026-11-02T19:01:06Z"
+  },
+  {
+   "full": "hobby-kube/guide",
+   "desc": "Kubernetes clusters for the hobbyist.",
+   "stars": 5659,
+   "lang": null,
+   "topics": [
+    "setup",
+    "kubernetes",
+    "security",
+    "digitalocean",
+    "devops",
+    "automation",
+    "terraform",
+    "guide",
+    "cluster",
+    "scaleway",
+    "hetzner-cloud",
+    "cost-effective"
+   ],
+   "updated": "2023-09-21T14:37:01Z"
+  },
+  {
+   "full": "NotHarshhaa/DevOps-Projects",
+   "desc": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
+   "stars": 5456,
+   "lang": "Java",
+   "topics": [
+    "linux",
+    "docker",
+    "kubernetes",
+    "learning",
+    "jenkins",
+    "aws",
+    "devops",
+    "terraform",
+    "beginner-friendly",
+    "devops-tools",
+    "projects-list",
+    "devops-poc"
+   ],
+   "updated": "2026-09-04T12:06:24Z"
+  },
+  {
+   "full": "ministackorg/ministack",
+   "desc": "Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT licensed.",
+   "stars": 5082,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "emulator",
+    "docker",
+    "open-source",
+    "aws",
+    "lambda",
+    "ec2",
+    "terraform",
+    "aws-sdk",
+    "dynamodb",
+    "devtools",
+    "s3"
+   ],
+   "updated": "2026-11-02T13:13:47Z"
+  },
+  {
+   "full": "clong/DetectionLab",
+   "desc": "Automate the creation of a lab environment complete with security tooling and logging best practices",
+   "stars": 5054,
+   "lang": "HTML",
+   "topics": [
+    "ansible",
+    "vagrant",
+    "packer",
+    "powershell",
+    "terraform",
+    "detection",
+    "dfir",
+    "vagrantfile",
+    "sysmon",
+    "osquery",
+    "information-security",
+    "lab-environment"
+   ],
+   "updated": "2024-07-06T21:27:28Z"
+  },
+  {
+   "full": "terraform-aws-modules/terraform-aws-eks",
+   "desc": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+   "stars": 5015,
+   "lang": "HCL",
+   "topics": [
+    "kubernetes",
+    "aws",
+    "terraform",
+    "terraform-module",
+    "aws-eks",
+    "eks",
+    "elastic-kubernetes-service",
+    "aws-eks-cluster"
+   ],
+   "updated": "2026-10-08T12:29:06Z"
+  },
+  {
+   "full": "tfutils/tfenv",
+   "desc": "Terraform version manager",
+   "stars": 4990,
+   "lang": "Shell",
+   "topics": [
+    "bash",
+    "terraform"
+   ],
+   "updated": "2026-07-01T17:32:52Z"
+  },
+  {
+   "full": "hashicorp/terraform-provider-azurerm",
+   "desc": "Terraform provider for Azure Resource Manager",
+   "stars": 4981,
+   "lang": "Go",
+   "topics": [
+    "azure",
+    "terraform",
+    "azure-resource-manager",
+    "terraform-provider"
+   ],
+   "updated": "2026-11-02T20:17:49Z"
+  },
+  {
+   "full": "KubeOperator/KubeOperator",
+   "desc": "KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。",
+   "stars": 4970,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "kubernetes",
+    "lightweight",
+    "ansible",
+    "containers",
+    "terraform",
+    "openstack",
+    "paas",
+    "k8s",
+    "vmware-vsphere",
+    "kubeapps",
+    "kubernetes-installer"
+   ],
+   "updated": "2024-07-02T10:27:56Z"
+  },
+  {
+   "full": "terraform-docs/terraform-docs",
+   "desc": "Generate documentation from Terraform modules in various output formats",
+   "stars": 4835,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "documentation",
+    "generator",
+    "terraform",
+    "terraform-modules",
+    "terraform-docs"
+   ],
+   "updated": "2026-09-02T08:09:55Z"
+  }
+ ]
+}

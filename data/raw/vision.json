@@ -1,0 +1,1392 @@
+{
+ "subId": "vision",
+ "topics": [
+  "computer-vision",
+  "object-detection"
+ ],
+ "crawledAt": "2026-11-02T20:16:33.022Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "opencv/opencv",
+   "desc": "Open Source Computer Vision Library",
+   "stars": 91413,
+   "lang": "C++",
+   "topics": [
+    "opencv",
+    "c-plus-plus",
+    "computer-vision",
+    "deep-learning",
+    "image-processing"
+   ],
+   "updated": "2026-11-02T09:18:41Z"
+  },
+  {
+   "full": "Developer-Y/cs-video-courses",
+   "desc": "List of Computer Science courses with video lectures.",
+   "stars": 84512,
+   "lang": null,
+   "topics": [
+    "computer-science",
+    "security",
+    "machine-learning",
+    "bioinformatics",
+    "web-development",
+    "reinforcement-learning",
+    "computer-vision",
+    "deep-learning",
+    "algorithms",
+    "robotics",
+    "computational-biology",
+    "databases"
+   ],
+   "updated": "2026-10-31T22:05:30Z"
+  },
+  {
+   "full": "d2l-ai/d2l-zh",
+   "desc": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+   "stars": 82214,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "natural-language-processing",
+    "computer-vision",
+    "deep-learning",
+    "book",
+    "notebook",
+    "chinese"
+   ],
+   "updated": "2024-07-30T09:32:19Z"
+  },
+  {
+   "full": "rohitg00/ai-engineering-from-scratch",
+   "desc": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+   "stars": 76382,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "rust",
+    "machine-learning",
+    "tutorial",
+    "typescript",
+    "course",
+    "reinforcement-learning",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "mcp",
+    "transformers"
+   ],
+   "updated": "2026-11-02T04:26:52Z"
+  },
+  {
+   "full": "microsoft/AI-For-Beginners",
+   "desc": "12 Weeks, 24 Lessons, AI for All!",
+   "stars": 70484,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "nlp",
+    "machine-learning",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "cnn",
+    "artificial-intelligence",
+    "gan",
+    "rnn",
+    "microsoft-for-beginners"
+   ],
+   "updated": "2026-10-23T23:55:14Z"
+  },
+  {
+   "full": "ultralytics/ultralytics",
+   "desc": "Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
+   "stars": 63046,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "tracking",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "pytorch",
+    "yolo",
+    "image-classification",
+    "object-detection",
+    "object-tracking",
+    "semantic-segmentation",
+    "pose-estimation"
+   ],
+   "updated": "2026-11-02T11:26:47Z"
+  },
+  {
+   "full": "ultralytics/yolov5",
+   "desc": "Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.",
+   "stars": 58246,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "inference",
+    "pytorch",
+    "yolo",
+    "image-classification",
+    "object-detection",
+    "tensorrt",
+    "instance-segmentation",
+    "model-training",
+    "coreml",
+    "onnx"
+   ],
+   "updated": "2026-11-01T14:05:36Z"
+  },
+  {
+   "full": "roboflow/supervision",
+   "desc": "We write your reusable computer vision tools. 💜",
+   "stars": 51468,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "tracking",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "metrics",
+    "tensorflow",
+    "image-processing",
+    "pytorch",
+    "video-processing",
+    "yolo",
+    "classification"
+   ],
+   "updated": "2026-11-02T18:17:58Z"
+  },
+  {
+   "full": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+   "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+   "stars": 37603,
+   "lang": null,
+   "topics": [
+    "python",
+    "nlp",
+    "data-science",
+    "machine-learning",
+    "awesome",
+    "computer-vision",
+    "deep-learning",
+    "artificial-intelligence",
+    "nlp-projects",
+    "machine-learning-projects",
+    "artificial-intelligence-projects",
+    "computer-vision-project"
+   ],
+   "updated": "2026-09-26T00:44:47Z"
+  },
+  {
+   "full": "google-ai-edge/mediapipe",
+   "desc": "Cross-platform, customizable ML solutions for live and streaming media.",
+   "stars": 37523,
+   "lang": "C++",
+   "topics": [
+    "android",
+    "c-plus-plus",
+    "calculator",
+    "machine-learning",
+    "framework",
+    "computer-vision",
+    "deep-learning",
+    "inference",
+    "pipeline-framework",
+    "stream-processing",
+    "video-processing",
+    "perception"
+   ],
+   "updated": "2026-11-02T19:18:29Z"
+  },
+  {
+   "full": "CMU-Perceptual-Computing-Lab/openpose",
+   "desc": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+   "stars": 34552,
+   "lang": "C++",
+   "topics": [
+    "opencv",
+    "machine-learning",
+    "real-time",
+    "caffe",
+    "computer-vision",
+    "deep-learning",
+    "cpp",
+    "face",
+    "keypoints",
+    "human-pose-estimation",
+    "pose-estimation",
+    "human-behavior-understanding"
+   ],
+   "updated": "2024-08-03T01:59:11Z"
+  },
+  {
+   "full": "eugeneyan/applied-ml",
+   "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+   "stars": 30783,
+   "lang": null,
+   "topics": [
+    "search",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "reinforcement-learning",
+    "computer-vision",
+    "deep-learning",
+    "production",
+    "data-engineering",
+    "data-discovery",
+    "recsys",
+    "data-quality"
+   ],
+   "updated": "2024-07-18T22:41:02Z"
+  },
+  {
+   "full": "d2l-ai/d2l-en",
+   "desc": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.",
+   "stars": 29986,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "reinforcement-learning",
+    "computer-vision",
+    "deep-learning",
+    "mxnet",
+    "book",
+    "notebook",
+    "tensorflow",
+    "keras"
+   ],
+   "updated": "2024-08-18T08:02:36Z"
+  },
+  {
+   "full": "HumanSignal/label-studio",
+   "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+   "stars": 28614,
+   "lang": "TypeScript",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "image-annotation",
+    "annotation",
+    "annotations",
+    "dataset",
+    "yolo",
+    "image-classification",
+    "labeling",
+    "datasets",
+    "semantic-segmentation",
+    "annotation-tool"
+   ],
+   "updated": "2026-11-02T20:05:51Z"
+  },
+  {
+   "full": "lucidrains/vit-pytorch",
+   "desc": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+   "stars": 25555,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "transformers",
+    "artificial-intelligence",
+    "image-classification",
+    "attention-mechanism"
+   ],
+   "updated": "2026-11-01T03:52:46Z"
+  },
+  {
+   "full": "junyanz/pytorch-CycleGAN-and-pix2pix",
+   "desc": "Image-to-Image Translation in PyTorch",
+   "stars": 25273,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "computer-graphics",
+    "pytorch",
+    "generative-adversarial-network",
+    "gan",
+    "image-manipulation",
+    "image-generation",
+    "gans",
+    "pix2pix",
+    "cyclegan"
+   ],
+   "updated": "2025-08-06T17:58:38Z"
+  },
+  {
+   "full": "graphdeco-inria/gaussian-splatting",
+   "desc": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+   "stars": 24398,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "computer-graphics",
+    "radiance-field"
+   ],
+   "updated": "2025-10-17T14:28:15Z"
+  },
+  {
+   "full": "MaaAssistantArknights/MaaAssistantArknights",
+   "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+   "stars": 24230,
+   "lang": "C++",
+   "topics": [
+    "computer-vision",
+    "maa",
+    "arknights"
+   ],
+   "updated": "2026-11-02T18:31:22Z"
+  },
+  {
+   "full": "AccumulateMore/CV",
+   "desc": "✅（已完结）超级全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】【大飞 大模型Agent】",
+   "stars": 24191,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "nlp",
+    "agent",
+    "machine-learning",
+    "natural-language-processing",
+    "computer-vision",
+    "deep-learning",
+    "book",
+    "notebook",
+    "cv",
+    "jupyter-notebook",
+    "chinese"
+   ],
+   "updated": "2026-09-20T00:41:31Z"
+  },
+  {
+   "full": "spmallick/learnopencv",
+   "desc": "Learn OpenCV : C++ and Python Examples",
+   "stars": 23229,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "opencv",
+    "machine-learning",
+    "deep-neural-networks",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "deeplearning",
+    "opencv-library",
+    "opencv-python",
+    "computervision",
+    "opencv3",
+    "opencv-tutorial"
+   ],
+   "updated": "2026-10-22T14:31:41Z"
+  },
+  {
+   "full": "amusi/CVPR2026-Papers-with-Code",
+   "desc": "CVPR 2026 论文和开源项目合集",
+   "stars": 22939,
+   "lang": null,
+   "topics": [
+    "python",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "paper",
+    "image-processing",
+    "transformers",
+    "transformer",
+    "object-detection",
+    "image-segmentation",
+    "visual-tracking",
+    "semantic-segmentation"
+   ],
+   "updated": "2026-03-08T07:27:34Z"
+  },
+  {
+   "full": "screenpipe/screenpipe",
+   "desc": "YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context",
+   "stars": 22209,
+   "lang": "Rust",
+   "topics": [
+    "machine-learning",
+    "privacy",
+    "ai",
+    "computer-vision",
+    "mcp",
+    "agi",
+    "ycombinator",
+    "hermes",
+    "speech-to-text",
+    "audio-recording",
+    "agents",
+    "rewind"
+   ],
+   "updated": "2026-11-02T19:57:59Z"
+  },
+  {
+   "full": "AlexeyAB/darknet",
+   "desc": "YOLOv4 / Scaled-YOLOv4 / YOLO - Neural Networks for Object Detection (Windows and Linux version of Darknet )",
+   "stars": 22135,
+   "lang": "C",
+   "topics": [
+    "deep-neural-networks",
+    "computer-vision",
+    "deep-learning",
+    "neural-network",
+    "dnn",
+    "yolo",
+    "object-detection",
+    "deep-learning-tutorial",
+    "yolov3",
+    "yolov4",
+    "scaledyolov4",
+    "scaled-yolov4"
+   ],
+   "updated": "2025-12-15T16:10:05Z"
+  },
+  {
+   "full": "huggingface/datasets",
+   "desc": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+   "stars": 22105,
+   "lang": "Python",
+   "topics": [
+    "nlp",
+    "machine-learning",
+    "natural-language-processing",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "tensorflow",
+    "numpy",
+    "speech",
+    "pandas",
+    "pytorch",
+    "artificial-intelligence"
+   ],
+   "updated": "2026-10-30T14:50:40Z"
+  },
+  {
+   "full": "ShusenTang/Dive-into-DL-PyTorch",
+   "desc": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。",
+   "stars": 19525,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "natural-language-processing",
+    "computer-vision",
+    "deep-learning",
+    "pytorch",
+    "deep-learning-tutorial",
+    "d2l",
+    "pytorch-tutorial"
+   ],
+   "updated": "2021-10-14T08:59:15Z"
+  },
+  {
+   "full": "microsoft/AirSim",
+   "desc": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+   "stars": 18594,
+   "lang": "C++",
+   "topics": [
+    "simulator",
+    "research",
+    "ai",
+    "computer-vision",
+    "cross-platform",
+    "deep-reinforcement-learning",
+    "artificial-intelligence",
+    "pixhawk",
+    "self-driving-car",
+    "unreal-engine",
+    "drones",
+    "deeplearning"
+   ],
+   "updated": "2026-09-15T16:17:06Z"
+  },
+  {
+   "full": "pytorch/vision",
+   "desc": "Datasets, Transforms and Models specific to Computer Vision",
+   "stars": 17983,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "computer-vision"
+   ],
+   "updated": "2026-11-02T11:35:12Z"
+  },
+  {
+   "full": "NVlabs/instant-ngp",
+   "desc": "Instant neural graphics primitives: lightning fast NeRF and more",
+   "stars": 17585,
+   "lang": "Cuda",
+   "topics": [
+    "machine-learning",
+    "real-time",
+    "computer-vision",
+    "neural-network",
+    "computer-graphics",
+    "realtime",
+    "cuda",
+    "signed-distance-functions",
+    "nerf",
+    "3d-reconstruction",
+    "function-approximation",
+    "real-time-rendering"
+   ],
+   "updated": "2026-02-02T12:32:34Z"
+  },
+  {
+   "full": "cvat-ai/cvat",
+   "desc": "CVAT is a leading data annotation platform for image, video, audio, and 3D datasets. It offers open-source, cloud, and enterprise products, as well as labeling services, with AI-assisted labeling, quality assurance, team collaboration, anal",
+   "stars": 17051,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "image-annotation",
+    "annotation",
+    "video-annotation",
+    "annotations",
+    "dataset",
+    "yolo",
+    "image-classification",
+    "object-detection",
+    "labeling",
+    "semantic-segmentation",
+    "annotation-tool"
+   ],
+   "updated": "2026-11-02T17:35:28Z"
+  },
+  {
+   "full": "bharathgs/Awesome-pytorch-list",
+   "desc": "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.",
+   "stars": 16733,
+   "lang": null,
+   "topics": [
+    "python",
+    "nlp",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "awesome",
+    "facebook",
+    "computer-vision",
+    "deep-learning",
+    "neural-network",
+    "cv",
+    "tutorials"
+   ],
+   "updated": "2026-09-22T06:52:29Z"
+  },
+  {
+   "full": "wkentaro/labelme",
+   "desc": "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.",
+   "stars": 16256,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "computer-vision",
+    "deep-learning",
+    "image-annotation",
+    "video-annotation",
+    "annotations",
+    "classification",
+    "semantic-segmentation",
+    "instance-segmentation"
+   ],
+   "updated": "2026-11-02T13:38:18Z"
+  },
+  {
+   "full": "virgili0/Virgilio",
+   "desc": "Your new Mentor for Data Science E-Learning.",
+   "stars": 15005,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "nlp",
+    "learning",
+    "data-science",
+    "machine-learning",
+    "statistics",
+    "computer-vision",
+    "study",
+    "tensorflow",
+    "guide",
+    "scikit-learn",
+    "learning-python"
+   ],
+   "updated": "2025-10-14T17:32:44Z"
+  },
+  {
+   "full": "NVIDIA/DeepLearningExamples",
+   "desc": "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
+   "stars": 14870,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "nlp",
+    "translation",
+    "computer-vision",
+    "deep-learning",
+    "mxnet",
+    "tensorflow",
+    "pytorch",
+    "speech-synthesis",
+    "speech-recognition",
+    "forecasting",
+    "drug-discovery",
+    "recommender-systems"
+   ],
+   "updated": "2024-08-12T14:01:29Z"
+  },
+  {
+   "full": "carla-simulator/carla",
+   "desc": "Open-source simulator for autonomous driving research.",
+   "stars": 14567,
+   "lang": "C++",
+   "topics": [
+    "simulator",
+    "research",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "cross-platform",
+    "deep-reinforcement-learning",
+    "artificial-intelligence",
+    "ros",
+    "self-driving-car",
+    "ue4",
+    "autonomous-driving"
+   ],
+   "updated": "2026-11-02T16:32:57Z"
+  },
+  {
+   "full": "davisking/dlib",
+   "desc": "A toolkit for making real world machine learning and data analysis applications in C++",
+   "stars": 14468,
+   "lang": "C++",
+   "topics": [
+    "python",
+    "c-plus-plus",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "machine-learning-library",
+    "dlib"
+   ],
+   "updated": "2026-10-31T23:55:36Z"
+  },
+  {
+   "full": "davidsandberg/facenet",
+   "desc": "Face recognition using Tensorflow",
+   "stars": 14360,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "tensorflow",
+    "face-recognition",
+    "face-detection",
+    "facenet",
+    "mtcnn"
+   ],
+   "updated": "2023-07-24T12:43:21Z"
+  },
+  {
+   "full": "mlfoundations/open_clip",
+   "desc": "An open source implementation of CLIP.",
+   "stars": 14238,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "pytorch",
+    "pretrained-models",
+    "language-model",
+    "contrastive-loss",
+    "multi-modal-learning",
+    "zero-shot-classification"
+   ],
+   "updated": "2026-10-29T21:28:44Z"
+  },
+  {
+   "full": "colmap/colmap",
+   "desc": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+   "stars": 13134,
+   "lang": "C++",
+   "topics": [
+    "computer-vision",
+    "geometry",
+    "structure-from-motion",
+    "reconstruction",
+    "multi-view-stereo"
+   ],
+   "updated": "2026-11-02T11:05:21Z"
+  },
+  {
+   "full": "alicevision/Meshroom",
+   "desc": "Node-based Visual Programming Toolbox",
+   "stars": 13061,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "structure-from-motion",
+    "multi-view-stereo",
+    "image-stitching",
+    "photogrammetry",
+    "3d-reconstruction",
+    "workflow-automation",
+    "camera-tracking",
+    "texturing",
+    "hdr-imaging",
+    "nocode",
+    "meshroom"
+   ],
+   "updated": "2026-11-02T15:14:57Z"
+  },
+  {
+   "full": "jacobgil/pytorch-grad-cam",
+   "desc": "Advanced AI Explainability for computer vision. Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more.",
+   "stars": 13005,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "grad-cam",
+    "pytorch",
+    "image-classification",
+    "object-detection",
+    "visualizations",
+    "interpretability",
+    "class-activation-maps",
+    "interpretable-deep-learning",
+    "interpretable-ai"
+   ],
+   "updated": "2026-11-01T05:07:17Z"
+  },
+  {
+   "full": "mudler/LocalAI",
+   "desc": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+   "stars": 50140,
+   "lang": "Go",
+   "topics": [
+    "api",
+    "ai",
+    "mcp",
+    "decentralized",
+    "text-generation",
+    "distributed",
+    "tts",
+    "image-generation",
+    "llama",
+    "object-detection",
+    "agents",
+    "mamba"
+   ],
+   "updated": "2026-11-02T20:11:31Z"
+  },
+  {
+   "full": "blakeblackshear/frigate",
+   "desc": "NVR with realtime local object detection for IP cameras",
+   "stars": 37160,
+   "lang": "Python",
+   "topics": [
+    "home-automation",
+    "mqtt",
+    "ai",
+    "camera",
+    "rtsp",
+    "tensorflow",
+    "nvr",
+    "realtime",
+    "home-assistant",
+    "homeautomation",
+    "object-detection",
+    "google-coral"
+   ],
+   "updated": "2026-11-02T18:46:03Z"
+  },
+  {
+   "full": "open-mmlab/mmdetection",
+   "desc": "OpenMMLab Detection Toolbox and Benchmark",
+   "stars": 33022,
+   "lang": "Python",
+   "topics": [
+    "pytorch",
+    "fast-rcnn",
+    "transformer",
+    "yolo",
+    "ssd",
+    "faster-rcnn",
+    "object-detection",
+    "glip",
+    "instance-segmentation",
+    "mask-rcnn",
+    "retinanet",
+    "semisupervised-learning"
+   ],
+   "updated": "2024-08-21T02:01:07Z"
+  },
+  {
+   "full": "WZMIAOMIAO/deep-learning-for-image-processing",
+   "desc": "deep learning for image processing including classification and object-detection etc.",
+   "stars": 26441,
+   "lang": "Python",
+   "topics": [
+    "deep-learning",
+    "pytorch",
+    "classification",
+    "segmentation",
+    "bilibili",
+    "object-detection",
+    "tensorflow2"
+   ],
+   "updated": "2026-01-01T07:16:34Z"
+  },
+  {
+   "full": "matterport/Mask_RCNN",
+   "desc": "Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow",
+   "stars": 25576,
+   "lang": "Python",
+   "topics": [
+    "tensorflow",
+    "keras",
+    "object-detection",
+    "instance-segmentation",
+    "mask-rcnn"
+   ],
+   "updated": "2024-06-07T02:36:21Z"
+  },
+  {
+   "full": "microsoft/Swin-Transformer",
+   "desc": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
+   "stars": 16086,
+   "lang": "Python",
+   "topics": [
+    "imagenet",
+    "image-classification",
+    "object-detection",
+    "semantic-segmentation",
+    "mscoco",
+    "mask-rcnn",
+    "ade20k",
+    "swin-transformer"
+   ],
+   "updated": "2024-07-24T17:09:57Z"
+  },
+  {
+   "full": "albumentations-team/albumentations",
+   "desc": "Fast and flexible image augmentation library. Paper about the library: https://www.mdpi.com/2078-2489/11/2/125",
+   "stars": 15300,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "deep-learning",
+    "detection",
+    "image-processing",
+    "image-classification",
+    "segmentation",
+    "object-detection",
+    "image-segmentation",
+    "image-augmentation",
+    "augmentation",
+    "fast-augmentations"
+   ],
+   "updated": "2025-06-25T23:21:43Z"
+  },
+  {
+   "full": "PaddlePaddle/PaddleDetection",
+   "desc": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+   "stars": 14454,
+   "lang": "Python",
+   "topics": [
+    "faster-rcnn",
+    "face-detection",
+    "object-detection",
+    "human-pose-estimation",
+    "human-activity-recognition",
+    "multi-object-tracking",
+    "instance-segmentation",
+    "mask-rcnn",
+    "yolov3",
+    "deepsort",
+    "fcos",
+    "blazeface"
+   ],
+   "updated": "2026-05-28T07:28:31Z"
+  },
+  {
+   "full": "extreme-assistant/CVPR2024-Paper-Code-Interpretation",
+   "desc": "cvpr2024/cvpr2023/cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理",
+   "stars": 12458,
+   "lang": null,
+   "topics": [
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "image-classification",
+    "object-detection",
+    "papers",
+    "image-segmentation",
+    "cvpr2019",
+    "cvpr2020",
+    "cvpr2021",
+    "cvpr2022"
+   ],
+   "updated": "2024-04-25T10:43:41Z"
+  },
+  {
+   "full": "hoya012/deep_learning_object_detection",
+   "desc": "A paper list of object detection using deep learning.",
+   "stars": 11378,
+   "lang": "Python",
+   "topics": [
+    "deep-neural-networks",
+    "deep-learning",
+    "deeplearning",
+    "object-detection",
+    "objectdetection"
+   ],
+   "updated": "2024-02-12T09:30:31Z"
+  },
+  {
+   "full": "voxel51/fiftyone",
+   "desc": "Refine high-quality datasets and visual AI models",
+   "stars": 11261,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "python",
+    "data-science",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "artificial-intelligence",
+    "developer-tools",
+    "image-classification",
+    "object-detection",
+    "data-cleaning",
+    "active-learning"
+   ],
+   "updated": "2026-11-02T14:17:50Z"
+  },
+  {
+   "full": "CVHub520/X-AnyLabeling",
+   "desc": "X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, point cloud and multimodal data, combining versatile built-in tools with state-of-the-art AI models and flexible mult",
+   "stars": 10870,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "ocr",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "point-cloud",
+    "sam",
+    "yolo",
+    "image-classification",
+    "object-detection",
+    "pose-estimation",
+    "paddlepaddle"
+   ],
+   "updated": "2026-11-02T17:13:03Z"
+  },
+  {
+   "full": "autogluon/autogluon",
+   "desc": "Fast and Accurate ML in 3 Lines of Code",
+   "stars": 10809,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "computer-vision",
+    "deep-learning",
+    "time-series",
+    "scikit-learn",
+    "tabular-data",
+    "pytorch",
+    "forecasting",
+    "hyperparameter-optimization"
+   ],
+   "updated": "2026-11-02T09:03:15Z"
+  },
+  {
+   "full": "IDEA-Research/GroundingDINO",
+   "desc": "[ECCV 2024] Official implementation of the paper \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
+   "stars": 10728,
+   "lang": "Python",
+   "topics": [
+    "open-world",
+    "object-detection",
+    "vision-language",
+    "vision-language-transformer",
+    "open-world-detection"
+   ],
+   "updated": "2024-08-12T08:52:02Z"
+  },
+  {
+   "full": "Megvii-BaseDetection/YOLOX",
+   "desc": "YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/",
+   "stars": 10687,
+   "lang": "Python",
+   "topics": [
+    "deep-learning",
+    "pytorch",
+    "yolo",
+    "object-detection",
+    "tensorrt",
+    "ncnn",
+    "onnx",
+    "yolov3",
+    "openvino",
+    "megengine",
+    "yolox"
+   ],
+   "updated": "2025-06-08T03:52:54Z"
+  },
+  {
+   "full": "ultralytics/yolov3",
+   "desc": "PyTorch implementation of YOLOv3, YOLOv3-SPP, and YOLOv3-tiny for real-time object detection with training, validation, inference, and multi-format export.",
+   "stars": 10630,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "inference",
+    "pytorch",
+    "yolo",
+    "object-detection",
+    "tensorrt",
+    "model-training",
+    "coreml",
+    "onnx",
+    "model-export",
+    "yolov3"
+   ],
+   "updated": "2026-11-01T13:39:01Z"
+  },
+  {
+   "full": "satellite-image-deep-learning/techniques",
+   "desc": "Techniques for deep learning with satellite & aerial imagery",
+   "stars": 10299,
+   "lang": null,
+   "topics": [
+    "python",
+    "machine-learning",
+    "deep-neural-networks",
+    "deep-learning",
+    "pytorch",
+    "sentinel",
+    "dataset",
+    "remote-sensing",
+    "image-classification",
+    "convolutional-neural-networks",
+    "object-detection",
+    "satellite-imagery"
+   ],
+   "updated": "2026-10-31T14:44:21Z"
+  },
+  {
+   "full": "roboflow/rf-detr",
+   "desc": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]",
+   "stars": 9951,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "computer-vision",
+    "object-detection",
+    "sota",
+    "instance-segmentation",
+    "detr",
+    "rf-detr"
+   ],
+   "updated": "2026-11-02T19:49:52Z"
+  },
+  {
+   "full": "microsoft/computervision-recipes",
+   "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+   "stars": 9890,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "microsoft",
+    "python",
+    "kubernetes",
+    "data-science",
+    "machine-learning",
+    "tutorial",
+    "computer-vision",
+    "deep-learning",
+    "azure",
+    "jupyter-notebook",
+    "image-processing",
+    "similarity"
+   ],
+   "updated": "2024-02-16T23:55:05Z"
+  },
+  {
+   "full": "roboflow/notebooks",
+   "desc": "A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like RF-DETR, YOLO11, SAM 3, and Qwen3-VL.",
+   "stars": 9735,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "machine-learning",
+    "tutorial",
+    "deep-neural-networks",
+    "computer-vision",
+    "deep-learning",
+    "pytorch",
+    "image-classification",
+    "object-detection",
+    "image-segmentation",
+    "vlm",
+    "google-colab",
+    "zero-shot-detection"
+   ],
+   "updated": "2026-09-22T15:05:46Z"
+  },
+  {
+   "full": "dusty-nv/jetson-inference",
+   "desc": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+   "stars": 9029,
+   "lang": "C++",
+   "topics": [
+    "machine-learning",
+    "embedded",
+    "caffe",
+    "computer-vision",
+    "deep-learning",
+    "robotics",
+    "inference",
+    "nvidia",
+    "digits",
+    "image-recognition",
+    "segmentation",
+    "object-detection"
+   ],
+   "updated": "2025-10-16T17:34:47Z"
+  },
+  {
+   "full": "OlafenwaMoses/ImageAI",
+   "desc": "A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities",
+   "stars": 8895,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "algorithm",
+    "video",
+    "gpu",
+    "detection",
+    "prediction",
+    "python3",
+    "artificial-intelligence",
+    "artificial-neural-networks",
+    "image-recognition",
+    "densenet"
+   ],
+   "updated": "2024-08-03T09:45:20Z"
+  },
+  {
+   "full": "microsoft/ailab",
+   "desc": "Experience, Learn and Code the latest breakthrough innovations with Microsoft AI",
+   "stars": 7847,
+   "lang": "C#",
+   "topics": [
+    "javascript",
+    "bot",
+    "iot",
+    "ocr",
+    "html5",
+    "translation",
+    "ai",
+    "computer-vision",
+    "csharp",
+    "algorithms",
+    "language-learning",
+    "dnn"
+   ],
+   "updated": "2024-06-26T19:42:37Z"
+  },
+  {
+   "full": "amusi/awesome-object-detection",
+   "desc": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
+   "stars": 7513,
+   "lang": null,
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "detection",
+    "object-detection",
+    "object-localisation"
+   ],
+   "updated": "2022-12-17T04:28:58Z"
+  },
+  {
+   "full": "tensorlayer/TensorLayer",
+   "desc": "Deep Learning and Reinforcement Learning Library for Scientists and Engineers",
+   "stars": 7385,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "google",
+    "reinforcement-learning",
+    "deep-learning",
+    "neural-network",
+    "tensorflow",
+    "chatbot",
+    "artificial-intelligence",
+    "gan",
+    "dqn",
+    "imagenet",
+    "tensorflow-tutorials"
+   ],
+   "updated": "2023-02-18T07:58:21Z"
+  },
+  {
+   "full": "amusi/daily-paper-computer-vision",
+   "desc": "记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文",
+   "stars": 6801,
+   "lang": null,
+   "topics": [
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "paper",
+    "face-detection",
+    "object-detection"
+   ],
+   "updated": "2023-07-08T08:14:09Z"
+  },
+  {
+   "full": "open-mmlab/mmdetection3d",
+   "desc": "OpenMMLab's next-generation platform for general 3D object detection.",
+   "stars": 6571,
+   "lang": "Python",
+   "topics": [
+    "point-cloud",
+    "pytorch",
+    "object-detection",
+    "3d-object-detection"
+   ],
+   "updated": "2024-07-10T15:19:34Z"
+  },
+  {
+   "full": "google/automl",
+   "desc": "Google Brain AutoML",
+   "stars": 6475,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "object-detection",
+    "automl",
+    "efficientnet",
+    "efficientdet",
+    "efficientnetv2"
+   ],
+   "updated": "2025-03-02T07:46:39Z"
+  },
+  {
+   "full": "PaddlePaddle/PaddleX",
+   "desc": "All-in-One Development Tool based on PaddlePaddle",
+   "stars": 6290,
+   "lang": "Python",
+   "topics": [
+    "ocr",
+    "time-series",
+    "deployment",
+    "speech-recognition",
+    "classification",
+    "segmentation",
+    "object-detection",
+    "ai-pipelines",
+    "layout-detection",
+    "formula-recognition",
+    "pp-chatocr",
+    "pdf2markdown"
+   ],
+   "updated": "2026-10-20T09:48:57Z"
+  },
+  {
+   "full": "RangiLyu/nanodet",
+   "desc": "NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥",
+   "stars": 6277,
+   "lang": "Python",
+   "topics": [
+    "android",
+    "deep-neural-networks",
+    "deep-learning",
+    "model-zoo",
+    "pytorch",
+    "object-detection",
+    "mnn",
+    "shufflenet",
+    "ncnn",
+    "openvino",
+    "anchor-free",
+    "efficientnet"
+   ],
+   "updated": "2024-08-08T02:52:55Z"
+  },
+  {
+   "full": "thtrieu/darkflow",
+   "desc": "Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices",
+   "stars": 6139,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "real-time",
+    "deep-neural-networks",
+    "deep-learning",
+    "graph",
+    "tensorflow",
+    "image-processing",
+    "convolutional-networks",
+    "convolutional-neural-networks",
+    "object-detection",
+    "darknet",
+    "mobile-development"
+   ],
+   "updated": "2023-10-23T23:26:26Z"
+  },
+  {
+   "full": "dmlc/gluon-cv",
+   "desc": "Gluon CV Toolkit",
+   "stars": 5913,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "neural-network",
+    "mxnet",
+    "gan",
+    "image-classification",
+    "object-detection",
+    "gluon",
+    "semantic-segmentation",
+    "action-recognition",
+    "pose-estimation"
+   ],
+   "updated": "2024-11-25T15:30:52Z"
+  },
+  {
+   "full": "meituan/YOLOv6",
+   "desc": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
+   "stars": 5894,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "pytorch",
+    "yolo",
+    "object-detection"
+   ],
+   "updated": "2024-08-07T18:20:33Z"
+  }
+ ]
+}

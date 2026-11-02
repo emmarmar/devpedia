@@ -1,0 +1,1477 @@
+{
+ "subId": "multimedia",
+ "topics": [
+  "video",
+  "image-processing"
+ ],
+ "crawledAt": "2026-11-02T20:20:33.809Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "remotion-dev/remotion",
+   "desc": "🎥 Make videos programmatically with React",
+   "stars": 70055,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "video"
+   ],
+   "updated": "2026-11-02T20:14:14Z"
+  },
+  {
+   "full": "FFmpeg/FFmpeg",
+   "desc": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
+   "stars": 66307,
+   "lang": "C",
+   "topics": [
+    "audio",
+    "c",
+    "streaming",
+    "video",
+    "rtsp",
+    "ffmpeg",
+    "mp4",
+    "hls",
+    "multimedia",
+    "rtmp",
+    "webm",
+    "mpeg"
+   ],
+   "updated": "2026-11-02T18:23:14Z"
+  },
+  {
+   "full": "iina/iina",
+   "desc": "The modern video player for macOS.",
+   "stars": 46986,
+   "lang": "Swift",
+   "topics": [
+    "macos",
+    "swift",
+    "video",
+    "video-player",
+    "mpv",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-01T22:36:20Z"
+  },
+  {
+   "full": "imputnet/cobalt",
+   "desc": "best way to save what you love",
+   "stars": 45722,
+   "lang": "Svelte",
+   "topics": [
+    "javascript",
+    "music",
+    "instagram",
+    "downloader",
+    "youtube",
+    "vimeo",
+    "social-media",
+    "typescript",
+    "twitter",
+    "video",
+    "reddit",
+    "soundcloud"
+   ],
+   "updated": "2026-04-06T11:59:56Z"
+  },
+  {
+   "full": "mifi/lossless-cut",
+   "desc": "The swiss army knife of lossless video/audio editing",
+   "stars": 45623,
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "player",
+    "video",
+    "ffmpeg",
+    "video-files",
+    "cut",
+    "lossless",
+    "codec",
+    "video-editor",
+    "losslesscut"
+   ],
+   "updated": "2026-11-01T05:33:35Z"
+  },
+  {
+   "full": "TeamNewPipe/NewPipe",
+   "desc": "A libre lightweight streaming front-end for Android.",
+   "stars": 40406,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "video",
+    "translation",
+    "soundcloud",
+    "watch",
+    "youtube-video",
+    "bandcamp",
+    "download-videos",
+    "newpipe",
+    "4k",
+    "peertube"
+   ],
+   "updated": "2026-11-02T12:35:38Z"
+  },
+  {
+   "full": "videojs/video.js",
+   "desc": "Video.js v10 - open source media player framework for HTML and React.",
+   "stars": 40059,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "html",
+    "player",
+    "video",
+    "html5",
+    "vue",
+    "hls",
+    "video-player",
+    "html5-video",
+    "svelte",
+    "dash"
+   ],
+   "updated": "2026-11-02T19:55:02Z"
+  },
+  {
+   "full": "mpv-player/mpv",
+   "desc": "🎥 Command line media player",
+   "stars": 37679,
+   "lang": "C",
+   "topics": [
+    "audio",
+    "c",
+    "video",
+    "ffmpeg",
+    "multimedia",
+    "mpv",
+    "mplayer"
+   ],
+   "updated": "2026-11-02T04:29:24Z"
+  },
+  {
+   "full": "bilibili/ijkplayer",
+   "desc": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+   "stars": 33233,
+   "lang": "C",
+   "topics": [
+    "android",
+    "ios",
+    "player",
+    "video",
+    "ffmpeg",
+    "ijkplayer"
+   ],
+   "updated": "2024-08-13T00:53:33Z"
+  },
+  {
+   "full": "iawia002/lux",
+   "desc": "👾 Fast and simple video download library and CLI tool written in Go",
+   "stars": 31818,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "crawler",
+    "scraper",
+    "downloader",
+    "youtube",
+    "video",
+    "download",
+    "tumblr",
+    "bilibili",
+    "qq",
+    "youku"
+   ],
+   "updated": "2026-03-29T18:18:56Z"
+  },
+  {
+   "full": "jitsi/jitsi-meet",
+   "desc": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+   "stars": 30188,
+   "lang": "TypeScript",
+   "topics": [
+    "video",
+    "debian",
+    "webrtc",
+    "sfu",
+    "video-conferencing",
+    "video-communication",
+    "jitsi",
+    "jitsi-meet",
+    "scalable-video-conferences",
+    "deep-video"
+   ],
+   "updated": "2026-11-02T19:27:25Z"
+  },
+  {
+   "full": "ossrs/srs",
+   "desc": "SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
+   "stars": 29414,
+   "lang": "C++",
+   "topics": [
+    "audio",
+    "c-plus-plus",
+    "streaming",
+    "video",
+    "hls",
+    "multimedia",
+    "rtmp",
+    "webrtc",
+    "live-streaming",
+    "live",
+    "media-server",
+    "dash"
+   ],
+   "updated": "2026-10-31T00:42:24Z"
+  },
+  {
+   "full": "NickeManarin/ScreenToGif",
+   "desc": "🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.",
+   "stars": 27887,
+   "lang": "C#",
+   "topics": [
+    "editor",
+    "video",
+    "wpf",
+    "gif",
+    "recorder",
+    "webcam",
+    "sketchboard"
+   ],
+   "updated": "2026-10-14T15:04:38Z"
+  },
+  {
+   "full": "hypit-ai/hypit",
+   "desc": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+   "stars": 27534,
+   "lang": "TypeScript",
+   "topics": [
+    "programming-language",
+    "typescript",
+    "video",
+    "ai",
+    "ffmpeg",
+    "compiler",
+    "dsl",
+    "monorepo",
+    "markup-language",
+    "video-editing",
+    "plugin-system",
+    "ai-agents"
+   ],
+   "updated": "2026-11-02T11:21:51Z"
+  },
+  {
+   "full": "iv-org/invidious",
+   "desc": "Invidious is an alternative front-end to YouTube",
+   "stars": 25830,
+   "lang": "Crystal",
+   "topics": [
+    "youtube",
+    "video",
+    "watch",
+    "youtube-video",
+    "libre",
+    "agplv3",
+    "hacktoberfest",
+    "invidious"
+   ],
+   "updated": "2026-11-02T03:58:01Z"
+  },
+  {
+   "full": "FreeTubeApp/FreeTube",
+   "desc": "An Open Source YouTube app for privacy",
+   "stars": 22296,
+   "lang": "Vue",
+   "topics": [
+    "youtube",
+    "privacy",
+    "video",
+    "videos",
+    "subscriptions",
+    "freetube"
+   ],
+   "updated": "2026-11-02T19:51:33Z"
+  },
+  {
+   "full": "livekit/livekit",
+   "desc": "End-to-end realtime stack for connecting humans and AI",
+   "stars": 21994,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "video",
+    "webrtc",
+    "voice",
+    "media-server",
+    "sfu",
+    "voice-ai"
+   ],
+   "updated": "2026-11-02T20:00:16Z"
+  },
+  {
+   "full": "bloc97/Anime4K",
+   "desc": "A High-Quality Real Time Upscaler for Anime Video",
+   "stars": 21595,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "video",
+    "anime",
+    "computer-graphics",
+    "cnn",
+    "video-processing",
+    "neural-networks",
+    "convolutional-neural-networks",
+    "upsampling",
+    "super-resolution",
+    "upscaling",
+    "denoising-algorithms",
+    "anime4k"
+   ],
+   "updated": "2024-08-17T12:09:12Z"
+  },
+  {
+   "full": "CarGuo/GSYVideoPlayer",
+   "desc": "Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subtitles, support for filters, watermarks, and GIF screenshots, pre-roll and mid-roll ads, multiple simultaneous playback, bas",
+   "stars": 21526,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "ssl",
+    "player",
+    "video",
+    "ffmpeg",
+    "exoplayer",
+    "ijkplayer",
+    "videocache",
+    "16k",
+    "gsy"
+   ],
+   "updated": "2026-10-10T05:15:46Z"
+  },
+  {
+   "full": "open-ani/animeko",
+   "desc": "集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform",
+   "stars": 21437,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "kotlin",
+    "windows",
+    "macos",
+    "linux",
+    "ios",
+    "player",
+    "torrent",
+    "video",
+    "bittorrent",
+    "anime",
+    "danmaku"
+   ],
+   "updated": "2026-11-02T15:26:59Z"
+  },
+  {
+   "full": "charmbracelet/vhs",
+   "desc": "Your CLI home video recorder 📼",
+   "stars": 21251,
+   "lang": "Go",
+   "topics": [
+    "cli",
+    "terminal",
+    "video",
+    "command-line",
+    "ascii",
+    "gif",
+    "recording",
+    "vhs"
+   ],
+   "updated": "2026-11-02T13:18:37Z"
+  },
+  {
+   "full": "alyssaxuu/screenity",
+   "desc": "The free and privacy-friendly screen recorder with no limits 🎥",
+   "stars": 18894,
+   "lang": "JavaScript",
+   "topics": [
+    "audio",
+    "javascript",
+    "chrome-extension",
+    "editor",
+    "productivity",
+    "design",
+    "video",
+    "camera",
+    "ffmpeg",
+    "annotation",
+    "tensorflow",
+    "screen-recorder"
+   ],
+   "updated": "2026-10-25T11:04:48Z"
+  },
+  {
+   "full": "ahmedkhaleel2004/gitdiagram",
+   "desc": "Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.",
+   "stars": 18697,
+   "lang": "TypeScript",
+   "topics": [
+    "github",
+    "video",
+    "ai",
+    "code",
+    "nextjs",
+    "developer-tools",
+    "mermaid",
+    "software-architecture",
+    "code-visualization",
+    "system-design",
+    "architecture-diagram",
+    "diagram-generator"
+   ],
+   "updated": "2026-10-30T06:52:07Z"
+  },
+  {
+   "full": "mahmoud/awesome-python-applications",
+   "desc": "💿 Free software that works great, and also happens to be open-source Python.",
+   "stars": 18133,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "audio",
+    "game",
+    "python",
+    "productivity",
+    "science",
+    "education",
+    "application",
+    "gui",
+    "video",
+    "graphics"
+   ],
+   "updated": "2026-10-18T07:15:39Z"
+  },
+  {
+   "full": "ffmpegwasm/ffmpeg.wasm",
+   "desc": "FFmpeg for browser, powered by WebAssembly",
+   "stars": 17940,
+   "lang": "C",
+   "topics": [
+    "audio",
+    "video",
+    "ffmpeg",
+    "wasm",
+    "transcode",
+    "experimental-features"
+   ],
+   "updated": "2026-09-29T21:30:20Z"
+  },
+  {
+   "full": "storytold/filmcraft",
+   "desc": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
+   "stars": 17303,
+   "lang": "Rust",
+   "topics": [
+    "art",
+    "rust",
+    "video",
+    "video-processing",
+    "video-editing",
+    "video-editor"
+   ],
+   "updated": "2026-11-02T11:21:59Z"
+  },
+  {
+   "full": "AaronFeng753/Waifu2x-Extension-GUI",
+   "desc": "Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN, and ACNet.",
+   "stars": 17177,
+   "lang": "C++",
+   "topics": [
+    "video",
+    "anime",
+    "vulkan",
+    "waifu2x",
+    "video-processing",
+    "super-resolution",
+    "image-enlarger",
+    "noise-reduction",
+    "upscaling",
+    "ncnn",
+    "frame-interpolation",
+    "video-super-resolution"
+   ],
+   "updated": "2026-11-02T11:01:49Z"
+  },
+  {
+   "full": "video-dev/hls.js",
+   "desc": "HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.",
+   "stars": 17031,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "player",
+    "streaming",
+    "video",
+    "html5",
+    "stream",
+    "hls",
+    "playback",
+    "video-streaming",
+    "mediasource",
+    "http-live-streaming",
+    "ecmascript6"
+   ],
+   "updated": "2026-11-02T10:35:07Z"
+  },
+  {
+   "full": "pion/webrtc",
+   "desc": "Pure Go implementation of the WebRTC API",
+   "stars": 16874,
+   "lang": "Go",
+   "topics": [
+    "audio",
+    "go",
+    "golang",
+    "streaming",
+    "video",
+    "webrtc",
+    "p2p",
+    "webassembly",
+    "wasm",
+    "webcam",
+    "voip",
+    "ortc"
+   ],
+   "updated": "2026-11-02T18:24:48Z"
+  },
+  {
+   "full": "Tyrrrz/YoutubeDownloader",
+   "desc": "Downloads videos and playlists from YouTube",
+   "stars": 16606,
+   "lang": "C#",
+   "topics": [
+    "playlist",
+    "downloader",
+    "youtube",
+    "video",
+    "ffmpeg",
+    "mp4",
+    "download",
+    "webm",
+    "reverse-engineering",
+    "mp3"
+   ],
+   "updated": "2026-11-02T12:11:24Z"
+  },
+  {
+   "full": "DIYgod/DPlayer",
+   "desc": "🍭 Wow, such a lovely HTML5 danmaku video player",
+   "stars": 16531,
+   "lang": "JavaScript",
+   "topics": [
+    "player",
+    "video",
+    "hls",
+    "flv",
+    "dash",
+    "webtorrent",
+    "danmaku",
+    "dplayer"
+   ],
+   "updated": "2026-03-04T03:04:09Z"
+  },
+  {
+   "full": "leandromoreira/digital_video_introduction",
+   "desc": "A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸",
+   "stars": 16379,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "audio",
+    "learning",
+    "tutorial",
+    "compression",
+    "h264",
+    "video",
+    "ffmpeg",
+    "hls",
+    "guide",
+    "handson",
+    "dash",
+    "codec"
+   ],
+   "updated": "2026-09-02T21:43:42Z"
+  },
+  {
+   "full": "Chocobozzz/PeerTube",
+   "desc": "ActivityPub-federated video streaming platform using P2P directly in your web browser",
+   "stars": 15384,
+   "lang": "TypeScript",
+   "topics": [
+    "angular",
+    "video",
+    "decentralized",
+    "p2p",
+    "activitypub"
+   ],
+   "updated": "2026-11-02T09:52:31Z"
+  },
+  {
+   "full": "Zulko/moviepy",
+   "desc": "Video editing with Python",
+   "stars": 15077,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "video",
+    "animation",
+    "gif",
+    "video-processing",
+    "video-editing",
+    "hacktoberfest"
+   ],
+   "updated": "2026-08-26T06:17:08Z"
+  },
+  {
+   "full": "livekit/agents",
+   "desc": "A framework for building realtime voice AI agents 🤖🎙️📹",
+   "stars": 15062,
+   "lang": "Python",
+   "topics": [
+    "real-time",
+    "video",
+    "ai",
+    "voice",
+    "openai",
+    "agents"
+   ],
+   "updated": "2026-11-02T19:51:29Z"
+  },
+  {
+   "full": "Hunlongyu/ZY-Player",
+   "desc": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+   "stars": 14524,
+   "lang": "Vue",
+   "topics": [
+    "electron",
+    "player",
+    "video",
+    "vue",
+    "electron-application",
+    "electron-app",
+    "zy-player",
+    "zyplayer"
+   ],
+   "updated": "2023-02-09T06:33:07Z"
+  },
+  {
+   "full": "LuckSiege/PictureSelector",
+   "desc": "Picture Selector Library for Android or 图片选择器",
+   "stars": 13582,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "video",
+    "camera",
+    "images",
+    "image-picker",
+    "picker",
+    "glide",
+    "compress",
+    "photo",
+    "image-compression",
+    "android-image-selector",
+    "picture-selector"
+   ],
+   "updated": "2024-05-11T03:14:44Z"
+  },
+  {
+   "full": "stashapp/stash",
+   "desc": "An organizer for your porn, written in Go. Documentation: https://docs.stashapp.cc",
+   "stars": 13345,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "graphql",
+    "golang",
+    "json",
+    "video",
+    "media",
+    "organizer",
+    "hacktoberfest",
+    "organize",
+    "porn"
+   ],
+   "updated": "2026-11-02T18:33:22Z"
+  },
+  {
+   "full": "ctjhoa/rust-learning",
+   "desc": "A bunch of links to blog posts, articles, videos, etc for learning Rust",
+   "stars": 12276,
+   "lang": null,
+   "topics": [
+    "rust",
+    "tutorial",
+    "video",
+    "book",
+    "teaching",
+    "blog-article",
+    "learn",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-15T07:51:27Z"
+  },
+  {
+   "full": "owncast/owncast",
+   "desc": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
+   "stars": 11644,
+   "lang": "Go",
+   "topics": [
+    "chat",
+    "golang",
+    "video",
+    "hls",
+    "livestream",
+    "rtmp",
+    "decentralized",
+    "broadcasting",
+    "live",
+    "self-hosted",
+    "federation",
+    "streaming-video"
+   ],
+   "updated": "2026-10-26T19:03:37Z"
+  },
+  {
+   "full": "opencv/opencv",
+   "desc": "Open Source Computer Vision Library",
+   "stars": 91413,
+   "lang": "C++",
+   "topics": [
+    "opencv",
+    "c-plus-plus",
+    "computer-vision",
+    "deep-learning",
+    "image-processing"
+   ],
+   "updated": "2026-11-02T09:18:41Z"
+  },
+  {
+   "full": "roboflow/supervision",
+   "desc": "We write your reusable computer vision tools. 💜",
+   "stars": 51468,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "tracking",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "metrics",
+    "tensorflow",
+    "image-processing",
+    "pytorch",
+    "video-processing",
+    "yolo",
+    "classification"
+   ],
+   "updated": "2026-11-02T18:17:58Z"
+  },
+  {
+   "full": "ocrmypdf/OCRmyPDF",
+   "desc": "OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched",
+   "stars": 35217,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "pdf",
+    "ocr",
+    "image-processing",
+    "tesseract"
+   ],
+   "updated": "2026-10-25T07:47:57Z"
+  },
+  {
+   "full": "lovell/sharp",
+   "desc": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.",
+   "stars": 32817,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "svg",
+    "performance",
+    "image",
+    "resize",
+    "png",
+    "jpeg",
+    "tiff",
+    "image-processing",
+    "crop",
+    "exif"
+   ],
+   "updated": "2026-10-29T17:08:50Z"
+  },
+  {
+   "full": "JaidedAI/EasyOCR",
+   "desc": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+   "stars": 30123,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "information-retrieval",
+    "data-mining",
+    "ocr",
+    "deep-learning",
+    "image-processing",
+    "cnn",
+    "pytorch",
+    "lstm",
+    "optical-character-recognition",
+    "crnn"
+   ],
+   "updated": "2025-12-05T12:23:12Z"
+  },
+  {
+   "full": "GraphiteEditor/Graphite",
+   "desc": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine",
+   "stars": 27821,
+   "lang": "Rust",
+   "topics": [
+    "art",
+    "design",
+    "creative-coding",
+    "procedural-generation",
+    "animation",
+    "graphics",
+    "image-processing",
+    "procedural",
+    "procedural-drawing",
+    "image-manipulation",
+    "motion-graphics",
+    "motion-design"
+   ],
+   "updated": "2026-11-02T20:11:29Z"
+  },
+  {
+   "full": "danielgatis/rembg",
+   "desc": "Rembg is a tool to remove images background",
+   "stars": 25301,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "image-processing",
+    "background-removal"
+   ],
+   "updated": "2026-11-02T02:34:31Z"
+  },
+  {
+   "full": "amusi/CVPR2026-Papers-with-Code",
+   "desc": "CVPR 2026 论文和开源项目合集",
+   "stars": 22939,
+   "lang": null,
+   "topics": [
+    "python",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "paper",
+    "image-processing",
+    "transformers",
+    "transformer",
+    "object-detection",
+    "image-segmentation",
+    "visual-tracking",
+    "semantic-segmentation"
+   ],
+   "updated": "2026-03-08T07:27:34Z"
+  },
+  {
+   "full": "ImageMagick/ImageMagick",
+   "desc": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms",
+   "stars": 17787,
+   "lang": "C",
+   "topics": [
+    "imagemagick",
+    "image-processing",
+    "image-manipulation",
+    "image-conversion",
+    "open-source-software",
+    "mastering-digital-image-alchemy",
+    "digital-image-editing",
+    "command-line-image-tool"
+   ],
+   "updated": "2026-11-02T18:59:06Z"
+  },
+  {
+   "full": "lukas-blecher/LaTeX-OCR",
+   "desc": "pix2tex: Using a ViT to convert images of equations into LaTeX code.",
+   "stars": 16601,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "ocr",
+    "latex",
+    "deep-learning",
+    "image-processing",
+    "pytorch",
+    "dataset",
+    "transformer",
+    "vit",
+    "image2text",
+    "im2text"
+   ],
+   "updated": "2025-01-18T15:23:58Z"
+  },
+  {
+   "full": "pqina/filepond",
+   "desc": "🌊 A flexible and fun JavaScript file upload library",
+   "stars": 16392,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "plugin",
+    "vanilla",
+    "drag-and-drop",
+    "file-upload",
+    "image-processing",
+    "filepond"
+   ],
+   "updated": "2026-10-28T10:26:22Z"
+  },
+  {
+   "full": "albumentations-team/albumentations",
+   "desc": "Fast and flexible image augmentation library. Paper about the library: https://www.mdpi.com/2078-2489/11/2/125",
+   "stars": 15300,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "deep-learning",
+    "detection",
+    "image-processing",
+    "image-classification",
+    "segmentation",
+    "object-detection",
+    "image-segmentation",
+    "image-augmentation",
+    "augmentation",
+    "fast-augmentations"
+   ],
+   "updated": "2025-06-25T23:21:43Z"
+  },
+  {
+   "full": "guofei9987/blind_watermark",
+   "desc": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+   "stars": 14829,
+   "lang": "Python",
+   "topics": [
+    "image-processing",
+    "watermark",
+    "watermark-image",
+    "blind-watermark"
+   ],
+   "updated": "2026-03-25T09:09:28Z"
+  },
+  {
+   "full": "python-pillow/Pillow",
+   "desc": "Python Imaging Library (fork)",
+   "stars": 13961,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "c",
+    "image",
+    "cross-platform",
+    "image-processing",
+    "pillow",
+    "pil",
+    "python-3"
+   ],
+   "updated": "2026-11-02T19:00:43Z"
+  },
+  {
+   "full": "fengyuanchen/cropperjs",
+   "desc": "JavaScript image cropper.",
+   "stars": 13913,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "image-processing",
+    "cropper",
+    "image-cropper",
+    "cropperjs"
+   ],
+   "updated": "2026-10-16T12:48:33Z"
+  },
+  {
+   "full": "jwagner/smartcrop.js",
+   "desc": "Content aware image cropping",
+   "stars": 12959,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "image-processing",
+    "smartcrop"
+   ],
+   "updated": "2024-03-16T23:45:27Z"
+  },
+  {
+   "full": "kornia/kornia",
+   "desc": "🐍 Geometric Computer Vision Library for Spatial AI",
+   "stars": 12082,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "neural-network",
+    "robotics",
+    "image-processing",
+    "pytorch",
+    "artificial-intelligence",
+    "hacktoberfest",
+    "spatial-ai"
+   ],
+   "updated": "2026-11-02T19:56:57Z"
+  },
+  {
+   "full": "qubvel-org/segmentation_models.pytorch",
+   "desc": "Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.",
+   "stars": 11791,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "models",
+    "image-processing",
+    "transformers",
+    "pytorch",
+    "imagenet",
+    "segmentation",
+    "image-segmentation",
+    "unet",
+    "dpt",
+    "semantic-segmentation",
+    "pretrained-weights"
+   ],
+   "updated": "2026-11-02T07:42:09Z"
+  },
+  {
+   "full": "libvips/libvips",
+   "desc": "A fast image processing library with low memory needs.",
+   "stars": 11779,
+   "lang": "C",
+   "topics": [
+    "c",
+    "svg",
+    "pdf",
+    "imagemagick",
+    "png",
+    "cpp",
+    "jpeg",
+    "tiff",
+    "graphicsmagick",
+    "image-processing",
+    "gif",
+    "webp"
+   ],
+   "updated": "2026-11-02T18:31:32Z"
+  },
+  {
+   "full": "imgproxy/imgproxy",
+   "desc": "Fast and secure standalone server for resizing, processing, and converting images on the fly",
+   "stars": 11169,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "golang",
+    "image",
+    "png",
+    "microservice",
+    "jpeg",
+    "image-processing",
+    "webp",
+    "libvips",
+    "resize-images",
+    "crop-image",
+    "image-server"
+   ],
+   "updated": "2026-11-02T18:26:18Z"
+  },
+  {
+   "full": "CyberTimon/RapidRAW",
+   "desc": "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.",
+   "stars": 10928,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "rust",
+    "image-processing",
+    "editing",
+    "raw",
+    "masks",
+    "color-grading",
+    "tauri"
+   ],
+   "updated": "2026-11-02T19:34:18Z"
+  },
+  {
+   "full": "esimov/caire",
+   "desc": "Content aware image resize library",
+   "stars": 10874,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "machine-learning",
+    "computer-vision",
+    "image-processing",
+    "face-detection",
+    "edge-detection",
+    "seam-carving",
+    "image-resize",
+    "content-aware-resize",
+    "content-aware-scaling"
+   ],
+   "updated": "2026-11-02T13:57:03Z"
+  },
+  {
+   "full": "iib0011/omni-tools",
+   "desc": "Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!",
+   "stars": 10591,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "productivity",
+    "alternative",
+    "converter",
+    "website",
+    "typescript",
+    "tools",
+    "frontend",
+    "devtools",
+    "image-processing",
+    "self-hosted"
+   ],
+   "updated": "2026-10-24T12:13:14Z"
+  },
+  {
+   "full": "zyddnys/manga-image-translator",
+   "desc": "Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)",
+   "stars": 10568,
+   "lang": "Python",
+   "topics": [
+    "ocr",
+    "deep-learning",
+    "neural-network",
+    "anime",
+    "machine-translation",
+    "manga",
+    "image-processing",
+    "transformer",
+    "chinese-translation",
+    "text-detection",
+    "auto-translation",
+    "inpainting"
+   ],
+   "updated": "2026-10-11T12:27:59Z"
+  },
+  {
+   "full": "thumbor/thumbor",
+   "desc": "thumbor is an open-source photo thumbnail service by globo.com",
+   "stars": 10529,
+   "lang": "Python",
+   "topics": [
+    "docker",
+    "png",
+    "jpeg",
+    "image-processing",
+    "gif",
+    "webp",
+    "resize-images",
+    "crop-image",
+    "hacktoberfest",
+    "watermark",
+    "avif"
+   ],
+   "updated": "2026-11-02T02:43:13Z"
+  },
+  {
+   "full": "xuebinqin/U-2-Net",
+   "desc": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"",
+   "stars": 9892,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "image-processing",
+    "image-segmentation",
+    "u2net",
+    "u-2-net",
+    "image-background-removal"
+   ],
+   "updated": "2024-06-26T04:16:45Z"
+  },
+  {
+   "full": "microsoft/computervision-recipes",
+   "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+   "stars": 9890,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "microsoft",
+    "python",
+    "kubernetes",
+    "data-science",
+    "machine-learning",
+    "tutorial",
+    "computer-vision",
+    "deep-learning",
+    "azure",
+    "jupyter-notebook",
+    "image-processing",
+    "similarity"
+   ],
+   "updated": "2024-02-16T23:55:05Z"
+  },
+  {
+   "full": "wasabeef/glide-transformations",
+   "desc": "An Android transformation library providing a variety of image transformations for Glide.",
+   "stars": 9873,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "kotlin",
+    "java",
+    "image-processing",
+    "android-library",
+    "glide"
+   ],
+   "updated": "2022-03-08T16:07:21Z"
+  },
+  {
+   "full": "alexjc/neural-doodle",
+   "desc": "Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Seman",
+   "stars": 9843,
+   "lang": "Python",
+   "topics": [
+    "deep-neural-networks",
+    "deep-learning",
+    "image-processing",
+    "image-manipulation",
+    "image-generation"
+   ],
+   "updated": "2020-10-01T16:54:52Z"
+  },
+  {
+   "full": "hardikvasa/google-images-download",
+   "desc": "Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!",
+   "stars": 8702,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "terminal",
+    "command-line",
+    "image-gallery",
+    "python-script",
+    "image-processing",
+    "google-images",
+    "image-search",
+    "image-dataset",
+    "command-line-tool",
+    "image-download",
+    "image-database"
+   ],
+   "updated": "2026-05-18T05:34:43Z"
+  },
+  {
+   "full": "SixLabors/ImageSharp",
+   "desc": "A modern, cross-platform, 2D Graphics library for .NET",
+   "stars": 8046,
+   "lang": "C#",
+   "topics": [
+    "c-sharp",
+    "drawing",
+    "png",
+    "jpeg",
+    "graphics",
+    "tiff",
+    "bmp",
+    "image-processing",
+    "gif",
+    "exif",
+    "webp",
+    "netcore"
+   ],
+   "updated": "2026-11-02T09:35:28Z"
+  },
+  {
+   "full": "fengyuanchen/cropper",
+   "desc": "⚠️ [Deprecated] No longer maintained, please use https://github.com/fengyuanchen/jquery-cropper",
+   "stars": 7670,
+   "lang": "JavaScript",
+   "topics": [
+    "jquery",
+    "jquery-plugin",
+    "image-processing",
+    "cropper",
+    "image-cropper"
+   ],
+   "updated": "2020-07-21T10:46:15Z"
+  },
+  {
+   "full": "hybridgroup/gocv",
+   "desc": "Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.",
+   "stars": 7517,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "opencv",
+    "video",
+    "computer-vision",
+    "tensorflow",
+    "mjpeg",
+    "cuda",
+    "image-processing",
+    "dnn",
+    "yolo",
+    "mjpeg-stream",
+    "object-tracking"
+   ],
+   "updated": "2026-05-28T08:16:03Z"
+  },
+  {
+   "full": "open-mmlab/mmagic",
+   "desc": "OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement,",
+   "stars": 7481,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "image-processing",
+    "pytorch",
+    "image-editing",
+    "generative-adversarial-network",
+    "image-generation",
+    "super-resolution",
+    "diffusion",
+    "inpainting",
+    "matting",
+    "image-synthesis"
+   ],
+   "updated": "2024-08-06T07:19:40Z"
+  },
+  {
+   "full": "EutropicAI/Final2x",
+   "desc": "a cross-platform image super-resolution tool",
+   "stars": 7400,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "i18n",
+    "typescript",
+    "computer-vision",
+    "cross-platform",
+    "image-processing",
+    "pytorch",
+    "super-resolution",
+    "low-level-vision",
+    "vue3"
+   ],
+   "updated": "2026-11-02T11:00:55Z"
+  },
+  {
+   "full": "halide/Halide",
+   "desc": "a language for fast, portable data-parallel computation",
+   "stars": 6632,
+   "lang": "C++",
+   "topics": [
+    "performance",
+    "compiler",
+    "gpu",
+    "dsl",
+    "image-processing",
+    "halide",
+    "hexagon"
+   ],
+   "updated": "2026-11-02T20:13:10Z"
+  },
+  {
+   "full": "scikit-image/scikit-image",
+   "desc": "Image processing in Python",
+   "stars": 6630,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "computer-vision",
+    "image-processing"
+   ],
+   "updated": "2026-10-30T19:24:06Z"
+  },
+  {
+   "full": "wiltodelta/remove-ai-watermarks",
+   "desc": "Remove visible and invisible AI watermarks from images and video, and AI provenance metadata from images, video, and audio. Python library, CLI, and agent skill for SynthID, C2PA, EXIF, IPTC, XMP, and common generative-AI marks.",
+   "stars": 6258,
+   "lang": "Python",
+   "topics": [
+    "cli",
+    "metadata",
+    "image-processing",
+    "provenance",
+    "exif",
+    "gemini",
+    "video-processing",
+    "watermark-remover",
+    "veo",
+    "watermark-removal",
+    "c2pa",
+    "stable-diffusion"
+   ],
+   "updated": "2026-11-01T17:47:13Z"
+  },
+  {
+   "full": "amusi/AI-Job-Notes",
+   "desc": "AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）",
+   "stars": 6188,
+   "lang": null,
+   "topics": [
+    "resume",
+    "opencv",
+    "machine-learning",
+    "natural-language-processing",
+    "computer-vision",
+    "deep-learning",
+    "algorithms",
+    "jobs",
+    "image-processing",
+    "artificial-intelligence",
+    "slam"
+   ],
+   "updated": "2025-06-05T05:50:01Z"
+  },
+  {
+   "full": "thtrieu/darkflow",
+   "desc": "Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices",
+   "stars": 6139,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "real-time",
+    "deep-neural-networks",
+    "deep-learning",
+    "graph",
+    "tensorflow",
+    "image-processing",
+    "convolutional-networks",
+    "convolutional-neural-networks",
+    "object-detection",
+    "darknet",
+    "mobile-development"
+   ],
+   "updated": "2023-10-23T23:26:26Z"
+  }
+ ]
+}

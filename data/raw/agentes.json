@@ -1,0 +1,1543 @@
+{
+ "subId": "agentes",
+ "topics": [
+  "ai-agents",
+  "agent"
+ ],
+ "crawledAt": "2026-11-02T20:16:22.294Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "affaan-m/ECC",
+   "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+   "stars": 295524,
+   "lang": "JavaScript",
+   "topics": [
+    "productivity",
+    "mcp",
+    "developer-tools",
+    "ai-agents",
+    "claude",
+    "llm",
+    "anthropic",
+    "claude-code"
+   ],
+   "updated": "2026-11-02T04:56:08Z"
+  },
+  {
+   "full": "deepseek-ai/deepseek-harness",
+   "desc": "DeepSeek Harness: Everything is a Plugin.",
+   "stars": 269488,
+   "lang": "TypeScript",
+   "topics": [
+    "dsh",
+    "ai-agents",
+    "cordis",
+    "dsh-plugin"
+   ],
+   "updated": "2026-10-30T06:54:11Z"
+  },
+  {
+   "full": "NousResearch/hermes-agent",
+   "desc": "The agent that grows with you",
+   "stars": 259807,
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "openai",
+    "hermes",
+    "codex",
+    "ai-agents",
+    "claude",
+    "ai-agent",
+    "llm",
+    "chatgpt",
+    "anthropic",
+    "claude-code",
+    "hermes-agent"
+   ],
+   "updated": "2026-11-02T20:09:51Z"
+  },
+  {
+   "full": "firecrawl/firecrawl",
+   "desc": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+   "stars": 197948,
+   "lang": "TypeScript",
+   "topics": [
+    "markdown",
+    "crawler",
+    "scraper",
+    "ai",
+    "html-to-markdown",
+    "web-crawler",
+    "scraping",
+    "web-scraper",
+    "web-scraping",
+    "data-extraction",
+    "webscraping",
+    "web-data-extraction"
+   ],
+   "updated": "2026-11-02T20:05:42Z"
+  },
+  {
+   "full": "DietrichGebert/ponytail",
+   "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "stars": 182788,
+   "lang": "JavaScript",
+   "topics": [
+    "developer-tools",
+    "ai-agents",
+    "claude",
+    "yagni",
+    "llm",
+    "prompt-engineering",
+    "agent-skills",
+    "cursor-rules",
+    "claude-code",
+    "claude-code-plugin"
+   ],
+   "updated": "2026-10-29T11:59:31Z"
+  },
+  {
+   "full": "langchain-ai/langchain",
+   "desc": "The agent engineering platform.",
+   "stars": 148892,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "open-source",
+    "enterprise",
+    "framework",
+    "typescript",
+    "ai",
+    "gemini",
+    "openai",
+    "multiagent",
+    "agents",
+    "ai-agents",
+    "rag"
+   ],
+   "updated": "2026-11-02T20:14:18Z"
+  },
+  {
+   "full": "Graphify-Labs/graphify",
+   "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+   "stars": 141070,
+   "lang": "Python",
+   "topics": [
+    "tree-sitter",
+    "skills",
+    "mcp",
+    "code-analysis",
+    "ast",
+    "gemini",
+    "knowledge-graph",
+    "code-search",
+    "developer-tools",
+    "cursor",
+    "leiden",
+    "codex"
+   ],
+   "updated": "2026-11-02T19:38:53Z"
+  },
+  {
+   "full": "browser-use/browser-use",
+   "desc": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+   "stars": 119858,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "mcp",
+    "web-scraping",
+    "cdp",
+    "browser-automation",
+    "ai-agents",
+    "web-automation",
+    "headless-browser",
+    "remote-browser",
+    "playwright",
+    "cloud-browser",
+    "ai-tools"
+   ],
+   "updated": "2026-11-02T01:31:56Z"
+  },
+  {
+   "full": "stablyai/orca",
+   "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+   "stars": 113488,
+   "lang": "TypeScript",
+   "topics": [
+    "bot",
+    "automation",
+    "terminal",
+    "runtime",
+    "opencode",
+    "mobile-app",
+    "orchestration",
+    "muse",
+    "pi",
+    "codex",
+    "ai-agents",
+    "ade"
+   ],
+   "updated": "2026-11-02T20:08:01Z"
+  },
+  {
+   "full": "thedotmack/claude-mem",
+   "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes",
+   "stars": 110583,
+   "lang": "TypeScript",
+   "topics": [
+    "ai",
+    "sqlite",
+    "embeddings",
+    "artificial-intelligence",
+    "ai-agents",
+    "claude",
+    "memory-engine",
+    "long-term-memory",
+    "rag",
+    "anthropic",
+    "chromadb",
+    "ai-memory"
+   ],
+   "updated": "2026-11-02T18:04:05Z"
+  },
+  {
+   "full": "paperclipai/paperclip",
+   "desc": "The open-source app everyone uses to manage agents at work",
+   "stars": 110296,
+   "lang": "TypeScript",
+   "topics": [
+    "mcp",
+    "multi-agent",
+    "project-management",
+    "hermes",
+    "codex",
+    "workflow-automation",
+    "autonomous-agents",
+    "ai-agents",
+    "claude",
+    "ai-engineering",
+    "ai-tools",
+    "llm"
+   ],
+   "updated": "2026-11-02T20:16:16Z"
+  },
+  {
+   "full": "google-gemini/gemini-cli",
+   "desc": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+   "stars": 108676,
+   "lang": "TypeScript",
+   "topics": [
+    "cli",
+    "ai",
+    "gemini",
+    "ai-agents",
+    "gemini-api",
+    "mcp-server",
+    "mcp-client"
+   ],
+   "updated": "2026-11-02T19:41:09Z"
+  },
+  {
+   "full": "Leonxlnx/taste-skill",
+   "desc": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+   "stars": 108590,
+   "lang": "JavaScript",
+   "topics": [
+    "ui-design",
+    "landing-page",
+    "frontend",
+    "cursor",
+    "web-design",
+    "codex",
+    "design-system",
+    "ai-agents",
+    "agent-skills",
+    "claude-code",
+    "anti-slop"
+   ],
+   "updated": "2026-10-31T07:59:58Z"
+  },
+  {
+   "full": "infiniflow/ragflow",
+   "desc": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+   "stars": 93365,
+   "lang": "Go",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "knowledge-compilation",
+    "rag",
+    "context-engine",
+    "retrieval-augmented-generation",
+    "context-management",
+    "agentic-search",
+    "agentic-ai",
+    "context-engineering",
+    "agent-harness",
+    "agentic-retrieval"
+   ],
+   "updated": "2026-11-02T15:44:48Z"
+  },
+  {
+   "full": "tt-a1i/archify",
+   "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+   "stars": 92702,
+   "lang": "JavaScript",
+   "topics": [
+    "visualization",
+    "opencode",
+    "developer-tools",
+    "diagrams",
+    "flowchart",
+    "mermaid",
+    "software-architecture",
+    "sequence-diagram",
+    "codex",
+    "system-design",
+    "ai-agents",
+    "architecture-diagram"
+   ],
+   "updated": "2026-11-02T16:05:04Z"
+  },
+  {
+   "full": "unclecode/crawl4ai",
+   "desc": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf",
+   "stars": 86783,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "markdown",
+    "open-source",
+    "crawler",
+    "scraper",
+    "ai",
+    "mcp",
+    "web-crawler",
+    "web-scraping",
+    "data-extraction",
+    "web-crawling",
+    "ai-agents"
+   ],
+   "updated": "2026-11-02T14:01:43Z"
+  },
+  {
+   "full": "bytedance/deer-flow",
+   "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+   "stars": 84891,
+   "lang": "Python",
+   "topics": [
+    "nodejs",
+    "python",
+    "agent",
+    "typescript",
+    "ai",
+    "podcast",
+    "multi-agent",
+    "superagent",
+    "harness",
+    "ai-agents",
+    "llm",
+    "langchain"
+   ],
+   "updated": "2026-11-02T13:37:00Z"
+  },
+  {
+   "full": "cheaper-inference/OmniRoute",
+   "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, R",
+   "stars": 83940,
+   "lang": "TypeScript",
+   "topics": [
+    "mcp",
+    "gemini",
+    "openai",
+    "cursor",
+    "copilot",
+    "codex",
+    "cline",
+    "ai-agents",
+    "claude",
+    "kimi",
+    "a2a",
+    "anthropic"
+   ],
+   "updated": "2026-11-02T19:53:00Z"
+  },
+  {
+   "full": "ruvnet/ruflo",
+   "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and nativ",
+   "stars": 80632,
+   "lang": "TypeScript",
+   "topics": [
+    "npm",
+    "typescript",
+    "skills",
+    "multi-agent",
+    "swarm",
+    "agents",
+    "harness",
+    "codex",
+    "multi-agent-systems",
+    "autonomous-agents",
+    "swarm-intelligence",
+    "ai-agents"
+   ],
+   "updated": "2026-11-02T09:21:09Z"
+  },
+  {
+   "full": "dair-ai/Prompt-Engineering-Guide",
+   "desc": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+   "stars": 79751,
+   "lang": "MDX",
+   "topics": [
+    "agent",
+    "deep-learning",
+    "openai",
+    "language-model",
+    "agents",
+    "ai-agents",
+    "rag",
+    "prompt-engineering",
+    "llms",
+    "generative-ai",
+    "chatgpt"
+   ],
+   "updated": "2026-03-11T20:09:13Z"
+  },
+  {
+   "full": "microsoft/ai-agents-for-beginners",
+   "desc": "18 Lessons to Get Started Building AI Agents",
+   "stars": 78709,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "foundry",
+    "ai-agents",
+    "autogen",
+    "generative-ai",
+    "semantic-kernel",
+    "ai-agents-framework",
+    "agentic-framework",
+    "agentic-rag",
+    "agentic-ai",
+    "foundry-local",
+    "microsoft-foundry"
+   ],
+   "updated": "2026-11-02T18:50:16Z"
+  },
+  {
+   "full": "ComposioHQ/awesome-claude-skills",
+   "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+   "stars": 78591,
+   "lang": "Python",
+   "topics": [
+    "automation",
+    "skill",
+    "mcp",
+    "saas",
+    "developer-tools",
+    "cursor",
+    "codex",
+    "workflow-automation",
+    "ai-agents",
+    "claude",
+    "rube",
+    "openai-codex"
+   ],
+   "updated": "2026-09-18T07:16:11Z"
+  },
+  {
+   "full": "heygen-com/hyperframes",
+   "desc": "Write HTML. Render video. Built for agents.",
+   "stars": 77641,
+   "lang": "TypeScript",
+   "topics": [
+    "html",
+    "framework",
+    "typescript",
+    "ai",
+    "ffmpeg",
+    "animation",
+    "mcp",
+    "rendering",
+    "gsap",
+    "motion-graphics",
+    "video-editor",
+    "ai-agents"
+   ],
+   "updated": "2026-11-02T19:47:48Z"
+  },
+  {
+   "full": "rohitg00/ai-engineering-from-scratch",
+   "desc": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+   "stars": 76382,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "rust",
+    "machine-learning",
+    "tutorial",
+    "typescript",
+    "course",
+    "reinforcement-learning",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "mcp",
+    "transformers"
+   ],
+   "updated": "2026-11-02T04:26:52Z"
+  },
+  {
+   "full": "thedaviddias/Front-End-Checklist",
+   "desc": "🗂 The essential checklist for modern web development, for humans and AI agents",
+   "stars": 74633,
+   "lang": "MDX",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "rules",
+    "lists",
+    "checklist",
+    "web-development",
+    "frontend",
+    "reference",
+    "resources",
+    "guidelines",
+    "front-end-development"
+   ],
+   "updated": "2026-10-31T05:44:22Z"
+  },
+  {
+   "full": "daytonaio/daytona",
+   "desc": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+   "stars": 71392,
+   "lang": null,
+   "topics": [
+    "ai",
+    "developer-tools",
+    "code-execution",
+    "ai-agents",
+    "code-interpreter",
+    "ai-runtime",
+    "agentic-workflow",
+    "ai-sandboxes"
+   ],
+   "updated": "2026-07-24T07:12:07Z"
+  },
+  {
+   "full": "asgeirtj/system_prompts_leaks",
+   "desc": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated re",
+   "stars": 70642,
+   "lang": "Python",
+   "topics": [
+    "google",
+    "ai",
+    "chatbot",
+    "prompt",
+    "gemini",
+    "openai",
+    "cursor",
+    "grok",
+    "codex",
+    "ai-agents",
+    "claude",
+    "llm"
+   ],
+   "updated": "2026-11-02T07:02:10Z"
+  },
+  {
+   "full": "code-yeongyu/oh-my-openagent",
+   "desc": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
+   "stars": 70626,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "ai",
+    "opencode",
+    "ide",
+    "tui",
+    "orchestration",
+    "gemini",
+    "openai",
+    "cursor",
+    "codex",
+    "ai-agents",
+    "claude"
+   ],
+   "updated": "2026-11-02T19:45:56Z"
+  },
+  {
+   "full": "ai-job-search-dev/ai-job-search",
+   "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+   "stars": 69042,
+   "lang": "Python",
+   "topics": [
+    "resume",
+    "latex",
+    "ai",
+    "cv",
+    "career",
+    "cover-letter",
+    "job-application",
+    "interview-preparation",
+    "job-search",
+    "ai-agents",
+    "job-hunting",
+    "claude-code"
+   ],
+   "updated": "2026-11-02T06:04:24Z"
+  },
+  {
+   "full": "shanraisshan/claude-code-best-practice",
+   "desc": "from vibe coding to agentic engineering - practice makes claude perfect",
+   "stars": 68470,
+   "lang": "HTML",
+   "topics": [
+    "ai",
+    "best-practices",
+    "pakistan",
+    "ai-agents",
+    "claude",
+    "boris",
+    "pakistani-developer",
+    "anthropic",
+    "claude-ai",
+    "agentic-workflow",
+    "agentic-ai",
+    "vibe-coding"
+   ],
+   "updated": "2026-11-02T06:34:08Z"
+  },
+  {
+   "full": "mem0ai/mem0",
+   "desc": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+   "stars": 68288,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "state-management",
+    "ai",
+    "memory",
+    "memory-management",
+    "agents",
+    "ai-agents",
+    "long-term-memory",
+    "rag",
+    "llm",
+    "chatgpt",
+    "genai"
+   ],
+   "updated": "2026-10-30T21:36:23Z"
+  },
+  {
+   "full": "Mintplex-Labs/anything-llm",
+   "desc": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+   "stars": 67862,
+   "lang": "JavaScript",
+   "topics": [
+    "ai-agents",
+    "multimodal",
+    "rag",
+    "vector-database",
+    "llm",
+    "localai",
+    "local-ai",
+    "agentic-workflow",
+    "agentic-ai",
+    "computer-use",
+    "self-hosted-ai",
+    "agent-orchestration"
+   ],
+   "updated": "2026-10-30T23:50:45Z"
+  },
+  {
+   "full": "crewAIInc/crewAI",
+   "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+   "stars": 60429,
+   "lang": "Python",
+   "topics": [
+    "ai",
+    "agents",
+    "ai-agents",
+    "llms",
+    "aiagentframework"
+   ],
+   "updated": "2026-11-02T19:40:31Z"
+  },
+  {
+   "full": "coreyhaines31/marketingskills",
+   "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+   "stars": 58069,
+   "lang": "JavaScript",
+   "topics": [
+    "marketing",
+    "marketing-automation",
+    "seo",
+    "email-marketing",
+    "cursor",
+    "copywriting",
+    "content-marketing",
+    "codex",
+    "conversion-rate-optimization",
+    "ai-agents",
+    "claude",
+    "growth-marketing"
+   ],
+   "updated": "2026-10-31T00:53:07Z"
+  },
+  {
+   "full": "Ebony-Vinyl/dsh-our-free-model",
+   "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among t",
+   "stars": 57228,
+   "lang": "JavaScript",
+   "topics": [
+    "developer-tools",
+    "dsh",
+    "ai-agents",
+    "llm",
+    "deepseek",
+    "openai-compatible",
+    "free-model",
+    "model-provider",
+    "deepseek-harness",
+    "dsh-plugin"
+   ],
+   "updated": "2026-11-02T08:10:54Z"
+  },
+  {
+   "full": "aaif-goose/goose",
+   "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+   "stars": 56142,
+   "lang": "Rust",
+   "topics": [
+    "ai",
+    "mcp",
+    "acp",
+    "ai-agents"
+   ],
+   "updated": "2026-11-02T19:27:23Z"
+  },
+  {
+   "full": "HKUDS/DeepTutor",
+   "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+   "stars": 54256,
+   "lang": "Python",
+   "topics": [
+    "learning",
+    "interactive-learning",
+    "multi-agent-systems",
+    "ai-agents",
+    "cli-tool",
+    "rag",
+    "ai-tutor",
+    "deepresearch",
+    "clawbot"
+   ],
+   "updated": "2026-10-31T16:51:35Z"
+  },
+  {
+   "full": "CherryHQ/cherry-studio",
+   "desc": "Your AI workspace for models, agents, and productivity.",
+   "stars": 53202,
+   "lang": "TypeScript",
+   "topics": [
+    "ai-agents",
+    "agent-workspace",
+    "ai-models",
+    "ai-workspace",
+    "llm",
+    "ollama",
+    "ai-productivity",
+    "mcp-client",
+    "agent-skills",
+    "agentic-workspace"
+   ],
+   "updated": "2026-11-02T19:58:38Z"
+  },
+  {
+   "full": "HKUDS/nanobot",
+   "desc": "Your lightweight open-source personal agent.",
+   "stars": 49766,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "chatops",
+    "mcp",
+    "chatbot",
+    "discord-bot",
+    "self-hosted",
+    "multi-agent",
+    "webui",
+    "workflow-automation",
+    "ai-agents",
+    "agent-framework",
+    "ai-agent"
+   ],
+   "updated": "2026-11-02T09:55:24Z"
+  },
+  {
+   "full": "sickn33/agentic-awesome-skills",
+   "desc": "2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
+   "stars": 49048,
+   "lang": "Python",
+   "topics": [
+    "mcp",
+    "developer-tools",
+    "cursor",
+    "ai-agents",
+    "ai-workflows",
+    "gemini-cli",
+    "antigravity",
+    "ai-coding",
+    "agent-skills",
+    "claude-code",
+    "codex-cli",
+    "kiro"
+   ],
+   "updated": "2026-11-02T17:10:27Z"
+  },
+  {
+   "full": "langgenius/dify",
+   "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+   "stars": 160251,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "workflow",
+    "automation",
+    "ai",
+    "skills",
+    "mcp",
+    "nextjs",
+    "openai",
+    "gpt",
+    "low-code",
+    "no-code"
+   ],
+   "updated": "2026-11-02T19:37:54Z"
+  },
+  {
+   "full": "Snailclimb/JavaGuide",
+   "desc": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+   "stars": 159392,
+   "lang": "JavaScript",
+   "topics": [
+    "mysql",
+    "java",
+    "agent",
+    "redis",
+    "ai",
+    "skills",
+    "mcp",
+    "interview",
+    "redisson",
+    "system-design",
+    "deepseek",
+    "springai"
+   ],
+   "updated": "2026-10-25T11:47:10Z"
+  },
+  {
+   "full": "TauricResearch/TradingAgents",
+   "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+   "stars": 119917,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "finance",
+    "trading",
+    "multiagent",
+    "llm"
+   ],
+   "updated": "2026-10-27T08:43:04Z"
+  },
+  {
+   "full": "OpenHands/OpenHands",
+   "desc": "🙌 OpenHands: AI-Driven Development",
+   "stars": 92511,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "cli",
+    "artificial-intelligence",
+    "openai",
+    "developer-tools",
+    "gpt",
+    "llm",
+    "chatgpt",
+    "claude-ai"
+   ],
+   "updated": "2026-11-02T19:29:31Z"
+  },
+  {
+   "full": "koala73/worldmonitor",
+   "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+   "stars": 90022,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "opensource",
+    "osint",
+    "news",
+    "ai",
+    "monitoring",
+    "dashboard",
+    "mcp",
+    "palantir",
+    "geopolitics",
+    "situation",
+    "mcp-server"
+   ],
+   "updated": "2026-11-02T20:10:56Z"
+  },
+  {
+   "full": "datawhalechina/hello-agents",
+   "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+   "stars": 85783,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "tutorial",
+    "rag",
+    "llm"
+   ],
+   "updated": "2026-10-13T22:28:54Z"
+  },
+  {
+   "full": "lobehub/lobehub",
+   "desc": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
+   "stars": 83716,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "ai",
+    "skills",
+    "fable",
+    "mcp",
+    "gemini",
+    "openai",
+    "glm",
+    "gpt",
+    "knowledge-base",
+    "cao",
+    "claude"
+   ],
+   "updated": "2026-11-02T19:21:07Z"
+  },
+  {
+   "full": "shareAI-lab/learn-claude-code",
+   "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+   "stars": 79764,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "tutorial",
+    "teaching",
+    "educational",
+    "claude",
+    "ai-agent",
+    "llm",
+    "agent-development",
+    "claude-code"
+   ],
+   "updated": "2026-10-27T04:47:00Z"
+  },
+  {
+   "full": "unslothai/unsloth",
+   "desc": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+   "stars": 78966,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "text-to-speech",
+    "ui",
+    "reinforcement-learning",
+    "ai",
+    "self-hosted",
+    "tts",
+    "openai",
+    "image-generation",
+    "llama",
+    "gemma"
+   ],
+   "updated": "2026-11-02T17:12:49Z"
+  },
+  {
+   "full": "headroomlabs-ai/headroom",
+   "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+   "stars": 78658,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "typescript",
+    "compression",
+    "ai",
+    "proxy",
+    "mcp",
+    "tokens",
+    "openai",
+    "cursor",
+    "rag",
+    "fastapi"
+   ],
+   "updated": "2026-11-02T13:17:36Z"
+  },
+  {
+   "full": "hiyouga/LlamaFactory",
+   "desc": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+   "stars": 75851,
+   "lang": "Python",
+   "topics": [
+    "nlp",
+    "agent",
+    "ai",
+    "transformers",
+    "moe",
+    "llama",
+    "gpt",
+    "lora",
+    "quantization",
+    "gemma",
+    "fine-tuning",
+    "peft"
+   ],
+   "updated": "2026-10-31T10:28:10Z"
+  },
+  {
+   "full": "calesthio/OpenMontage",
+   "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+   "stars": 75190,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "flux",
+    "open-source",
+    "text-to-speech",
+    "ai",
+    "ffmpeg",
+    "openai",
+    "image-generation",
+    "cursor",
+    "copilot",
+    "claude"
+   ],
+   "updated": "2026-10-28T21:46:02Z"
+  },
+  {
+   "full": "FoundationAgents/MetaGPT",
+   "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+   "stars": 71135,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "multi-agent",
+    "gpt",
+    "llm",
+    "metagpt"
+   ],
+   "updated": "2026-01-21T10:12:33Z"
+  },
+  {
+   "full": "bojieli/ai-agent-book",
+   "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+   "stars": 56963,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "reinforcement-learning",
+    "book",
+    "mcp",
+    "multi-agent",
+    "multimodal",
+    "rag",
+    "ai-agent",
+    "large-language-models",
+    "llm",
+    "agent-memory",
+    "coding-agent"
+   ],
+   "updated": "2026-10-08T15:06:27Z"
+  },
+  {
+   "full": "huginn/huginn",
+   "desc": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+   "stars": 50269,
+   "lang": "Ruby",
+   "topics": [
+    "notifications",
+    "agent",
+    "rss",
+    "scraper",
+    "automation",
+    "monitoring",
+    "huginn",
+    "feed",
+    "feedgenerator",
+    "webscraping"
+   ],
+   "updated": "2026-11-02T13:21:30Z"
+  },
+  {
+   "full": "alibaba/open-code-review",
+   "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), Ope",
+   "stars": 49288,
+   "lang": "Go",
+   "topics": [
+    "agent",
+    "code-review",
+    "harness",
+    "agent-skills",
+    "repository-level-context",
+    "code-review-assistant"
+   ],
+   "updated": "2026-11-02T15:05:55Z"
+  },
+  {
+   "full": "jeecgboot/JeecgBoot",
+   "desc": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+   "stars": 48363,
+   "lang": "Java",
+   "topics": [
+    "agent",
+    "cli",
+    "ai",
+    "skills",
+    "mcp",
+    "codegenerator",
+    "antd",
+    "springboot",
+    "activiti",
+    "mybatis-plus",
+    "codex",
+    "springcloud"
+   ],
+   "updated": "2026-11-02T01:31:30Z"
+  },
+  {
+   "full": "herdrdev/herdr",
+   "desc": "the runtime your coding agents live on",
+   "stars": 47557,
+   "lang": "Rust",
+   "topics": [
+    "agent",
+    "rust",
+    "tmux",
+    "cli",
+    "terminal",
+    "ai",
+    "devtools",
+    "tui",
+    "developer-tools",
+    "multiplexer",
+    "workspace-manager",
+    "codex"
+   ],
+   "updated": "2026-11-02T14:30:41Z"
+  },
+  {
+   "full": "AstrBotDevs/AstrBot",
+   "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+   "stars": 45662,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "docker",
+    "ai",
+    "telegram",
+    "discord",
+    "mcp",
+    "chatbot",
+    "gemini",
+    "openai",
+    "llama",
+    "qq"
+   ],
+   "updated": "2026-11-02T11:04:03Z"
+  },
+  {
+   "full": "pingcap/tidb",
+   "desc": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.",
+   "stars": 40701,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "go",
+    "agent",
+    "sql",
+    "database",
+    "ai",
+    "scale",
+    "serverless",
+    "memory",
+    "distributed-transactions",
+    "distributed-database",
+    "cloud-native"
+   ],
+   "updated": "2026-11-02T20:01:03Z"
+  },
+  {
+   "full": "2noise/ChatTTS",
+   "desc": "A generative speech model for daily dialogue.",
+   "stars": 39974,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "chat",
+    "agent",
+    "text-to-speech",
+    "torch",
+    "tts",
+    "english",
+    "chinese",
+    "gpt",
+    "natural-language-inference",
+    "english-language",
+    "chinese-language"
+   ],
+   "updated": "2026-04-10T16:33:48Z"
+  },
+  {
+   "full": "bytedance/UI-TARS-desktop",
+   "desc": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+   "stars": 39523,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "mcp",
+    "vision",
+    "vlm",
+    "tars",
+    "multimodal",
+    "cowork",
+    "computer-use",
+    "mcp-server",
+    "gui-agent",
+    "browser-use",
+    "gui-operator"
+   ],
+   "updated": "2026-10-09T01:29:53Z"
+  },
+  {
+   "full": "CopilotKit/CopilotKit",
+   "desc": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+   "stars": 38475,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "agent",
+    "open-source",
+    "typescript",
+    "ai",
+    "js",
+    "reactjs",
+    "nextjs",
+    "ts",
+    "assistant",
+    "copilot",
+    "agents"
+   ],
+   "updated": "2026-11-02T20:11:24Z"
+  },
+  {
+   "full": "khoj-ai/khoj",
+   "desc": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistr",
+   "stars": 37946,
+   "lang": "Python",
+   "topics": [
+    "chat",
+    "agent",
+    "productivity",
+    "research",
+    "ai",
+    "emacs",
+    "self-hosted",
+    "assistant",
+    "image-generation",
+    "obsidian",
+    "stt",
+    "semantic-search"
+   ],
+   "updated": "2026-08-02T01:55:40Z"
+  },
+  {
+   "full": "alibaba/arthas",
+   "desc": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+   "stars": 37603,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "agent",
+    "jvm",
+    "trace",
+    "classloader",
+    "alibaba",
+    "diagnosis",
+    "trouble-shooting",
+    "arthas"
+   ],
+   "updated": "2026-10-23T11:04:48Z"
+  },
+  {
+   "full": "1Panel-dev/1Panel",
+   "desc": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。",
+   "stars": 37343,
+   "lang": "Go",
+   "topics": [
+    "linux",
+    "agent",
+    "docker",
+    "lnmp",
+    "openresty",
+    "hermes",
+    "webmin",
+    "docker-ui",
+    "ollama",
+    "openclaw",
+    "hermes-agent",
+    "qwenpaw"
+   ],
+   "updated": "2026-11-02T16:07:41Z"
+  },
+  {
+   "full": "agentscope-ai/QwenPaw",
+   "desc": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+   "stars": 37217,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "skills",
+    "mcp",
+    "chatbot",
+    "self-hosted",
+    "webui",
+    "ai-agents",
+    "super-agent",
+    "ai-agent",
+    "llms",
+    "llm-tools",
+    "agentscope"
+   ],
+   "updated": "2026-11-02T13:20:12Z"
+  },
+  {
+   "full": "continuedev/continue",
+   "desc": "open-source coding agent",
+   "stars": 36400,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "cli",
+    "open-source",
+    "ai",
+    "developer-tools"
+   ],
+   "updated": "2026-11-02T12:11:19Z"
+  },
+  {
+   "full": "reworkd/AgentGPT",
+   "desc": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+   "stars": 36277,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "ai",
+    "agi",
+    "openai",
+    "gpt",
+    "next",
+    "agents",
+    "ai-agents",
+    "t3",
+    "llm",
+    "t3-stack",
+    "langchain"
+   ],
+   "updated": "2025-04-29T01:19:32Z"
+  },
+  {
+   "full": "Tencent/WeKnora",
+   "desc": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+   "stars": 36268,
+   "lang": "Go",
+   "topics": [
+    "agent",
+    "golang",
+    "multi-tenant",
+    "ai",
+    "wiki",
+    "chatbot",
+    "evaluation",
+    "embeddings",
+    "openai",
+    "question-answering",
+    "knowledge-base",
+    "semantic-search"
+   ],
+   "updated": "2026-11-02T11:16:59Z"
+  },
+  {
+   "full": "esengine/DeepSeek-Reasonix",
+   "desc": "A reliable coding agent for complex software engineering tasks.",
+   "stars": 36045,
+   "lang": "Go",
+   "topics": [
+    "agent",
+    "cli",
+    "typescript",
+    "terminal",
+    "tui",
+    "developer-tools",
+    "ink",
+    "dsh",
+    "r1",
+    "tool-use",
+    "agent-framework",
+    "ai-agent"
+   ],
+   "updated": "2026-11-02T17:29:32Z"
+  },
+  {
+   "full": "agentscope-ai/agentscope",
+   "desc": "Build and run agents you can see, understand and trust.",
+   "stars": 35223,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "mcp",
+    "chatbot",
+    "multi-agent",
+    "multi-modal",
+    "voice-assistant",
+    "voice-agent",
+    "large-language-models",
+    "llm",
+    "llm-agent",
+    "react-agent",
+    "realtime-agent"
+   ],
+   "updated": "2026-11-02T12:49:38Z"
+  },
+  {
+   "full": "datawhalechina/happy-llm",
+   "desc": "📚 从零开始构建大模型",
+   "stars": 34718,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "agent",
+    "rag",
+    "llm"
+   ],
+   "updated": "2026-08-08T17:18:48Z"
+  },
+  {
+   "full": "alibaba/nacos",
+   "desc": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
+   "stars": 33491,
+   "lang": "Java",
+   "topics": [
+    "agent",
+    "kubernetes",
+    "microservices",
+    "skills",
+    "mcp",
+    "spring-cloud",
+    "prompt",
+    "configuration-management",
+    "dubbo",
+    "istio",
+    "distributed-configuration",
+    "nacos"
+   ],
+   "updated": "2026-11-02T02:42:46Z"
+  },
+  {
+   "full": "zeroclaw-labs/zeroclaw",
+   "desc": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
+   "stars": 33101,
+   "lang": "Rust",
+   "topics": [
+    "agent",
+    "ai",
+    "os",
+    "ml",
+    "infra",
+    "agentic",
+    "openclaw",
+    "zeroclaw"
+   ],
+   "updated": "2026-11-02T19:16:56Z"
+  },
+  {
+   "full": "iOfficeAI/OfficeCLI",
+   "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+   "stars": 32949,
+   "lang": "C#",
+   "topics": [
+    "agent",
+    "cli",
+    "ai",
+    "skills",
+    "presentation",
+    "excel",
+    "word",
+    "xlsx",
+    "office",
+    "docx",
+    "pptx",
+    "codex"
+   ],
+   "updated": "2026-10-30T06:48:51Z"
+  },
+  {
+   "full": "trycua/cua",
+   "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
+   "stars": 31589,
+   "lang": "Rust",
+   "topics": [
+    "windows",
+    "macos",
+    "swift",
+    "agent",
+    "apple",
+    "virtualization",
+    "operator",
+    "desktop-automation",
+    "hacktoberfest",
+    "containerization",
+    "cua",
+    "manus"
+   ],
+   "updated": "2026-11-02T20:11:51Z"
+  },
+  {
+   "full": "oraios/serena",
+   "desc": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities - the IDE for your agent",
+   "stars": 31018,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "programming",
+    "ai",
+    "language-server",
+    "jetbrains",
+    "ide",
+    "codex",
+    "claude",
+    "ai-coding",
+    "mcp-server",
+    "vibe-coding",
+    "claude-code"
+   ],
+   "updated": "2026-10-28T10:45:55Z"
+  }
+ ]
+}

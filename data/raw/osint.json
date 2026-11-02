@@ -1,0 +1,1348 @@
+{
+ "subId": "osint",
+ "topics": [
+  "osint",
+  "reconnaissance"
+ ],
+ "crawledAt": "2026-11-02T20:15:48.293Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "sherlock-project/sherlock",
+   "desc": "Hunt down social media accounts by username across social networks",
+   "stars": 95432,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "linux",
+    "cli",
+    "osint",
+    "tools",
+    "sherlock",
+    "python3",
+    "forensics",
+    "cybersecurity",
+    "infosec",
+    "pentesting",
+    "cti"
+   ],
+   "updated": "2026-11-02T05:14:33Z"
+  },
+  {
+   "full": "koala73/worldmonitor",
+   "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+   "stars": 90022,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "opensource",
+    "osint",
+    "news",
+    "ai",
+    "monitoring",
+    "dashboard",
+    "mcp",
+    "palantir",
+    "geopolitics",
+    "situation",
+    "mcp-server"
+   ],
+   "updated": "2026-11-02T20:10:56Z"
+  },
+  {
+   "full": "bilawalsidhu/gods-eye-view",
+   "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+   "stars": 62268,
+   "lang": "JavaScript",
+   "topics": [
+    "webgl",
+    "osint",
+    "geospatial",
+    "gis",
+    "cesium",
+    "photogrammetry",
+    "geospatial-intelligence",
+    "3d-globe",
+    "worldview",
+    "satellite-tracking",
+    "flight-tracking",
+    "spatial-intelligence"
+   ],
+   "updated": "2026-11-02T19:12:41Z"
+  },
+  {
+   "full": "soxoj/maigret",
+   "desc": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
+   "stars": 39620,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "cli",
+    "open-source",
+    "osint",
+    "social-network",
+    "scraping",
+    "sherlock",
+    "python3",
+    "cybersecurity",
+    "identification",
+    "infosec",
+    "pentesting"
+   ],
+   "updated": "2026-11-02T19:33:16Z"
+  },
+  {
+   "full": "mukul975/Anthropic-Cybersecurity-Skills",
+   "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI,",
+   "stars": 35453,
+   "lang": "Python",
+   "topics": [
+    "security",
+    "osint",
+    "mcp",
+    "incident-response",
+    "cybersecurity",
+    "penetration-testing",
+    "infosec",
+    "threat-hunting",
+    "malware-analysis",
+    "ethical-hacking",
+    "red-team",
+    "security-automation"
+   ],
+   "updated": "2026-08-31T04:32:44Z"
+  },
+  {
+   "full": "lissy93/web-check",
+   "desc": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+   "stars": 35332,
+   "lang": "TypeScript",
+   "topics": [
+    "security",
+    "privacy",
+    "osint",
+    "sysadmin",
+    "security-tools"
+   ],
+   "updated": "2026-11-02T00:09:31Z"
+  },
+  {
+   "full": "jivoi/awesome-osint",
+   "desc": "😱 A curated list of amazingly awesome OSINT",
+   "stars": 30663,
+   "lang": null,
+   "topics": [
+    "website",
+    "osint",
+    "awesome-list"
+   ],
+   "updated": "2026-10-31T14:39:10Z"
+  },
+  {
+   "full": "qeeqbox/social-analyzer",
+   "desc": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+   "stars": 24428,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "python",
+    "cli",
+    "profile",
+    "social-media",
+    "osint",
+    "analysis",
+    "analyzer",
+    "pentesting",
+    "username",
+    "pentest"
+   ],
+   "updated": "2026-01-12T21:50:25Z"
+  },
+  {
+   "full": "smicallef/spiderfoot",
+   "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+   "stars": 24257,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "osint",
+    "hacking",
+    "cybersecurity",
+    "infosec",
+    "pentesting",
+    "recon",
+    "threatintel",
+    "cti",
+    "information-security",
+    "information-gathering",
+    "intelligence-gathering"
+   ],
+   "updated": "2026-04-13T19:43:06Z"
+  },
+  {
+   "full": "gildas-lormeau/SingleFile",
+   "desc": "Web Extension for saving a faithful copy of a complete web page in a single HTML file",
+   "stars": 22812,
+   "lang": "JavaScript",
+   "topics": [
+    "chrome-extension",
+    "firefox",
+    "safari-extension",
+    "chrome",
+    "osint",
+    "browser",
+    "firefox-addon",
+    "annotations",
+    "safari",
+    "archive",
+    "read-it-later",
+    "archiver"
+   ],
+   "updated": "2026-11-02T20:12:39Z"
+  },
+  {
+   "full": "HunxByts/GhostTrack",
+   "desc": "Useful tool to track location or mobile number",
+   "stars": 20350,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "linux",
+    "osint",
+    "phone-number",
+    "information",
+    "fyp",
+    "hacking",
+    "cybersecurity",
+    "indonesia",
+    "pentesting",
+    "ip-geolocation",
+    "termux"
+   ],
+   "updated": "2024-01-11T15:36:46Z"
+  },
+  {
+   "full": "mxrch/GHunt",
+   "desc": "🕵️‍♂️ Offensive Google framework.",
+   "stars": 19763,
+   "lang": "Python",
+   "topics": [
+    "google",
+    "osint",
+    "hideandsec"
+   ],
+   "updated": "2026-04-10T02:29:16Z"
+  },
+  {
+   "full": "sundowndev/phoneinfoga",
+   "desc": "Information gathering framework for phone numbers",
+   "stars": 18367,
+   "lang": "Go",
+   "topics": [
+    "osint",
+    "phone-number",
+    "phone",
+    "reputation",
+    "footprint",
+    "information-gathering",
+    "investigation",
+    "reconnaissance",
+    "agregation",
+    "open-source-intelligence"
+   ],
+   "updated": "2026-08-25T07:42:10Z"
+  },
+  {
+   "full": "laramies/theHarvester",
+   "desc": "E-mails, subdomains and names Harvester - OSINT",
+   "stars": 18216,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "osint",
+    "discovery",
+    "emails",
+    "recon",
+    "information-gathering",
+    "blueteam",
+    "reconnaissance",
+    "redteam",
+    "subdomain-enumeration"
+   ],
+   "updated": "2026-10-30T14:32:01Z"
+  },
+  {
+   "full": "twintproject/twint",
+   "desc": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+   "stars": 16408,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "elasticsearch",
+    "kibana",
+    "osint",
+    "twitter",
+    "tweets",
+    "scrape",
+    "twint",
+    "tweep",
+    "scrape-followers",
+    "scrape-likes",
+    "scrape-following"
+   ],
+   "updated": "2023-02-23T13:58:09Z"
+  },
+  {
+   "full": "megadose/holehe",
+   "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+   "stars": 15499,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "instagram",
+    "osint",
+    "twitter",
+    "social-network",
+    "email",
+    "pypi",
+    "emails",
+    "ebay",
+    "information-gathering",
+    "trio",
+    "tellonym"
+   ],
+   "updated": "2024-09-10T20:24:32Z"
+  },
+  {
+   "full": "owasp-amass/amass",
+   "desc": "In-depth attack surface mapping and asset discovery",
+   "stars": 15454,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "dns",
+    "golang",
+    "osint",
+    "owasp",
+    "subdomain",
+    "enumeration",
+    "recon",
+    "maltego",
+    "network-security",
+    "information-gathering",
+    "osint-reconnaissance"
+   ],
+   "updated": "2026-10-25T16:13:11Z"
+  },
+  {
+   "full": "Datalux/Osintgram",
+   "desc": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+   "stars": 15369,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "instagram",
+    "osint",
+    "analysis",
+    "tool",
+    "hacking",
+    "python3",
+    "penetration-testing",
+    "instagram-api",
+    "nickname",
+    "information-gathering",
+    "instagram-account"
+   ],
+   "updated": "2026-10-30T21:24:23Z"
+  },
+  {
+   "full": "projectdiscovery/subfinder",
+   "desc": "Fast passive subdomain enumeration tool.",
+   "stars": 14703,
+   "lang": "Go",
+   "topics": [
+    "osint",
+    "hacking",
+    "bugbounty",
+    "hacktoberfest",
+    "subdomains",
+    "reconnaissance",
+    "subdomain-enumeration"
+   ],
+   "updated": "2026-11-02T09:46:34Z"
+  },
+  {
+   "full": "instaloader/instaloader",
+   "desc": "Download pictures (or videos) along with their captions and other metadata from Instagram.",
+   "stars": 13761,
+   "lang": "Python",
+   "topics": [
+    "instagram-client",
+    "pictures",
+    "instagram",
+    "downloader",
+    "osint",
+    "instagram-feed",
+    "instagram-scraper",
+    "instagram-user-photos",
+    "videos",
+    "instagram-photos",
+    "instagram-stories",
+    "instagram-downloader"
+   ],
+   "updated": "2026-11-01T19:20:46Z"
+  },
+  {
+   "full": "s0md3v/Photon",
+   "desc": "Incredibly fast crawler designed for OSINT.",
+   "stars": 13317,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "crawler",
+    "osint",
+    "spider",
+    "information-gathering"
+   ],
+   "updated": "2026-10-17T22:43:20Z"
+  },
+  {
+   "full": "lockfale/OSINT-Framework",
+   "desc": "OSINT Framework",
+   "stars": 12385,
+   "lang": "JavaScript",
+   "topics": [
+    "osint",
+    "intelligence-gathering",
+    "reconnaissance",
+    "footprinting",
+    "osint-framework",
+    "osint-resources"
+   ],
+   "updated": "2026-10-31T06:32:06Z"
+  },
+  {
+   "full": "calesthio/Crucix",
+   "desc": "Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.",
+   "stars": 12192,
+   "lang": "JavaScript",
+   "topics": [
+    "intelligence",
+    "osint",
+    "ai"
+   ],
+   "updated": "2026-05-20T00:50:21Z"
+  },
+  {
+   "full": "edoardottt/awesome-hacker-search-engines",
+   "desc": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
+   "stars": 11458,
+   "lang": "Shell",
+   "topics": [
+    "dns",
+    "search-engine",
+    "security",
+    "awesome",
+    "osint",
+    "exploit",
+    "hacking",
+    "awesome-list",
+    "wifi-network",
+    "vulnerabilities",
+    "bugbounty",
+    "cve"
+   ],
+   "updated": "2026-11-02T10:51:43Z"
+  },
+  {
+   "full": "BigBodyCobain/Shadowbroker",
+   "desc": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find pre",
+   "stars": 11435,
+   "lang": "Python",
+   "topics": [
+    "tracking",
+    "osint",
+    "cctv",
+    "cctv-cameras",
+    "plane",
+    "surveillance",
+    "gis",
+    "sdr",
+    "aircraft",
+    "ads-b",
+    "adsb",
+    "earthquake-visualization"
+   ],
+   "updated": "2026-11-02T13:17:54Z"
+  },
+  {
+   "full": "blacklanternsecurity/bbot",
+   "desc": "The recursive internet scanner for hackers. 🧡",
+   "stars": 10916,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "cli",
+    "automation",
+    "osint",
+    "neo4j",
+    "scanner",
+    "asm",
+    "hacking",
+    "recursion",
+    "pentesting",
+    "recon",
+    "bugbounty"
+   ],
+   "updated": "2026-11-02T19:56:19Z"
+  },
+  {
+   "full": "projectdiscovery/httpx",
+   "desc": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+   "stars": 10571,
+   "lang": "Go",
+   "topics": [
+    "cli",
+    "http",
+    "osint",
+    "pipeline",
+    "lib",
+    "cybersecurity",
+    "ssl-certificate",
+    "bugbounty",
+    "hacktoberfest",
+    "pentest-tool"
+   ],
+   "updated": "2026-11-02T18:18:08Z"
+  },
+  {
+   "full": "OpenCTI-Platform/opencti",
+   "desc": "Open Cyber Threat Intelligence Platform",
+   "stars": 10251,
+   "lang": "TypeScript",
+   "topics": [
+    "security",
+    "intelligence",
+    "osint",
+    "cybersecurity",
+    "cti",
+    "cyber",
+    "threat-intelligence"
+   ],
+   "updated": "2026-11-02T20:10:59Z"
+  },
+  {
+   "full": "shmilylty/OneForAll",
+   "desc": "OneForAll是一款功能强大的子域收集工具",
+   "stars": 10130,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "osint",
+    "subdomain",
+    "content-security-policy",
+    "recon",
+    "bugbounty",
+    "information-gathering",
+    "pentest-tool",
+    "zone-transfers",
+    "subdomain-scanner",
+    "nsec",
+    "subdomain-takeover"
+   ],
+   "updated": "2026-11-02T02:50:04Z"
+  },
+  {
+   "full": "reconurge/flowsint",
+   "desc": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+   "stars": 10035,
+   "lang": "TypeScript",
+   "topics": [
+    "python",
+    "osint",
+    "recon",
+    "investigation"
+   ],
+   "updated": "2026-10-18T19:56:10Z"
+  },
+  {
+   "full": "antoniaci/blackbird",
+   "desc": "An OSINT tool to search for accounts by username and email in social networks.",
+   "stars": 9528,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "osint",
+    "cybersecurity",
+    "pentesting"
+   ],
+   "updated": "2026-10-17T16:06:50Z"
+  },
+  {
+   "full": "jofpin/trape",
+   "desc": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
+   "stars": 9061,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "flask",
+    "security",
+    "tracking",
+    "osint",
+    "recognition",
+    "hacking",
+    "footprint",
+    "hacking-tool",
+    "phising",
+    "social-engineering",
+    "jose-pino"
+   ],
+   "updated": "2024-06-20T19:04:00Z"
+  },
+  {
+   "full": "cipher387/osint_stuff_tool_collection",
+   "desc": "A collection of several hundred online tools for OSINT",
+   "stars": 9041,
+   "lang": null,
+   "topics": [
+    "awesome",
+    "osint",
+    "tools",
+    "hacking",
+    "cybersecurity",
+    "awesome-list",
+    "toolset",
+    "geoint",
+    "socmint",
+    "humint"
+   ],
+   "updated": "2026-11-02T18:06:01Z"
+  },
+  {
+   "full": "yogeshojha/rengine",
+   "desc": "reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simpl",
+   "stars": 8912,
+   "lang": "HTML",
+   "topics": [
+    "osint",
+    "scanner",
+    "hacking",
+    "penetration-testing",
+    "bug-bounty",
+    "infosec",
+    "pentesting",
+    "recon",
+    "bugbounty",
+    "scanning",
+    "information-gathering",
+    "rengine"
+   ],
+   "updated": "2026-10-31T20:44:05Z"
+  },
+  {
+   "full": "six2dez/reconftw",
+   "desc": "reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities",
+   "stars": 8325,
+   "lang": "Shell",
+   "topics": [
+    "dns",
+    "security",
+    "osint",
+    "scanner",
+    "hacking",
+    "subdomain",
+    "penetration-testing",
+    "bug-bounty",
+    "pentesting",
+    "recon",
+    "nuclei",
+    "vulnerabilities"
+   ],
+   "updated": "2026-11-02T11:45:32Z"
+  },
+  {
+   "full": "apurvsinghgautam/robin",
+   "desc": "AI-Powered Dark Web OSINT Tool",
+   "stars": 7849,
+   "lang": "Python",
+   "topics": [
+    "osint",
+    "darkweb",
+    "osint-tool",
+    "investigation-tool",
+    "ai-tool",
+    "darkweb-osint",
+    "llm-powered"
+   ],
+   "updated": "2026-10-03T00:20:31Z"
+  },
+  {
+   "full": "subzeroid/instagrapi",
+   "desc": "🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS",
+   "stars": 7054,
+   "lang": "Python",
+   "topics": [
+    "instagram-client",
+    "instagram",
+    "osint",
+    "instagram-feed",
+    "instagram-scraper",
+    "instagram-api",
+    "instagram-sdk",
+    "instagram-photos",
+    "instagram-api-python",
+    "instabot",
+    "instagram-stories",
+    "instagram-bot"
+   ],
+   "updated": "2026-11-02T20:11:47Z"
+  },
+  {
+   "full": "j3ssie/osmedeus",
+   "desc": "A Modern Orchestration Engine for Security",
+   "stars": 6638,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "security",
+    "osint",
+    "workflow-engine",
+    "hacking",
+    "penetration-testing",
+    "pentesting",
+    "bugbounty",
+    "workflows",
+    "hacktoberfest",
+    "hacking-tool",
+    "security-tools"
+   ],
+   "updated": "2026-10-04T17:27:24Z"
+  },
+  {
+   "full": "michenriksen/gitrob",
+   "desc": "Reconnaissance tool for GitHub organizations",
+   "stars": 6198,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "github-api",
+    "security",
+    "osint"
+   ],
+   "updated": "2022-09-20T18:09:09Z"
+  },
+  {
+   "full": "alpkeskin/mosint",
+   "desc": "An automated e-mail OSINT tool",
+   "stars": 6071,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "automation",
+    "social-media",
+    "osint",
+    "email",
+    "hacking",
+    "pwn",
+    "pentest",
+    "information-gathering",
+    "email-checker",
+    "data-breach",
+    "python-hacking"
+   ],
+   "updated": "2024-02-02T13:10:43Z"
+  },
+  {
+   "full": "thewhiteh4t/seeker",
+   "desc": "Accurately Locate Smartphones using Social Engineering",
+   "stars": 10243,
+   "lang": "CSS",
+   "topics": [
+    "geolocation",
+    "system-information",
+    "accuracy",
+    "altitude",
+    "latitude",
+    "longitude",
+    "reconnaissance"
+   ],
+   "updated": "2026-10-31T06:21:42Z"
+  },
+  {
+   "full": "daffainfo/AllAboutBugBounty",
+   "desc": "All about bug bounty (bypasses, payloads, and etc)",
+   "stars": 6955,
+   "lang": null,
+   "topics": [
+    "security",
+    "bug",
+    "hacking",
+    "penetration-testing",
+    "vulnerability",
+    "infosec",
+    "bugbounty",
+    "pentest",
+    "bypass",
+    "payload",
+    "payloads",
+    "reconnaissance"
+   ],
+   "updated": "2023-09-08T12:00:58Z"
+  },
+  {
+   "full": "michenriksen/aquatone",
+   "desc": "A Tool for Domain Flyovers",
+   "stars": 5954,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "security",
+    "osint",
+    "chromium",
+    "chrome-headless",
+    "reconnaissance"
+   ],
+   "updated": "2022-05-22T19:49:32Z"
+  },
+  {
+   "full": "hakluke/hakrawler",
+   "desc": "Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application",
+   "stars": 5157,
+   "lang": "Go",
+   "topics": [
+    "osint",
+    "crawling",
+    "hacking",
+    "pentesting",
+    "recon",
+    "bugbounty",
+    "reconnaissance"
+   ],
+   "updated": "2026-08-05T04:05:39Z"
+  },
+  {
+   "full": "Threekiii/Awesome-Redteam",
+   "desc": "一个攻防知识库。A knowledge base for red teaming and offensive security.",
+   "stars": 4380,
+   "lang": "Python",
+   "topics": [
+    "exploit",
+    "execution",
+    "privilege-escalation",
+    "reconnaissance",
+    "command-and-control",
+    "red-teaming",
+    "lateral-movement",
+    "initial-access"
+   ],
+   "updated": "2026-06-23T00:54:00Z"
+  },
+  {
+   "full": "divinelabio/Argus",
+   "desc": "The Ultimate Information Gathering Toolkit",
+   "stars": 4294,
+   "lang": "Python",
+   "topics": [
+    "osint",
+    "web-crawler",
+    "whois-lookup",
+    "virustotal",
+    "information-gathering",
+    "server-info",
+    "dns-lookup",
+    "reconnaissance",
+    "cms-detection",
+    "recon-tools",
+    "email-harvester",
+    "ssl-analitcs"
+   ],
+   "updated": "2025-12-10T10:30:05Z"
+  },
+  {
+   "full": "evyatarmeged/Raccoon",
+   "desc": "A high performance offensive security tool for reconnaissance and vulnerability scanning",
+   "stars": 4064,
+   "lang": "Python",
+   "topics": [
+    "osint",
+    "scanner",
+    "hacking",
+    "enumeration",
+    "fuzzing",
+    "pentesting",
+    "offensive-security",
+    "hacking-tool",
+    "security-scanner",
+    "vulnerability-assessment",
+    "information-gathering",
+    "reconnaissance"
+   ],
+   "updated": "2026-04-21T21:23:15Z"
+  },
+  {
+   "full": "leebaird/discover",
+   "desc": "Custom Bash and Python scripts used to automate various penetration testing tasks including recon, scanning, enumeration, and malicious payload creation using Metasploit. For use with Ubuntu. Limited support for Kali Linux.",
+   "stars": 3942,
+   "lang": "Shell",
+   "topics": [
+    "bash",
+    "osint",
+    "enumeration",
+    "nmap",
+    "pentesting",
+    "recon",
+    "scanning",
+    "red-team",
+    "information-gathering",
+    "metasploit",
+    "payload-generator",
+    "reconnaissance"
+   ],
+   "updated": "2026-10-30T19:40:20Z"
+  },
+  {
+   "full": "edoardottt/cariddi",
+   "desc": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more",
+   "stars": 3811,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "security",
+    "crawler",
+    "scraper",
+    "osint",
+    "crawling",
+    "penetration-testing",
+    "infosec",
+    "pentesting",
+    "recon",
+    "bugbounty"
+   ],
+   "updated": "2026-10-30T16:09:28Z"
+  },
+  {
+   "full": "blechschmidt/massdns",
+   "desc": "A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)",
+   "stars": 3658,
+   "lang": "C",
+   "topics": [
+    "dns",
+    "subdomain",
+    "dns-client",
+    "dns-resolution",
+    "dns-bruteforcer",
+    "dns-resolver",
+    "dns-lookup",
+    "reconnaissance",
+    "subbrute",
+    "massdns",
+    "bulk-dns"
+   ],
+   "updated": "2026-09-27T18:50:59Z"
+  },
+  {
+   "full": "rawfilejson/awesome-osint-arsenal",
+   "desc": "OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.",
+   "stars": 3559,
+   "lang": "Shell",
+   "topics": [
+    "intelligence",
+    "osint",
+    "hacking",
+    "open-data",
+    "cybersecurity",
+    "penetration-testing",
+    "infosec",
+    "recon",
+    "kali-linux",
+    "ethical-hacking",
+    "information-gathering",
+    "security-tools"
+   ],
+   "updated": "2026-08-29T03:14:19Z"
+  },
+  {
+   "full": "projectdiscovery/uncover",
+   "desc": "Quickly discover exposed hosts on the internet using multiple search engines.",
+   "stars": 3103,
+   "lang": "Go",
+   "topics": [
+    "cli",
+    "osint",
+    "asm",
+    "recon",
+    "bugbounty",
+    "hacktoberfest",
+    "reconnaissance",
+    "attack-surface"
+   ],
+   "updated": "2026-11-02T16:53:00Z"
+  },
+  {
+   "full": "thewhiteh4t/FinalRecon",
+   "desc": "All In One Web Recon",
+   "stars": 3043,
+   "lang": "Python",
+   "topics": [
+    "crawler",
+    "whois",
+    "python3",
+    "ssl-certificate",
+    "pentesting",
+    "headers",
+    "traceroute",
+    "javascript-crawler",
+    "port-scanning",
+    "web-penetration-testing",
+    "reconnaissance",
+    "pentest-tool"
+   ],
+   "updated": "2026-10-31T06:23:50Z"
+  },
+  {
+   "full": "redhuntlabs/Awesome-Asset-Discovery",
+   "desc": "List of Awesome Asset Discovery Resources",
+   "stars": 2889,
+   "lang": null,
+   "topics": [
+    "osint",
+    "infosec",
+    "awesome-list",
+    "recon",
+    "reconnaissance",
+    "asset-discovery"
+   ],
+   "updated": "2025-01-22T10:48:28Z"
+  },
+  {
+   "full": "bhavsec/reconspider",
+   "desc": "🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.",
+   "stars": 2852,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "security",
+    "framework",
+    "osint",
+    "scanner",
+    "hacking",
+    "cybersecurity",
+    "pentesting",
+    "recon",
+    "pentest",
+    "automated",
+    "information-gathering"
+   ],
+   "updated": "2023-09-26T10:12:16Z"
+  },
+  {
+   "full": "danieldurnea/FBI-tools",
+   "desc": "🕵️ OSINT Tools for gathering information and actions forensics 🕵️",
+   "stars": 2726,
+   "lang": null,
+   "topics": [
+    "security",
+    "awesome",
+    "osint",
+    "incident-response",
+    "hacking",
+    "forensics",
+    "cybersecurity",
+    "penetration-testing",
+    "bug-bounty",
+    "infosec",
+    "awesome-list",
+    "pentesting"
+   ],
+   "updated": "2025-03-12T23:04:21Z"
+  },
+  {
+   "full": "kpcyrd/sn0int",
+   "desc": "Semi-automatic OSINT framework and package manager",
+   "stars": 2559,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "security",
+    "intelligence",
+    "security-audit",
+    "osint",
+    "lua",
+    "location",
+    "certificate-transparency",
+    "bug-bounty",
+    "pentesting",
+    "recon",
+    "security-scanner"
+   ],
+   "updated": "2026-09-20T14:03:50Z"
+  },
+  {
+   "full": "screetsec/Sudomy",
+   "desc": "Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting",
+   "stars": 2445,
+   "lang": "Shell",
+   "topics": [
+    "bash",
+    "framework",
+    "scanner",
+    "enumeration",
+    "pentesting",
+    "bugbounty",
+    "kali-linux",
+    "kali",
+    "bugcrowd",
+    "hackerone",
+    "reconnaissance",
+    "subdomain-scanner"
+   ],
+   "updated": "2024-06-27T10:07:42Z"
+  },
+  {
+   "full": "Jieyab89/OSINT-Cheat-sheet",
+   "desc": "OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Pleas",
+   "stars": 2309,
+   "lang": "HTML",
+   "topics": [
+    "science",
+    "education",
+    "osint",
+    "scraping",
+    "hacking",
+    "journalism",
+    "cheatsheet",
+    "cybersecurity",
+    "datasets",
+    "sigint",
+    "red-team",
+    "information-gathering"
+   ],
+   "updated": "2026-11-02T18:01:02Z"
+  },
+  {
+   "full": "lkarlslund/Adalanche",
+   "desc": "Attack Graph Visualizer and Explorer (Active Directory) ...Who's *really* Domain Admin?",
+   "stars": 2220,
+   "lang": "Go",
+   "topics": [
+    "ldap",
+    "active-directory",
+    "acl",
+    "activedirectory",
+    "graph-theory",
+    "infosec",
+    "blueteam",
+    "reconnaissance",
+    "ad-audit",
+    "acl-audit",
+    "ldap-audit"
+   ],
+   "updated": "2026-10-29T14:39:17Z"
+  },
+  {
+   "full": "skavngr/rapidscan",
+   "desc": "🆕 The Multi-Tool Web Vulnerability Scanner.",
+   "stars": 2141,
+   "lang": "Python",
+   "topics": [
+    "scanner",
+    "enumeration",
+    "penetration-testing",
+    "vulnerabilities",
+    "kali-linux",
+    "vulnerability-detection",
+    "offensive-security",
+    "vulnerability-management",
+    "vulnerability-scanners",
+    "security-scanner",
+    "vulnerability-assessment",
+    "web-vulnerabilities-scanner"
+   ],
+   "updated": "2023-08-22T12:03:38Z"
+  },
+  {
+   "full": "0xSobky/HackVault",
+   "desc": "A container repository for my public web hacks!",
+   "stars": 2036,
+   "lang": "JavaScript",
+   "topics": [
+    "tracking",
+    "exploit",
+    "regex",
+    "xss",
+    "fuzzing",
+    "web-security",
+    "pentesting",
+    "payloads",
+    "reconnaissance"
+   ],
+   "updated": "2022-10-12T04:25:23Z"
+  },
+  {
+   "full": "devploit/nomore403",
+   "desc": "403/401 bypass tool: finds HTTP access-control bypasses via path, method, header and raw-request mutations. Baseline diff, auto-calibration, replayable curl evidence.",
+   "stars": 1915,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "http",
+    "security",
+    "penetration-testing",
+    "bug-bounty",
+    "web-security",
+    "pentesting",
+    "ctf",
+    "bugbounty",
+    "access-control",
+    "offensive-security"
+   ],
+   "updated": "2026-10-30T21:18:06Z"
+  },
+  {
+   "full": "0xInfection/TIDoS-Framework",
+   "desc": "The Offensive Manual Web Application Penetration Testing Framework.",
+   "stars": 1868,
+   "lang": "Python",
+   "topics": [
+    "osint",
+    "enumeration",
+    "exploitation",
+    "vulnerability-detection",
+    "web-penetration-testing",
+    "intelligence-gathering",
+    "web-application-security",
+    "reconnaissance",
+    "footprinting",
+    "vulnerability-analysis",
+    "web-fuzzer",
+    "scanning-enumeration"
+   ],
+   "updated": "2023-04-19T19:02:06Z"
+  },
+  {
+   "full": "j3ssie/metabigor",
+   "desc": "OSINT power without API key hassle",
+   "stars": 1859,
+   "lang": "Go",
+   "topics": [
+    "security",
+    "osint",
+    "subdomain",
+    "bug-bounty",
+    "infosec",
+    "pentesting",
+    "asn",
+    "recon",
+    "bugbounty",
+    "ip-range",
+    "subdomains",
+    "security-tools"
+   ],
+   "updated": "2026-08-08T16:20:35Z"
+  },
+  {
+   "full": "OpenOSINT/OpenOSINT",
+   "desc": "Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligence at app.openosint.tech.",
+   "stars": 1844,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "cli",
+    "security",
+    "osint",
+    "terminal",
+    "mcp",
+    "sherlock",
+    "cybersecurity",
+    "dmarc",
+    "threat-intelligence",
+    "claude",
+    "reconnaissance"
+   ],
+   "updated": "2026-10-30T20:42:38Z"
+  },
+  {
+   "full": "mschwager/fierce",
+   "desc": "A DNS reconnaissance tool for locating non-contiguous IP space.",
+   "stars": 1825,
+   "lang": "Python",
+   "topics": [
+    "dns",
+    "domain",
+    "subdomain",
+    "reconnaissance",
+    "name-server",
+    "zone-transfers",
+    "discovered-domains",
+    "fierce"
+   ],
+   "updated": "2024-08-28T14:35:58Z"
+  },
+  {
+   "full": "trickest/wordlists",
+   "desc": "Real-world infosec wordlists, updated regularly",
+   "stars": 1804,
+   "lang": null,
+   "topics": [
+    "security",
+    "hacking",
+    "wordlist",
+    "penetration-testing",
+    "infosec",
+    "pentesting",
+    "bugbounty",
+    "wordlist-generator",
+    "content-discovery",
+    "reconnaissance",
+    "wordlists",
+    "directory-bruteforce"
+   ],
+   "updated": "2026-10-16T13:17:49Z"
+  },
+  {
+   "full": "KatrielMoses/MailAccess",
+   "desc": "Free email OSINT tool, 5000+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess",
+   "stars": 1736,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "open-source",
+    "scraper",
+    "privacy",
+    "osint",
+    "email",
+    "email-marketing",
+    "cybersecurity",
+    "penetration-testing",
+    "infosec",
+    "email-verification",
+    "threat-analysis"
+   ],
+   "updated": "2026-10-28T06:05:21Z"
+  },
+  {
+   "full": "spyboy-productions/r4ven",
+   "desc": "Track the GPS location of the user's smartphone or PC and capture a picture of the target, along with IP and device information.",
+   "stars": 1684,
+   "lang": "HTML",
+   "topics": [
+    "geolocation",
+    "system-information",
+    "pentesting",
+    "gps-tracker",
+    "hacking-tool",
+    "location-tracker",
+    "social-engineering",
+    "reconnaissance",
+    "camera-access",
+    "camera-permission",
+    "latitude-longitude-finder",
+    "discord-webhook"
+   ],
+   "updated": "2026-01-06T21:19:10Z"
+  }
+ ]
+}

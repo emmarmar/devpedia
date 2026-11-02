@@ -1,0 +1,2095 @@
+{
+ "subId": "frameworks-ui",
+ "topics": [
+  "react",
+  "vue",
+  "svelte"
+ ],
+ "crawledAt": "2026-11-02T20:17:03.935Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "freeCodeCamp/freeCodeCamp",
+   "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+   "stars": 458448,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "d3",
+    "teachers",
+    "community",
+    "education",
+    "programming",
+    "curriculum",
+    "math",
+    "freecodecamp",
+    "learn-to-code"
+   ],
+   "updated": "2026-11-02T16:05:01Z"
+  },
+  {
+   "full": "morluto/rea",
+   "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "stars": 422376,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "android",
+    "python",
+    "java",
+    "linux",
+    "html",
+    "rust",
+    "cli",
+    "security",
+    "typescript"
+   ],
+   "updated": "2026-11-02T19:32:05Z"
+  },
+  {
+   "full": "react/react",
+   "desc": "The library for web and native user interfaces.",
+   "stars": 252096,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "javascript",
+    "library",
+    "ui",
+    "frontend",
+    "declarative"
+   ],
+   "updated": "2026-10-31T13:53:11Z"
+  },
+  {
+   "full": "nextlevelbuilder/ui-ux-pro-max-skill",
+   "desc": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+   "stars": 144228,
+   "lang": "Python",
+   "topics": [
+    "react",
+    "ui-design",
+    "html5",
+    "landing-page",
+    "command-line",
+    "uikit",
+    "trae",
+    "copilot",
+    "codex",
+    "mobile-ui",
+    "claude",
+    "tailwindcss"
+   ],
+   "updated": "2026-11-02T16:10:22Z"
+  },
+  {
+   "full": "vercel/next.js",
+   "desc": "The React Framework",
+   "stars": 143474,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "blog",
+    "static-site-generator",
+    "components",
+    "node",
+    "browser",
+    "compiler",
+    "universal",
+    "nextjs",
+    "static",
+    "server-rendering",
+    "hybrid"
+   ],
+   "updated": "2026-11-02T20:13:02Z"
+  },
+  {
+   "full": "shadcn-ui/ui",
+   "desc": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
+   "stars": 127191,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "components",
+    "laravel",
+    "ui",
+    "ai",
+    "nextjs",
+    "tailwindcss",
+    "vite",
+    "react-aria",
+    "radix-ui",
+    "base-ui",
+    "tanstack"
+   ],
+   "updated": "2026-11-02T07:02:07Z"
+  },
+  {
+   "full": "react/react-native",
+   "desc": "A framework for building native applications using React",
+   "stars": 126852,
+   "lang": "C++",
+   "topics": [
+    "react",
+    "android",
+    "ios",
+    "mobile",
+    "react-native",
+    "cross-platform",
+    "app-framework",
+    "mobile-development"
+   ],
+   "updated": "2026-11-02T18:03:42Z"
+  },
+  {
+   "full": "justjavac/free-programming-books-zh_CN",
+   "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿",
+   "stars": 119489,
+   "lang": null,
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "kotlin",
+    "python",
+    "swift",
+    "pdf",
+    "ios",
+    "angular",
+    "react-native",
+    "programming",
+    "books"
+   ],
+   "updated": "2026-07-29T00:39:06Z"
+  },
+  {
+   "full": "react/create-react-app",
+   "desc": "Set up a modern web app by running one command.",
+   "stars": 103241,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "zero-configuration",
+    "build-tools"
+   ],
+   "updated": "2025-02-15T01:32:11Z"
+  },
+  {
+   "full": "ruvnet/RuView",
+   "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+   "stars": 102097,
+   "lang": "Rust",
+   "topics": [
+    "react",
+    "home-automation",
+    "npm",
+    "iot",
+    "awesome",
+    "typescript",
+    "networking",
+    "monitoring",
+    "firmware",
+    "skills",
+    "esp32",
+    "wifi"
+   ],
+   "updated": "2026-11-02T18:12:18Z"
+  },
+  {
+   "full": "ant-design/ant-design",
+   "desc": "An enterprise-class UI design language and React UI library",
+   "stars": 100046,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "design-systems",
+    "typescript",
+    "ui-kit",
+    "antd",
+    "ant-design",
+    "ui-library"
+   ],
+   "updated": "2026-11-02T13:15:40Z"
+  },
+  {
+   "full": "mui/material-ui",
+   "desc": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+   "stars": 99299,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "material-design",
+    "material-ui",
+    "react-components",
+    "design-system"
+   ],
+   "updated": "2026-11-02T17:14:36Z"
+  },
+  {
+   "full": "oven-sh/bun",
+   "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+   "stars": 96517,
+   "lang": "Rust",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "rust",
+    "npm",
+    "bundler",
+    "typescript",
+    "jsx",
+    "transpiler",
+    "rust-lang",
+    "javascriptcore",
+    "bun"
+   ],
+   "updated": "2026-11-02T20:04:39Z"
+  },
+  {
+   "full": "storybookjs/storybook",
+   "desc": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+   "stars": 91428,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "stories",
+    "testing",
+    "html",
+    "components",
+    "documentation",
+    "styleguide",
+    "design-systems",
+    "angular",
+    "typescript",
+    "ui"
+   ],
+   "updated": "2026-11-02T20:15:57Z"
+  },
+  {
+   "full": "ChatGPTNextWeb/NextChat",
+   "desc": "✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows.",
+   "stars": 88939,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "cross-platform",
+    "nextjs",
+    "desktop",
+    "gemini",
+    "webui",
+    "fe",
+    "claude",
+    "tauri",
+    "groq",
+    "vercel",
+    "tauri-app"
+   ],
+   "updated": "2026-10-20T10:19:31Z"
+  },
+  {
+   "full": "apache/superset",
+   "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+   "stars": 75392,
+   "lang": "Python",
+   "topics": [
+    "react",
+    "python",
+    "flask",
+    "data-science",
+    "bi",
+    "analytics",
+    "superset",
+    "apache",
+    "data-visualization",
+    "data-engineering",
+    "business-intelligence",
+    "data-viz"
+   ],
+   "updated": "2026-11-02T19:47:15Z"
+  },
+  {
+   "full": "enaqx/awesome-react",
+   "desc": "A collection of awesome things regarding React ecosystem",
+   "stars": 75141,
+   "lang": null,
+   "topics": [
+    "react",
+    "javascript",
+    "awesome",
+    "tutorial",
+    "typescript",
+    "react-native",
+    "react-tutorial",
+    "samples",
+    "awesome-list",
+    "react-apps"
+   ],
+   "updated": "2026-09-04T01:13:20Z"
+  },
+  {
+   "full": "remotion-dev/remotion",
+   "desc": "🎥 Make videos programmatically with React",
+   "stars": 70055,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "video"
+   ],
+   "updated": "2026-11-02T20:14:14Z"
+  },
+  {
+   "full": "meta/docusaurus",
+   "desc": "Easy to maintain open source documentation websites.",
+   "stars": 66641,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "open-source",
+    "website",
+    "documentation",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T09:46:35Z"
+  },
+  {
+   "full": "leonardomso/33-js-concepts",
+   "desc": "📜 33 JavaScript concepts every developer should know.",
+   "stars": 66528,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "angular",
+    "programming",
+    "es6",
+    "concepts",
+    "es6-javascript",
+    "primitive-types",
+    "hacktoberfest",
+    "javascript-closures",
+    "javascript-programming"
+   ],
+   "updated": "2026-10-21T16:03:54Z"
+  },
+  {
+   "full": "usememos/memos",
+   "desc": "Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.",
+   "stars": 64236,
+   "lang": "Go",
+   "topics": [
+    "react",
+    "go",
+    "docker",
+    "markdown",
+    "open-source",
+    "timeline",
+    "notes",
+    "memo",
+    "sqlite",
+    "foss",
+    "self-hosted",
+    "note-taking"
+   ],
+   "updated": "2026-11-02T13:10:22Z"
+  },
+  {
+   "full": "makeplane/plane",
+   "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+   "stars": 61881,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "python",
+    "project-planning",
+    "docker",
+    "redis",
+    "django",
+    "jira",
+    "bug-tracker",
+    "postgresql",
+    "issue-tracker",
+    "project-management",
+    "kanban"
+   ],
+   "updated": "2026-11-02T19:15:55Z"
+  },
+  {
+   "full": "twentyhq/twenty",
+   "desc": "The open alternative to Salesforce, designed for AI.",
+   "stars": 60319,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "graphql",
+    "open-source",
+    "sales",
+    "marketing",
+    "typescript",
+    "web",
+    "reactjs",
+    "postgresql",
+    "crm",
+    "monorepo"
+   ],
+   "updated": "2026-11-02T20:13:53Z"
+  },
+  {
+   "full": "pmndrs/zustand",
+   "desc": "🐻 Bear necessities for state management in React",
+   "stars": 58894,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "redux",
+    "hooks",
+    "state-management",
+    "reactjs",
+    "hacktoberfest",
+    "react-context"
+   ],
+   "updated": "2026-11-02T18:43:00Z"
+  },
+  {
+   "full": "appwrite/appwrite",
+   "desc": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+   "stars": 57854,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "swift",
+    "docker",
+    "ios",
+    "firebase",
+    "react-native",
+    "web",
+    "backend",
+    "nextjs",
+    "firewall"
+   ],
+   "updated": "2026-11-02T20:16:55Z"
+  },
+  {
+   "full": "gatsbyjs/gatsby",
+   "desc": "React-based framework with performance, scalability, and security built in.",
+   "stars": 55921,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "blog",
+    "graphql",
+    "static-site-generator",
+    "compiler",
+    "web-app",
+    "gatsby"
+   ],
+   "updated": "2026-10-20T11:36:56Z"
+  },
+  {
+   "full": "FlowiseAI/Flowise",
+   "desc": "Build AI Agents, Visually",
+   "stars": 55542,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "typescript",
+    "chatbot",
+    "artificial-intelligence",
+    "openai",
+    "multiagent-systems",
+    "agents",
+    "workflow-automation",
+    "low-code",
+    "no-code",
+    "rag"
+   ],
+   "updated": "2026-08-13T12:38:19Z"
+  },
+  {
+   "full": "expo/expo",
+   "desc": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+   "stars": 53302,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "ios",
+    "mobile",
+    "framework",
+    "typescript",
+    "react-native",
+    "web",
+    "frontend",
+    "native",
+    "universal"
+   ],
+   "updated": "2026-11-02T20:14:13Z"
+  },
+  {
+   "full": "ionic-team/ionic-framework",
+   "desc": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+   "stars": 52736,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "ios",
+    "angular",
+    "mobile",
+    "framework",
+    "typescript",
+    "web",
+    "ionic",
+    "pwa",
+    "vue",
+    "material-design"
+   ],
+   "updated": "2026-11-02T15:54:29Z"
+  },
+  {
+   "full": "tldraw/tldraw",
+   "desc": "Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.",
+   "stars": 51207,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "drawing",
+    "design",
+    "sync",
+    "sdk",
+    "canvas",
+    "diagram",
+    "multiplayer",
+    "sketch",
+    "collaboration",
+    "whiteboard",
+    "infinite"
+   ],
+   "updated": "2026-11-02T20:07:09Z"
+  },
+  {
+   "full": "DavidHDev/react-bits",
+   "desc": "The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.",
+   "stars": 51061,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "javascript",
+    "components",
+    "web",
+    "reactjs",
+    "css-animations",
+    "react-components",
+    "animations",
+    "component-library",
+    "ui-components",
+    "3d",
+    "ui-library"
+   ],
+   "updated": "2026-10-31T00:02:43Z"
+  },
+  {
+   "full": "TanStack/query",
+   "desc": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+   "stars": 50521,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "fetch",
+    "graphql",
+    "hooks",
+    "data",
+    "query",
+    "typescript",
+    "rest",
+    "vue",
+    "solid",
+    "async",
+    "cache"
+   ],
+   "updated": "2026-11-02T17:29:39Z"
+  },
+  {
+   "full": "brillout/awesome-react-components",
+   "desc": "Curated List of React Components & Libraries.",
+   "stars": 48787,
+   "lang": null,
+   "topics": [
+    "react",
+    "awesome",
+    "react-component",
+    "react-components",
+    "awesome-list"
+   ],
+   "updated": "2026-01-26T16:36:45Z"
+  },
+  {
+   "full": "typescript-cheatsheets/react",
+   "desc": "Cheatsheets for experienced React developers getting started with TypeScript",
+   "stars": 47083,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "typescript",
+    "guide",
+    "cheatsheet"
+   ],
+   "updated": "2026-09-09T17:26:52Z"
+  },
+  {
+   "full": "Asabeneh/30-Days-Of-JavaScript",
+   "desc": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. These videos may help too: https://www.yo",
+   "stars": 46985,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "redux",
+    "nodejs",
+    "javascript",
+    "css",
+    "d3",
+    "html",
+    "challenge",
+    "website",
+    "json",
+    "angular",
+    "node"
+   ],
+   "updated": "2026-08-27T12:03:08Z"
+  },
+  {
+   "full": "fastapi/full-stack-fastapi-template",
+   "desc": "Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.",
+   "stars": 46146,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "python",
+    "docker",
+    "jwt",
+    "typescript",
+    "docker-compose",
+    "postgresql",
+    "openapi",
+    "full-stack",
+    "pytest",
+    "tailwindcss",
+    "vite"
+   ],
+   "updated": "2026-11-02T09:10:59Z"
+  },
+  {
+   "full": "payloadcms/payload",
+   "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+   "stars": 45624,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "graphql",
+    "open-source",
+    "cms",
+    "postgres",
+    "express",
+    "typescript",
+    "mongodb",
+    "nextjs",
+    "headless"
+   ],
+   "updated": "2026-11-02T20:04:36Z"
+  },
+  {
+   "full": "reactive-resume/reactive-resume",
+   "desc": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+   "stars": 45217,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "typescript",
+    "ai",
+    "self-hosted",
+    "hacktoberfest",
+    "resume-builder",
+    "mcp-server",
+    "agent-skills",
+    "dsh-plugin"
+   ],
+   "updated": "2026-11-02T20:11:52Z"
+  },
+  {
+   "full": "sudheerj/reactjs-interview-questions",
+   "desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+   "stars": 44918,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "redux",
+    "javascript",
+    "react-native",
+    "react-router",
+    "reactjs",
+    "javascript-framework",
+    "interview-questions",
+    "javascript-applications",
+    "interview-preparation",
+    "javascript-interview-questions",
+    "react16"
+   ],
+   "updated": "2026-10-13T20:30:23Z"
+  },
+  {
+   "full": "meteor/meteor",
+   "desc": "Meteor, the JavaScript App Platform",
+   "stars": 44800,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "npm",
+    "framework",
+    "mongodb",
+    "meteor",
+    "realtime",
+    "rpc",
+    "reactive-programming",
+    "build-system",
+    "zero-configuration"
+   ],
+   "updated": "2026-11-02T12:31:56Z"
+  },
+  {
+   "full": "vuejs/vue",
+   "desc": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+   "stars": 212503,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "framework",
+    "vue",
+    "frontend"
+   ],
+   "updated": "2024-10-10T07:24:15Z"
+  },
+  {
+   "full": "PanJiaChen/vue-element-admin",
+   "desc": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
+   "stars": 90127,
+   "lang": "Vue",
+   "topics": [
+    "i18n",
+    "mock",
+    "admin",
+    "webpack",
+    "dashboard",
+    "vue",
+    "tinymce",
+    "element",
+    "vuex",
+    "xlsx",
+    "vue-cli",
+    "desktop"
+   ],
+   "updated": "2024-10-24T11:25:46Z"
+  },
+  {
+   "full": "hoppscotch/hoppscotch",
+   "desc": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+   "stars": 80723,
+   "lang": "TypeScript",
+   "topics": [
+    "testing",
+    "api",
+    "graphql",
+    "http",
+    "vuejs",
+    "spa",
+    "tools",
+    "pwa",
+    "rest",
+    "vue",
+    "rest-api",
+    "websocket"
+   ],
+   "updated": "2026-10-31T09:16:29Z"
+  },
+  {
+   "full": "nuxt/nuxt",
+   "desc": "The full-stack Vue framework.",
+   "stars": 61025,
+   "lang": "TypeScript",
+   "topics": [
+    "static-site-generator",
+    "node",
+    "framework",
+    "vue",
+    "universal",
+    "ssr",
+    "nuxt",
+    "full-stack",
+    "server-rendering",
+    "csr",
+    "hybrid",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T20:04:32Z"
+  },
+  {
+   "full": "go-gitea/gitea",
+   "desc": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+   "stars": 58826,
+   "lang": "Go",
+   "topics": [
+    "github",
+    "git",
+    "go",
+    "git-lfs",
+    "golang",
+    "devops",
+    "gitlab",
+    "typescript",
+    "vue",
+    "bitbucket",
+    "self-hosted",
+    "gitea"
+   ],
+   "updated": "2026-11-02T19:50:23Z"
+  },
+  {
+   "full": "lyswhut/lx-music-desktop",
+   "desc": "一个基于 Electron 的音乐软件",
+   "stars": 55007,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "javascript",
+    "music-player",
+    "vue"
+   ],
+   "updated": "2026-10-26T04:57:55Z"
+  },
+  {
+   "full": "ElemeFE/element",
+   "desc": "A Vue.js 2.0 UI Toolkit for Web",
+   "stars": 53994,
+   "lang": "Vue",
+   "topics": [
+    "javascript",
+    "components",
+    "vuejs",
+    "vue",
+    "vue-components",
+    "ui-kit",
+    "element-ui"
+   ],
+   "updated": "2024-08-20T07:40:13Z"
+  },
+  {
+   "full": "prettier/prettier",
+   "desc": "Prettier is an opinionated code formatter.",
+   "stars": 52405,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "graphql",
+    "markdown",
+    "flow",
+    "yaml",
+    "less",
+    "json",
+    "formatter",
+    "angular",
+    "typescript"
+   ],
+   "updated": "2026-11-02T19:24:26Z"
+  },
+  {
+   "full": "slidevjs/slidev",
+   "desc": "Presentation Slides for Developers",
+   "stars": 49335,
+   "lang": "TypeScript",
+   "topics": [
+    "markdown",
+    "vue",
+    "presentation",
+    "slides",
+    "vite",
+    "vueuse"
+   ],
+   "updated": "2026-10-23T06:54:55Z"
+  },
+  {
+   "full": "dcloudio/uni-app",
+   "desc": "A cross-platform framework using Vue.js",
+   "stars": 41633,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "android",
+    "ios",
+    "vue",
+    "cross-platform",
+    "uni",
+    "crossplatform",
+    "uniapp",
+    "miniprogram",
+    "vue3",
+    "uni-app",
+    "hbuilderx"
+   ],
+   "updated": "2026-11-02T13:08:51Z"
+  },
+  {
+   "full": "vuetifyjs/vuetify",
+   "desc": "🐉 Vue Component Framework",
+   "stars": 41034,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "ui-design",
+    "semantic",
+    "vuejs",
+    "typescript",
+    "ui",
+    "vue",
+    "material",
+    "material-design",
+    "vue-components",
+    "material-components",
+    "ui-kit"
+   ],
+   "updated": "2026-11-02T12:09:35Z"
+  },
+  {
+   "full": "bailicangdu/vue2-elm",
+   "desc": "Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用",
+   "stars": 40965,
+   "lang": "Vue",
+   "topics": [
+    "sass",
+    "flex",
+    "webpack",
+    "vue",
+    "es2015",
+    "vuex",
+    "vue-router"
+   ],
+   "updated": "2025-04-11T12:52:02Z"
+  },
+  {
+   "full": "YunaiV/ruoyi-vue-pro",
+   "desc": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、MES、IM、AI 大模型、IoT 物联网等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+   "stars": 40175,
+   "lang": "Java",
+   "topics": [
+    "mysql",
+    "redis",
+    "vue",
+    "spring-security",
+    "springboot",
+    "redisson",
+    "mybatis-plus",
+    "flowable"
+   ],
+   "updated": "2026-11-02T16:00:07Z"
+  },
+  {
+   "full": "videojs/video.js",
+   "desc": "Video.js v10 - open source media player framework for HTML and React.",
+   "stars": 40059,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "html",
+    "player",
+    "video",
+    "html5",
+    "vue",
+    "hls",
+    "video-player",
+    "html5-video",
+    "svelte",
+    "dash"
+   ],
+   "updated": "2026-11-02T19:55:02Z"
+  },
+  {
+   "full": "ueberdosis/tiptap",
+   "desc": "The headless rich text editor framework for web artisans.",
+   "stars": 38937,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "editor",
+    "vue",
+    "js",
+    "prosemirror",
+    "wysiwyg",
+    "wysiwyg-editor",
+    "rich-text",
+    "renderless-components",
+    "tiptap"
+   ],
+   "updated": "2026-11-02T15:35:15Z"
+  },
+  {
+   "full": "directus/directus",
+   "desc": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+   "stars": 38799,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "mysql",
+    "api",
+    "graphql",
+    "cms",
+    "app",
+    "node",
+    "typescript",
+    "sql",
+    "database",
+    "vue",
+    "sqlite"
+   ],
+   "updated": "2026-11-02T16:01:50Z"
+  },
+  {
+   "full": "NervJS/taro",
+   "desc": "开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。",
+   "stars": 37744,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "jquery",
+    "typescript",
+    "react-native",
+    "vue",
+    "reactjs",
+    "weixin",
+    "wechat",
+    "wxapp",
+    "wechat-mini-program",
+    "taro"
+   ],
+   "updated": "2026-11-02T12:09:40Z"
+  },
+  {
+   "full": "SheetJS/sheetjs",
+   "desc": "📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs",
+   "stars": 36348,
+   "lang": null,
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "html",
+    "ios",
+    "json",
+    "data",
+    "angular",
+    "grid",
+    "csv",
+    "database",
+    "html5"
+   ],
+   "updated": "2024-04-18T08:06:46Z"
+  },
+  {
+   "full": "filebrowser/filebrowser",
+   "desc": "File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.",
+   "stars": 35878,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "vue",
+    "material-design",
+    "file-sharing",
+    "self-hosted",
+    "file-browser",
+    "file-manager"
+   ],
+   "updated": "2026-07-31T10:06:58Z"
+  },
+  {
+   "full": "qier222/YesPlayMusic",
+   "desc": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+   "stars": 33518,
+   "lang": "Vue",
+   "topics": [
+    "electron",
+    "javascript",
+    "music",
+    "windows",
+    "macos",
+    "linux",
+    "mac",
+    "player",
+    "music-player",
+    "pwa",
+    "vue",
+    "progressive-web-app"
+   ],
+   "updated": "2026-10-10T11:05:47Z"
+  },
+  {
+   "full": "docsifyjs/docsify",
+   "desc": "🃏 A magical documentation site generator.",
+   "stars": 31575,
+   "lang": "JavaScript",
+   "topics": [
+    "markdown",
+    "github-pages",
+    "documentation",
+    "docs",
+    "vue",
+    "documentation-tool",
+    "doc",
+    "docsify"
+   ],
+   "updated": "2026-11-01T22:43:39Z"
+  },
+  {
+   "full": "tailwindlabs/headlessui",
+   "desc": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+   "stars": 28806,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "components",
+    "vue",
+    "accessibility",
+    "a11y",
+    "tailwindcss",
+    "headless-ui",
+    "headlessui"
+   ],
+   "updated": "2026-04-13T16:12:31Z"
+  },
+  {
+   "full": "t8y2/dbx",
+   "desc": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、",
+   "stars": 28664,
+   "lang": "Rust",
+   "topics": [
+    "mysql",
+    "docker",
+    "rust",
+    "redis",
+    "cli",
+    "gui",
+    "sql-server",
+    "database",
+    "ai",
+    "mongodb",
+    "vue",
+    "clickhouse"
+   ],
+   "updated": "2026-11-02T18:18:33Z"
+  },
+  {
+   "full": "TanStack/table",
+   "desc": "🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table",
+   "stars": 28541,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "pagination",
+    "hooks",
+    "sorting",
+    "typescript",
+    "grid",
+    "vue",
+    "solid",
+    "reactjs",
+    "table",
+    "svelte"
+   ],
+   "updated": "2026-10-21T14:02:33Z"
+  },
+  {
+   "full": "vuejs/vuex",
+   "desc": "🗃️ Centralized State Management for Vue.js.",
+   "stars": 28290,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "state-management",
+    "vue",
+    "vuex",
+    "time-travel"
+   ],
+   "updated": "2024-09-25T13:26:41Z"
+  },
+  {
+   "full": "element-plus/element-plus",
+   "desc": "🎉 A Vue.js 3 UI Library made by Element team",
+   "stars": 27834,
+   "lang": "TypeScript",
+   "topics": [
+    "vuejs",
+    "vue",
+    "vue-components",
+    "component-library",
+    "element-ui",
+    "element-plus"
+   ],
+   "updated": "2026-11-02T05:53:08Z"
+  },
+  {
+   "full": "vercel/ai",
+   "desc": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+   "stars": 27698,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "typescript",
+    "vue",
+    "nextjs",
+    "svelte",
+    "artificial-intelligence",
+    "gemini",
+    "openai",
+    "language-model",
+    "vercel",
+    "llm"
+   ],
+   "updated": "2026-11-02T20:16:33Z"
+  },
+  {
+   "full": "Molunerfinn/PicGo",
+   "desc": "🚀 The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
+   "stars": 27453,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "github",
+    "image",
+    "imgur",
+    "vue",
+    "electron-app",
+    "weibo",
+    "qiniu",
+    "electron-vue",
+    "aliyun-oss",
+    "upyun",
+    "imgur-uploader"
+   ],
+   "updated": "2026-10-20T09:13:53Z"
+  },
+  {
+   "full": "Advanced-Frontend/Daily-Interview-Question",
+   "desc": "我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+   "stars": 27339,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "javascript",
+    "css",
+    "vue",
+    "interview"
+   ],
+   "updated": "2020-11-09T01:07:00Z"
+  },
+  {
+   "full": "quasarframework/quasar",
+   "desc": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+   "stars": 27210,
+   "lang": "JavaScript",
+   "topics": [
+    "electron",
+    "javascript",
+    "android",
+    "ios",
+    "vuejs",
+    "pwa",
+    "vue",
+    "material",
+    "material-design",
+    "ssr",
+    "vue-components",
+    "server-side-rendering"
+   ],
+   "updated": "2026-10-19T09:32:37Z"
+  },
+  {
+   "full": "lissy93/dashy",
+   "desc": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+   "stars": 26898,
+   "lang": "Vue",
+   "topics": [
+    "nodejs",
+    "docker",
+    "productivity",
+    "awesome",
+    "pwa",
+    "mit",
+    "dashboard",
+    "vue",
+    "organization",
+    "homepage",
+    "self-hosted",
+    "startpage"
+   ],
+   "updated": "2026-11-02T19:12:49Z"
+  },
+  {
+   "full": "haizlin/fe-interview",
+   "desc": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+   "stars": 26261,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "css",
+    "html",
+    "resume",
+    "front-end",
+    "node",
+    "vue",
+    "js",
+    "frontend",
+    "interview"
+   ],
+   "updated": "2025-10-26T20:49:10Z"
+  },
+  {
+   "full": "NativeScript/NativeScript",
+   "desc": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you n",
+   "stars": 25689,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "kotlin",
+    "java",
+    "swift",
+    "ios",
+    "angular",
+    "typescript",
+    "vue",
+    "objective-c",
+    "cross-platform"
+   ],
+   "updated": "2026-11-02T18:27:47Z"
+  },
+  {
+   "full": "lucide-icons/lucide",
+   "desc": "Beautiful & consistent icon toolkit made by the community. Lucide is an open-source icon library that provides 2000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects.",
+   "stars": 25474,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "svg",
+    "ui-design",
+    "vue",
+    "icons",
+    "svg-icons",
+    "ui-components",
+    "figma",
+    "feather-icons",
+    "svgs"
+   ],
+   "updated": "2026-11-02T19:58:06Z"
+  },
+  {
+   "full": "flipped-aurora/gin-vue-admin",
+   "desc": "🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。",
+   "stars": 25121,
+   "lang": "Go",
+   "topics": [
+    "i18n",
+    "go",
+    "golang",
+    "jwt",
+    "admin",
+    "ai",
+    "vue",
+    "skills",
+    "mcp",
+    "gin",
+    "gorm",
+    "element-ui"
+   ],
+   "updated": "2026-10-28T02:53:26Z"
+  },
+  {
+   "full": "immich-app/immich",
+   "desc": "High performance self-hosted photo and video management solution.",
+   "stars": 117998,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "photos",
+    "typescript",
+    "svelte",
+    "photo-gallery",
+    "mobile-app",
+    "self-hosted",
+    "videos",
+    "google-photos",
+    "flutter",
+    "backup-tool"
+   ],
+   "updated": "2026-11-02T19:02:14Z"
+  },
+  {
+   "full": "unionlabs/union",
+   "desc": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+   "stars": 73728,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "golang",
+    "typescript",
+    "nix",
+    "ethereum",
+    "blockchain",
+    "svelte",
+    "interoperability",
+    "indexer",
+    "astro",
+    "solidity",
+    "move"
+   ],
+   "updated": "2026-07-25T18:20:02Z"
+  },
+  {
+   "full": "coollabsio/coolify",
+   "desc": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+   "stars": 65551,
+   "lang": "PHP",
+   "topics": [
+    "nodejs",
+    "mysql",
+    "docker",
+    "redis",
+    "php",
+    "postgres",
+    "laravel",
+    "deployment",
+    "server",
+    "docker-compose",
+    "nextjs",
+    "svelte"
+   ],
+   "updated": "2026-11-02T18:21:06Z"
+  },
+  {
+   "full": "imputnet/cobalt",
+   "desc": "best way to save what you love",
+   "stars": 45722,
+   "lang": "Svelte",
+   "topics": [
+    "javascript",
+    "music",
+    "instagram",
+    "downloader",
+    "youtube",
+    "vimeo",
+    "social-media",
+    "typescript",
+    "twitter",
+    "video",
+    "reddit",
+    "soundcloud"
+   ],
+   "updated": "2026-04-06T11:59:56Z"
+  },
+  {
+   "full": "saadeghi/daisyui",
+   "desc": "🌼 🌼 🌼 🌼 🌼 The most popular, free and open-source Tailwind CSS component library",
+   "stars": 42734,
+   "lang": "JavaScript",
+   "topics": [
+    "css",
+    "components",
+    "ui-design",
+    "design-systems",
+    "front-end",
+    "component",
+    "postcss",
+    "css-framework",
+    "svelte",
+    "ui-kit",
+    "component-library",
+    "css-components"
+   ],
+   "updated": "2026-10-31T12:32:39Z"
+  },
+  {
+   "full": "xyflow/xyflow",
+   "desc": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+   "stars": 38873,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "workflow",
+    "typescript",
+    "graph",
+    "svelte",
+    "typescript-library",
+    "flowchart",
+    "react-flow",
+    "node-based-ui",
+    "svelte-flow"
+   ],
+   "updated": "2026-11-02T15:26:21Z"
+  },
+  {
+   "full": "wailsapp/wails",
+   "desc": "Create beautiful applications using Go",
+   "stars": 36919,
+   "lang": "Go",
+   "topics": [
+    "react",
+    "javascript",
+    "go",
+    "windows",
+    "macos",
+    "linux",
+    "golang",
+    "vuejs",
+    "angular",
+    "svelte",
+    "desktop-application"
+   ],
+   "updated": "2026-11-02T15:22:49Z"
+  },
+  {
+   "full": "tabler/tabler-icons",
+   "desc": "A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+   "stars": 22529,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "css",
+    "svg",
+    "components",
+    "icons",
+    "icon-pack",
+    "svelte",
+    "svg-icons",
+    "icon",
+    "iconset",
+    "icons-pack",
+    "bootstrap-icons"
+   ],
+   "updated": "2026-10-29T15:40:55Z"
+  },
+  {
+   "full": "sveltejs/kit",
+   "desc": "web development, streamlined",
+   "stars": 20895,
+   "lang": "JavaScript",
+   "topics": [
+    "svelte"
+   ],
+   "updated": "2026-11-02T19:07:44Z"
+  },
+  {
+   "full": "Automattic/harper",
+   "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+   "stars": 17365,
+   "lang": "Rust",
+   "topics": [
+    "react",
+    "nodejs",
+    "chrome-extension",
+    "rust",
+    "webassembly",
+    "svelte",
+    "developer-tools",
+    "grammar-checker",
+    "english-language"
+   ],
+   "updated": "2026-11-02T20:05:19Z"
+  },
+  {
+   "full": "VERT-sh/VERT",
+   "desc": "The next-generation file converter. Open source, fully local* and free forever.",
+   "stars": 16194,
+   "lang": "TypeScript",
+   "topics": [
+    "imagemagick",
+    "ffmpeg",
+    "conversion",
+    "pandoc",
+    "wasm",
+    "svelte",
+    "magick",
+    "sveltekit"
+   ],
+   "updated": "2026-10-20T16:31:56Z"
+  },
+  {
+   "full": "BuilderIO/mitosis",
+   "desc": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.",
+   "stars": 14454,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "builder",
+    "angular",
+    "vue",
+    "compiler",
+    "solid",
+    "jsx",
+    "visual",
+    "declarative",
+    "liquid",
+    "svelte",
+    "shopify"
+   ],
+   "updated": "2026-10-28T22:04:27Z"
+  },
+  {
+   "full": "yoavbls/pretty-ts-errors",
+   "desc": "🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀",
+   "stars": 14096,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "errors",
+    "vue",
+    "vscode",
+    "svelte",
+    "astro",
+    "vscode-extension",
+    "deno"
+   ],
+   "updated": "2026-10-31T17:20:53Z"
+  },
+  {
+   "full": "codesandbox/codesandbox-client",
+   "desc": "An online IDE for rapid web development",
+   "stars": 13658,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "javascript",
+    "angular",
+    "vue",
+    "preact",
+    "svelte",
+    "codesandbox"
+   ],
+   "updated": "2026-10-22T03:13:44Z"
+  },
+  {
+   "full": "openreplay/openreplay",
+   "desc": "Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.",
+   "stars": 13090,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "ios",
+    "angular",
+    "typescript",
+    "react-native",
+    "vue",
+    "analytics",
+    "nextjs",
+    "devtools",
+    "svelte",
+    "feature-flags"
+   ],
+   "updated": "2026-11-02T17:46:30Z"
+  },
+  {
+   "full": "huggingface/chat-ui",
+   "desc": "The open source codebase powering HuggingChat",
+   "stars": 11008,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "svelte",
+    "hacktoberfest",
+    "tailwindcss",
+    "huggingface",
+    "svelte-kit",
+    "sveltekit",
+    "llm",
+    "chatgpt"
+   ],
+   "updated": "2026-11-02T19:59:25Z"
+  },
+  {
+   "full": "Abdenasser/neohtop",
+   "desc": "💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)",
+   "stars": 9449,
+   "lang": "Svelte",
+   "topics": [
+    "rust",
+    "monitoring",
+    "system",
+    "cross-platform",
+    "svelte",
+    "activity",
+    "htop",
+    "btop"
+   ],
+   "updated": "2026-10-30T17:25:23Z"
+  },
+  {
+   "full": "huntabyte/shadcn-svelte",
+   "desc": "shadcn/ui, but for Svelte. ✨",
+   "stars": 9235,
+   "lang": "TypeScript",
+   "topics": [
+    "svelte-components",
+    "svelte",
+    "sveltejs",
+    "tailwindcss",
+    "svelte-kit",
+    "sveltekit",
+    "shadcn-ui",
+    "shadcn-svelte",
+    "svelte-5",
+    "bits-ui"
+   ],
+   "updated": "2026-11-02T19:32:43Z"
+  },
+  {
+   "full": "tsparticles/tsparticles",
+   "desc": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x an",
+   "stars": 9068,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "html",
+    "npm",
+    "angular",
+    "typescript",
+    "web",
+    "canvas",
+    "vue",
+    "js",
+    "svelte",
+    "ts"
+   ],
+   "updated": "2026-11-02T19:53:35Z"
+  },
+  {
+   "full": "davidjerleke/embla-carousel",
+   "desc": "A lightweight carousel library with fluid motion and great swipe precision.",
+   "stars": 8462,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "slideshow",
+    "mobile",
+    "typescript",
+    "vue",
+    "vanilla",
+    "solid",
+    "slider",
+    "touch",
+    "carousel",
+    "svelte"
+   ],
+   "updated": "2026-11-01T12:48:18Z"
+  },
+  {
+   "full": "simeydotme/pokemon-cards-css",
+   "desc": "A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.",
+   "stars": 8345,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "pokemon",
+    "filter",
+    "svelte",
+    "transform",
+    "gradient",
+    "holo",
+    "blend-modes",
+    "holographic",
+    "sveltejs"
+   ],
+   "updated": "2025-12-15T06:30:06Z"
+  },
+  {
+   "full": "jackocnr/intl-tel-input",
+   "desc": "For entering, formatting, and validating international telephone numbers. Available in vanilla JavaScript, or as React, Vue, Angular, and Svelte components.",
+   "stars": 8255,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "vuejs",
+    "angular",
+    "typescript",
+    "validation",
+    "input",
+    "reactjs",
+    "phone-number",
+    "formatting",
+    "svelte",
+    "international-telephone",
+    "libphonenumber"
+   ],
+   "updated": "2026-10-31T11:04:37Z"
+  },
+  {
+   "full": "barvian/number-flow",
+   "desc": "An animated number component for React, Vue, Svelte, and TS/JS.",
+   "stars": 7769,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "vue",
+    "animation",
+    "svelte",
+    "accessible",
+    "odometer"
+   ],
+   "updated": "2026-09-20T13:51:56Z"
+  },
+  {
+   "full": "visuallyjs/visuallyjs",
+   "desc": "VisuallyJs releases and issue tracking",
+   "stars": 7761,
+   "lang": null,
+   "topics": [
+    "react",
+    "javascript",
+    "svg",
+    "workflow",
+    "vuejs",
+    "angular",
+    "typescript",
+    "html5",
+    "diagram",
+    "reactjs",
+    "chatbot",
+    "bpmn"
+   ],
+   "updated": "2026-11-02T03:44:37Z"
+  },
+  {
+   "full": "TanStack/virtual",
+   "desc": "🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte",
+   "stars": 7182,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "performance",
+    "vue",
+    "solid",
+    "reactjs",
+    "scrolling",
+    "virtualization",
+    "svelte",
+    "virtualized",
+    "solidjs"
+   ],
+   "updated": "2026-11-02T19:14:17Z"
+  },
+  {
+   "full": "evidence-dev/evidence",
+   "desc": "Business intelligence as code: build fast, interactive data visualizations in SQL and markdown",
+   "stars": 7082,
+   "lang": "TypeScript",
+   "topics": [
+    "data-science",
+    "sql",
+    "dashboard",
+    "analytics",
+    "exploratory-data-analysis",
+    "webassembly",
+    "svelte",
+    "data-visualization",
+    "self-hosted",
+    "data-engineering",
+    "business-intelligence",
+    "dbt"
+   ],
+   "updated": "2026-10-31T20:02:39Z"
+  },
+  {
+   "full": "windicss/windicss",
+   "desc": "Next generation utility-first CSS framework.",
+   "stars": 6494,
+   "lang": "TypeScript",
+   "topics": [
+    "css",
+    "vuejs",
+    "svelte",
+    "css-compiler",
+    "on-demand",
+    "tailwindcss",
+    "utility-first",
+    "windi-css"
+   ],
+   "updated": "2024-06-21T23:11:31Z"
+  },
+  {
+   "full": "pheralb/svgl",
+   "desc": "🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
+   "stars": 6401,
+   "lang": "TypeScript",
+   "topics": [
+    "svg",
+    "open-source",
+    "svelte",
+    "svg-icons",
+    "optimized",
+    "logos",
+    "hacktoberfest",
+    "svg-images",
+    "tailwindcss",
+    "sveltekit"
+   ],
+   "updated": "2026-10-28T15:42:34Z"
+  },
+  {
+   "full": "naver/fe-news",
+   "desc": "FE 기술 소식 큐레이션 뉴스레터",
+   "stars": 6288,
+   "lang": null,
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "css",
+    "html",
+    "front-end",
+    "angular",
+    "typescript",
+    "vue",
+    "es6",
+    "svelte",
+    "monthly"
+   ],
+   "updated": "2026-10-07T05:34:14Z"
+  },
+  {
+   "full": "skeletonlabs/skeleton",
+   "desc": "Skeleton is an adaptive design system powered by Tailwind CSS.",
+   "stars": 6086,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "components",
+    "design",
+    "accessibility",
+    "nextjs",
+    "a11y",
+    "svelte",
+    "astro",
+    "user-interface",
+    "design-system",
+    "tailwindcss",
+    "vite"
+   ],
+   "updated": "2026-11-02T17:33:58Z"
+  },
+  {
+   "full": "shader-effects-inc/shaders",
+   "desc": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+   "stars": 5792,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "cli",
+    "vue",
+    "solid",
+    "shaders",
+    "mcp",
+    "svelte",
+    "webgpu-shaders"
+   ],
+   "updated": "2026-11-02T02:36:51Z"
+  },
+  {
+   "full": "middleapi/orpc",
+   "desc": "Typesafe APIs Made Simple 🪄",
+   "stars": 5750,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "api",
+    "typescript",
+    "vue",
+    "svelte",
+    "openapi",
+    "typesafe",
+    "rpc-api",
+    "next-js",
+    "solidjs",
+    "cloudflare-worker"
+   ],
+   "updated": "2026-11-02T13:26:43Z"
+  },
+  {
+   "full": "serge-chat/serge",
+   "desc": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+   "stars": 5695,
+   "lang": "Svelte",
+   "topics": [
+    "python",
+    "docker",
+    "nginx",
+    "web",
+    "svelte",
+    "llama",
+    "alpaca",
+    "tailwindcss",
+    "fastapi",
+    "sveltekit",
+    "llamacpp"
+   ],
+   "updated": "2025-11-21T08:07:36Z"
+  },
+  {
+   "full": "livebud/bud",
+   "desc": "The Full-Stack Web Framework for Go",
+   "stars": 5589,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "go",
+    "golang",
+    "framework",
+    "typescript",
+    "web",
+    "ssr",
+    "svelte",
+    "full-stack",
+    "fullstack"
+   ],
+   "updated": "2023-11-24T00:02:52Z"
+  }
+ ]
+}

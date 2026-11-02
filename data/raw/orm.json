@@ -1,0 +1,1397 @@
+{
+ "subId": "orm",
+ "topics": [
+  "orm",
+  "query-builder"
+ ],
+ "crawledAt": "2026-11-02T20:18:01.979Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "django/django",
+   "desc": "The Web framework for perfectionists with deadlines.",
+   "stars": 91717,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "django",
+    "views",
+    "framework",
+    "orm",
+    "web",
+    "apps",
+    "templates",
+    "models"
+   ],
+   "updated": "2026-11-02T17:00:37Z"
+  },
+  {
+   "full": "prisma/orm",
+   "desc": "The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.",
+   "stars": 47664,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "mysql",
+    "postgres",
+    "typescript",
+    "sql-server",
+    "orm",
+    "database",
+    "mongodb",
+    "sqlite",
+    "postgresql",
+    "mariadb"
+   ],
+   "updated": "2026-11-02T17:44:08Z"
+  },
+  {
+   "full": "go-gorm/gorm",
+   "desc": "The fantastic ORM library for Golang, aims to be developer friendly",
+   "stars": 39986,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "orm",
+    "web",
+    "gorm"
+   ],
+   "updated": "2026-10-24T07:00:16Z"
+  },
+  {
+   "full": "typeorm/typeorm",
+   "desc": "TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.",
+   "stars": 36665,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "mysql",
+    "typescript",
+    "orm",
+    "database",
+    "sqlite",
+    "postgresql",
+    "mariadb",
+    "typeorm",
+    "active-record",
+    "sqlserver",
+    "data-mapper"
+   ],
+   "updated": "2026-10-29T06:46:16Z"
+  },
+  {
+   "full": "drizzle-team/drizzle-orm",
+   "desc": "ORM",
+   "stars": 36205,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "mysql",
+    "postgres",
+    "typescript",
+    "sql",
+    "orm",
+    "sqlite",
+    "postgresql",
+    "bunjs",
+    "turso"
+   ],
+   "updated": "2026-11-02T17:36:14Z"
+  },
+  {
+   "full": "sequelize/sequelize",
+   "desc": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.",
+   "stars": 30343,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "mysql",
+    "typescript",
+    "sql",
+    "orm",
+    "sqlite",
+    "postgresql",
+    "sequelize",
+    "mariadb",
+    "transactions",
+    "microsoft-sql-server"
+   ],
+   "updated": "2026-11-01T00:39:28Z"
+  },
+  {
+   "full": "chinabugotech/hutool",
+   "desc": "🍬A set of tools that keep Java sweet.",
+   "stars": 30235,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "http",
+    "json",
+    "orm",
+    "tool",
+    "util",
+    "hutool"
+   ],
+   "updated": "2026-10-30T07:03:23Z"
+  },
+  {
+   "full": "Automattic/mongoose",
+   "desc": "MongoDB object modeling designed to work in an asynchronous environment.",
+   "stars": 27457,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "mongo",
+    "orm",
+    "mongodb",
+    "odm"
+   ],
+   "updated": "2026-11-02T19:57:20Z"
+  },
+  {
+   "full": "sqlc-dev/sqlc",
+   "desc": "Generate type-safe code from SQL",
+   "stars": 18432,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "kotlin",
+    "python",
+    "go",
+    "sql",
+    "orm",
+    "code-generator",
+    "sqlite",
+    "postgresql"
+   ],
+   "updated": "2026-11-02T16:01:34Z"
+  },
+  {
+   "full": "baomidou/mybatis-plus",
+   "desc": "An powerful enhanced toolkit of MyBatis for simplify development",
+   "stars": 17481,
+   "lang": "Java",
+   "topics": [
+    "mysql",
+    "orm",
+    "toolkit",
+    "postgresql",
+    "mybatis",
+    "mybatis-spring",
+    "orm-framework",
+    "mybatis-plus"
+   ],
+   "updated": "2026-11-02T04:21:30Z"
+  },
+  {
+   "full": "ent/ent",
+   "desc": "An entity framework for Go",
+   "stars": 17221,
+   "lang": "Go",
+   "topics": [
+    "orm",
+    "entity-framework",
+    "ent"
+   ],
+   "updated": "2026-10-14T06:58:20Z"
+  },
+  {
+   "full": "prisma/prisma1",
+   "desc": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]",
+   "stars": 16371,
+   "lang": "Scala",
+   "topics": [
+    "graphql",
+    "orm",
+    "database",
+    "serverless",
+    "dao",
+    "datamapper",
+    "prisma1"
+   ],
+   "updated": "2022-09-01T18:57:41Z"
+  },
+  {
+   "full": "dotnet/efcore",
+   "desc": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+   "stars": 14814,
+   "lang": "C#",
+   "topics": [
+    "c-sharp",
+    "orm",
+    "database",
+    "entity-framework",
+    "dotnet-core",
+    "dotnet-standard",
+    "hacktoberfest",
+    "dotnet-framework",
+    "aspnet-product"
+   ],
+   "updated": "2026-11-02T16:54:52Z"
+  },
+  {
+   "full": "diesel-rs/diesel",
+   "desc": "A safe, extensible ORM and Query Builder for Rust",
+   "stars": 14221,
+   "lang": "Rust",
+   "topics": [
+    "mysql",
+    "rust",
+    "orm",
+    "sqlite",
+    "postgresql",
+    "query-builder"
+   ],
+   "updated": "2026-11-02T15:30:33Z"
+  },
+  {
+   "full": "gogf/gf",
+   "desc": "A powerful framework for faster, easier, and more efficient project development.",
+   "stars": 13294,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "kubernetes",
+    "golang",
+    "framework",
+    "orm",
+    "microservice",
+    "logging",
+    "tracing",
+    "go-framework",
+    "goframe",
+    "opentelemetry"
+   ],
+   "updated": "2026-10-30T12:46:57Z"
+  },
+  {
+   "full": "SeaQL/sea-orm",
+   "desc": "🐚 A powerful relational ORM for Rust",
+   "stars": 9946,
+   "lang": "Rust",
+   "topics": [
+    "mysql",
+    "rust",
+    "postgres",
+    "sql",
+    "orm",
+    "database",
+    "sqlite",
+    "mariadb",
+    "tokio",
+    "sqlx",
+    "hacktoberfest",
+    "loco"
+   ],
+   "updated": "2026-10-30T09:19:33Z"
+  },
+  {
+   "full": "JetBrains/Exposed",
+   "desc": "Kotlin SQL Framework",
+   "stars": 9303,
+   "lang": "Kotlin",
+   "topics": [
+    "kotlin",
+    "sql",
+    "orm",
+    "dao"
+   ],
+   "updated": "2026-11-02T19:45:32Z"
+  },
+  {
+   "full": "mikro-orm/mikro-orm",
+   "desc": "TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.",
+   "stars": 9264,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "mysql",
+    "typescript",
+    "sql",
+    "sql-server",
+    "orm",
+    "database",
+    "mongodb",
+    "sqlite",
+    "postgresql",
+    "entities"
+   ],
+   "updated": "2026-11-02T15:00:12Z"
+  },
+  {
+   "full": "spacejam/sled",
+   "desc": "the champagne of beta embedded databases",
+   "stars": 9104,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "tree",
+    "orm",
+    "database",
+    "high-performance",
+    "persistence",
+    "fuzzing",
+    "formal-methods",
+    "concurrent",
+    "lock-free",
+    "log-structured",
+    "kv"
+   ],
+   "updated": "2026-04-04T14:52:13Z"
+  },
+  {
+   "full": "cakephp/cakephp",
+   "desc": "CakePHP: The Rapid Development Framework for PHP - Official Repository",
+   "stars": 8789,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "validation",
+    "orm",
+    "web",
+    "mvc",
+    "cakephp",
+    "rest-api",
+    "web-framework",
+    "mvc-framework",
+    "psr-7",
+    "form-builder",
+    "rapid-development"
+   ],
+   "updated": "2026-11-02T17:40:11Z"
+  },
+  {
+   "full": "top-think/think",
+   "desc": "ThinkPHP Framework ——二十年匠心的高性能PHP框架",
+   "stars": 7885,
+   "lang": "PHP",
+   "topics": [
+    "template",
+    "framework",
+    "orm",
+    "route",
+    "thinkphp"
+   ],
+   "updated": "2025-07-16T03:12:02Z"
+  },
+  {
+   "full": "kennethreitz/records",
+   "desc": "SQL for Humans™",
+   "stars": 7215,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "postgres",
+    "sqlalchemy",
+    "sql",
+    "orm",
+    "schemas",
+    "forhumans",
+    "kennethreitz"
+   ],
+   "updated": "2026-02-09T03:57:09Z"
+  },
+  {
+   "full": "mongodb/laravel-mongodb",
+   "desc": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
+   "stars": 7059,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "mongo",
+    "laravel",
+    "eloquent",
+    "orm",
+    "mongodb",
+    "laravel-framework",
+    "moloquent"
+   ],
+   "updated": "2026-11-02T15:38:24Z"
+  },
+  {
+   "full": "aarondl/sqlboiler",
+   "desc": "Generate a Go ORM tailored to your database schema.",
+   "stars": 6979,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "go",
+    "golang",
+    "postgres",
+    "orm",
+    "database",
+    "postgresql",
+    "mssql",
+    "sqlite3",
+    "sqlboiler"
+   ],
+   "updated": "2026-07-12T21:57:05Z"
+  },
+  {
+   "full": "jOOQ/jOOQ",
+   "desc": "jOOQ is the best way to write SQL in Java",
+   "stars": 6804,
+   "lang": "Java",
+   "topics": [
+    "mysql",
+    "java",
+    "sql",
+    "orm",
+    "database",
+    "code-generator",
+    "jdbc",
+    "jpa",
+    "postgresql",
+    "oracle",
+    "sql-query",
+    "hibernate"
+   ],
+   "updated": "2026-11-02T14:30:01Z"
+  },
+  {
+   "full": "go-xorm/xorm",
+   "desc": "Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm",
+   "stars": 6613,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "golang",
+    "postgres",
+    "orm",
+    "sqlite",
+    "postgresql",
+    "mssql",
+    "tidb"
+   ],
+   "updated": "2020-04-03T01:12:12Z"
+  },
+  {
+   "full": "hibernate/hibernate-orm",
+   "desc": "Idiomatic persistence for Java and relational databases",
+   "stars": 6482,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "sql",
+    "orm",
+    "database",
+    "jdbc",
+    "jpa",
+    "persistence",
+    "hibernate",
+    "persistence-framework",
+    "hibernate-orm",
+    "object-relational-mapper",
+    "envers"
+   ],
+   "updated": "2026-11-02T15:24:19Z"
+  },
+  {
+   "full": "bookshelf/bookshelf",
+   "desc": "A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js",
+   "stars": 6345,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "mysql",
+    "orm",
+    "database",
+    "sqlite",
+    "postgresql",
+    "bookshelf"
+   ],
+   "updated": "2024-08-10T14:12:20Z"
+  },
+  {
+   "full": "DotNetNext/SqlSugar",
+   "desc": ".Net aot ORM SqlServer ORM Mongodb ORM MySql 瀚高 Postgresql ORM DB2 Hana 高斯 Duckdb C# VB.NET Sqlite ORM Oracle ORM Mysql Orm 虚谷数据库 达梦 ORM 人大金仓 ORM 神通ORM C# ORM , C# ORM .NET ORM NET9 ORM .NET8 ORM ClickHouse ORM QuestDb ,TDengine ORM,OceanBa",
+   "stars": 5844,
+   "lang": "C#",
+   "topics": [
+    "mysql",
+    "orm",
+    "mongodb",
+    "clickhouse",
+    "sqlite",
+    "postgresql",
+    "sqlsever",
+    "oralce"
+   ],
+   "updated": "2026-09-13T06:47:46Z"
+  },
+  {
+   "full": "go-pg/pg",
+   "desc": "Golang ORM with focus on PostgreSQL features and performance",
+   "stars": 5778,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "sql",
+    "orm",
+    "database",
+    "postgresql",
+    "hstore",
+    "jsonb"
+   ],
+   "updated": "2026-07-10T14:43:19Z"
+  },
+  {
+   "full": "tortoise/tortoise-orm",
+   "desc": "Familiar asyncio ORM for python, built with relations in mind",
+   "stars": 5640,
+   "lang": "Python",
+   "topics": [
+    "mysql",
+    "orm",
+    "async",
+    "sqlite",
+    "postgresql",
+    "python3",
+    "asyncio"
+   ],
+   "updated": "2026-10-31T04:22:39Z"
+  },
+  {
+   "full": "liam-hq/liam",
+   "desc": "Automatically generates beautiful and easy-to-read ER diagrams from your database.",
+   "stars": 5158,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "nodejs",
+    "documentation",
+    "typescript",
+    "sql",
+    "orm",
+    "database",
+    "reactjs",
+    "postgresql",
+    "webassembly",
+    "documentation-tool",
+    "data-visualization"
+   ],
+   "updated": "2026-11-02T20:12:49Z"
+  },
+  {
+   "full": "uptrace/bun",
+   "desc": "SQL-first Golang ORM",
+   "stars": 5004,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "go",
+    "golang",
+    "sql",
+    "orm",
+    "database",
+    "sqlite",
+    "postgresql",
+    "oracle",
+    "mssql",
+    "sqlite3"
+   ],
+   "updated": "2026-10-29T15:26:38Z"
+  },
+  {
+   "full": "sylar-yin/sylar",
+   "desc": "C++高性能分布式服务器框架,webserver,websocket server,自定义tcp_server（包含日志模块，配置模块，线程模块，协程模块，协程调度模块，io协程调度模块，hook模块，socket模块，bytearray序列化，http模块，TcpServer模块，Websocket模块，Https模块等, Smtp邮件模块, MySQL, SQLite3, ORM,Redis,Zookeeper)",
+   "stars": 4723,
+   "lang": "C++",
+   "topics": [
+    "distribution",
+    "framework",
+    "orm",
+    "cpp",
+    "network",
+    "high-performance",
+    "websocket-server",
+    "http-client",
+    "websocket-client",
+    "http-server",
+    "sqlite3",
+    "fiber"
+   ],
+   "updated": "2023-12-08T04:40:11Z"
+  },
+  {
+   "full": "supabase/supabase-js",
+   "desc": "An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvect",
+   "stars": 4609,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "postgres",
+    "typescript",
+    "orm",
+    "database",
+    "isomorphic",
+    "js",
+    "postgresql",
+    "svelte",
+    "nuxt",
+    "ts",
+    "postgrest"
+   ],
+   "updated": "2026-11-02T17:38:56Z"
+  },
+  {
+   "full": "dotnetcore/FreeSql",
+   "desc": ".NET aot orm, VB.NET/C# orm, Mysql/PostgreSQL/SqlServer/Oracle orm, Sqlite/Firebird/Clickhouse/DuckDB orm, 达梦/金仓/虚谷/翰高/高斯 orm, 神通 orm, 南大通用 orm, 国产 orm, TDengine orm, QuestDB orm, MsAccess orm.",
+   "stars": 4406,
+   "lang": "C#",
+   "topics": [
+    "mysql",
+    "orm",
+    "clickhouse",
+    "sqlite",
+    "odbc",
+    "postgresql",
+    "oracle",
+    "firebird",
+    "access",
+    "codefirst",
+    "sqlserver",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-01T04:51:41Z"
+  },
+  {
+   "full": "MongoEngine/mongoengine",
+   "desc": "A Python Object-Document-Mapper for working with MongoDB",
+   "stars": 4347,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "mongo",
+    "orm",
+    "mongodb",
+    "pymongo",
+    "odm",
+    "hacktoberfest",
+    "mongodb-orm"
+   ],
+   "updated": "2026-09-06T21:43:49Z"
+  },
+  {
+   "full": "mongodb/mongoid",
+   "desc": "The Official Ruby Object Mapper for MongoDB",
+   "stars": 3908,
+   "lang": "Ruby",
+   "topics": [
+    "ruby",
+    "orm",
+    "mongodb",
+    "ruby-on-rails",
+    "mongodb-driver",
+    "orm-framework"
+   ],
+   "updated": "2026-11-02T18:14:44Z"
+  },
+  {
+   "full": "xo/dbtpl",
+   "desc": "Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server",
+   "stars": 3899,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "golang",
+    "sql",
+    "orm",
+    "code-generator",
+    "sqlite",
+    "postgresql",
+    "oracle",
+    "microsoft-sql-server"
+   ],
+   "updated": "2026-09-08T01:42:41Z"
+  },
+  {
+   "full": "ponyorm/pony",
+   "desc": "Pony Object Relational Mapper",
+   "stars": 3820,
+   "lang": "Python",
+   "topics": [
+    "mysql",
+    "python",
+    "orm",
+    "sqlite",
+    "postgresql",
+    "oracle",
+    "python3",
+    "cockroachdb",
+    "cockroach"
+   ],
+   "updated": "2026-08-10T12:37:32Z"
+  },
+  {
+   "full": "kysely-org/kysely",
+   "desc": "A type-safe TypeScript SQL query builder",
+   "stars": 14327,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "mysql",
+    "typescript",
+    "browser",
+    "sql",
+    "database",
+    "sqlite",
+    "postgresql",
+    "microsoft-sql-server",
+    "type-safe",
+    "query-builder",
+    "mssql"
+   ],
+   "updated": "2026-11-02T07:46:15Z"
+  },
+  {
+   "full": "sqlkata/querybuilder",
+   "desc": "SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird",
+   "stars": 3382,
+   "lang": "C#",
+   "topics": [
+    "mysql",
+    "c-sharp",
+    "activerecord",
+    "sql",
+    "sql-server",
+    "database",
+    "csharp",
+    "postgresql",
+    "sql-query",
+    "data-access-layer",
+    "query-builder",
+    "sql-query-builder"
+   ],
+   "updated": "2026-10-21T11:22:17Z"
+  },
+  {
+   "full": "ukrbublik/react-awesome-query-builder",
+   "desc": "User-friendly query builder for React",
+   "stars": 2264,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "mongo",
+    "query",
+    "typescript",
+    "sql",
+    "reactjs",
+    "react-component",
+    "material-ui",
+    "filter",
+    "react-components",
+    "query-builder",
+    "antd"
+   ],
+   "updated": "2026-03-05T05:23:43Z"
+  },
+  {
+   "full": "piccolo-orm/piccolo",
+   "desc": "A fast, user friendly ORM and query builder which supports asyncio.",
+   "stars": 1951,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "orm",
+    "database",
+    "sqlite",
+    "postgresql",
+    "python3",
+    "asyncio",
+    "query-builder",
+    "hacktoberfest",
+    "asgi",
+    "piccolo",
+    "starlette"
+   ],
+   "updated": "2026-10-30T09:11:02Z"
+  },
+  {
+   "full": "sqorn/sqorn",
+   "desc": "A Javascript library for building SQL queries",
+   "stars": 1856,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "postgres",
+    "sql",
+    "postgresql",
+    "query-builder",
+    "sql-query-builder",
+    "template-strings",
+    "tagged-template-literals"
+   ],
+   "updated": "2023-02-07T16:49:27Z"
+  },
+  {
+   "full": "stephenafamo/bob",
+   "desc": "SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite",
+   "stars": 1799,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "golang",
+    "postgres",
+    "sql",
+    "orm",
+    "database",
+    "sqlite",
+    "postgresql",
+    "psql",
+    "query-builder",
+    "sqlite3",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-06T01:29:44Z"
+  },
+  {
+   "full": "SimpleRegex/SRL-PHP",
+   "desc": "Simple Regex Language",
+   "stars": 1778,
+   "lang": "PHP",
+   "topics": [
+    "composer",
+    "regular-expression",
+    "query-builder",
+    "composer-packages",
+    "srl"
+   ],
+   "updated": "2022-09-02T10:26:59Z"
+  },
+  {
+   "full": "SeaQL/sea-query",
+   "desc": "🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite",
+   "stars": 1777,
+   "lang": "Rust",
+   "topics": [
+    "mysql",
+    "rust",
+    "postgres",
+    "sql",
+    "database",
+    "sqlite",
+    "postgresql",
+    "mariadb",
+    "query-builder",
+    "sqlx",
+    "hacktoberfest",
+    "rusqlite"
+   ],
+   "updated": "2026-10-30T08:19:19Z"
+  },
+  {
+   "full": "react-querybuilder/react-querybuilder",
+   "desc": "The Query Builder component for React",
+   "stars": 1749,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "builder",
+    "query",
+    "sql",
+    "mongodb",
+    "component",
+    "custom",
+    "query-builder",
+    "querybuilder",
+    "rule-builder"
+   ],
+   "updated": "2026-11-02T16:56:12Z"
+  },
+  {
+   "full": "x-ream/sqli",
+   "desc": "orm sql query builder, API: QB, QB.X, QrB",
+   "stars": 1710,
+   "lang": "Java",
+   "topics": [
+    "mysql",
+    "orm",
+    "presto",
+    "jdbc",
+    "clickhouse",
+    "impala",
+    "query-builder",
+    "tdengine",
+    "xream"
+   ],
+   "updated": "2026-07-24T03:14:00Z"
+  },
+  {
+   "full": "robsontenorio/vue-api-query",
+   "desc": "💎 Elegant and simple way to build requests for REST API",
+   "stars": 1658,
+   "lang": "JavaScript",
+   "topics": [
+    "api",
+    "laravel",
+    "rest",
+    "vue",
+    "nuxt",
+    "query-builder",
+    "nuxtjs"
+   ],
+   "updated": "2025-03-28T15:01:45Z"
+  },
+  {
+   "full": "cycle/orm",
+   "desc": "PHP DataMapper, ORM",
+   "stars": 1327,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "orm",
+    "mapper",
+    "cycle",
+    "query-builder",
+    "datamapper",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-18T08:57:17Z"
+  },
+  {
+   "full": "alirezanet/Gridify",
+   "desc": "Easy and optimized way to apply Filtering, Sorting, and Pagination using text-based data.",
+   "stars": 1169,
+   "lang": "C#",
+   "topics": [
+    "linq",
+    "pagination",
+    "sorting",
+    "query",
+    "csharp",
+    "dotnet",
+    "entity-framework",
+    "query-builder",
+    "entity-framework-core",
+    "linq-to-objects",
+    "vbnet",
+    "filtering"
+   ],
+   "updated": "2026-10-16T13:25:54Z"
+  },
+  {
+   "full": "renoki-co/laravel-eloquent-query-cache",
+   "desc": "Adding cache on your Laravel Eloquent queries' results is now a breeze.",
+   "stars": 1119,
+   "lang": "PHP",
+   "topics": [
+    "redis",
+    "laravel",
+    "query",
+    "eloquent",
+    "database",
+    "cache",
+    "query-builder",
+    "cache-storage",
+    "hacktoberfest",
+    "invalidation",
+    "laravel-eloquent-queries"
+   ],
+   "updated": "2025-12-15T10:01:07Z"
+  },
+  {
+   "full": "scylladb/gocqlx",
+   "desc": "All-In-One: CQL query builder, ORM and migration tool",
+   "stars": 1033,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "orm",
+    "cassandra",
+    "scylla",
+    "migration",
+    "query-builder",
+    "cql",
+    "gocql"
+   ],
+   "updated": "2026-10-27T08:25:55Z"
+  },
+  {
+   "full": "vrana/notorm",
+   "desc": "PHP database library: table relationships in a fixed number of queries, transferring only the data you use",
+   "stars": 849,
+   "lang": "PHP",
+   "topics": [
+    "mysql",
+    "php",
+    "eager-loading",
+    "sql",
+    "database",
+    "dbal",
+    "pdo",
+    "sqlite",
+    "postgresql",
+    "oracle",
+    "mariadb",
+    "query-builder"
+   ],
+   "updated": "2026-10-23T11:46:36Z"
+  },
+  {
+   "full": "Adldap2/Adldap2",
+   "desc": "A PHP LDAP Package for humans.",
+   "stars": 709,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "ldap",
+    "query-builder",
+    "active-record",
+    "php-ldap"
+   ],
+   "updated": "2023-07-24T20:17:34Z"
+  },
+  {
+   "full": "henkmollema/Dommel",
+   "desc": "CRUD operations with Dapper made simple.",
+   "stars": 695,
+   "lang": "C#",
+   "topics": [
+    "crud",
+    "micro-orm",
+    "query-builder",
+    "dapper",
+    "dommel",
+    "sql-expression"
+   ],
+   "updated": "2026-06-24T13:27:13Z"
+  },
+  {
+   "full": "shadowhand/latitude",
+   "desc": "A SQL query builder with zero dependencies",
+   "stars": 634,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "sql",
+    "php7",
+    "query-builder"
+   ],
+   "updated": "2026-11-02T17:08:50Z"
+  },
+  {
+   "full": "GraphQL-Designer/graphqldesigner.com",
+   "desc": "A developer web-app tool to rapidly prototype a full stack implementation of GraphQL with React.",
+   "stars": 625,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "graphql",
+    "react-redux",
+    "graphql-schema",
+    "developer-tools",
+    "query-builder",
+    "schema-builder",
+    "schema-generation",
+    "design-tools",
+    "graphql-tools",
+    "graphql-mongo",
+    "graphql-sql"
+   ],
+   "updated": "2024-05-14T04:19:36Z"
+  },
+  {
+   "full": "romeerez/orchid-orm",
+   "desc": "Orchid ORM",
+   "stars": 541,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "typescript",
+    "orm",
+    "database",
+    "postgresql",
+    "query-builder"
+   ],
+   "updated": "2026-10-31T10:06:23Z"
+  },
+  {
+   "full": "sudo-suhas/elastic-builder",
+   "desc": "A Node.js implementation of the elasticsearch Query DSL 👷",
+   "stars": 526,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "elasticsearch",
+    "query-builder",
+    "elasticsearch-query-dsl"
+   ],
+   "updated": "2025-11-27T07:02:55Z"
+  },
+  {
+   "full": "mohammad-fouladgar/eloquent-builder",
+   "desc": "Advanced, request-driven filtering for Laravel Eloquent models.",
+   "stars": 525,
+   "lang": "PHP",
+   "topics": [
+    "laravel",
+    "eloquent",
+    "query-builder",
+    "eloquent-filters",
+    "eloquent-builder",
+    "larave-filters",
+    "laravel-query-filter",
+    "laravel-search"
+   ],
+   "updated": "2026-09-29T09:34:02Z"
+  },
+  {
+   "full": "mongoosejs/mquery",
+   "desc": "Expressive MongoDB query builder",
+   "stars": 485,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "mongodb",
+    "query-builder"
+   ],
+   "updated": "2026-10-23T16:08:13Z"
+  },
+  {
+   "full": "Ff00ff/mammoth",
+   "desc": "A type-safe Postgres query builder for TypeScript.",
+   "stars": 485,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "typescript",
+    "postgresql",
+    "query-builder",
+    "type-safety",
+    "deno"
+   ],
+   "updated": "2023-10-11T19:00:56Z"
+  },
+  {
+   "full": "priyank-purohit/PostGUI",
+   "desc": "A React web application to query and share any PostgreSQL database.",
+   "stars": 478,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "postgres",
+    "data",
+    "gui",
+    "admin",
+    "bioinformatics",
+    "typescript",
+    "database",
+    "dashboard",
+    "material-design",
+    "genomics",
+    "reactjs"
+   ],
+   "updated": "2023-01-06T02:26:20Z"
+  },
+  {
+   "full": "auraphp/Aura.SqlQuery",
+   "desc": "Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.",
+   "stars": 455,
+   "lang": "PHP",
+   "topics": [
+    "mysql",
+    "php",
+    "sqlite",
+    "postgresql",
+    "microsoft-sql-server",
+    "query-builder"
+   ],
+   "updated": "2026-10-19T02:21:38Z"
+  },
+  {
+   "full": "maskarade/Android-Orma",
+   "desc": "An ORM for Android with type-safety and declarative schema migrations",
+   "stars": 446,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "sql",
+    "orm",
+    "database",
+    "sqlite",
+    "query-builder",
+    "database-migration",
+    "declarative-migrations"
+   ],
+   "updated": "2020-04-13T06:25:04Z"
+  },
+  {
+   "full": "atulmy/gql-query-builder",
+   "desc": "🔧 Simple GraphQL Query Builder",
+   "stars": 409,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "graphql",
+    "generator",
+    "query-builder",
+    "query-generator"
+   ],
+   "updated": "2026-07-26T10:01:31Z"
+  },
+  {
+   "full": "G4brym/workers-qb",
+   "desc": "Zero dependencies Query Builder for Cloudflare Workers",
+   "stars": 402,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "typescript",
+    "worker",
+    "workers",
+    "cloudflare",
+    "query-builder",
+    "sql-builder",
+    "cloudflare-workers",
+    "cloudflare-d1",
+    "d1sql"
+   ],
+   "updated": "2026-10-22T10:55:25Z"
+  },
+  {
+   "full": "basemkhirat/elasticsearch",
+   "desc": "The missing elasticsearch ORM for Laravel, Lumen and Native php applications",
+   "stars": 395,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "caching",
+    "search-engine",
+    "elasticsearch",
+    "laravel",
+    "eloquent",
+    "orm",
+    "model",
+    "lumen",
+    "indexing",
+    "query-builder",
+    "scout"
+   ],
+   "updated": "2025-01-14T02:14:23Z"
+  },
+  {
+   "full": "pointfreeco/swift-structured-queries",
+   "desc": "Truly type-safe SQL.",
+   "stars": 368,
+   "lang": "Swift",
+   "topics": [
+    "swift",
+    "sql",
+    "database",
+    "macros",
+    "type-safe",
+    "query-builder"
+   ],
+   "updated": "2026-10-03T00:57:36Z"
+  },
+  {
+   "full": "silverqx/TinyORM",
+   "desc": "Modern C++ ORM library",
+   "stars": 353,
+   "lang": "C++",
+   "topics": [
+    "mysql",
+    "orm",
+    "database",
+    "migrations",
+    "sqlite",
+    "postgresql",
+    "query-builder",
+    "seeder",
+    "cplusplus20"
+   ],
+   "updated": "2025-04-02T13:50:31Z"
+  },
+  {
+   "full": "tilyupo/qustar",
+   "desc": "Query SQL database through an array-like API",
+   "stars": 325,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "mysql",
+    "postgres",
+    "typescript",
+    "sql",
+    "orm",
+    "database",
+    "sqlite",
+    "postgresql",
+    "mariadb",
+    "query-builder"
+   ],
+   "updated": "2025-06-05T07:55:07Z"
+  },
+  {
+   "full": "eoin-obrien/prisma-extension-kysely",
+   "desc": "Drop down to raw SQL in Prisma without sacrificing type safety!",
+   "stars": 324,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "sql",
+    "query-builder",
+    "type-safety",
+    "prisma",
+    "kysely",
+    "prisma-extension"
+   ],
+   "updated": "2026-05-09T22:34:01Z"
+  },
+  {
+   "full": "FoolCode/SphinxQL-Query-Builder",
+   "desc": "SphinxQL Query Builder generates SphinxQL, a SQL dialect, which is used to query the Sphinx search engine. (Composer Package)",
+   "stars": 323,
+   "lang": "PHP",
+   "topics": [
+    "sql",
+    "database",
+    "query-builder"
+   ],
+   "updated": "2026-02-28T02:08:22Z"
+  },
+  {
+   "full": "ulule/loukoum",
+   "desc": "A simple SQL Query Builder",
+   "stars": 319,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "postgres",
+    "builder",
+    "query",
+    "sql",
+    "postgresql",
+    "query-builder"
+   ],
+   "updated": "2023-02-28T11:57:19Z"
+  },
+  {
+   "full": "mghoneimy/php-graphql-client",
+   "desc": "A PHP library that simplifies the process of interacting with GraphQL API's by providing simple client and query generator classes.",
+   "stars": 317,
+   "lang": "PHP",
+   "topics": [
+    "graphql-client",
+    "php",
+    "php-library",
+    "query-builder",
+    "graphql-api"
+   ],
+   "updated": "2026-04-29T11:39:46Z"
+  }
+ ]
+}

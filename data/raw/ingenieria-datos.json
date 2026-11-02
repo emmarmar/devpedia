@@ -1,0 +1,1358 @@
+{
+ "subId": "ingenieria-datos",
+ "topics": [
+  "etl",
+  "data-engineering"
+ ],
+ "crawledAt": "2026-11-02T20:18:07.760Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "pathwaycom/pathway",
+   "desc": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+   "stars": 62025,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "rust",
+    "streaming",
+    "real-time",
+    "kafka",
+    "etl",
+    "machine-learning-algorithms",
+    "stream-processing",
+    "data-analytics",
+    "dataflow",
+    "data-processing",
+    "data-pipelines"
+   ],
+   "updated": "2026-10-30T06:38:43Z"
+  },
+  {
+   "full": "apache/airflow",
+   "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+   "stars": 47350,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "workflow",
+    "data-science",
+    "machine-learning",
+    "airflow",
+    "automation",
+    "etl",
+    "workflow-engine",
+    "scheduler",
+    "apache",
+    "orchestration",
+    "data-engineering"
+   ],
+   "updated": "2026-11-02T19:15:22Z"
+  },
+  {
+   "full": "kestra-io/kestra",
+   "desc": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.",
+   "stars": 30122,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "workflow",
+    "devops",
+    "automation",
+    "pipeline",
+    "etl",
+    "scheduler",
+    "orchestration",
+    "data-engineering",
+    "infrastructure-as-code",
+    "high-availability",
+    "control-plane"
+   ],
+   "updated": "2026-11-02T20:08:09Z"
+  },
+  {
+   "full": "vectordotdev/vector",
+   "desc": "A high-performance observability data pipeline.",
+   "stars": 22785,
+   "lang": "Rust",
+   "topics": [
+    "agent",
+    "events",
+    "monitoring",
+    "etl",
+    "metrics",
+    "high-performance",
+    "telemetry",
+    "logs",
+    "data-transformation",
+    "pipelines",
+    "datadog",
+    "stream-processing"
+   ],
+   "updated": "2026-11-02T20:16:25Z"
+  },
+  {
+   "full": "airbytehq/airbyte",
+   "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
+   "stars": 22303,
+   "lang": "Python",
+   "topics": [
+    "mysql",
+    "python",
+    "java",
+    "bigquery",
+    "data",
+    "pipeline",
+    "etl",
+    "postgresql",
+    "s3",
+    "snowflake",
+    "self-hosted",
+    "data-engineering"
+   ],
+   "updated": "2026-11-02T20:17:44Z"
+  },
+  {
+   "full": "dagster-io/dagster",
+   "desc": "An orchestration platform for the development, production, and observation of data assets.",
+   "stars": 16364,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "metadata",
+    "workflow",
+    "data-science",
+    "etl",
+    "analytics",
+    "scheduler",
+    "orchestration",
+    "data-engineering",
+    "data-integration",
+    "data-pipelines",
+    "workflow-automation"
+   ],
+   "updated": "2026-10-30T22:21:47Z"
+  },
+  {
+   "full": "cocoindex-io/cocoindex",
+   "desc": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+   "stars": 11812,
+   "lang": "Rust",
+   "topics": [
+    "python",
+    "rust",
+    "real-time",
+    "ai",
+    "etl",
+    "indexing",
+    "data-engineering",
+    "knowledge-graph",
+    "help-wanted",
+    "data-processing",
+    "semantic-search",
+    "change-data-capture"
+   ],
+   "updated": "2026-11-02T17:25:27Z"
+  },
+  {
+   "full": "mage-ai/mage-ai",
+   "desc": "🧙 Build, run, and manage data pipelines for integrating and transforming data.",
+   "stars": 8840,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "data",
+    "machine-learning",
+    "sql",
+    "spark",
+    "pipeline",
+    "etl",
+    "pipelines",
+    "orchestration",
+    "artificial-intelligence",
+    "data-engineering"
+   ],
+   "updated": "2026-10-23T20:06:34Z"
+  },
+  {
+   "full": "redpanda-data/connect",
+   "desc": "Fancy stream processing made operationally mundane",
+   "stars": 8792,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "kafka",
+    "cqrs",
+    "etl",
+    "rabbitmq",
+    "amqp",
+    "logs",
+    "message-bus",
+    "event-sourcing",
+    "nats",
+    "stream-processing"
+   ],
+   "updated": "2026-11-02T20:16:12Z"
+  },
+  {
+   "full": "turbot/steampipe",
+   "desc": "Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.",
+   "stars": 7993,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "golang",
+    "aws",
+    "security",
+    "devops",
+    "cis",
+    "cloud",
+    "etl",
+    "azure",
+    "sqlite",
+    "terraform",
+    "postgresql"
+   ],
+   "updated": "2026-11-01T12:41:32Z"
+  },
+  {
+   "full": "cloudquery/cloudquery",
+   "desc": "Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.",
+   "stars": 6551,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "kubernetes",
+    "github-api",
+    "bigquery",
+    "aws",
+    "data",
+    "google",
+    "sql",
+    "etl",
+    "azure",
+    "gcp",
+    "data-engineering"
+   ],
+   "updated": "2026-11-02T16:15:27Z"
+  },
+  {
+   "full": "apache/flink-cdc",
+   "desc": "Flink CDC is a streaming data integration tool",
+   "stars": 6493,
+   "lang": "Java",
+   "topics": [
+    "mysql",
+    "real-time",
+    "kafka",
+    "etl",
+    "postgresql",
+    "distributed",
+    "batch",
+    "data-integration",
+    "schema-evolution",
+    "elt",
+    "flink",
+    "cdc"
+   ],
+   "updated": "2026-11-02T07:53:15Z"
+  },
+  {
+   "full": "Eventual-Inc/Daft",
+   "desc": "High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale",
+   "stars": 5822,
+   "lang": "Rust",
+   "topics": [
+    "python",
+    "rust",
+    "distributed-systems",
+    "machine-learning",
+    "big-data",
+    "etl",
+    "arrow",
+    "distributed-computing",
+    "distributed",
+    "embeddings",
+    "artificial-intelligence",
+    "data-engineering"
+   ],
+   "updated": "2026-11-02T19:50:06Z"
+  },
+  {
+   "full": "rudderlabs/rudder-server",
+   "desc": "Privacy and Security focused Segment-alternative, in Golang and React",
+   "stars": 4513,
+   "lang": "Go",
+   "topics": [
+    "bigquery",
+    "privacy",
+    "etl",
+    "snowflake",
+    "data-warehouse",
+    "data-engineering",
+    "data-integration",
+    "redshift",
+    "elt",
+    "cdp",
+    "warehouse-management",
+    "data-synchronization"
+   ],
+   "updated": "2026-11-02T14:01:48Z"
+  },
+  {
+   "full": "ucbepic/docetl",
+   "desc": "A system for agentic LLM-powered data processing and ETL",
+   "stars": 4189,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "workflow",
+    "data",
+    "etl",
+    "semantic-data",
+    "elt",
+    "data-pipelines",
+    "agents",
+    "document-analysis",
+    "document-processing",
+    "unstructured-data",
+    "unstructured-data-analysis"
+   ],
+   "updated": "2026-10-30T23:45:45Z"
+  },
+  {
+   "full": "orchest/orchest",
+   "desc": "Build data pipelines, the easy way 🛠️",
+   "stars": 4133,
+   "lang": "TypeScript",
+   "topics": [
+    "python",
+    "docker",
+    "kubernetes",
+    "data-science",
+    "machine-learning",
+    "airflow",
+    "cloud",
+    "deployment",
+    "jupyter",
+    "etl",
+    "ide",
+    "pipelines"
+   ],
+   "updated": "2023-06-06T09:48:26Z"
+  },
+  {
+   "full": "nucleuscloud/neosync",
+   "desc": "Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.",
+   "stars": 4128,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "testing",
+    "docker",
+    "kubernetes",
+    "golang",
+    "open-source",
+    "typescript",
+    "etl",
+    "reactjs",
+    "nextjs",
+    "postgresql",
+    "faker"
+   ],
+   "updated": "2025-08-30T18:22:04Z"
+  },
+  {
+   "full": "aws/aws-sdk-pandas",
+   "desc": "pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, Neptune, OpenSearch, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).",
+   "stars": 4122,
+   "lang": "Python",
+   "topics": [
+    "mysql",
+    "python",
+    "emr",
+    "aws",
+    "data-science",
+    "lambda",
+    "aws-lambda",
+    "athena",
+    "etl",
+    "pandas",
+    "data-engineering",
+    "redshift"
+   ],
+   "updated": "2026-11-01T11:52:53Z"
+  },
+  {
+   "full": "Netflix/maestro",
+   "desc": "Maestro: Netflix’s Workflow Orchestrator",
+   "stars": 3852,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "workflow",
+    "data-science",
+    "machine-learning",
+    "automation",
+    "etl",
+    "analytics",
+    "workflow-engine",
+    "scheduler",
+    "orchestration",
+    "data-engineering",
+    "elt"
+   ],
+   "updated": "2026-10-30T22:08:54Z"
+  },
+  {
+   "full": "xyflow/awesome-node-based-uis",
+   "desc": "A curated list with resources about node-based UIs",
+   "stars": 3705,
+   "lang": null,
+   "topics": [
+    "etl",
+    "awesome-list",
+    "visual-programming",
+    "workflow-editor",
+    "node-based-ui"
+   ],
+   "updated": "2025-06-29T08:11:39Z"
+  },
+  {
+   "full": "pawl/awesome-etl",
+   "desc": "A curated list of awesome ETL frameworks, libraries, and software.",
+   "stars": 3601,
+   "lang": null,
+   "topics": [
+    "awesome",
+    "etl",
+    "awesome-list"
+   ],
+   "updated": "2026-05-01T06:27:21Z"
+  },
+  {
+   "full": "SQLMesh/sqlmesh",
+   "desc": "Scalable and efficient data transformation framework - backwards compatible with dbt.",
+   "stars": 3344,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "sql",
+    "etl",
+    "dataops",
+    "dbt",
+    "elt",
+    "transformation",
+    "dataengineering"
+   ],
+   "updated": "2026-11-02T16:05:32Z"
+  },
+  {
+   "full": "PeerDB-io/peerdb",
+   "desc": "Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage",
+   "stars": 3313,
+   "lang": "Go",
+   "topics": [
+    "rust",
+    "bigquery",
+    "postgres",
+    "distributed-systems",
+    "sql",
+    "kafka",
+    "etl",
+    "clickhouse",
+    "realtime",
+    "postgresql",
+    "s3",
+    "snowflake"
+   ],
+   "updated": "2026-11-02T20:13:39Z"
+  },
+  {
+   "full": "apache/devlake",
+   "desc": "Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.",
+   "stars": 3184,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "open-source",
+    "devops",
+    "data",
+    "jira",
+    "integration",
+    "etl",
+    "data-engineering",
+    "data-analysis",
+    "data-integration",
+    "user-friendly",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T14:56:20Z"
+  },
+  {
+   "full": "blockchain-etl/ethereum-etl",
+   "desc": "Python scripts for ETL (extract, transform and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. Data is available in Google BigQuery https://goo.gl/oY5BCQ",
+   "stars": 3129,
+   "lang": "Python",
+   "topics": [
+    "export",
+    "bigquery",
+    "aws",
+    "csv",
+    "sql",
+    "etl",
+    "ethereum",
+    "transaction",
+    "gcp",
+    "google-cloud",
+    "erc20",
+    "erc20-tokens"
+   ],
+   "updated": "2026-01-25T08:00:12Z"
+  },
+  {
+   "full": "apache/hamilton",
+   "desc": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+   "stars": 2622,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "etl",
+    "pandas",
+    "orchestration",
+    "data-engineering",
+    "data-analysis",
+    "software-engineering",
+    "feature-engineering",
+    "dataframe",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T10:33:51Z"
+  },
+  {
+   "full": "thenaturalist/awesome-business-intelligence",
+   "desc": "Actively curated list of awesome BI tools. PRs welcome!",
+   "stars": 2338,
+   "lang": null,
+   "topics": [
+    "data-science",
+    "sql",
+    "database",
+    "etl",
+    "data-visualization",
+    "business-intelligence",
+    "data-analysis",
+    "awesome-list"
+   ],
+   "updated": "2024-08-21T11:08:26Z"
+  },
+  {
+   "full": "instill-ai/instill-core",
+   "desc": "🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications",
+   "stars": 2320,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "api",
+    "cli",
+    "golang",
+    "open-source",
+    "typescript",
+    "ai",
+    "pipeline",
+    "etl",
+    "developer-tools",
+    "gpt",
+    "hacktoberfest"
+   ],
+   "updated": "2026-06-01T22:37:41Z"
+  },
+  {
+   "full": "timeplus-io/proton",
+   "desc": "The fastest unified streaming SQL Engine in a single C++ binary. ⚡ Millisecond latency. 100+ GB/s throughput. Continuously compute stateful context from streams, logs, metrics, events, and CDC.",
+   "stars": 2280,
+   "lang": "C++",
+   "topics": [
+    "real-time",
+    "sql",
+    "pipeline",
+    "etl",
+    "cpp",
+    "clickhouse",
+    "context",
+    "stream-processing",
+    "flink",
+    "observability",
+    "iceberg",
+    "kakfa"
+   ],
+   "updated": "2026-10-30T01:14:41Z"
+  },
+  {
+   "full": "reugn/go-streams",
+   "desc": "A lightweight stream processing library for Go",
+   "stars": 2177,
+   "lang": "Go",
+   "topics": [
+    "redis",
+    "workflow",
+    "kafka",
+    "pipeline",
+    "etl",
+    "websocket",
+    "data-stream",
+    "streams",
+    "stream-processing",
+    "pulsar",
+    "windowing",
+    "aerospike"
+   ],
+   "updated": "2026-01-14T15:05:35Z"
+  },
+  {
+   "full": "AlexIoannides/pyspark-example-project",
+   "desc": "Implementing best practices for PySpark ETL jobs and applications.",
+   "stars": 2121,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "spark",
+    "etl",
+    "pyspark",
+    "data-engineering",
+    "etl-pipeline",
+    "etl-job"
+   ],
+   "updated": "2023-01-01T22:08:44Z"
+  },
+  {
+   "full": "mara/mara-pipelines",
+   "desc": "A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow",
+   "stars": 2091,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data",
+    "pipeline",
+    "etl",
+    "postgresql",
+    "data-integration"
+   ],
+   "updated": "2023-12-15T16:14:47Z"
+  },
+  {
+   "full": "data-engineering-community/data-engineering-wiki",
+   "desc": "The best place to learn data engineering. Built and maintained by the data engineering community.",
+   "stars": 2056,
+   "lang": "CSS",
+   "topics": [
+    "data",
+    "sql",
+    "database",
+    "etl",
+    "data-engineering",
+    "data-pipelines",
+    "data-modeling",
+    "data-engineer"
+   ],
+   "updated": "2026-09-15T02:16:38Z"
+  },
+  {
+   "full": "yobix-ai/extractous",
+   "desc": "Fast and efficient unstructured data extraction. Written in Rust with bindings for many languages.",
+   "stars": 1786,
+   "lang": "Rust",
+   "topics": [
+    "nlp",
+    "rust",
+    "pdf",
+    "machine-learning",
+    "natural-language-processing",
+    "ocr",
+    "etl",
+    "tika",
+    "extraction",
+    "docx",
+    "data-pipelines",
+    "pdf-parser"
+   ],
+   "updated": "2024-12-21T10:13:30Z"
+  },
+  {
+   "full": "thbar/kiba",
+   "desc": "Data processing & ETL framework for Ruby",
+   "stars": 1776,
+   "lang": "Ruby",
+   "topics": [
+    "ruby",
+    "data",
+    "etl",
+    "etl-ruby",
+    "rubydatascience"
+   ],
+   "updated": "2026-01-10T19:13:05Z"
+  },
+  {
+   "full": "Multiwoven/multiwoven",
+   "desc": "🔥🔥🔥 Open source Reverse ETL - alternative to hightouch and census.",
+   "stars": 1684,
+   "lang": "Ruby",
+   "topics": [
+    "react",
+    "ruby",
+    "open-source",
+    "bigquery",
+    "typescript",
+    "etl",
+    "snowflake",
+    "self-hosted",
+    "data-warehouse",
+    "data-engineering",
+    "redshift",
+    "dbt"
+   ],
+   "updated": "2026-10-31T00:20:01Z"
+  },
+  {
+   "full": "ariacom/Seal-Report",
+   "desc": "Database Reporting Tool and Tasks (.Net)",
+   "stars": 1642,
+   "lang": "C#",
+   "topics": [
+    "mysql",
+    "linq",
+    "pdf",
+    "chart",
+    "mongodb",
+    "etl",
+    "excel",
+    "tasks",
+    "business-intelligence",
+    "dashboards",
+    "reporting-engine",
+    "html-report"
+   ],
+   "updated": "2026-11-02T10:37:20Z"
+  },
+  {
+   "full": "nerevu/riko",
+   "desc": "A Python stream processing engine modeled after Yahoo! Pipes",
+   "stars": 1605,
+   "lang": "Python",
+   "topics": [
+    "cli",
+    "rss",
+    "data",
+    "library",
+    "etl",
+    "functional-programming",
+    "asynchronous",
+    "parallelism",
+    "stream-processing",
+    "featured"
+   ],
+   "updated": "2026-11-02T02:20:06Z"
+  },
+  {
+   "full": "getdozer/dozer",
+   "desc": "Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.",
+   "stars": 1578,
+   "lang": "Rust",
+   "topics": [
+    "api",
+    "rust",
+    "postgres",
+    "data",
+    "streaming",
+    "sql",
+    "etl",
+    "clickhouse",
+    "realtime",
+    "snowflake",
+    "apis",
+    "datawarehouse"
+   ],
+   "updated": "2024-06-18T22:23:39Z"
+  },
+  {
+   "full": "slothflowlabs/duckle",
+   "desc": "Open-source ETL/ELT you deploy on your own servers or cloud. Built on DuckDB: no-code/low-code visual pipelines or SQL, 385 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI agents. No vendor cloud, no per-row billing.",
+   "stars": 1546,
+   "lang": "Rust",
+   "topics": [
+    "kubernetes",
+    "open-source",
+    "etl",
+    "mcp",
+    "data-transformation",
+    "self-hosted",
+    "data-engineering",
+    "data-integration",
+    "dbt",
+    "elt",
+    "cdc",
+    "data-pipeline"
+   ],
+   "updated": "2026-11-01T16:53:31Z"
+  },
+  {
+   "full": "apache/superset",
+   "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+   "stars": 75392,
+   "lang": "Python",
+   "topics": [
+    "react",
+    "python",
+    "flask",
+    "data-science",
+    "bi",
+    "analytics",
+    "superset",
+    "apache",
+    "data-visualization",
+    "data-engineering",
+    "business-intelligence",
+    "data-viz"
+   ],
+   "updated": "2026-11-02T19:47:15Z"
+  },
+  {
+   "full": "GokuMohandas/Made-With-ML",
+   "desc": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+   "stars": 49905,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "deep-learning",
+    "pytorch",
+    "data-engineering",
+    "ray",
+    "data-quality",
+    "distributed-training",
+    "mlops",
+    "distributed-ml"
+   ],
+   "updated": "2026-03-04T23:44:21Z"
+  },
+  {
+   "full": "DataTalksClub/data-engineering-zoomcamp",
+   "desc": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. Join the course here 👇🏼",
+   "stars": 46606,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "docker",
+    "course",
+    "kafka",
+    "spark",
+    "data-engineering",
+    "free",
+    "dbt",
+    "kestra"
+   ],
+   "updated": "2026-10-15T13:49:30Z"
+  },
+  {
+   "full": "eugeneyan/applied-ml",
+   "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+   "stars": 30783,
+   "lang": null,
+   "topics": [
+    "search",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "reinforcement-learning",
+    "computer-vision",
+    "deep-learning",
+    "production",
+    "data-engineering",
+    "data-discovery",
+    "recsys",
+    "data-quality"
+   ],
+   "updated": "2024-07-18T22:41:02Z"
+  },
+  {
+   "full": "PrefectHQ/prefect",
+   "desc": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+   "stars": 24109,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "infrastructure",
+    "workflow",
+    "data-science",
+    "data",
+    "automation",
+    "pipeline",
+    "workflow-engine",
+    "orchestration",
+    "data-engineering",
+    "observability",
+    "prefect"
+   ],
+   "updated": "2026-11-02T18:36:17Z"
+  },
+  {
+   "full": "Avaiga/taipy",
+   "desc": "Turns Data and AI algorithms into production-ready web applications in no time.",
+   "stars": 19453,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "workflow",
+    "automation",
+    "pipeline",
+    "job-scheduler",
+    "pipelines",
+    "data-visualization",
+    "orchestration",
+    "datascience",
+    "data-engineering",
+    "developer-tools",
+    "data-integration"
+   ],
+   "updated": "2026-08-10T02:47:18Z"
+  },
+  {
+   "full": "argoproj/argo-workflows",
+   "desc": "Workflow Engine for Kubernetes",
+   "stars": 17080,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "workflow",
+    "machine-learning",
+    "airflow",
+    "workflow-engine",
+    "cncf",
+    "pipelines",
+    "data-engineering",
+    "argo",
+    "k8s",
+    "cloud-native",
+    "batch-processing"
+   ],
+   "updated": "2026-11-02T17:19:12Z"
+  },
+  {
+   "full": "andkret/Cookbook",
+   "desc": "The Data Engineering Cookbook",
+   "stars": 15527,
+   "lang": "Python",
+   "topics": [
+    "big-data",
+    "best-practices",
+    "cookbook",
+    "data-engineering",
+    "data-engineer"
+   ],
+   "updated": "2026-10-16T14:25:27Z"
+  },
+  {
+   "full": "semantica-agi/semantica",
+   "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+   "stars": 14398,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "ai",
+    "ontology",
+    "provenance",
+    "artificial-intelligence",
+    "data-engineering",
+    "knowledge-graph",
+    "developer-tools",
+    "semantic-search",
+    "reasoning",
+    "explainable-ai",
+    "decision-intelligence"
+   ],
+   "updated": "2026-11-02T12:27:57Z"
+  },
+  {
+   "full": "datastacktv/data-engineer-roadmap",
+   "desc": "Roadmap to becoming a data engineer in 2021",
+   "stars": 12755,
+   "lang": null,
+   "topics": [
+    "roadmap",
+    "cloud",
+    "data-engineering",
+    "data-engineer-roadmap"
+   ],
+   "updated": "2022-01-25T21:09:00Z"
+  },
+  {
+   "full": "fivetran/great_expectations",
+   "desc": "Always know what to expect from your data.",
+   "stars": 11914,
+   "lang": "Python",
+   "topics": [
+    "data-science",
+    "pipeline",
+    "exploratory-data-analysis",
+    "eda",
+    "data-engineering",
+    "data-quality",
+    "data-profiling",
+    "datacleaner",
+    "exploratory-analysis",
+    "cleandata",
+    "dataquality",
+    "datacleaning"
+   ],
+   "updated": "2026-11-02T18:24:08Z"
+  },
+  {
+   "full": "xonsh/xonsh",
+   "desc": "🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.",
+   "stars": 9683,
+   "lang": "Python",
+   "topics": [
+    "raspberry-pi",
+    "devops",
+    "nix",
+    "iterm2",
+    "nixos",
+    "hyper",
+    "data-engineering",
+    "vscode-extension",
+    "data-scientists",
+    "kitty",
+    "xonsh",
+    "security-automation"
+   ],
+   "updated": "2026-11-02T18:16:14Z"
+  },
+  {
+   "full": "risingwavelabs/risingwave",
+   "desc": "Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.",
+   "stars": 9398,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "database",
+    "kafka",
+    "webhook",
+    "postgresql",
+    "stream-processing",
+    "data-engineering",
+    "materialized-view",
+    "etl-pipeline",
+    "event-streaming",
+    "apache-iceberg"
+   ],
+   "updated": "2026-11-02T18:37:12Z"
+  },
+  {
+   "full": "growthbook/growthbook",
+   "desc": "Open Source Feature Flags, Experimentation, and Product Analytics",
+   "stars": 8558,
+   "lang": "TypeScript",
+   "topics": [
+    "bigquery",
+    "data-science",
+    "statistics",
+    "analytics",
+    "continuous-delivery",
+    "clickhouse",
+    "snowflake",
+    "feature-flags",
+    "data-engineering",
+    "experimentation",
+    "data-analysis",
+    "ab-testing"
+   ],
+   "updated": "2026-11-02T20:11:05Z"
+  },
+  {
+   "full": "Zipstack/unstract",
+   "desc": "LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows",
+   "stars": 7402,
+   "lang": "Python",
+   "topics": [
+    "ocr",
+    "data-engineering",
+    "idp",
+    "ai-agents",
+    "structured-output",
+    "pdf-extraction",
+    "document-ai",
+    "llm",
+    "prompt-engineering",
+    "generative-ai",
+    "mcp-server",
+    "json-extraction"
+   ],
+   "updated": "2026-11-02T20:01:15Z"
+  },
+  {
+   "full": "feast-dev/feast",
+   "desc": "The Open Source Feature Store for AI/ML",
+   "stars": 7353,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "big-data",
+    "ml",
+    "data-engineering",
+    "features",
+    "data-quality",
+    "mlops",
+    "feature-store"
+   ],
+   "updated": "2026-11-01T04:05:21Z"
+  },
+  {
+   "full": "evidence-dev/evidence",
+   "desc": "Business intelligence as code: build fast, interactive data visualizations in SQL and markdown",
+   "stars": 7082,
+   "lang": "TypeScript",
+   "topics": [
+    "data-science",
+    "sql",
+    "dashboard",
+    "analytics",
+    "exploratory-data-analysis",
+    "webassembly",
+    "svelte",
+    "data-visualization",
+    "self-hosted",
+    "data-engineering",
+    "business-intelligence",
+    "dbt"
+   ],
+   "updated": "2026-10-31T20:02:39Z"
+  },
+  {
+   "full": "dlt-hub/dlt",
+   "desc": "data load tool (dlt) is an open source Python library that makes data loading easy 🛠️",
+   "stars": 6051,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data",
+    "extract",
+    "data-warehouse",
+    "data-engineering",
+    "data-lake",
+    "load",
+    "transform",
+    "elt",
+    "data-loading"
+   ],
+   "updated": "2026-10-31T21:58:52Z"
+  },
+  {
+   "full": "treeverse/lakeFS",
+   "desc": "lakeFS - Data version control for your data lake | Git for data",
+   "stars": 5575,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "apache-spark",
+    "aws-s3",
+    "google-cloud-storage",
+    "data-engineering",
+    "data-lake",
+    "azure-storage",
+    "data-version-control",
+    "object-storage",
+    "datalake",
+    "hadoop-filesystem"
+   ],
+   "updated": "2026-11-01T14:49:28Z"
+  },
+  {
+   "full": "ruc-datalab/DeepAnalyze",
+   "desc": "DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！",
+   "stars": 4769,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "open-source",
+    "science",
+    "data-science",
+    "data",
+    "database",
+    "ai",
+    "jupyter",
+    "chatbot",
+    "data-visualization",
+    "python-programming"
+   ],
+   "updated": "2026-11-02T13:47:42Z"
+  },
+  {
+   "full": "Moataz-Elmesmary/Data-Science-Roadmap",
+   "desc": "Data Science Roadmap from A to Z",
+   "stars": 4407,
+   "lang": null,
+   "topics": [
+    "python",
+    "nlp",
+    "data-science",
+    "machine-learning",
+    "statistics",
+    "sql",
+    "big-data",
+    "deep-learning",
+    "neural-network",
+    "linear-algebra",
+    "probability",
+    "mathematics"
+   ],
+   "updated": "2025-12-06T20:01:50Z"
+  },
+  {
+   "full": "whoiskatrin/sql-translator",
+   "desc": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.",
+   "stars": 4326,
+   "lang": "TypeScript",
+   "topics": [
+    "query",
+    "sql",
+    "postgresql",
+    "datascience",
+    "data-engineering",
+    "dataset",
+    "openai",
+    "data-analysis",
+    "dataquery"
+   ],
+   "updated": "2025-07-06T00:46:23Z"
+  },
+  {
+   "full": "adilkhash/Data-Engineering-HowTo",
+   "desc": "A list of useful resources to learn Data Engineering from scratch",
+   "stars": 4040,
+   "lang": null,
+   "topics": [
+    "distributed-systems",
+    "scala",
+    "cloud-providers",
+    "data-engineering",
+    "data-pipeline"
+   ],
+   "updated": "2026-10-30T05:11:57Z"
+  },
+  {
+   "full": "dathere/qsv",
+   "desc": "Blazing-fast, Neuro-symbolic Data-Wrangling toolkit",
+   "stars": 3818,
+   "lang": "Rust",
+   "topics": [
+    "visualization",
+    "metadata",
+    "statistics",
+    "csv",
+    "sql",
+    "ai",
+    "timeseries",
+    "excel",
+    "opendata",
+    "data-engineering",
+    "ckan",
+    "data-wrangling"
+   ],
+   "updated": "2026-11-02T14:35:54Z"
+  },
+  {
+   "full": "ploomber/ploomber",
+   "desc": "The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️",
+   "stars": 3621,
+   "lang": "Python",
+   "topics": [
+    "workflow",
+    "data-science",
+    "machine-learning",
+    "jupyter",
+    "vscode",
+    "pipelines",
+    "data-engineering",
+    "pycharm",
+    "notebooks",
+    "jupyter-notebooks",
+    "papermill",
+    "mlops"
+   ],
+   "updated": "2025-05-29T22:02:03Z"
+  },
+  {
+   "full": "lakehq/sail",
+   "desc": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+   "stars": 3485,
+   "lang": "Rust",
+   "topics": [
+    "python",
+    "rust",
+    "machine-learning",
+    "sql",
+    "big-data",
+    "spark",
+    "apache-spark",
+    "arrow",
+    "distributed-computing",
+    "artificial-intelligence",
+    "pyspark",
+    "data-engineering"
+   ],
+   "updated": "2026-11-02T09:07:16Z"
+  },
+  {
+   "full": "superstreamlabs/memphis",
+   "desc": "Memphis.dev is a highly scalable and effortless data streaming platform",
+   "stars": 3443,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "golang",
+    "data",
+    "enrichment",
+    "microservices",
+    "schema-registry",
+    "message-bus",
+    "message-queue",
+    "data-engineering",
+    "data-pipeline",
+    "message-broker",
+    "data-streaming"
+   ],
+   "updated": "2026-03-02T09:06:21Z"
+  },
+  {
+   "full": "GokuMohandas/mlops-course",
+   "desc": "Learn how to design, develop, deploy and iterate on production-grade ML applications.",
+   "stars": 3414,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "deep-learning",
+    "pytorch",
+    "data-engineering",
+    "ray",
+    "data-quality",
+    "mlops",
+    "distributed-ml",
+    "llms"
+   ],
+   "updated": "2024-08-16T05:27:56Z"
+  }
+ ]
+}

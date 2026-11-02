@@ -1,0 +1,1332 @@
+{
+ "subId": "ci-cd",
+ "topics": [
+  "ci-cd",
+  "continuous-integration"
+ ],
+ "crawledAt": "2026-11-02T20:18:31.111Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "KeygraphHQ/shannon",
+   "desc": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+   "stars": 50967,
+   "lang": "TypeScript",
+   "topics": [
+    "security",
+    "security-audit",
+    "owasp",
+    "ci-cd",
+    "cybersecurity",
+    "penetration-testing",
+    "pentesting",
+    "appsec",
+    "offensive-security",
+    "ethical-hacking",
+    "security-automation",
+    "sarif"
+   ],
+   "updated": "2026-10-27T06:17:04Z"
+  },
+  {
+   "full": "harness/harness",
+   "desc": "Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.",
+   "stars": 38799,
+   "lang": "Go",
+   "topics": [
+    "git",
+    "go",
+    "docker",
+    "continuous-integration",
+    "continuous-delivery",
+    "ci",
+    "build-pipelines",
+    "build-automation",
+    "ci-cd",
+    "scm",
+    "hacktoberfest",
+    "code-repository"
+   ],
+   "updated": "2026-11-02T17:46:18Z"
+  },
+  {
+   "full": "gitleaks/gitleaks",
+   "desc": "Find secrets with Gitleaks 🔑",
+   "stars": 30604,
+   "lang": "Go",
+   "topics": [
+    "git",
+    "go",
+    "cli",
+    "golang",
+    "open-source",
+    "security",
+    "secret",
+    "ci-cd",
+    "cicd",
+    "hacktoberfest",
+    "dlp",
+    "security-tools"
+   ],
+   "updated": "2026-10-28T04:14:29Z"
+  },
+  {
+   "full": "promptfoo/promptfoo",
+   "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI an",
+   "stars": 26753,
+   "lang": "TypeScript",
+   "topics": [
+    "testing",
+    "ci",
+    "evaluation",
+    "ci-cd",
+    "pentesting",
+    "cicd",
+    "vulnerability-scanners",
+    "prompts",
+    "evaluation-framework",
+    "red-teaming",
+    "rag",
+    "llm"
+   ],
+   "updated": "2026-11-02T20:05:34Z"
+  },
+  {
+   "full": "argoproj/argo-cd",
+   "desc": "Declarative Continuous Deployment for Kubernetes",
+   "stars": 24516,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "kubernetes",
+    "devops",
+    "pipeline",
+    "continuous-delivery",
+    "cd",
+    "helm",
+    "continuous-deployment",
+    "ci-cd",
+    "argo",
+    "cicd",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T20:18:05Z"
+  },
+  {
+   "full": "dagger/dagger",
+   "desc": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud",
+   "stars": 16573,
+   "lang": "Go",
+   "topics": [
+    "graphql",
+    "docker",
+    "caching",
+    "devops",
+    "continuous-integration",
+    "containers",
+    "continuous-deployment",
+    "ci-cd",
+    "workflows",
+    "agents"
+   ],
+   "updated": "2026-11-02T20:07:52Z"
+  },
+  {
+   "full": "theonedev/onedev",
+   "desc": "The Unified and Autonomous Development Platform",
+   "stars": 15336,
+   "lang": "Java",
+   "topics": [
+    "git",
+    "devops",
+    "ai",
+    "packages",
+    "wiki",
+    "self-hosted",
+    "ci-cd",
+    "kanban",
+    "workspaces"
+   ],
+   "updated": "2026-10-31T12:57:47Z"
+  },
+  {
+   "full": "Tracer-Cloud/opensre",
+   "desc": "The open-source agent for CI/CD reliability.",
+   "stars": 12665,
+   "lang": "Python",
+   "topics": [
+    "slack",
+    "cli",
+    "devops",
+    "grafana",
+    "site-reliability-engineering",
+    "alerting",
+    "gitlab-ci",
+    "ci-cd",
+    "datadog",
+    "observability",
+    "incident-management",
+    "remediation"
+   ],
+   "updated": "2026-11-02T20:01:13Z"
+  },
+  {
+   "full": "earthly/earthly",
+   "desc": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.",
+   "stars": 12054,
+   "lang": "Go",
+   "topics": [
+    "dockerfiles",
+    "build",
+    "framework",
+    "ci",
+    "build-automation",
+    "ci-cd",
+    "build-tool",
+    "build-system",
+    "docker-images",
+    "cicd",
+    "hacktoberfest",
+    "reproducible-builds"
+   ],
+   "updated": "2026-10-26T20:59:41Z"
+  },
+  {
+   "full": "Tikam02/DevOps-Guide",
+   "desc": "DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.",
+   "stars": 9375,
+   "lang": "HTML",
+   "topics": [
+    "python",
+    "git",
+    "linux",
+    "docker",
+    "kubernetes",
+    "jenkins",
+    "ansible",
+    "devops",
+    "networking",
+    "containers",
+    "grafana",
+    "interview"
+   ],
+   "updated": "2026-05-22T21:30:07Z"
+  },
+  {
+   "full": "openshift/origin",
+   "desc": "Conformance test suite for OpenShift",
+   "stars": 8692,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "kubernetes",
+    "devops",
+    "openshift",
+    "continuous-integration",
+    "continuous-delivery",
+    "containers",
+    "continuous-deployment",
+    "openshift-origin",
+    "paas",
+    "caas",
+    "ci-cd"
+   ],
+   "updated": "2026-11-02T18:17:14Z"
+  },
+  {
+   "full": "concourse/concourse",
+   "desc": "Concourse is a container-based automation system written in Go. It's mostly used for CI/CD.",
+   "stars": 7938,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "continuous-integration",
+    "continuous-delivery",
+    "ci",
+    "elm",
+    "containers",
+    "pipelines",
+    "ci-cd",
+    "concourse",
+    "runc",
+    "containerd"
+   ],
+   "updated": "2026-11-02T12:56:03Z"
+  },
+  {
+   "full": "gocd/gocd",
+   "desc": "GoCD - Continuous Delivery server main repository",
+   "stars": 7436,
+   "lang": "Java",
+   "topics": [
+    "continuous-integration",
+    "continuous-delivery",
+    "ci",
+    "cd",
+    "continuous-deployment",
+    "ci-cd",
+    "continuous-testing",
+    "infrastructure-as-code",
+    "gocd",
+    "continuous-delivery-server"
+   ],
+   "updated": "2026-11-02T06:40:37Z"
+  },
+  {
+   "full": "sottlmarek/DevSecOps",
+   "desc": "Ultimate DevSecOps library",
+   "stars": 6938,
+   "lang": null,
+   "topics": [
+    "docker",
+    "kubernetes",
+    "aws",
+    "security",
+    "devops",
+    "automation",
+    "awesome",
+    "cloud",
+    "serverless",
+    "tool",
+    "azure",
+    "containers"
+   ],
+   "updated": "2026-08-12T20:14:41Z"
+  },
+  {
+   "full": "werf/werf",
+   "desc": "A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.",
+   "stars": 4739,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "kubernetes",
+    "golang",
+    "dockerfile",
+    "devops",
+    "continuous-integration",
+    "continuous-delivery",
+    "helm",
+    "docker-image",
+    "ci-cd",
+    "iac",
+    "gitops"
+   ],
+   "updated": "2026-11-02T12:11:49Z"
+  },
+  {
+   "full": "kubero-dev/kubero",
+   "desc": "A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes",
+   "stars": 4460,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "heroku",
+    "kubernetes",
+    "infrastructure",
+    "productivity",
+    "cloud",
+    "dokku",
+    "hosting",
+    "self-hosted",
+    "paas",
+    "ci-cd",
+    "developer-tools"
+   ],
+   "updated": "2026-10-13T06:31:12Z"
+  },
+  {
+   "full": "iterative/cml",
+   "desc": "♾️ CML - Continuous Machine Learning | CI/CD for ML",
+   "stars": 4190,
+   "lang": "JavaScript",
+   "topics": [
+    "cli",
+    "data-science",
+    "machine-learning",
+    "continuous-integration",
+    "continuous-delivery",
+    "ci",
+    "gitlab-ci",
+    "ci-cd",
+    "developer-tools",
+    "cicd",
+    "hacktoberfest",
+    "bitbucket-pipelines"
+   ],
+   "updated": "2026-10-21T22:53:36Z"
+  },
+  {
+   "full": "moonrepo/moon",
+   "desc": "A build system and monorepo management tool for the web ecosystem, written in Rust.",
+   "stars": 4175,
+   "lang": "Rust",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "ruby",
+    "python",
+    "rust",
+    "golang",
+    "typescript",
+    "workspace",
+    "monorepo",
+    "ci-cd",
+    "task-runner",
+    "build-tool"
+   ],
+   "updated": "2026-11-02T16:35:24Z"
+  },
+  {
+   "full": "hasura/gitkube",
+   "desc": "Build and deploy docker images to Kubernetes using git push",
+   "stars": 3844,
+   "lang": "Go",
+   "topics": [
+    "git",
+    "docker",
+    "kubernetes",
+    "golang",
+    "continuous-deployment",
+    "ci-cd",
+    "developer-tools",
+    "k8s"
+   ],
+   "updated": "2023-08-31T07:48:24Z"
+  },
+  {
+   "full": "dorny/paths-filter",
+   "desc": "Conditionally run actions based on files modified by PR, feature branch or pushed commits",
+   "stars": 3386,
+   "lang": "TypeScript",
+   "topics": [
+    "ci-cd",
+    "change-detection",
+    "github-actions",
+    "conditional-execution"
+   ],
+   "updated": "2026-09-27T22:03:36Z"
+  },
+  {
+   "full": "Pradumnasaraf/DevOps",
+   "desc": "I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their DevOps journey.",
+   "stars": 3281,
+   "lang": "JavaScript",
+   "topics": [
+    "git",
+    "go",
+    "linux",
+    "docker",
+    "kubernetes",
+    "yaml",
+    "jenkins",
+    "devops",
+    "networking",
+    "docker-compose",
+    "helm",
+    "grafana"
+   ],
+   "updated": "2026-10-30T07:39:00Z"
+  },
+  {
+   "full": "nuver-labs/vps-audit",
+   "desc": "lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.",
+   "stars": 3226,
+   "lang": "Shell",
+   "topics": [
+    "linux",
+    "shell",
+    "bash",
+    "infrastructure",
+    "security",
+    "devops",
+    "security-audit",
+    "opensource",
+    "monitoring",
+    "debian",
+    "ec2",
+    "server"
+   ],
+   "updated": "2026-08-10T11:12:59Z"
+  },
+  {
+   "full": "peter-evans/create-pull-request",
+   "desc": "A GitHub action to create a pull request for changes to your repository in the actions workspace",
+   "stars": 2874,
+   "lang": "TypeScript",
+   "topics": [
+    "workflow",
+    "automation",
+    "ci-cd",
+    "pull-request",
+    "github-action",
+    "actions-workspace",
+    "create-pull-request"
+   ],
+   "updated": "2026-11-01T12:38:46Z"
+  },
+  {
+   "full": "postgres-ai/database-lab-engine",
+   "desc": "DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software quality. Follow to stay updated.",
+   "stars": 2786,
+   "lang": "Go",
+   "topics": [
+    "postgres",
+    "sql",
+    "database",
+    "ci",
+    "postgresql",
+    "branching",
+    "ci-cd",
+    "database-migrations",
+    "pgsql",
+    "cloning",
+    "cicd",
+    "database-schema"
+   ],
+   "updated": "2026-10-29T13:30:51Z"
+  },
+  {
+   "full": "erda-project/erda",
+   "desc": "An enterprise-grade Cloud-Native application platform for Kubernetes.",
+   "stars": 2759,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "docker",
+    "kubernetes",
+    "golang",
+    "devops",
+    "microservice",
+    "containers",
+    "ci-cd",
+    "apm",
+    "cmp"
+   ],
+   "updated": "2026-10-27T03:13:21Z"
+  },
+  {
+   "full": "tj-actions/changed-files",
+   "desc": "Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.",
+   "stars": 2738,
+   "lang": "TypeScript",
+   "topics": [
+    "github",
+    "submodules",
+    "continuous-integration",
+    "continuous-delivery",
+    "ci",
+    "actions",
+    "monorepo",
+    "ci-cd",
+    "yaml-files",
+    "changed-file",
+    "workflows",
+    "modified"
+   ],
+   "updated": "2026-10-26T01:37:18Z"
+  },
+  {
+   "full": "flipkart-incubator/Astra",
+   "desc": "Automated Security Testing For REST API's",
+   "stars": 2674,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "security",
+    "owasp",
+    "ci-cd",
+    "penetration-testing",
+    "postman-collection",
+    "sdlc",
+    "security-automation",
+    "penetration-testing-framework",
+    "restapiautomation"
+   ],
+   "updated": "2024-06-05T17:35:29Z"
+  },
+  {
+   "full": "sk3pp3r/cheat-sheet-pdf",
+   "desc": "📜 A Cheat-Sheet Collection from the WWW",
+   "stars": 2463,
+   "lang": "HTML",
+   "topics": [
+    "python",
+    "vim",
+    "cheat-sheets",
+    "linux",
+    "slack",
+    "bash",
+    "docker",
+    "nginx",
+    "redis",
+    "jenkins",
+    "pdf",
+    "ansible"
+   ],
+   "updated": "2025-05-25T08:44:16Z"
+  },
+  {
+   "full": "kunal-kushwaha/DevOps-Bootcamp",
+   "desc": "This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of WeMakeDevs.",
+   "stars": 2432,
+   "lang": null,
+   "topics": [
+    "testing",
+    "linux",
+    "docker",
+    "kubernetes",
+    "infrastructure",
+    "devops",
+    "cloud",
+    "tools",
+    "networking",
+    "monitoring",
+    "ci-cd",
+    "cloud-computing"
+   ],
+   "updated": "2024-07-18T09:11:07Z"
+  },
+  {
+   "full": "uber-archive/makisu",
+   "desc": "Fast and flexible Docker image building tool, works in unprivileged containerized environments like Mesos and Kubernetes.",
+   "stars": 2392,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "kubernetes",
+    "uber",
+    "docker-image",
+    "container",
+    "ci-cd",
+    "mesos"
+   ],
+   "updated": "2021-04-20T10:38:19Z"
+  },
+  {
+   "full": "dromara/Jpom",
+   "desc": "【dromara】🚀简而轻的低侵入式在线构建、自动部署、日常运维、项目监控软件",
+   "stars": 1952,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "docker",
+    "ci-cd",
+    "ssh-client",
+    "jpom"
+   ],
+   "updated": "2026-11-02T14:58:27Z"
+  },
+  {
+   "full": "tungbq/devops-basics",
+   "desc": "🚀 Practical and document place for DevOps toolchain",
+   "stars": 1875,
+   "lang": "Shell",
+   "topics": [
+    "python",
+    "docker",
+    "jenkins",
+    "aws",
+    "ansible",
+    "devops",
+    "cloud",
+    "monitoring",
+    "ci",
+    "cd",
+    "terraform",
+    "helm"
+   ],
+   "updated": "2026-09-13T05:21:08Z"
+  },
+  {
+   "full": "openchoreo/openchoreo",
+   "desc": "OpenChoreo is an internal developer platform for Kubernetes",
+   "stars": 1757,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "devops",
+    "mcp",
+    "cncf",
+    "ci-cd",
+    "observability",
+    "ai-agents",
+    "gitops",
+    "platform-engineering",
+    "developer-platform",
+    "internal-developer-platform"
+   ],
+   "updated": "2026-11-02T12:06:07Z"
+  },
+  {
+   "full": "fabric8io/fabric8",
+   "desc": "fabric8 is an open source microservices platform based on Docker, Kubernetes and Jenkins",
+   "stars": 1748,
+   "lang": null,
+   "topics": [
+    "docker",
+    "kubernetes",
+    "jenkins",
+    "microservice",
+    "openshift",
+    "continuous-integration",
+    "continuous-delivery",
+    "ci-cd",
+    "developer-tools",
+    "continuous",
+    "developer-experience"
+   ],
+   "updated": "2025-11-06T14:49:34Z"
+  },
+  {
+   "full": "FlowCI/flow-core-x",
+   "desc": "Powerful and user-friendly CI/CD server with high availability, parallel processing, runner auto-scaling",
+   "stars": 1640,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "docker",
+    "devops",
+    "continuous-integration",
+    "ci",
+    "build-pipelines",
+    "build-automation",
+    "ci-cd"
+   ],
+   "updated": "2025-04-06T18:53:48Z"
+  },
+  {
+   "full": "agola-io/agola",
+   "desc": "Agola: CI/CD Redefined",
+   "stars": 1630,
+   "lang": "Go",
+   "topics": [
+    "github",
+    "git",
+    "docker",
+    "kubernetes",
+    "golang",
+    "devops",
+    "gitlab",
+    "continuous-integration",
+    "continuous-delivery",
+    "continuous-deployment",
+    "ci-cd",
+    "distributed"
+   ],
+   "updated": "2025-09-24T13:08:24Z"
+  },
+  {
+   "full": "nixopus/nixopus",
+   "desc": "Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.",
+   "stars": 1471,
+   "lang": "Go",
+   "topics": [
+    "heroku",
+    "infrastructure",
+    "golang",
+    "typescript",
+    "terminal",
+    "ai",
+    "deployment",
+    "server",
+    "mcp",
+    "nextjs",
+    "vps",
+    "self-hosted"
+   ],
+   "updated": "2026-11-01T06:19:14Z"
+  },
+  {
+   "full": "cloud66-oss/habitus",
+   "desc": "A build flow tool for Docker.",
+   "stars": 1397,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "kubernetes",
+    "dockerfile",
+    "containers",
+    "ci-cd"
+   ],
+   "updated": "2020-02-05T17:10:30Z"
+  },
+  {
+   "full": "pipe-cd/pipecd",
+   "desc": "The One CD for All {applications, platforms, operations}",
+   "stars": 1370,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "infrastructure",
+    "devops",
+    "lambda",
+    "serverless",
+    "continuous-delivery",
+    "cd",
+    "terraform",
+    "sandbox",
+    "cncf",
+    "ecs",
+    "ci-cd"
+   ],
+   "updated": "2026-11-02T15:06:24Z"
+  },
+  {
+   "full": "deepfence/YaraHunter",
+   "desc": "🔍🔍 Malware scanner for cloud-native, as part of CI/CD and at Runtime 🔍🔍",
+   "stars": 1319,
+   "lang": "Go",
+   "topics": [
+    "ioc",
+    "malware",
+    "ci-cd",
+    "threat-hunting",
+    "hacktoberfest",
+    "yara",
+    "devsecops",
+    "yara-scanner",
+    "devsecops-pipeline",
+    "devsecops-best-practices"
+   ],
+   "updated": "2026-03-07T16:56:26Z"
+  },
+  {
+   "full": "localstack/localstack",
+   "desc": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+   "stars": 65127,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "testing",
+    "aws",
+    "cloud",
+    "continuous-integration",
+    "developer-tools",
+    "localstack"
+   ],
+   "updated": "2026-03-23T08:52:01Z"
+  },
+  {
+   "full": "jenkinsci/jenkins",
+   "desc": "Jenkins automation server",
+   "stars": 26719,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "jenkins",
+    "groovy",
+    "devops",
+    "pipelines-as-code",
+    "continuous-integration",
+    "continuous-delivery",
+    "continuous-deployment",
+    "cicd",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T13:36:50Z"
+  },
+  {
+   "full": "milanm/DevOps-Roadmap",
+   "desc": "DevOps Roadmap for 2026. with learning resources",
+   "stars": 20913,
+   "lang": null,
+   "topics": [
+    "python",
+    "go",
+    "linux",
+    "docker",
+    "kubernetes",
+    "computer-science",
+    "aws",
+    "devops",
+    "roadmap",
+    "jira",
+    "continuous-integration",
+    "azure"
+   ],
+   "updated": "2026-11-02T17:25:16Z"
+  },
+  {
+   "full": "auchenberg/volkswagen",
+   "desc": "🙈 Volkswagen detects when your tests are being run in a CI server, and makes them pass.",
+   "stars": 15466,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "ci-server",
+    "continuous-integration",
+    "cheat",
+    "defeat",
+    "javascipt",
+    "volkswagen"
+   ],
+   "updated": "2026-02-27T07:23:49Z"
+  },
+  {
+   "full": "Flagsmith/flagsmith",
+   "desc": "Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.",
+   "stars": 6638,
+   "lang": "Python",
+   "topics": [
+    "react",
+    "python",
+    "docker",
+    "remote-control",
+    "continuous-integration",
+    "ci",
+    "cd",
+    "feature-flags",
+    "feature-toggles",
+    "self-hosted",
+    "hacktoberfest",
+    "feature-flaggers"
+   ],
+   "updated": "2026-11-02T19:42:02Z"
+  },
+  {
+   "full": "buildbot/buildbot",
+   "desc": "Python-based continuous integration testing framework; your pull requests are more than welcome!",
+   "stars": 5490,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "continuous-integration",
+    "ci",
+    "ci-framework"
+   ],
+   "updated": "2026-11-02T14:15:40Z"
+  },
+  {
+   "full": "TheLartians/ModernCppStarter",
+   "desc": "🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.",
+   "stars": 5410,
+   "lang": "CMake",
+   "topics": [
+    "c",
+    "bootstrap",
+    "open-source",
+    "template",
+    "coverage",
+    "cmake",
+    "dependency-manager",
+    "cpp",
+    "continuous-integration",
+    "ci",
+    "starter",
+    "free"
+   ],
+   "updated": "2026-05-30T18:52:20Z"
+  },
+  {
+   "full": "SamKirkland/FTP-Deploy-Action",
+   "desc": "Deploys a GitHub project to a FTP server using GitHub actions",
+   "stars": 5294,
+   "lang": "TypeScript",
+   "topics": [
+    "continuous-integration",
+    "continuous-deployment",
+    "actions",
+    "action",
+    "deployment-automation",
+    "github-actions",
+    "deploy-action"
+   ],
+   "updated": "2026-04-23T07:20:22Z"
+  },
+  {
+   "full": "gaia-pipeline/gaia",
+   "desc": "Build powerful pipelines in any programming language.",
+   "stars": 5213,
+   "lang": "Go",
+   "topics": [
+    "ruby",
+    "python",
+    "java",
+    "go",
+    "kubernetes",
+    "devops",
+    "distributed-systems",
+    "automation",
+    "build",
+    "deployment",
+    "cplusplus",
+    "pipeline"
+   ],
+   "updated": "2026-01-10T15:10:21Z"
+  },
+  {
+   "full": "ovh/cds",
+   "desc": "Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform",
+   "stars": 4847,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "devops",
+    "automation",
+    "continuous-integration",
+    "continuous-delivery",
+    "continuous-deployment",
+    "hacktoberfest",
+    "devops-workflow"
+   ],
+   "updated": "2026-11-02T12:43:57Z"
+  },
+  {
+   "full": "jenkins-x/jx",
+   "desc": "Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton",
+   "stars": 4691,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "golang",
+    "devops",
+    "pipeline",
+    "openshift",
+    "continuous-integration",
+    "continuous-delivery",
+    "accelerator",
+    "cicd",
+    "hacktoberfest",
+    "environments",
+    "gitops"
+   ],
+   "updated": "2026-11-02T11:43:51Z"
+  },
+  {
+   "full": "JamesIves/github-pages-deploy-action",
+   "desc": "🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.",
+   "stars": 4618,
+   "lang": "TypeScript",
+   "topics": [
+    "github-enterprise",
+    "github-pages",
+    "workflow",
+    "deployment",
+    "deployer",
+    "gh-pages",
+    "continuous-integration",
+    "continuous-delivery",
+    "deploy",
+    "continuous-deployment",
+    "static",
+    "actions"
+   ],
+   "updated": "2026-10-26T20:45:40Z"
+  },
+  {
+   "full": "Strider-CD/strider",
+   "desc": "Open Source Continuous Integration & Deployment Server",
+   "stars": 4567,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "emberjs",
+    "angular",
+    "continuous-integration",
+    "web-app",
+    "continuous-deployment"
+   ],
+   "updated": "2024-09-11T11:50:00Z"
+  },
+  {
+   "full": "k1LoW/tbls",
+   "desc": "tbls is a CI-Friendly tool to document a database, written in Go.",
+   "stars": 4372,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "markdown",
+    "bigquery",
+    "continuous-integration",
+    "sqlite",
+    "excel",
+    "dynamodb",
+    "postgresql",
+    "documentation-tool",
+    "snowflake",
+    "plantuml",
+    "mariadb"
+   ],
+   "updated": "2026-10-31T23:06:12Z"
+  },
+  {
+   "full": "cake-build/cake",
+   "desc": "🍰 Cake (C# Make) is a cross platform build automation system.",
+   "stars": 4200,
+   "lang": "C#",
+   "topics": [
+    "c-sharp",
+    "unit-testing",
+    "continuous-integration",
+    "dotnet",
+    "nuget",
+    "dotnetcore",
+    "xunit",
+    "build-automation",
+    "nunit",
+    "orchestration",
+    "build-tool",
+    "cake"
+   ],
+   "updated": "2026-10-30T21:34:32Z"
+  },
+  {
+   "full": "ligurio/awesome-ci",
+   "desc": "The list of continuous integration services and tools",
+   "stars": 4177,
+   "lang": null,
+   "topics": [
+    "devops",
+    "development",
+    "awesome",
+    "continuous-integration",
+    "ci",
+    "comparison",
+    "developer-tools"
+   ],
+   "updated": "2026-10-06T14:59:44Z"
+  },
+  {
+   "full": "xcpretty/xcpretty",
+   "desc": "Flexible and fast xcodebuild formatter",
+   "stars": 4033,
+   "lang": "Ruby",
+   "topics": [
+    "ios",
+    "continuous-integration",
+    "ci"
+   ],
+   "updated": "2025-03-26T19:42:24Z"
+  },
+  {
+   "full": "tox-dev/tox",
+   "desc": "Command line driven CI frontend and development task automation tool.",
+   "stars": 3979,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "testing",
+    "cli",
+    "automation",
+    "continuous-integration",
+    "actions",
+    "virtualenv",
+    "venv"
+   ],
+   "updated": "2026-11-02T19:31:47Z"
+  },
+  {
+   "full": "hygieia/hygieia",
+   "desc": "CapitalOne DevOps Dashboard",
+   "stars": 3805,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "devops",
+    "dashboard",
+    "continuous-integration",
+    "continuous-delivery",
+    "continuous-deployment",
+    "hygieia",
+    "delivery-pipeline"
+   ],
+   "updated": "2023-09-29T20:43:13Z"
+  },
+  {
+   "full": "nuke-build/nuke",
+   "desc": "🏗 The AKEless Build System for C#/.NET",
+   "stars": 3751,
+   "lang": "C#",
+   "topics": [
+    "continuous-integration",
+    "build-automation",
+    "nuke",
+    "orchestration"
+   ],
+   "updated": "2025-12-02T09:17:37Z"
+  },
+  {
+   "full": "MewX/light-novel-library_Wenku8_Android",
+   "desc": "[CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。",
+   "stars": 3338,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "java",
+    "material-design",
+    "gradle",
+    "continuous-integration",
+    "volley",
+    "reader",
+    "free",
+    "light-novel",
+    "android-studio",
+    "umeng",
+    "2014-now"
+   ],
+   "updated": "2026-10-24T10:09:12Z"
+  },
+  {
+   "full": "shivammathur/setup-php",
+   "desc": "GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.",
+   "stars": 3269,
+   "lang": "TypeScript",
+   "topics": [
+    "php",
+    "composer",
+    "tools",
+    "continuous-integration",
+    "static-analysis",
+    "code-coverage",
+    "php-extensions",
+    "github-actions"
+   ],
+   "updated": "2026-11-02T16:58:08Z"
+  },
+  {
+   "full": "dancryer/PHPCI",
+   "desc": "PHPCI is a free and open source continuous integration tool specifically designed for PHP.",
+   "stars": 2383,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "continuous-integration",
+    "looking-for-contributors",
+    "phpci"
+   ],
+   "updated": "2020-06-11T11:45:13Z"
+  },
+  {
+   "full": "kuberhealthy/kuberhealthy",
+   "desc": "A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!",
+   "stars": 2277,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "monitoring",
+    "continuous-integration",
+    "continuous-delivery",
+    "health",
+    "operator",
+    "continuous-testing",
+    "cicd",
+    "synthetic"
+   ],
+   "updated": "2026-11-01T03:01:12Z"
+  },
+  {
+   "full": "dreamans/syncd",
+   "desc": "syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.",
+   "stars": 2228,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "devops",
+    "automation",
+    "continuous-integration",
+    "continuous-delivery",
+    "continuous-deployment",
+    "devops-workflow",
+    "syncd"
+   ],
+   "updated": "2023-07-16T02:24:00Z"
+  },
+  {
+   "full": "filipdutescu/modern-cpp-template",
+   "desc": "A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.",
+   "stars": 1926,
+   "lang": "CMake",
+   "topics": [
+    "open-source",
+    "template",
+    "package-manager",
+    "cmake",
+    "cpp",
+    "continuous-integration",
+    "ci",
+    "static-analysis",
+    "project-template",
+    "gtest",
+    "cmakelists",
+    "codecov"
+   ],
+   "updated": "2025-12-26T19:28:02Z"
+  },
+  {
+   "full": "stepci/stepci",
+   "desc": "Automated API Testing and Quality Assurance",
+   "stars": 1873,
+   "lang": "TypeScript",
+   "topics": [
+    "graphql",
+    "qa",
+    "continuous-integration",
+    "ci",
+    "soap",
+    "integration-testing",
+    "swagger",
+    "actions",
+    "load-testing",
+    "grpc",
+    "api-client",
+    "test-automation"
+   ],
+   "updated": "2024-08-03T09:44:52Z"
+  },
+  {
+   "full": "lastbackend/lastbackend",
+   "desc": "System for containerized apps management. From build to scaling.",
+   "stars": 1658,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "docker",
+    "kubernetes",
+    "golang",
+    "devops",
+    "cloud",
+    "backend",
+    "pipeline",
+    "continuous-integration",
+    "continuous-delivery",
+    "ci",
+    "cd"
+   ],
+   "updated": "2023-07-19T04:05:45Z"
+  },
+  {
+   "full": "stepchowfun/toast",
+   "desc": "Containerize your development and continuous integration environments. 🥂",
+   "stars": 1636,
+   "lang": "Rust",
+   "topics": [
+    "docker",
+    "continuous-integration",
+    "ci",
+    "containers",
+    "build-tool",
+    "build-system",
+    "development-environment",
+    "dev-environment"
+   ],
+   "updated": "2026-11-01T01:39:18Z"
+  },
+  {
+   "full": "semaphoreio/semaphore",
+   "desc": "All-in-one delivery platform for AI-driven development.",
+   "stars": 1631,
+   "lang": "Elixir",
+   "topics": [
+    "golang",
+    "elixir",
+    "continuous-integration",
+    "continuous-delivery",
+    "ci",
+    "cd",
+    "build-pipelines"
+   ],
+   "updated": "2026-11-02T16:18:35Z"
+  }
+ ]
+}

@@ -1,0 +1,1347 @@
+{
+ "subId": "graficos-3d",
+ "topics": [
+  "webgl",
+  "threejs"
+ ],
+ "crawledAt": "2026-11-02T20:20:28.140Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "mrdoob/three.js",
+   "desc": "JavaScript 3D Library.",
+   "stars": 117440,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "svg",
+    "webgl",
+    "html5",
+    "canvas",
+    "augmented-reality",
+    "webaudio",
+    "virtual-reality",
+    "webgl2",
+    "3d",
+    "webgpu",
+    "webxr"
+   ],
+   "updated": "2026-11-02T16:23:21Z"
+  },
+  {
+   "full": "bilawalsidhu/gods-eye-view",
+   "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+   "stars": 62270,
+   "lang": "JavaScript",
+   "topics": [
+    "webgl",
+    "osint",
+    "geospatial",
+    "gis",
+    "cesium",
+    "photogrammetry",
+    "geospatial-intelligence",
+    "3d-globe",
+    "worldview",
+    "satellite-tracking",
+    "flight-tracking",
+    "spatial-intelligence"
+   ],
+   "updated": "2026-11-02T19:12:41Z"
+  },
+  {
+   "full": "pixijs/pixijs",
+   "desc": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+   "stars": 48618,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "game",
+    "webgl",
+    "canvas",
+    "rendering",
+    "glsl",
+    "data-visualization",
+    "renderer",
+    "pixijs",
+    "pixi",
+    "canvas2d",
+    "rendering-engine"
+   ],
+   "updated": "2026-10-30T22:31:56Z"
+  },
+  {
+   "full": "phaserjs/phaser",
+   "desc": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+   "stars": 40633,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "gamedev",
+    "webgl",
+    "canvas",
+    "phaser",
+    "game-development",
+    "phaserjs",
+    "html5-game-development",
+    "game-frameworks",
+    "facebook-instant-games",
+    "phaser-development",
+    "discord-activities"
+   ],
+   "updated": "2026-08-21T06:56:13Z"
+  },
+  {
+   "full": "BabylonJS/Babylon.js",
+   "desc": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+   "stars": 26282,
+   "lang": "TypeScript",
+   "topics": [
+    "webgl",
+    "typescript",
+    "game-engine",
+    "webvr",
+    "game-development",
+    "webaudio",
+    "babylon",
+    "webgl2",
+    "game-engine-3d",
+    "3d",
+    "webgpu",
+    "webxr"
+   ],
+   "updated": "2026-11-02T20:10:04Z"
+  },
+  {
+   "full": "xtermjs/xterm.js",
+   "desc": "A terminal for the web",
+   "stars": 21318,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "console",
+    "ssh",
+    "webgl",
+    "development",
+    "typescript",
+    "terminal",
+    "tty",
+    "pty",
+    "xterm",
+    "terminal-emulators",
+    "vt100"
+   ],
+   "updated": "2026-10-29T20:34:16Z"
+  },
+  {
+   "full": "google/filament",
+   "desc": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+   "stars": 20683,
+   "lang": "C++",
+   "topics": [
+    "android",
+    "webgl",
+    "real-time",
+    "opengl",
+    "metal",
+    "graphics",
+    "vulkan",
+    "wasm",
+    "opengl-es",
+    "pbr",
+    "gltf",
+    "3d-graphics"
+   ],
+   "updated": "2026-11-02T19:59:31Z"
+  },
+  {
+   "full": "img2threejs/img2threejs",
+   "desc": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+   "stars": 20109,
+   "lang": "Python",
+   "topics": [
+    "webgl",
+    "threejs",
+    "typescript",
+    "procedural-generation",
+    "computer-graphics",
+    "generative",
+    "3d",
+    "ai-agents",
+    "image-to-3d",
+    "claude-code"
+   ],
+   "updated": "2026-10-28T03:15:04Z"
+  },
+  {
+   "full": "lettier/3d-game-shaders-for-beginners",
+   "desc": "🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",
+   "stars": 20008,
+   "lang": "C++",
+   "topics": [
+    "gamedev",
+    "webgl",
+    "opengl",
+    "unity",
+    "shaders",
+    "graphics",
+    "vulkan",
+    "game-development",
+    "glsl",
+    "shader",
+    "unity3d",
+    "godot"
+   ],
+   "updated": "2023-06-25T21:58:57Z"
+  },
+  {
+   "full": "tensorflow/tfjs",
+   "desc": "A WebGL accelerated JavaScript library for training and deploying ML models.",
+   "stars": 19158,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "webgl",
+    "machine-learning",
+    "typescript",
+    "deep-learning",
+    "neural-network",
+    "wasm",
+    "web-assembly",
+    "gpu-acceleration",
+    "deep-neural-network"
+   ],
+   "updated": "2026-06-23T00:04:38Z"
+  },
+  {
+   "full": "plotly/plotly.py",
+   "desc": "The interactive graphing library for Python ✨",
+   "stars": 18873,
+   "lang": "Python",
+   "topics": [
+    "visualization",
+    "d3",
+    "python",
+    "webgl",
+    "dashboard",
+    "interactive",
+    "sparkles",
+    "plotly",
+    "declarative",
+    "jupyter-notebook",
+    "regl",
+    "plotlyjs"
+   ],
+   "updated": "2026-11-01T07:37:22Z"
+  },
+  {
+   "full": "kitao/pyxel",
+   "desc": "A retro game engine for Python",
+   "stars": 18484,
+   "lang": "Rust",
+   "topics": [
+    "game",
+    "python",
+    "html",
+    "rust",
+    "gamedev",
+    "webgl",
+    "opengl",
+    "game-engine",
+    "pixel-art",
+    "graphics",
+    "game-development",
+    "wasm"
+   ],
+   "updated": "2026-10-28T00:03:39Z"
+  },
+  {
+   "full": "plotly/plotly.js",
+   "desc": "Open-source JavaScript charting library behind Plotly and Dash",
+   "stars": 18378,
+   "lang": "JavaScript",
+   "topics": [
+    "visualization",
+    "d3",
+    "charts",
+    "webgl",
+    "charting-library",
+    "plotly",
+    "data-visualization",
+    "regl",
+    "plotly-dash"
+   ],
+   "updated": "2026-10-29T20:03:46Z"
+  },
+  {
+   "full": "aframevr/aframe",
+   "desc": "🅰️ Web framework for building virtual reality experiences.",
+   "stars": 17686,
+   "lang": "JavaScript",
+   "topics": [
+    "html",
+    "gamedev",
+    "webgl",
+    "threejs",
+    "game-engine",
+    "augmented-reality",
+    "vr",
+    "webvr",
+    "virtualreality",
+    "vive",
+    "oculus",
+    "rift"
+   ],
+   "updated": "2026-07-13T15:27:11Z"
+  },
+  {
+   "full": "bkaradzic/bgfx",
+   "desc": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
+   "stars": 17605,
+   "lang": "C++",
+   "topics": [
+    "gamedev",
+    "webgl",
+    "opengl",
+    "metal",
+    "graphics",
+    "engine",
+    "sdl",
+    "rendering",
+    "vulkan",
+    "glfw",
+    "directx",
+    "gles"
+   ],
+   "updated": "2026-11-01T04:02:40Z"
+  },
+  {
+   "full": "playcanvas/engine",
+   "desc": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
+   "stars": 17182,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "gamedev",
+    "webgl",
+    "typescript",
+    "game-engine",
+    "game-development",
+    "virtual-reality",
+    "webgl2",
+    "gltf",
+    "hacktoberfest",
+    "playcanvas"
+   ],
+   "updated": "2026-11-02T18:53:25Z"
+  },
+  {
+   "full": "PavelDoGreat/WebGL-Fluid-Simulation",
+   "desc": "Play with fluids in your browser (works even on mobile)",
+   "stars": 16792,
+   "lang": "JavaScript",
+   "topics": [
+    "webgl",
+    "simulation",
+    "gpu",
+    "fluid",
+    "navier-stokes"
+   ],
+   "updated": "2024-11-12T13:29:23Z"
+  },
+  {
+   "full": "CesiumGS/cesium",
+   "desc": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
+   "stars": 15906,
+   "lang": "JavaScript",
+   "topics": [
+    "webgl",
+    "geospatial",
+    "gis",
+    "cesium",
+    "czml",
+    "gltf",
+    "3d",
+    "3d-globe",
+    "3d-tiles"
+   ],
+   "updated": "2026-11-02T19:02:33Z"
+  },
+  {
+   "full": "terkelg/awesome-creative-coding",
+   "desc": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.",
+   "stars": 15535,
+   "lang": "HTML",
+   "topics": [
+    "art",
+    "design",
+    "webgl",
+    "list",
+    "awesome",
+    "creative-coding",
+    "shaders",
+    "computer-graphics",
+    "resources",
+    "data-visualization",
+    "interaction-design",
+    "information-visualization"
+   ],
+   "updated": "2026-07-21T15:01:30Z"
+  },
+  {
+   "full": "gpujs/gpu.js",
+   "desc": "GPU Accelerated JavaScript",
+   "stars": 15519,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "webgl",
+    "math",
+    "gpu",
+    "glsl",
+    "gpgpu"
+   ],
+   "updated": "2026-10-31T01:05:04Z"
+  },
+  {
+   "full": "visgl/deck.gl",
+   "desc": "WebGL2 powered visualization framework",
+   "stars": 14728,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "javascript",
+    "python",
+    "webgl",
+    "maps",
+    "data-visualization",
+    "geospatial-analysis"
+   ],
+   "updated": "2026-11-02T16:55:38Z"
+  },
+  {
+   "full": "antvis/G2",
+   "desc": "📊 The concise and progressive visualization grammar.",
+   "stars": 12652,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "svg",
+    "chart",
+    "webgl",
+    "canvas",
+    "animation",
+    "graphics",
+    "grammar",
+    "interaction",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-28T15:19:33Z"
+  },
+  {
+   "full": "mapbox/mapbox-gl-js",
+   "desc": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+   "stars": 12460,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "webgl",
+    "maps",
+    "priority",
+    "3d"
+   ],
+   "updated": "2026-11-02T15:21:26Z"
+  },
+  {
+   "full": "jacomyal/sigma.js",
+   "desc": "A JavaScript library aimed at visualizing graphs of thousands of nodes and edges",
+   "stars": 12215,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "webgl",
+    "graph",
+    "graphs",
+    "data-visualization",
+    "graph-drawing",
+    "graph-drawing-framework"
+   ],
+   "updated": "2026-10-27T14:46:04Z"
+  },
+  {
+   "full": "lemomo-ai/lemo-opuscar",
+   "desc": "A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：66 种现成风格，也能做出你自己的",
+   "stars": 11062,
+   "lang": "JavaScript",
+   "topics": [
+    "webgl",
+    "threejs",
+    "text-to-speech",
+    "canvas",
+    "ffmpeg",
+    "creative-coding",
+    "animation",
+    "motion-graphics",
+    "filmmaking",
+    "ai-agents",
+    "claude",
+    "video-production"
+   ],
+   "updated": "2026-10-31T14:53:23Z"
+  },
+  {
+   "full": "playcanvas/supersplat",
+   "desc": "3D Gaussian Splat Editor",
+   "stars": 10563,
+   "lang": "TypeScript",
+   "topics": [
+    "webgl",
+    "typescript",
+    "playcanvas",
+    "webgpu",
+    "pcui",
+    "gaussian-splatting",
+    "3d-gaussian-splatting",
+    "3dgs"
+   ],
+   "updated": "2026-10-31T22:22:37Z"
+  },
+  {
+   "full": "cocos/cocos-engine",
+   "desc": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+   "stars": 9902,
+   "lang": "C++",
+   "topics": [
+    "open-source",
+    "gamedev",
+    "webgl",
+    "metal",
+    "game-engine",
+    "engine",
+    "vulkan",
+    "game-development",
+    "mit-license",
+    "webgl2",
+    "3d",
+    "webgpu"
+   ],
+   "updated": "2026-10-28T07:24:48Z"
+  },
+  {
+   "full": "jonobr1/two.js",
+   "desc": "A renderer agnostic two-dimensional drawing api for the web",
+   "stars": 8697,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "svg",
+    "webgl",
+    "html5",
+    "canvas",
+    "es6",
+    "animation",
+    "renderer",
+    "vector-graphics",
+    "rendering-engine",
+    "scenegraph",
+    "2d"
+   ],
+   "updated": "2026-10-31T08:32:37Z"
+  },
+  {
+   "full": "visgl/react-map-gl",
+   "desc": "React friendly API wrapper around MapboxGL JS",
+   "stars": 8514,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "map",
+    "webgl",
+    "uber",
+    "mapbox-gl",
+    "mapbox-gl-js",
+    "data-visualization"
+   ],
+   "updated": "2026-10-24T00:58:37Z"
+  },
+  {
+   "full": "tensorflow/tfjs-core",
+   "desc": "WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.",
+   "stars": 8424,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "webgl",
+    "machine-learning",
+    "typescript",
+    "deep-neural-networks",
+    "deep-learning",
+    "neural-network",
+    "gpu-acceleration"
+   ],
+   "updated": "2019-08-14T01:44:14Z"
+  },
+  {
+   "full": "MengTo/threeui",
+   "desc": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+   "stars": 7037,
+   "lang": "HTML",
+   "topics": [
+    "react",
+    "webgl",
+    "threejs",
+    "shaders",
+    "ui-components"
+   ],
+   "updated": "2026-09-03T05:36:26Z"
+  },
+  {
+   "full": "jlfwong/speedscope",
+   "desc": "🔬 A fast, interactive web-based viewer for performance profiles.",
+   "stars": 6780,
+   "lang": "TypeScript",
+   "topics": [
+    "profile",
+    "webgl",
+    "flamegraph",
+    "performance-visualization",
+    "performance-profiling",
+    "flamegraphs",
+    "performance-tools",
+    "speedscope"
+   ],
+   "updated": "2026-05-15T15:39:25Z"
+  },
+  {
+   "full": "vasturiano/3d-force-graph",
+   "desc": "3D force-directed graph component using ThreeJS/WebGL",
+   "stars": 6523,
+   "lang": "HTML",
+   "topics": [
+    "webgl",
+    "threejs",
+    "data-visualization",
+    "d3js",
+    "3d",
+    "force-directed-graphs",
+    "3d-force-graph"
+   ],
+   "updated": "2026-09-29T22:40:12Z"
+  },
+  {
+   "full": "melonjs/melonJS",
+   "desc": "A modern & fully featured HTML5 game engine (2D & 3D) for JavaScript/TypeScript, with WebGL/WebGPU rendering, built-in physics, Tiled map & glTF support and WebAudio.",
+   "stars": 6435,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "gamedev",
+    "webgl",
+    "typescript",
+    "html5",
+    "canvas",
+    "game-engine",
+    "game-development",
+    "physics-engine",
+    "webaudio",
+    "game-framework",
+    "gltf"
+   ],
+   "updated": "2026-11-02T10:18:43Z"
+  },
+  {
+   "full": "shuding/cobe",
+   "desc": "5KB WebGL globe lib.",
+   "stars": 6031,
+   "lang": "TypeScript",
+   "topics": [
+    "webgl",
+    "globe"
+   ],
+   "updated": "2026-09-22T07:38:35Z"
+  },
+  {
+   "full": "hiloteam/Hilo",
+   "desc": "A Cross-end HTML5 Game development solution",
+   "stars": 5938,
+   "lang": "JavaScript",
+   "topics": [
+    "game",
+    "webgl",
+    "canvas",
+    "hilo"
+   ],
+   "updated": "2025-10-20T03:25:49Z"
+  },
+  {
+   "full": "galacean/engine",
+   "desc": "A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.",
+   "stars": 5916,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "webgl",
+    "typescript",
+    "html5",
+    "input",
+    "animation",
+    "graphics",
+    "physics",
+    "webgl2",
+    "3d",
+    "2d",
+    "web3d"
+   ],
+   "updated": "2026-11-02T15:03:22Z"
+  },
+  {
+   "full": "regl-project/regl",
+   "desc": "👑 Functional WebGL",
+   "stars": 5590,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "webgl",
+    "regl"
+   ],
+   "updated": "2026-10-17T02:38:06Z"
+  },
+  {
+   "full": "spritejs/spritejs",
+   "desc": "A cross platform high-performance graphics system.",
+   "stars": 5390,
+   "lang": "JavaScript",
+   "topics": [
+    "webgl",
+    "canvas",
+    "rendering",
+    "webgl2",
+    "3d",
+    "2d"
+   ],
+   "updated": "2024-06-09T14:25:58Z"
+  },
+  {
+   "full": "patriciogonzalezvivo/glslViewer",
+   "desc": "Console-based GLSL Sandbox for 2D/3D shaders",
+   "stars": 5353,
+   "lang": "C++",
+   "topics": [
+    "c",
+    "linux",
+    "console",
+    "raspberry-pi",
+    "c-plus-plus",
+    "webgl",
+    "osx",
+    "shaders",
+    "geometry",
+    "graphics",
+    "raspberrypi",
+    "glfw"
+   ],
+   "updated": "2026-11-02T15:30:28Z"
+  },
+  {
+   "full": "pmndrs/react-three-fiber",
+   "desc": "🇨🇭 A React renderer for Three.js",
+   "stars": 33429,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "threejs",
+    "animation",
+    "renderer",
+    "fiber",
+    "3d"
+   ],
+   "updated": "2026-10-21T15:24:39Z"
+  },
+  {
+   "full": "pascalorg/editor",
+   "desc": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+   "stars": 25282,
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "threejs",
+    "typescript",
+    "mcp",
+    "nextjs",
+    "architecture",
+    "cad",
+    "bim",
+    "3d",
+    "ai-agents",
+    "floorplan",
+    "react-three-fiber"
+   ],
+   "updated": "2026-11-02T16:17:01Z"
+  },
+  {
+   "full": "yihui-dev/awesome-opus5-5-videos",
+   "desc": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+   "stars": 13210,
+   "lang": null,
+   "topics": [
+    "threejs",
+    "awesome",
+    "creative-coding",
+    "awesome-list",
+    "motion-graphics",
+    "prompts",
+    "claude",
+    "ai-video",
+    "claude-opus"
+   ],
+   "updated": "2026-10-13T14:46:44Z"
+  },
+  {
+   "full": "theatre-js/theatre",
+   "desc": "Motion design editor for the web",
+   "stars": 12846,
+   "lang": "TypeScript",
+   "topics": [
+    "threejs",
+    "animation",
+    "devtools",
+    "generative-art",
+    "motion-design",
+    "r3f"
+   ],
+   "updated": "2024-08-14T13:20:18Z"
+  },
+  {
+   "full": "pmndrs/drei",
+   "desc": "🥉 useful helpers for react-three-fiber",
+   "stars": 10114,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "hooks",
+    "threejs",
+    "helpers",
+    "react-three-fiber"
+   ],
+   "updated": "2026-10-21T09:19:21Z"
+  },
+  {
+   "full": "tengbao/vanta",
+   "desc": "Animated 3D backgrounds for your website",
+   "stars": 7324,
+   "lang": "JavaScript",
+   "topics": [
+    "threejs",
+    "animation",
+    "animations",
+    "background",
+    "three-js",
+    "3d"
+   ],
+   "updated": "2024-03-03T13:48:00Z"
+  },
+  {
+   "full": "adrianhajdin/project_3D_developer_portfolio",
+   "desc": "The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!",
+   "stars": 7133,
+   "lang": "JavaScript",
+   "topics": [
+    "threejs",
+    "reactjs",
+    "3d"
+   ],
+   "updated": "2024-10-29T09:21:29Z"
+  },
+  {
+   "full": "pshenok/server-survival",
+   "desc": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
+   "stars": 6474,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "game",
+    "learning",
+    "open-source",
+    "education",
+    "aws",
+    "devops",
+    "threejs",
+    "cloud",
+    "simulation",
+    "tower-defense"
+   ],
+   "updated": "2026-10-21T04:56:10Z"
+  },
+  {
+   "full": "AR-js-org/AR.js",
+   "desc": "Image tracking, Location Based AR, Marker tracking. All on the Web.",
+   "stars": 5999,
+   "lang": "JavaScript",
+   "topics": [
+    "threejs",
+    "augmented-reality",
+    "ar",
+    "aframe",
+    "hacktoberfest",
+    "webar",
+    "hacktoberfest2020"
+   ],
+   "updated": "2026-06-21T16:09:10Z"
+  },
+  {
+   "full": "srizzon/git-city",
+   "desc": "Your GitHub profile as a 3D pixel art building in an interactive city",
+   "stars": 5968,
+   "lang": "TypeScript",
+   "topics": [
+    "github",
+    "react",
+    "visualization",
+    "threejs",
+    "typescript",
+    "pixel-art",
+    "nextjs",
+    "three-js",
+    "3d",
+    "react-three-fiber",
+    "supabase"
+   ],
+   "updated": "2026-10-26T22:09:24Z"
+  },
+  {
+   "full": "alexlenail/NN-SVG",
+   "desc": "Publication-ready NN-architecture schematics.",
+   "stars": 5694,
+   "lang": "JavaScript",
+   "topics": [
+    "d3",
+    "svg",
+    "drawing",
+    "threejs",
+    "machine-learning",
+    "deep-learning",
+    "neural-network",
+    "diagrams"
+   ],
+   "updated": "2026-06-02T12:07:58Z"
+  },
+  {
+   "full": "DavidHDev/canvas-ui",
+   "desc": "A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.",
+   "stars": 5306,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "components",
+    "threejs",
+    "typescript",
+    "ui",
+    "canvas",
+    "vue",
+    "frontend",
+    "creative-coding",
+    "shaders",
+    "animation",
+    "nextjs"
+   ],
+   "updated": "2026-10-03T14:24:52Z"
+  },
+  {
+   "full": "tensorspace-team/tensorspace",
+   "desc": "Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js",
+   "stars": 5203,
+   "lang": "JavaScript",
+   "topics": [
+    "visualization",
+    "threejs",
+    "machine-learning",
+    "deep-learning",
+    "tensorflow",
+    "keras",
+    "3d",
+    "nerual-network",
+    "tfjs"
+   ],
+   "updated": "2022-12-05T22:21:36Z"
+  },
+  {
+   "full": "xiangechen/chili3d",
+   "desc": "A browser-based 3D CAD for AI-assisted, parametric and direct modeling.",
+   "stars": 4959,
+   "lang": "TypeScript",
+   "topics": [
+    "threejs",
+    "geometry",
+    "webassembly",
+    "wasm",
+    "cad",
+    "3d",
+    "opencascade",
+    "three",
+    "browser-based",
+    "occ",
+    "occt",
+    "webcad"
+   ],
+   "updated": "2026-11-02T01:42:35Z"
+  },
+  {
+   "full": "hepengwei/visualization-collection",
+   "desc": "🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）",
+   "stars": 4596,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "visualization",
+    "javascript",
+    "threejs",
+    "typescript",
+    "collection",
+    "canvas",
+    "frontend",
+    "css3"
+   ],
+   "updated": "2026-10-26T08:34:03Z"
+  },
+  {
+   "full": "moshang-ax/lottery",
+   "desc": "🎉🌟✨🎈年会抽奖程序，基于 Express + Vue + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀",
+   "stars": 4575,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "threejs",
+    "lottery",
+    "luckydraw",
+    "lucky",
+    "prizes",
+    "lucky-wheel"
+   ],
+   "updated": "2026-09-04T08:22:38Z"
+  },
+  {
+   "full": "troisjs/trois",
+   "desc": "✨ ThreeJS + VueJS 3 + ViteJS ⚡",
+   "stars": 4496,
+   "lang": "TypeScript",
+   "topics": [
+    "webgl",
+    "threejs",
+    "vuejs",
+    "three-js",
+    "3d",
+    "vuejs3",
+    "vitejs"
+   ],
+   "updated": "2023-07-18T13:58:34Z"
+  },
+  {
+   "full": "KilledByAPixel/LittleJS",
+   "desc": "Tiny fast 2D/3D HTML5 game engine with many features and no dependencies.",
+   "stars": 4364,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "open-source",
+    "gamedev",
+    "threejs",
+    "typescript",
+    "game-engine",
+    "game-development",
+    "js13k",
+    "box2d",
+    "webgl2",
+    "littlejs"
+   ],
+   "updated": "2026-11-02T06:18:00Z"
+  },
+  {
+   "full": "Tresjs/tres",
+   "desc": "Declarative ThreeJS using Vue Components",
+   "stars": 3776,
+   "lang": "Vue",
+   "topics": [
+    "webgl",
+    "threejs",
+    "vue",
+    "declarative",
+    "composable",
+    "custom-renderer",
+    "vite"
+   ],
+   "updated": "2026-10-30T08:24:49Z"
+  },
+  {
+   "full": "kovacsv/Online3DViewer",
+   "desc": "A solution to visualize and explore 3D models in your browser.",
+   "stars": 3756,
+   "lang": "JavaScript",
+   "topics": [
+    "export",
+    "webgl",
+    "threejs",
+    "viewer",
+    "convert",
+    "import",
+    "3d",
+    "3dviewer"
+   ],
+   "updated": "2026-06-24T14:54:51Z"
+  },
+  {
+   "full": "HamishMW/portfolio",
+   "desc": "My personal portfolio website built using React and three js",
+   "stars": 3567,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "portfolio",
+    "threejs",
+    "developer",
+    "designer",
+    "remix",
+    "cyberpunk",
+    "framer-motion"
+   ],
+   "updated": "2024-11-16T02:46:21Z"
+  },
+  {
+   "full": "gkjohnson/three-mesh-bvh",
+   "desc": "A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.",
+   "stars": 3549,
+   "lang": "JavaScript",
+   "topics": [
+    "threejs",
+    "tree",
+    "performance",
+    "acceleration",
+    "geometry",
+    "graphics",
+    "distance",
+    "webvr",
+    "point-cloud",
+    "raycast",
+    "mesh",
+    "intersection"
+   ],
+   "updated": "2026-10-28T08:03:34Z"
+  },
+  {
+   "full": "LOG1997/log-lottery",
+   "desc": "🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。",
+   "stars": 3410,
+   "lang": "TypeScript",
+   "topics": [
+    "threejs",
+    "lottery",
+    "raffle",
+    "3d",
+    "lucky",
+    "vue3",
+    "prizes",
+    "lucky-draw",
+    "vue3-typescript",
+    "daisyui"
+   ],
+   "updated": "2026-06-04T01:31:54Z"
+  },
+  {
+   "full": "nidorx/matcaps",
+   "desc": "Huge library of matcap PNG textures organized by color",
+   "stars": 3392,
+   "lang": "JavaScript",
+   "topics": [
+    "webgl",
+    "threejs",
+    "opengl",
+    "texture",
+    "unity-3d",
+    "lighting",
+    "blender-3d",
+    "shading",
+    "zbrush",
+    "matcap",
+    "litsphere",
+    "envmap"
+   ],
+   "updated": "2025-10-13T20:11:43Z"
+  },
+  {
+   "full": "threlte/threlte",
+   "desc": "3D framework for Svelte",
+   "stars": 3356,
+   "lang": "Svelte",
+   "topics": [
+    "threejs",
+    "svelte",
+    "rapier",
+    "hacktoberfest",
+    "3d",
+    "theatrejs"
+   ],
+   "updated": "2026-11-02T19:00:54Z"
+  },
+  {
+   "full": "pmndrs/uikit",
+   "desc": "🎨 user interfaces for react-three-fiber",
+   "stars": 3258,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "threejs",
+    "typescript",
+    "uikit",
+    "flexbox",
+    "yoga",
+    "userinterface",
+    "r3f"
+   ],
+   "updated": "2026-10-27T21:38:18Z"
+  },
+  {
+   "full": "vasturiano/globe.gl",
+   "desc": "UI component for Globe Data Visualization using ThreeJS/WebGL",
+   "stars": 3219,
+   "lang": "HTML",
+   "topics": [
+    "webgl",
+    "threejs",
+    "globe",
+    "data-visualization"
+   ],
+   "updated": "2026-08-22T20:36:21Z"
+  },
+  {
+   "full": "ruucm/shadergradient",
+   "desc": "Create beautiful moving gradients on Framer, Figma and React",
+   "stars": 3046,
+   "lang": "TypeScript",
+   "topics": [
+    "threejs",
+    "reactjs",
+    "gradient",
+    "glsl-shaders",
+    "framer",
+    "figma-plugin"
+   ],
+   "updated": "2026-09-23T03:52:26Z"
+  },
+  {
+   "full": "jeeliz/jeelizFaceFilter",
+   "desc": "🎭 Lightweight WebGL & JavaScript library for real-time multi-face detection, tracking and augmented-reality face filters. Supports rotation, mouth-opening and integrates with Three.js, Babylon.js, Canvas2D and CSS3D",
+   "stars": 2954,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "lightweight",
+    "tracking",
+    "webgl",
+    "threejs",
+    "snapchat",
+    "deep-learning",
+    "camera",
+    "augmented-reality",
+    "detection",
+    "faceswap",
+    "face"
+   ],
+   "updated": "2025-11-14T13:50:59Z"
+  },
+  {
+   "full": "mkkellogg/GaussianSplats3D",
+   "desc": "Three.js-based implementation of 3D Gaussian splatting",
+   "stars": 2938,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "webgl",
+    "threejs",
+    "three-js",
+    "gaussian-splatting",
+    "3d-gaussian-splatting"
+   ],
+   "updated": "2025-10-19T22:58:20Z"
+  },
+  {
+   "full": "dragonir/3d",
+   "desc": "Three.js 3D项目，包含冰墩墩🐼、数字城市🏙、3D人像👤、车模展示🚗、塞尔达传说🗡等一些3D趣味演示页面，持续优化中...访问链接如下👇",
+   "stars": 2909,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "css",
+    "svg",
+    "html",
+    "webgl",
+    "threejs",
+    "canvas",
+    "reactjs",
+    "3d"
+   ],
+   "updated": "2022-11-15T11:48:33Z"
+  },
+  {
+   "full": "pmndrs/react-three-next",
+   "desc": "React Three Fiber, Threejs, Nextjs starter",
+   "stars": 2883,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "webgl",
+    "threejs",
+    "starter",
+    "tailwind",
+    "react-three-fiber"
+   ],
+   "updated": "2024-06-21T00:17:05Z"
+  },
+  {
+   "full": "BlueMap-Minecraft/BlueMap",
+   "desc": "A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.",
+   "stars": 2857,
+   "lang": "Java",
+   "topics": [
+    "minecraft",
+    "webgl",
+    "threejs",
+    "minecraft-mod",
+    "minecraft-plugin",
+    "bluemap"
+   ],
+   "updated": "2026-11-02T10:09:58Z"
+  },
+  {
+   "full": "hiukim/mind-ar-js",
+   "desc": "Web Augmented Reality. Image Tracking, Face Tracking. Tensorflow.js",
+   "stars": 2752,
+   "lang": "JavaScript",
+   "topics": [
+    "threejs",
+    "augmented-reality",
+    "aframe",
+    "webar",
+    "tensorflowjs",
+    "mediapipe"
+   ],
+   "updated": "2024-06-11T13:03:11Z"
+  },
+  {
+   "full": "riffusion/riffusion-app-hobby",
+   "desc": "Stable diffusion for real-time music generation (web app)",
+   "stars": 2672,
+   "lang": "TypeScript",
+   "topics": [
+    "audio",
+    "music",
+    "threejs",
+    "ai",
+    "nextjs",
+    "diffusion",
+    "stable-diffusion"
+   ],
+   "updated": "2024-07-22T18:01:37Z"
+  }
+ ]
+}

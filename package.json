@@ -1,0 +1,15 @@
+{
+  "name": "devpedia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Enciclopedia funcional de proyectos de GitHub",
+  "type": "module",
+  "scripts": {
+    "receiver": "node scripts/receiver.mjs",
+    "build": "node scripts/build.mjs",
+    "update:api": "node scripts/update-api.mjs && node scripts/build.mjs",
+    "test": "node --test",
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

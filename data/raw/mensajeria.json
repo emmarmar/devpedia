@@ -1,0 +1,1406 @@
+{
+ "subId": "mensajeria",
+ "topics": [
+  "message-queue",
+  "event-driven"
+ ],
+ "crawledAt": "2026-11-02T20:17:50.226Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "doocs/advanced-java",
+   "desc": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+   "stars": 79172,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "redis",
+    "elasticsearch",
+    "distributed-systems",
+    "spring-cloud",
+    "zookeeper",
+    "rpc",
+    "message-queue",
+    "high-availability",
+    "hystrix",
+    "ribbon",
+    "eureka"
+   ],
+   "updated": "2026-10-19T07:37:04Z"
+  },
+  {
+   "full": "redis/redis",
+   "desc": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+   "stars": 77149,
+   "lang": "C",
+   "topics": [
+    "redis",
+    "open-source",
+    "caching",
+    "distributed-systems",
+    "json",
+    "real-time",
+    "database",
+    "time-series",
+    "nosql",
+    "key-value",
+    "cache",
+    "realtime"
+   ],
+   "updated": "2026-11-02T13:50:49Z"
+  },
+  {
+   "full": "nsqio/nsq",
+   "desc": "A realtime distributed messaging platform",
+   "stars": 25773,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "distributed-systems",
+    "queue",
+    "messaging",
+    "message-queue",
+    "nsq"
+   ],
+   "updated": "2026-08-11T18:19:49Z"
+  },
+  {
+   "full": "nats-io/nats-server",
+   "desc": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+   "stars": 20989,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "distributed-systems",
+    "cloud",
+    "messaging",
+    "message-bus",
+    "edge",
+    "message-queue",
+    "cloud-computing",
+    "cloud-native",
+    "microservices-architecture",
+    "nats-server"
+   ],
+   "updated": "2026-11-02T17:46:53Z"
+  },
+  {
+   "full": "emqx/emqx",
+   "desc": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+   "stars": 16876,
+   "lang": "Erlang",
+   "topics": [
+    "mqtt",
+    "iot",
+    "coap",
+    "m2m",
+    "erlang",
+    "messaging",
+    "pubsub",
+    "message-queue",
+    "mqtt-broker",
+    "iot-middleware",
+    "broker",
+    "manufacturing"
+   ],
+   "updated": "2026-11-02T17:33:55Z"
+  },
+  {
+   "full": "OptimalBits/bull",
+   "desc": "Premium Queue package for handling distributed jobs and messages in NodeJS.",
+   "stars": 16262,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "queue",
+    "job",
+    "scheduler",
+    "priority",
+    "message",
+    "message-queue",
+    "job-queue",
+    "rate-limiter"
+   ],
+   "updated": "2026-10-17T10:17:16Z"
+  },
+  {
+   "full": "redpanda-data/connect",
+   "desc": "Fancy stream processing made operationally mundane",
+   "stars": 8792,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "kafka",
+    "cqrs",
+    "etl",
+    "rabbitmq",
+    "amqp",
+    "logs",
+    "message-bus",
+    "event-sourcing",
+    "nats",
+    "stream-processing"
+   ],
+   "updated": "2026-11-02T20:16:12Z"
+  },
+  {
+   "full": "pgmq/pgmq",
+   "desc": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
+   "stars": 5370,
+   "lang": "PLpgSQL",
+   "topics": [
+    "message-queue"
+   ],
+   "updated": "2026-10-20T00:31:11Z"
+  },
+  {
+   "full": "goldbergyoni/nodejs-testing-best-practices",
+   "desc": "Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)",
+   "stars": 4402,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "testing",
+    "express",
+    "microservices",
+    "database",
+    "rest",
+    "mocha",
+    "backend",
+    "jest",
+    "best-practices",
+    "integration-testing"
+   ],
+   "updated": "2026-09-24T07:02:09Z"
+  },
+  {
+   "full": "vernemq/vernemq",
+   "desc": "A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mission is active & the project maintained. Thank you for your support!",
+   "stars": 3645,
+   "lang": "Erlang",
+   "topics": [
+    "mqtt",
+    "iot",
+    "m2m",
+    "erlang",
+    "scalable",
+    "messaging",
+    "pubsub",
+    "distributed",
+    "message-queue",
+    "iot-middleware",
+    "broker",
+    "manufacturing"
+   ],
+   "updated": "2026-10-29T15:24:41Z"
+  },
+  {
+   "full": "svix/svix-webhooks",
+   "desc": "The open source and enterprise-ready webhooks service 🦀",
+   "stars": 3473,
+   "lang": "Rust",
+   "topics": [
+    "api",
+    "rust",
+    "redis",
+    "webhooks",
+    "kafka",
+    "stream",
+    "queue",
+    "rabbitmq",
+    "webhook",
+    "background-jobs",
+    "pubsub",
+    "message-queue"
+   ],
+   "updated": "2026-11-02T19:09:57Z"
+  },
+  {
+   "full": "superstreamlabs/memphis",
+   "desc": "Memphis.dev is a highly scalable and effortless data streaming platform",
+   "stars": 3443,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "golang",
+    "data",
+    "enrichment",
+    "microservices",
+    "schema-registry",
+    "message-bus",
+    "message-queue",
+    "data-engineering",
+    "data-pipeline",
+    "message-broker",
+    "data-streaming"
+   ],
+   "updated": "2026-03-02T09:06:21Z"
+  },
+  {
+   "full": "bloomberg/blazingmq",
+   "desc": "A modern high-performance open source message queuing system",
+   "stars": 3220,
+   "lang": "C++",
+   "topics": [
+    "middleware",
+    "distributed-systems",
+    "queue",
+    "messaging",
+    "message-queue",
+    "queues",
+    "blazingmq"
+   ],
+   "updated": "2026-10-30T17:26:47Z"
+  },
+  {
+   "full": "celery/kombu",
+   "desc": "Messaging library for Python.",
+   "stars": 3152,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "redis",
+    "rabbitmq",
+    "messaging",
+    "python-library",
+    "sqs",
+    "python3",
+    "message-queue",
+    "celery",
+    "python-3",
+    "kombu"
+   ],
+   "updated": "2026-11-02T17:09:14Z"
+  },
+  {
+   "full": "qunarcorp/qmq",
+   "desc": "QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。",
+   "stars": 2820,
+   "lang": "Java",
+   "topics": [
+    "kafka",
+    "rabbitmq",
+    "message-bus",
+    "event",
+    "message",
+    "consumer",
+    "message-queue",
+    "event-driven",
+    "event-bus",
+    "distributed-transactions",
+    "producer",
+    "xa"
+   ],
+   "updated": "2023-12-01T02:13:10Z"
+  },
+  {
+   "full": "liftbridge-io/liftbridge",
+   "desc": "Kafka-style message streaming in Go. Built on NATS. Single binary, no JVM, no ZooKeeper.",
+   "stars": 2804,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "distributed-systems",
+    "streaming",
+    "messaging",
+    "grpc",
+    "pubsub",
+    "nats",
+    "message-queue",
+    "cloud-native",
+    "liftbridge"
+   ],
+   "updated": "2026-10-13T13:10:48Z"
+  },
+  {
+   "full": "rebus-org/Rebus",
+   "desc": "🚌 Simple and lean service bus implementation for .NET",
+   "stars": 2675,
+   "lang": "C#",
+   "topics": [
+    "c-sharp",
+    "microservices",
+    "messaging",
+    "service-bus",
+    "message-bus",
+    "message-queue",
+    "messaging-library",
+    "rebus"
+   ],
+   "updated": "2026-09-29T06:36:57Z"
+  },
+  {
+   "full": "poundifdef/smoothmq",
+   "desc": "An improved drop-in replacement for SQS",
+   "stars": 2289,
+   "lang": "Go",
+   "topics": [
+    "queue",
+    "messaging",
+    "sqs",
+    "message-queue"
+   ],
+   "updated": "2025-02-18T13:29:50Z"
+  },
+  {
+   "full": "php-enqueue/enqueue-dev",
+   "desc": "Message Queue, Job Queue, Broadcasting, WebSockets packages for PHP, Symfony, Laravel, Magento. DEVELOPMENT REPOSITORY - provided by Forma-Pro",
+   "stars": 2221,
+   "lang": "PHP",
+   "topics": [
+    "redis",
+    "symfony",
+    "kafka",
+    "rabbitmq",
+    "amqp",
+    "beanstalkd",
+    "message-bus",
+    "sns",
+    "message-queue",
+    "gearman",
+    "stomp",
+    "job-queue"
+   ],
+   "updated": "2026-08-30T16:09:58Z"
+  },
+  {
+   "full": "streamdal/plumber",
+   "desc": "A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems.",
+   "stars": 2154,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "kafka",
+    "protobuf",
+    "rabbitmq",
+    "message-bus",
+    "message-queue",
+    "event-driven",
+    "event-bus",
+    "hacktoberfest"
+   ],
+   "updated": "2025-07-16T23:04:58Z"
+  },
+  {
+   "full": "bbc/sqs-consumer",
+   "desc": "Build Amazon Simple Queue Service (SQS) based applications without the boilerplate",
+   "stars": 1907,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "serverless",
+    "backend",
+    "sqs",
+    "message-queue",
+    "aws-sqs",
+    "queue-consumer",
+    "ignorearchive"
+   ],
+   "updated": "2026-10-19T01:33:33Z"
+  },
+  {
+   "full": "robustmq/robustmq",
+   "desc": "Communication infrastructure for the AI era — one binary, one broker, one storage layer, any protocol",
+   "stars": 1849,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "mqtt",
+    "middleware",
+    "data",
+    "streaming",
+    "kafka",
+    "ai",
+    "queue",
+    "serverless",
+    "storage",
+    "amqp",
+    "message"
+   ],
+   "updated": "2026-11-02T00:25:42Z"
+  },
+  {
+   "full": "smrchy/rsmq",
+   "desc": "Redis Simple Message Queue",
+   "stars": 1825,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "redis",
+    "npm",
+    "queue",
+    "message-queue",
+    "fifo",
+    "rsmq"
+   ],
+   "updated": "2026-07-29T17:03:30Z"
+  },
+  {
+   "full": "vanus-labs/vanus",
+   "desc": "Vanus is a Serverless, event streaming system with processing capabilities. It easily connects SaaS, Cloud Services, and Databases to help users build next-gen Event-driven Applications.",
+   "stars": 1698,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "microservices",
+    "kafka",
+    "serverless",
+    "rabbitmq",
+    "sqs",
+    "sns",
+    "eventbus",
+    "message-queue",
+    "event-driven",
+    "cloud-native",
+    "cloudnative"
+   ],
+   "updated": "2024-03-11T12:34:41Z"
+  },
+  {
+   "full": "message-db/message-db",
+   "desc": "Microservice native message and event store for Postgres",
+   "stars": 1653,
+   "lang": "Shell",
+   "topics": [
+    "postgres",
+    "event-stream",
+    "event-sourcing",
+    "message-queue",
+    "event-store",
+    "event-driven",
+    "pub-sub"
+   ],
+   "updated": "2024-04-13T02:28:42Z"
+  },
+  {
+   "full": "wellle/rmq",
+   "desc": "Message queue system written in Go and backed by Redis",
+   "stars": 1617,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "redis",
+    "golang",
+    "message-queue"
+   ],
+   "updated": "2024-12-13T13:54:57Z"
+  },
+  {
+   "full": "PansonPanson/Java-Notes",
+   "desc": "📚 计算机科学基础知识、Java开发、后端/服务端、面试相关 📚 computer-science/Java-development/backend/interview",
+   "stars": 1568,
+   "lang": null,
+   "topics": [
+    "java",
+    "computer-science",
+    "database",
+    "backend",
+    "jvm",
+    "concurrency",
+    "distributed",
+    "message-queue",
+    "operating-system",
+    "computer-network"
+   ],
+   "updated": "2019-04-07T10:49:37Z"
+  },
+  {
+   "full": "sandglass/sandglass",
+   "desc": "Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.",
+   "stars": 1526,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "distributed-systems",
+    "messaging",
+    "distributed",
+    "message-queue",
+    "taskqueue"
+   ],
+   "updated": "2018-08-25T20:11:00Z"
+  },
+  {
+   "full": "apalis-dev/apalis",
+   "desc": "Type-safe, extensible, and high-performance background processing library for Rust",
+   "stars": 1492,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "redis",
+    "postgres",
+    "queue",
+    "sqlite",
+    "job-scheduler",
+    "background-jobs",
+    "message-queue",
+    "broker",
+    "task-scheduler",
+    "background-tasks"
+   ],
+   "updated": "2026-11-02T06:12:32Z"
+  },
+  {
+   "full": "vmihailenco/taskq",
+   "desc": "Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends",
+   "stars": 1344,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "redis",
+    "golang",
+    "queue",
+    "sqs",
+    "message-queue",
+    "task-queue",
+    "ironmq",
+    "taskqueue",
+    "ironmq-backend"
+   ],
+   "updated": "2025-04-28T03:05:23Z"
+  },
+  {
+   "full": "lemunozm/message-io",
+   "desc": "Fast and easy-to-use event-driven network library.",
+   "stars": 1200,
+   "lang": "Rust",
+   "topics": [
+    "events",
+    "tcp",
+    "sockets",
+    "asynchronous",
+    "network",
+    "websocket",
+    "udp",
+    "actor-model",
+    "tcp-server",
+    "message-queue",
+    "transport",
+    "event-driven"
+   ],
+   "updated": "2026-09-17T11:21:14Z"
+  },
+  {
+   "full": "taoensso/carmine",
+   "desc": "Redis client + message queue for Clojure",
+   "stars": 1180,
+   "lang": "Clojure",
+   "topics": [
+    "redis",
+    "clojure",
+    "message-queue",
+    "epl",
+    "taoensso"
+   ],
+   "updated": "2026-10-30T10:06:26Z"
+  },
+  {
+   "full": "rmqtt/rmqtt",
+   "desc": "MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era",
+   "stars": 1049,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "mqtt",
+    "iot",
+    "ecosystem",
+    "messaging",
+    "message-bus",
+    "publisher",
+    "pubsub",
+    "message-queue",
+    "tokio",
+    "iot-middleware",
+    "broker"
+   ],
+   "updated": "2026-10-18T05:10:54Z"
+  },
+  {
+   "full": "cloudamqp/lavinmq",
+   "desc": "Ultra quick message queue and streaming server",
+   "stars": 1032,
+   "lang": "Crystal",
+   "topics": [
+    "mqtt",
+    "streaming",
+    "server",
+    "amqp",
+    "background-jobs",
+    "message-queue",
+    "job-queue",
+    "message-broker",
+    "persistent-logs"
+   ],
+   "updated": "2026-11-02T18:38:06Z"
+  },
+  {
+   "full": "inngest/inngest-js",
+   "desc": "The developer platform for easily building reliable workflows with zero infrastructure for TypeScript & JavaScript",
+   "stars": 1021,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "typescript",
+    "serverless",
+    "job-scheduler",
+    "workers",
+    "message-queue",
+    "event-driven",
+    "background",
+    "job-queue",
+    "queues"
+   ],
+   "updated": "2026-11-02T11:37:09Z"
+  },
+  {
+   "full": "tobymao/saq",
+   "desc": "Simple Async Queues",
+   "stars": 895,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "redis",
+    "queue",
+    "message-queue",
+    "asyncio"
+   ],
+   "updated": "2026-10-29T03:38:03Z"
+  },
+  {
+   "full": "Qihoo360/huststore",
+   "desc": "High-performance Distributed Storage",
+   "stars": 827,
+   "lang": "C",
+   "topics": [
+    "nginx",
+    "redis",
+    "benchmark",
+    "architecture",
+    "message-queue",
+    "distributed-storage",
+    "database-engine"
+   ],
+   "updated": "2018-06-11T08:08:41Z"
+  },
+  {
+   "full": "adyliu/jafka",
+   "desc": "a fast and simple distributed publish-subscribe messaging system (mq)",
+   "stars": 720,
+   "lang": "Java",
+   "topics": [
+    "kafka",
+    "jms",
+    "message-queue",
+    "mq",
+    "jafka-mq"
+   ],
+   "updated": "2026-03-02T01:20:39Z"
+  },
+  {
+   "full": "indeedeng/iwf",
+   "desc": "iWF is a Workflow-As-Code microservice orchestration platform offering an orchestration coding framework and service for building resilient, fault-tolerant, scalable long-running processes",
+   "stars": 663,
+   "lang": "Go",
+   "topics": [
+    "python",
+    "java",
+    "golang",
+    "workflow",
+    "microservice",
+    "timer",
+    "workflow-engine",
+    "persistence",
+    "process",
+    "orchestration",
+    "message-queue",
+    "distributed-transactions"
+   ],
+   "updated": "2026-08-28T20:35:58Z"
+  },
+  {
+   "full": "kubemq-io/kubemq-community",
+   "desc": "KubeMQ is a Kubernetes native message queue broker",
+   "stars": 661,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "kubernetes",
+    "golang",
+    "queue",
+    "rest-api",
+    "grpc",
+    "pubsub",
+    "kubernetes-cluster",
+    "rpc",
+    "message-queue",
+    "sdk-go",
+    "message-broker"
+   ],
+   "updated": "2023-02-18T04:16:19Z"
+  },
+  {
+   "full": "dapr/dapr",
+   "desc": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
+   "stars": 26174,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "distributed-systems",
+    "microservices",
+    "state-management",
+    "microservice",
+    "serverless",
+    "containers",
+    "workflow-engine",
+    "pubsub",
+    "event-driven",
+    "workflows",
+    "sidecar"
+   ],
+   "updated": "2026-11-02T20:09:02Z"
+  },
+  {
+   "full": "redpanda-data/redpanda",
+   "desc": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!",
+   "stars": 12654,
+   "lang": "C++",
+   "topics": [
+    "go",
+    "kubernetes",
+    "streaming",
+    "microservices",
+    "kafka",
+    "cpp",
+    "seastar",
+    "storage-engine",
+    "containers",
+    "realtime",
+    "stream-processing",
+    "event-driven"
+   ],
+   "updated": "2026-10-08T14:10:50Z"
+  },
+  {
+   "full": "walkor/workerman",
+   "desc": "An asynchronous event driven PHP socket framework. Supports HTTP, Websocket, SSL and other custom protocols.",
+   "stars": 11547,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "socket",
+    "tcp",
+    "asynchronous",
+    "high-performance",
+    "websocket",
+    "timer",
+    "socket-server",
+    "wss",
+    "ws",
+    "event-driven"
+   ],
+   "updated": "2026-10-24T09:30:19Z"
+  },
+  {
+   "full": "panjf2000/gnet",
+   "desc": "🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.",
+   "stars": 11260,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "networking",
+    "tcp",
+    "async",
+    "asynchronous",
+    "network",
+    "udp",
+    "io",
+    "event-loop",
+    "reactor",
+    "event-driven"
+   ],
+   "updated": "2026-07-09T13:43:46Z"
+  },
+  {
+   "full": "kedacore/keda",
+   "desc": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+   "stars": 10688,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "serverless",
+    "event-driven",
+    "autoscaling",
+    "hacktoberfest",
+    "keda"
+   ],
+   "updated": "2026-11-02T12:59:52Z"
+  },
+  {
+   "full": "ThreeDotsLabs/watermill",
+   "desc": "Building event-driven applications the easy way in Go.",
+   "stars": 9936,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "events",
+    "reactive",
+    "kafka",
+    "cqrs",
+    "sagas",
+    "rabbitmq",
+    "event-sourcing",
+    "nats",
+    "stream-processing",
+    "event-driven"
+   ],
+   "updated": "2026-10-28T11:49:09Z"
+  },
+  {
+   "full": "apple/swift-nio",
+   "desc": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
+   "stars": 8542,
+   "lang": "Swift",
+   "topics": [
+    "swift",
+    "networking",
+    "high-performance",
+    "event-driven",
+    "swift-server",
+    "non-blocking",
+    "asynchronous-io",
+    "non-blocking-io",
+    "swift5",
+    "swiftnio"
+   ],
+   "updated": "2026-11-02T13:00:49Z"
+  },
+  {
+   "full": "hatchet-dev/hatchet",
+   "desc": "🪓 An orchestration engine for background tasks, AI agents, and durable workflows",
+   "stars": 8214,
+   "lang": "Go",
+   "topics": [
+    "nodejs",
+    "python",
+    "golang",
+    "distributed-systems",
+    "typescript",
+    "queue",
+    "workflow-engine",
+    "concurrency",
+    "distributed",
+    "event-driven",
+    "dag",
+    "fastapi"
+   ],
+   "updated": "2026-11-02T20:14:53Z"
+  },
+  {
+   "full": "muesli/beehive",
+   "desc": "A flexible event/agent & automation system with lots of bees 🐝",
+   "stars": 6489,
+   "lang": "Go",
+   "topics": [
+    "workflow",
+    "automation",
+    "event-driven",
+    "ifttt",
+    "hacktoberfest"
+   ],
+   "updated": "2023-02-25T01:54:22Z"
+  },
+  {
+   "full": "inngest/inngest",
+   "desc": "The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge.",
+   "stars": 6013,
+   "lang": "Go",
+   "topics": [
+    "cli",
+    "serverless",
+    "workflow-engine",
+    "serverless-functions",
+    "event-driven",
+    "workflows",
+    "queues",
+    "event-driven-architecture"
+   ],
+   "updated": "2026-11-02T20:11:47Z"
+  },
+  {
+   "full": "twisted/twisted",
+   "desc": "Event-driven networking engine written in Python.",
+   "stars": 5999,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "dns",
+    "tls",
+    "ssl",
+    "http",
+    "irc",
+    "async",
+    "network",
+    "xmpp",
+    "imap",
+    "async-python",
+    "twisted"
+   ],
+   "updated": "2026-10-31T18:57:38Z"
+  },
+  {
+   "full": "SolaceProducts/solace-agent-mesh",
+   "desc": "Platform for building and running AI agents across the full lifecycle — build, test, deploy, monitor, improve. Hosts your agents, runs their tools, and coordinates them over an event mesh, with sessions, artifacts, auth, evaluators, and obs",
+   "stars": 4922,
+   "lang": "Shell",
+   "topics": [
+    "python",
+    "go",
+    "framework",
+    "mcp",
+    "multi-agent",
+    "event-driven",
+    "workflows",
+    "agents",
+    "harness",
+    "multi-agent-systems",
+    "solace",
+    "ai-agents"
+   ],
+   "updated": "2026-10-23T15:09:08Z"
+  },
+  {
+   "full": "effector/effector",
+   "desc": "Business logic with ease ☄️",
+   "stars": 4852,
+   "lang": "TypeScript",
+   "topics": [
+    "reactive",
+    "state-management",
+    "state",
+    "event-driven",
+    "business-logic",
+    "state-manager",
+    "effector"
+   ],
+   "updated": "2026-10-27T05:36:55Z"
+  },
+  {
+   "full": "ergo-services/ergo",
+   "desc": "An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.",
+   "stars": 4693,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "workflow",
+    "distributed-systems",
+    "framework",
+    "erlang",
+    "elixir",
+    "otp",
+    "actors",
+    "microservice",
+    "workflow-engine",
+    "actor-model"
+   ],
+   "updated": "2026-10-26T17:49:33Z"
+  },
+  {
+   "full": "restatedev/restate",
+   "desc": "Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD.",
+   "stars": 4645,
+   "lang": "Rust",
+   "topics": [
+    "cli",
+    "distributed-systems",
+    "microservices",
+    "serverless",
+    "workflow-engine",
+    "event-driven",
+    "async-await",
+    "durable-execution",
+    "consistent-state",
+    "reliable-communication"
+   ],
+   "updated": "2026-11-02T19:03:59Z"
+  },
+  {
+   "full": "spacecloud-io/space-cloud",
+   "desc": "Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes",
+   "stars": 4003,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "graphql",
+    "kubernetes",
+    "postgres",
+    "firebase",
+    "microservices",
+    "database",
+    "mongodb",
+    "microservice",
+    "serverless",
+    "realtime",
+    "paas"
+   ],
+   "updated": "2024-07-04T10:03:27Z"
+  },
+  {
+   "full": "Atmosphere/atmosphere",
+   "desc": "Portable AI agent runtime for the JVM. One @agent class runs on Spring AI, LangChain4j, Anthropic, or 9 more behind one SPI. Token streaming, tool calls, human approvals, and governance over WebSocket, SSE, gRPC, or WebTransport/HTTP3. Spea",
+   "stars": 3828,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "spring-boot",
+    "mcp",
+    "websocket",
+    "sse",
+    "event-driven",
+    "multiagent",
+    "acp",
+    "ai-agents",
+    "rag",
+    "quarkus",
+    "a2a"
+   ],
+   "updated": "2026-11-02T06:09:09Z"
+  },
+  {
+   "full": "p-org/P",
+   "desc": "The P programming language.",
+   "stars": 3726,
+   "lang": "C#",
+   "topics": [
+    "programming-language",
+    "distributed-systems",
+    "state-machine",
+    "asynchronous",
+    "systematic-testing",
+    "event-driven",
+    "model-checking",
+    "formal-methods",
+    "p",
+    "formal-verification"
+   ],
+   "updated": "2026-09-03T23:02:06Z"
+  },
+  {
+   "full": "aspnetrun/run-aspnetcore-microservices",
+   "desc": "Microservices on .NET platforms used ASP.NET Web API, Docker, RabbitMQ, MassTransit, Grpc, Yarp API Gateway, PostgreSQL, Redis, SQLite, SqlServer, Marten, Entity Framework Core, CQRS, MediatR, DDD, Vertical and Clean Architecture implementa",
+   "stars": 3272,
+   "lang": "C#",
+   "topics": [
+    "docker",
+    "redis",
+    "sql-server",
+    "mongodb",
+    "rabbitmq",
+    "api-gateway",
+    "rest-api",
+    "swagger",
+    "event-sourcing",
+    "eventbus",
+    "clean-architecture",
+    "event-driven"
+   ],
+   "updated": "2026-03-09T14:56:46Z"
+  },
+  {
+   "full": "argoproj/argo-events",
+   "desc": "Event-driven Automation Framework for Kubernetes",
+   "stars": 2710,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "pipelines",
+    "event-driven",
+    "argo",
+    "cloud-native",
+    "workflows",
+    "automation-framework",
+    "triggers",
+    "event-source",
+    "workflow-automation",
+    "cloudevents",
+    "eventing-framework"
+   ],
+   "updated": "2026-10-31T13:01:14Z"
+  },
+  {
+   "full": "barter-rs/barter-rs",
+   "desc": "Open-source Rust framework for building event-driven live-trading & backtesting systems",
+   "stars": 2364,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "trading-bot",
+    "algo-trading",
+    "event-driven",
+    "algotrading",
+    "quant",
+    "trading-platform",
+    "trading-strategies",
+    "hft",
+    "quantitative-finance",
+    "algorithmic-trading",
+    "trading-simulator"
+   ],
+   "updated": "2026-08-24T07:23:22Z"
+  },
+  {
+   "full": "openfaas/faas-netes",
+   "desc": "Serverless Functions For Kubernetes",
+   "stars": 2171,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "kubernetes",
+    "golang",
+    "serverless",
+    "portable",
+    "functions",
+    "agnostic",
+    "faas",
+    "event-driven",
+    "k8s"
+   ],
+   "updated": "2026-10-20T20:13:32Z"
+  },
+  {
+   "full": "microcks/microcks",
+   "desc": "The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation incubating project 🚀",
+   "stars": 2076,
+   "lang": "Java",
+   "topics": [
+    "testing",
+    "mock",
+    "api",
+    "graphql",
+    "kubernetes",
+    "mock-server",
+    "swagger",
+    "cncf",
+    "openapi",
+    "mocking",
+    "event-driven",
+    "api-testing"
+   ],
+   "updated": "2026-11-02T14:50:18Z"
+  },
+  {
+   "full": "asaskevich/EventBus",
+   "desc": "[Go] Lightweight eventbus with async compatibility for Go",
+   "stars": 1982,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "event-driven"
+   ],
+   "updated": "2024-06-19T06:33:20Z"
+  },
+  {
+   "full": "Allenxuxu/gev",
+   "desc": "🚀Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers.",
+   "stars": 1775,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "websocket",
+    "protocol",
+    "gev",
+    "reactor",
+    "event-driven",
+    "kqueue",
+    "epoll",
+    "goroutine",
+    "network-programming",
+    "nonblocking"
+   ],
+   "updated": "2025-06-07T16:56:39Z"
+  },
+  {
+   "full": "lihanghang/NLP-Knowledge-Graph",
+   "desc": "自然语言处理、知识图谱、大语言模型，Agent等技术的前沿追踪、研究与应用。",
+   "stars": 1774,
+   "lang": "JavaScript",
+   "topics": [
+    "nlp",
+    "agent",
+    "machine-learning",
+    "reflection",
+    "deep-learning",
+    "transformers",
+    "knowledge-graph",
+    "event-driven",
+    "ner",
+    "bert",
+    "kbqa",
+    "ernie"
+   ],
+   "updated": "2026-10-31T01:32:32Z"
+  },
+  {
+   "full": "apache/eventmesh",
+   "desc": "EventMesh is a new generation serverless event middleware for building distributed event-driven applications.",
+   "stars": 1758,
+   "lang": "Java",
+   "topics": [
+    "cqrs",
+    "microservice",
+    "serverless",
+    "message-bus",
+    "event-sourcing",
+    "pubsub",
+    "event-driven",
+    "esb",
+    "cloud-native",
+    "hacktoberfest",
+    "event-streaming",
+    "event-gateway"
+   ],
+   "updated": "2026-10-21T01:32:36Z"
+  },
+  {
+   "full": "wingify/across-tabs",
+   "desc": "Easy communication between cross-origin browser tabs. Simplified \"CORS\"ing!",
+   "stars": 1673,
+   "lang": "JavaScript",
+   "topics": [
+    "babel",
+    "webpack",
+    "es6",
+    "new-tab",
+    "tabs",
+    "jasmine-tests",
+    "communication-library",
+    "event-driven",
+    "sessionstorage",
+    "karma-plugin",
+    "istanbul",
+    "hacktoberfest"
+   ],
+   "updated": "2023-09-11T09:52:22Z"
+  },
+  {
+   "full": "serverless/event-gateway",
+   "desc": "React to any event with serverless functions across clouds",
+   "stars": 1646,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "serverless",
+    "pubsub",
+    "event-driven",
+    "dataflow",
+    "functions-as-a-service",
+    "event-router"
+   ],
+   "updated": "2024-12-09T15:47:32Z"
+  },
+  {
+   "full": "knative/eventing",
+   "desc": "Event-driven application platform for Kubernetes",
+   "stars": 1558,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "events",
+    "binding",
+    "eventing",
+    "event-driven",
+    "cloudevents",
+    "knative",
+    "developer-productivity"
+   ],
+   "updated": "2026-11-02T07:20:55Z"
+  },
+  {
+   "full": "RailsEventStore/rails_event_store",
+   "desc": "A Ruby implementation of an Event Store based on Active Record",
+   "stars": 1556,
+   "lang": "Ruby",
+   "topics": [
+    "ruby",
+    "rails",
+    "cqrs",
+    "ddd",
+    "domain-driven-design",
+    "event-sourcing",
+    "event-driven",
+    "cqrs-es",
+    "event-driven-architecture",
+    "aggregate-root"
+   ],
+   "updated": "2026-10-29T14:38:28Z"
+  },
+  {
+   "full": "QuantumLeaps/qpc",
+   "desc": "QP/C Real-Time Event Framework/RTOS implements event-driven Active Object (Actor) model combined with Hierarchical State Machines. Specifically designed for embedded systems (e.g., ARM Cortex-M MCUs).",
+   "stars": 1394,
+   "lang": "C",
+   "topics": [
+    "arm",
+    "framework",
+    "embedded",
+    "state-machine",
+    "actor-model",
+    "statechart",
+    "actor",
+    "event-driven",
+    "rtos",
+    "uml-state-machine",
+    "arm-cortex-m3",
+    "arm-cortex-m0"
+   ],
+   "updated": "2026-11-02T10:39:56Z"
+  },
+  {
+   "full": "eugene-khyst/postgresql-event-sourcing",
+   "desc": "A reference implementation of an event-sourced system that uses PostgreSQL as an event store built with Spring Boot. Fork the repository and use it as a template for your projects. Or clone the repository and run end-to-end tests to see how",
+   "stars": 1361,
+   "lang": "Java",
+   "topics": [
+    "postgres",
+    "cqrs",
+    "ddd",
+    "postgresql",
+    "event-sourcing",
+    "event-store",
+    "event-driven",
+    "eventsourcing",
+    "event-driven-architecture",
+    "solution-architecture",
+    "postgres-notifications"
+   ],
+   "updated": "2026-03-23T02:56:05Z"
+  },
+  {
+   "full": "meysamhadeli/awesome-dotnet-tips",
+   "desc": "A curated list of awesome tips and tricks, resources, videos and articles in .NET, Software Architecture, Cloud-Native, Data and AI.",
+   "stars": 1309,
+   "lang": "C#",
+   "topics": [
+    "testing",
+    "docker",
+    "kubernetes",
+    "caching",
+    "microservices",
+    "cqrs",
+    "ai",
+    "csharp",
+    "dotnet",
+    "aspnetcore",
+    "ddd",
+    "dotnetcore"
+   ],
+   "updated": "2026-10-26T18:56:09Z"
+  }
+ ]
+}

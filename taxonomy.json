@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "domains": [
+    {
+      "id": "ia",
+      "name": "Inteligencia artificial",
+      "icon": "◈",
+      "blurb": "Modelos que aprenden de los datos: desde la regresión clásica hasta los grandes modelos de lenguaje y los agentes que actúan por su cuenta.",
+      "subs": [
+        { "id": "llm", "name": "Modelos de lenguaje (LLM)", "topics": ["llm", "large-language-models"], "related": ["agentes", "rag", "deep-learning"],
+          "blurb": "Modelos entrenados sobre enormes corpus de texto capaces de generar, resumir y razonar en lenguaje natural. Aquí viven runtimes de inferencia local, interfaces de chat, modelos abiertos y herramientas de ajuste fino." },
+        { "id": "agentes", "name": "Agentes de IA", "topics": ["ai-agents", "agent"], "related": ["llm", "automatizacion", "rag"],
+          "blurb": "Sistemas que encadenan razonamiento, herramientas y memoria para completar tareas con autonomía. Frameworks de orquestación, agentes de programación y protocolos como MCP." },
+        { "id": "rag", "name": "RAG y búsqueda vectorial", "topics": ["rag", "vector-database"], "related": ["llm", "bases-de-datos"],
+          "blurb": "Recuperación aumentada por generación: indexar documentos como vectores para que un modelo responda con información propia y actualizada. Incluye bases de datos vectoriales y pipelines de embeddings." },
+        { "id": "vision", "name": "Visión por computador", "topics": ["computer-vision", "object-detection"], "related": ["deep-learning", "multimedia"],
+          "blurb": "Algoritmos que interpretan imágenes y vídeo: detección de objetos, segmentación, reconocimiento facial, OCR y generación de imágenes." },
+        { "id": "ml-clasico", "name": "Aprendizaje automático", "topics": ["machine-learning", "scikit-learn"], "related": ["deep-learning", "analitica", "mlops"],
+          "blurb": "Las bases del oficio: clasificación, regresión, clustering y modelos sobre datos tabulares. Bibliotecas generalistas y recursos para aprender." },
+        { "id": "deep-learning", "name": "Deep learning", "topics": ["deep-learning", "pytorch"], "related": ["ml-clasico", "vision", "llm"],
+          "blurb": "Redes neuronales profundas y los frameworks que las entrenan. Implementaciones de referencia, modelos preentrenados y utilidades de entrenamiento distribuido." },
+        { "id": "mlops", "name": "MLOps", "topics": ["mlops", "model-serving"], "related": ["ml-clasico", "observabilidad", "contenedores"],
+          "blurb": "Llevar modelos a producción y mantenerlos ahí: versionado de experimentos, servido de modelos, monitorización de deriva y pipelines reproducibles." },
+        { "id": "voz", "name": "Voz y audio", "topics": ["speech-recognition", "text-to-speech"], "related": ["deep-learning", "multimedia"],
+          "blurb": "Reconocimiento del habla, síntesis de voz, clonación vocal y procesamiento de señales de audio." }
+      ]
+    },
+    {
+      "id": "frontend",
+      "name": "Frontend web",
+      "icon": "▣",
+      "blurb": "Todo lo que corre en el navegador: frameworks de interfaz, componentes, estilos y las herramientas que lo empaquetan.",
+      "subs": [
+        { "id": "frameworks-ui", "name": "Frameworks de interfaz", "topics": ["react", "vue", "svelte"], "related": ["componentes", "build-tools", "multiplataforma"],
+          "blurb": "Bibliotecas para construir interfaces reactivas a partir de componentes: React, Vue, Svelte y su ecosistema de meta-frameworks." },
+        { "id": "componentes", "name": "Componentes y design systems", "topics": ["ui-components", "design-system"], "related": ["frameworks-ui", "css"],
+          "blurb": "Kits de componentes accesibles, sistemas de diseño de empresas reales y primitivas sin estilos para construir los tuyos." },
+        { "id": "css", "name": "CSS y estilos", "topics": ["css-framework", "tailwindcss"], "related": ["componentes", "frameworks-ui"],
+          "blurb": "Frameworks de utilidades, metodologías, animación y todo lo que da forma visual a la web." },
+        { "id": "build-tools", "name": "Empaquetado y build", "topics": ["bundler", "vite"], "related": ["frameworks-ui", "linters"],
+          "blurb": "Bundlers, compiladores de JavaScript y servidores de desarrollo que convierten tu código en algo que el navegador entiende rápido." },
+        { "id": "dataviz", "name": "Visualización de datos", "topics": ["data-visualization", "charts"], "related": ["analitica", "graficos-3d"],
+          "blurb": "Gráficas, dashboards, mapas y librerías para contar historias con datos." }
+      ]
+    },
+    {
+      "id": "backend",
+      "name": "Backend y APIs",
+      "icon": "⧉",
+      "blurb": "El lado servidor: frameworks web, contratos de API, identidad y comunicación entre servicios.",
+      "subs": [
+        { "id": "frameworks-web", "name": "Frameworks web", "topics": ["web-framework", "http-server"], "related": ["apis", "orm"],
+          "blurb": "Frameworks y servidores HTTP para construir aplicaciones y servicios, en todos los lenguajes." },
+        { "id": "apis", "name": "APIs y GraphQL", "topics": ["graphql", "rest-api"], "related": ["frameworks-web", "auth"],
+          "blurb": "Diseño, documentación y consumo de APIs: REST, GraphQL, gRPC, clientes HTTP y herramientas de prueba." },
+        { "id": "auth", "name": "Autenticación e identidad", "topics": ["authentication", "oauth2"], "related": ["apis", "secretos"],
+          "blurb": "Inicio de sesión, OAuth, SSO, gestión de usuarios y control de acceso." },
+        { "id": "mensajeria", "name": "Colas y mensajería", "topics": ["message-queue", "event-driven"], "related": ["frameworks-web", "ingenieria-datos"],
+          "blurb": "Brokers de mensajes, streaming de eventos y arquitecturas asíncronas para desacoplar servicios." }
+      ]
+    },
+    {
+      "id": "datos",
+      "name": "Datos",
+      "icon": "▤",
+      "blurb": "Guardar, mover y entender datos: motores de base de datos, ORMs, pipelines y análisis.",
+      "subs": [
+        { "id": "bases-de-datos", "name": "Bases de datos", "topics": ["database", "sql"], "related": ["orm", "rag"],
+          "blurb": "Motores relacionales, NoSQL, de series temporales y embebidos, más sus clientes y herramientas de administración." },
+        { "id": "orm", "name": "ORMs y acceso a datos", "topics": ["orm", "query-builder"], "related": ["bases-de-datos", "frameworks-web"],
+          "blurb": "Capas que mapean tablas a objetos, constructores de consultas y herramientas de migración de esquemas." },
+        { "id": "ingenieria-datos", "name": "Ingeniería de datos", "topics": ["etl", "data-engineering"], "related": ["analitica", "mensajeria"],
+          "blurb": "Ingesta, transformación y orquestación de datos a escala: ETL/ELT, lakehouses y procesamiento distribuido." },
+        { "id": "analitica", "name": "Análisis y notebooks", "topics": ["data-analysis", "jupyter"], "related": ["dataviz", "ml-clasico"],
+          "blurb": "Manipulación de datos, notebooks interactivos, estadística y herramientas de business intelligence." }
+      ]
+    },
+    {
+      "id": "devops",
+      "name": "DevOps e infraestructura",
+      "icon": "⬡",
+      "blurb": "Desplegar, operar y vigilar software: contenedores, infraestructura como código, integración continua y observabilidad.",
+      "subs": [
+        { "id": "contenedores", "name": "Contenedores y orquestación", "topics": ["docker", "kubernetes"], "related": ["iac", "self-hosted"],
+          "blurb": "Docker, Kubernetes y todo el ecosistema para empaquetar y orquestar servicios." },
+        { "id": "iac", "name": "Infraestructura como código", "topics": ["infrastructure-as-code", "terraform"], "related": ["contenedores", "ci-cd"],
+          "blurb": "Definir servidores, redes y servicios en la nube mediante código versionable y reproducible." },
+        { "id": "ci-cd", "name": "CI/CD", "topics": ["ci-cd", "continuous-integration"], "related": ["iac", "testing"],
+          "blurb": "Integración y despliegue continuos: runners, pipelines, GitHub Actions y estrategias de release." },
+        { "id": "observabilidad", "name": "Observabilidad", "topics": ["monitoring", "observability"], "related": ["mlops", "contenedores"],
+          "blurb": "Métricas, logs, trazas y alertas para saber qué está pasando en producción." },
+        { "id": "serverless", "name": "Serverless y edge", "topics": ["serverless", "edge-computing"], "related": ["frameworks-web", "iac"],
+          "blurb": "Funciones bajo demanda, plataformas edge y backends sin servidores que gestionar." }
+      ]
+    },
+    {
+      "id": "seguridad",
+      "name": "Seguridad",
+      "icon": "⛨",
+      "blurb": "Atacar para defender: auditoría, inteligencia de fuentes abiertas, criptografía y gestión de secretos.",
+      "subs": [
+        { "id": "pentesting", "name": "Pentesting y auditoría", "topics": ["penetration-testing", "security-tools"], "related": ["osint", "redes"],
+          "blurb": "Herramientas de hacking ético, escáneres de vulnerabilidades, fuzzing y recursos de CTF." },
+        { "id": "osint", "name": "OSINT", "topics": ["osint", "reconnaissance"], "related": ["pentesting"],
+          "blurb": "Inteligencia de fuentes abiertas: búsqueda de personas, dominios y huellas digitales." },
+        { "id": "criptografia", "name": "Criptografía", "topics": ["cryptography", "encryption"], "related": ["secretos", "auth"],
+          "blurb": "Bibliotecas criptográficas, cifrado de extremo a extremo y protocolos seguros." },
+        { "id": "secretos", "name": "Secretos y privacidad", "topics": ["secrets-management", "privacy"], "related": ["criptografia", "auth"],
+          "blurb": "Gestores de contraseñas, bóvedas de secretos, detección de credenciales filtradas y herramientas de privacidad." }
+      ]
+    },
+    {
+      "id": "apps",
+      "name": "Móvil y escritorio",
+      "icon": "▢",
+      "blurb": "Aplicaciones que se instalan: multiplataforma, nativas de escritorio y nativas de móvil.",
+      "subs": [
+        { "id": "multiplataforma", "name": "Multiplataforma", "topics": ["flutter", "react-native"], "related": ["frameworks-ui", "nativo-movil"],
+          "blurb": "Un solo código para iOS, Android y más: Flutter, React Native y sus ecosistemas." },
+        { "id": "escritorio", "name": "Apps de escritorio", "topics": ["electron", "tauri"], "related": ["multiplataforma", "frameworks-ui"],
+          "blurb": "Frameworks para construir aplicaciones de escritorio con tecnologías web o nativas." },
+        { "id": "nativo-movil", "name": "Android e iOS nativo", "topics": ["android", "ios"], "related": ["multiplataforma"],
+          "blurb": "Desarrollo nativo con Kotlin y Swift, librerías de plataforma y apps de código abierto." }
+      ]
+    },
+    {
+      "id": "herramientas",
+      "name": "Herramientas del desarrollador",
+      "icon": "⚒",
+      "blurb": "El banco de trabajo diario: editores, terminal, pruebas, control de versiones y calidad de código.",
+      "subs": [
+        { "id": "editores", "name": "Editores e IDEs", "topics": ["editor", "neovim"], "related": ["terminal", "linters"],
+          "blurb": "Editores de código, IDEs, configuraciones y plugins." },
+        { "id": "terminal", "name": "Terminal y CLI", "topics": ["cli", "terminal"], "related": ["editores", "automatizacion"],
+          "blurb": "Emuladores de terminal, shells, utilidades de línea de comandos modernas y frameworks para crear CLIs." },
+        { "id": "testing", "name": "Testing", "topics": ["testing", "e2e-testing"], "related": ["ci-cd", "linters"],
+          "blurb": "Frameworks de pruebas unitarias, de integración y extremo a extremo, mocks y automatización del navegador." },
+        { "id": "git", "name": "Git y control de versiones", "topics": ["git", "version-control"], "related": ["ci-cd", "terminal"],
+          "blurb": "Clientes de Git, interfaces, hooks y herramientas para trabajar con repositorios." },
+        { "id": "linters", "name": "Linters y formateadores", "topics": ["linter", "formatter"], "related": ["testing", "build-tools"],
+          "blurb": "Análisis estático, formateo automático y herramientas que mantienen el código limpio." }
+      ]
+    },
+    {
+      "id": "lenguajes",
+      "name": "Lenguajes y compiladores",
+      "icon": "λ",
+      "blurb": "Las herramientas con las que se hacen las herramientas: lenguajes, compiladores, intérpretes y WebAssembly.",
+      "subs": [
+        { "id": "lenguajes-prog", "name": "Lenguajes de programación", "topics": ["programming-language", "language"], "related": ["compiladores"],
+          "blurb": "Implementaciones de lenguajes, nuevos y consolidados, y sus repositorios oficiales." },
+        { "id": "compiladores", "name": "Compiladores e intérpretes", "topics": ["compiler", "interpreter"], "related": ["lenguajes-prog", "wasm"],
+          "blurb": "Compiladores, máquinas virtuales, intérpretes y recursos para aprender a construirlos." },
+        { "id": "wasm", "name": "WebAssembly", "topics": ["webassembly", "wasm"], "related": ["compiladores", "frameworks-ui"],
+          "blurb": "Runtimes, toolchains y proyectos que llevan código compilado al navegador y más allá." }
+      ]
+    },
+    {
+      "id": "sistemas",
+      "name": "Sistemas y redes",
+      "icon": "⌬",
+      "blurb": "Bajo el capó: sistemas operativos, redes, proxies y emulación.",
+      "subs": [
+        { "id": "so", "name": "Sistemas operativos", "topics": ["operating-system", "kernel"], "related": ["emulacion"],
+          "blurb": "Núcleos, sistemas operativos completos, hobby OS y recursos de bajo nivel." },
+        { "id": "redes", "name": "Redes y proxies", "topics": ["proxy", "vpn"], "related": ["pentesting", "self-hosted"],
+          "blurb": "Proxies, VPNs, túneles, DNS y herramientas de red." },
+        { "id": "emulacion", "name": "Emulación y virtualización", "topics": ["emulator", "virtualization"], "related": ["so", "motores-juego"],
+          "blurb": "Emuladores de consolas y arquitecturas, hipervisores y máquinas virtuales." }
+      ]
+    },
+    {
+      "id": "graficos",
+      "name": "Juegos y multimedia",
+      "icon": "◐",
+      "blurb": "Píxeles, polígonos y sonido: motores de juego, gráficos 3D y edición multimedia.",
+      "subs": [
+        { "id": "motores-juego", "name": "Motores de juego", "topics": ["game-engine", "gamedev"], "related": ["graficos-3d", "emulacion"],
+          "blurb": "Motores de videojuegos, frameworks 2D/3D y juegos de código abierto." },
+        { "id": "graficos-3d", "name": "Gráficos 3D", "topics": ["webgl", "threejs"], "related": ["motores-juego", "dataviz"],
+          "blurb": "Renderizado 3D en tiempo real, WebGL/WebGPU, shaders y modelado." },
+        { "id": "multimedia", "name": "Vídeo e imagen", "topics": ["video", "image-processing"], "related": ["vision", "voz"],
+          "blurb": "Reproductores, editores, codificación de vídeo, descargadores y procesamiento de imagen." }
+      ]
+    },
+    {
+      "id": "productividad",
+      "name": "Self-hosted y productividad",
+      "icon": "⌂",
+      "blurb": "Software para tener tus propios servicios y organizar el trabajo: alojamiento propio, notas y automatización.",
+      "subs": [
+        { "id": "self-hosted", "name": "Self-hosted", "topics": ["self-hosted", "selfhosted"], "related": ["contenedores", "redes"],
+          "blurb": "Alternativas autoalojadas a servicios en la nube: nubes personales, multimedia, fotos y domótica." },
+        { "id": "notas", "name": "Notas y conocimiento", "topics": ["note-taking", "knowledge-base"], "related": ["self-hosted"],
+          "blurb": "Apps de notas, wikis personales, gestores de conocimiento y segundo cerebro." },
+        { "id": "automatizacion", "name": "Automatización", "topics": ["automation", "workflow-automation"], "related": ["agentes", "terminal"],
+          "blurb": "Motores de flujos de trabajo, integraciones sin código, bots y scraping." }
+      ]
+    },
+    {
+      "id": "aprendizaje",
+      "name": "Aprendizaje y referencia",
+      "icon": "❡",
+      "blurb": "Repositorios para aprender: listas curadas, cursos, algoritmos y preparación de entrevistas.",
+      "subs": [
+        { "id": "awesome", "name": "Listas Awesome", "topics": ["awesome-list", "awesome"], "related": ["tutoriales"],
+          "blurb": "Listas curadas por la comunidad que recopilan lo mejor de cada tema. El índice de índices." },
+        { "id": "tutoriales", "name": "Cursos y tutoriales", "topics": ["tutorial", "education"], "related": ["awesome", "algoritmos"],
+          "blurb": "Cursos completos, rutas de aprendizaje, libros libres y material educativo." },
+        { "id": "algoritmos", "name": "Algoritmos y entrevistas", "topics": ["algorithms", "interview"], "related": ["tutoriales"],
+          "blurb": "Implementaciones de algoritmos y estructuras de datos, problemas resueltos y preparación de entrevistas técnicas." }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1470 @@
+{
+ "subId": "analitica",
+ "topics": [
+  "data-analysis",
+  "jupyter"
+ ],
+ "crawledAt": "2026-11-02T20:18:13.248Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "apache/superset",
+   "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+   "stars": 75392,
+   "lang": "Python",
+   "topics": [
+    "react",
+    "python",
+    "flask",
+    "data-science",
+    "bi",
+    "analytics",
+    "superset",
+    "apache",
+    "data-visualization",
+    "data-engineering",
+    "business-intelligence",
+    "data-viz"
+   ],
+   "updated": "2026-11-02T19:47:15Z"
+  },
+  {
+   "full": "scikit-learn/scikit-learn",
+   "desc": "scikit-learn: machine learning in Python",
+   "stars": 67974,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "statistics",
+    "data-analysis"
+   ],
+   "updated": "2026-11-02T16:13:25Z"
+  },
+  {
+   "full": "sansan0/TrendRadar",
+   "desc": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地",
+   "stars": 63367,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "docker",
+    "rss",
+    "mail",
+    "news",
+    "ai",
+    "mcp",
+    "bark",
+    "wechat",
+    "data-analysis",
+    "trending-topics",
+    "wework"
+   ],
+   "updated": "2026-10-29T11:41:00Z"
+  },
+  {
+   "full": "K-Dense-AI/scientific-agent-skills",
+   "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discove",
+   "stars": 55822,
+   "lang": "Python",
+   "topics": [
+    "bioinformatics",
+    "genomics",
+    "computational-biology",
+    "scientific-visualization",
+    "scientific-computing",
+    "drug-discovery",
+    "data-analysis",
+    "proteomics",
+    "metabolomics",
+    "chemoinformatics",
+    "materials-science",
+    "clinical-research"
+   ],
+   "updated": "2026-11-02T09:23:27Z"
+  },
+  {
+   "full": "pandas-dev/pandas",
+   "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+   "stars": 50287,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "flexible",
+    "pandas",
+    "alignment",
+    "data-analysis"
+   ],
+   "updated": "2026-11-02T19:32:10Z"
+  },
+  {
+   "full": "metabase/metabase",
+   "desc": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
+   "stars": 50114,
+   "lang": "Clojure",
+   "topics": [
+    "visualization",
+    "mysql",
+    "slack",
+    "postgres",
+    "data",
+    "clojure",
+    "bi",
+    "database",
+    "dashboard",
+    "analytics",
+    "reporting",
+    "businessintelligence"
+   ],
+   "updated": "2026-11-02T20:17:46Z"
+  },
+  {
+   "full": "streamlit/streamlit",
+   "desc": "Streamlit — A faster way to build and share data apps.",
+   "stars": 46213,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "deep-learning",
+    "data-visualization",
+    "developer-tools",
+    "data-analysis",
+    "streamlit"
+   ],
+   "updated": "2026-11-02T20:06:59Z"
+  },
+  {
+   "full": "gradio-app/gradio",
+   "desc": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+   "stars": 43966,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "ui",
+    "deep-learning",
+    "interface",
+    "deploy",
+    "models",
+    "data-visualization",
+    "data-analysis",
+    "ui-components",
+    "gradio"
+   ],
+   "updated": "2026-11-02T19:11:21Z"
+  },
+  {
+   "full": "666ghj/BettaFish",
+   "desc": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+   "stars": 42572,
+   "lang": "Python",
+   "topics": [
+    "nlp",
+    "sentiment-analysis",
+    "python3",
+    "data-analysis",
+    "deep-search",
+    "multi-agent-system",
+    "agent-framework",
+    "public-opinion-analysis",
+    "llms",
+    "deep-research"
+   ],
+   "updated": "2026-10-16T03:33:52Z"
+  },
+  {
+   "full": "microsoft/Data-Science-For-Beginners",
+   "desc": "10 Weeks, 20 Lessons, Data Science for All!",
+   "stars": 37903,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "pandas",
+    "data-visualization",
+    "data-analysis",
+    "microsoft-for-beginners"
+   ],
+   "updated": "2026-10-21T03:27:14Z"
+  },
+  {
+   "full": "gchq/CyberChef",
+   "desc": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+   "stars": 36297,
+   "lang": "JavaScript",
+   "topics": [
+    "hashing",
+    "encoding",
+    "compression",
+    "encryption",
+    "parsing",
+    "data-analysis",
+    "data-manipulation"
+   ],
+   "updated": "2026-11-02T14:31:04Z"
+  },
+  {
+   "full": "AMAI-GmbH/AI-Expert-Roadmap",
+   "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+   "stars": 31332,
+   "lang": "JavaScript",
+   "topics": [
+    "data-science",
+    "machine-learning",
+    "roadmap",
+    "ai",
+    "deep-learning",
+    "neural-network",
+    "artificial-intelligence",
+    "data-analysis",
+    "study-plan",
+    "ai-roadmap"
+   ],
+   "updated": "2025-09-12T14:59:30Z"
+  },
+  {
+   "full": "reflex-dev/reflex",
+   "desc": "🕸️ Web apps in pure Python 🐍",
+   "stars": 28987,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "open-source",
+    "data-science",
+    "gui",
+    "framework",
+    "dashboard",
+    "data-visualization",
+    "webapp",
+    "developer-tools",
+    "data-analysis",
+    "fullstack"
+   ],
+   "updated": "2026-11-02T18:17:20Z"
+  },
+  {
+   "full": "dataease/dataease",
+   "desc": "🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.",
+   "stars": 24666,
+   "lang": "Java",
+   "topics": [
+    "superset",
+    "data-visualization",
+    "business-intelligence",
+    "kettle",
+    "data-analysis",
+    "tableau",
+    "echarts",
+    "apache-doris"
+   ],
+   "updated": "2026-11-02T10:20:40Z"
+  },
+  {
+   "full": "sinaptik-ai/pandas-ai",
+   "desc": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+   "stars": 23924,
+   "lang": "Python",
+   "topics": [
+    "data-science",
+    "data",
+    "csv",
+    "sql",
+    "database",
+    "ai",
+    "pandas",
+    "data-visualization",
+    "data-analysis",
+    "datalake",
+    "text-to-sql",
+    "gpt-4"
+   ],
+   "updated": "2025-10-28T10:02:13Z"
+  },
+  {
+   "full": "lukasmasuch/best-of-ml-python",
+   "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+   "stars": 23854,
+   "lang": null,
+   "topics": [
+    "python",
+    "nlp",
+    "data-science",
+    "machine-learning",
+    "deep-learning",
+    "tensorflow",
+    "scikit-learn",
+    "keras",
+    "ml",
+    "data-visualization",
+    "pytorch",
+    "transformer"
+   ],
+   "updated": "2026-10-29T14:11:25Z"
+  },
+  {
+   "full": "akfamily/akshare",
+   "desc": "AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库",
+   "stars": 23178,
+   "lang": "Python",
+   "topics": [
+    "finance",
+    "data-science",
+    "data",
+    "mcp",
+    "currency",
+    "academic",
+    "stock",
+    "economics",
+    "quant",
+    "data-analysis",
+    "bond",
+    "option"
+   ],
+   "updated": "2026-11-02T11:52:33Z"
+  },
+  {
+   "full": "airbytehq/airbyte",
+   "desc": "Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.",
+   "stars": 22303,
+   "lang": "Python",
+   "topics": [
+    "mysql",
+    "python",
+    "java",
+    "bigquery",
+    "data",
+    "pipeline",
+    "etl",
+    "postgresql",
+    "s3",
+    "snowflake",
+    "self-hosted",
+    "data-engineering"
+   ],
+   "updated": "2026-11-02T20:17:44Z"
+  },
+  {
+   "full": "allinurl/goaccess",
+   "desc": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+   "stars": 21110,
+   "lang": "C",
+   "topics": [
+    "c",
+    "nginx",
+    "cli",
+    "privacy",
+    "real-time",
+    "terminal",
+    "monitoring",
+    "dashboard",
+    "analytics",
+    "command-line",
+    "webserver",
+    "google-analytics"
+   ],
+   "updated": "2026-10-28T13:04:43Z"
+  },
+  {
+   "full": "Kanaries/pygwalker",
+   "desc": "PyGWalker: Turn your dataframe into an interactive UI for visual analysis",
+   "stars": 16005,
+   "lang": "Python",
+   "topics": [
+    "visualization",
+    "plotly",
+    "pandas",
+    "data-analysis",
+    "matplotlib",
+    "tableau",
+    "data-exploration",
+    "dataframe",
+    "tableau-alternative"
+   ],
+   "updated": "2026-09-05T19:19:19Z"
+  },
+  {
+   "full": "hicccc77/WeFlow",
+   "desc": "WeFlow - 一个本地的微信聊天记录导出和年度报告应用",
+   "stars": 15748,
+   "lang": "TypeScript",
+   "topics": [
+    "data-visualization",
+    "message",
+    "wechat",
+    "data-analysis",
+    "annual-report"
+   ],
+   "updated": "2026-11-02T08:45:31Z"
+  },
+  {
+   "full": "Data-Centric-AI-Community/fg-data-profiling",
+   "desc": "1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.",
+   "stars": 13745,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "statistics",
+    "deep-learning",
+    "jupyter",
+    "pandas-dataframe",
+    "exploratory-data-analysis",
+    "jupyter-notebook",
+    "eda",
+    "pandas",
+    "exploration"
+   ],
+   "updated": "2026-11-02T19:36:51Z"
+  },
+  {
+   "full": "tangyudi/Ai-Learn",
+   "desc": "人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2",
+   "stars": 13457,
+   "lang": null,
+   "topics": [
+    "python",
+    "nlp",
+    "data-science",
+    "machine-learning",
+    "data-mining",
+    "algorithm",
+    "caffe",
+    "deep-learning",
+    "tensorflow",
+    "numpy",
+    "cv",
+    "keras"
+   ],
+   "updated": "2024-06-02T04:46:40Z"
+  },
+  {
+   "full": "OpenRefine/OpenRefine",
+   "desc": "OpenRefine is a free, open source power tool for working with messy data and improving it",
+   "stars": 12088,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "data-science",
+    "reconciliation",
+    "wikidata",
+    "opendata",
+    "journalism",
+    "data-analysis",
+    "data-wrangling",
+    "datamining",
+    "datajournalism",
+    "datacleaning",
+    "datacleansing"
+   ],
+   "updated": "2026-11-02T06:51:26Z"
+  },
+  {
+   "full": "statsmodels/statsmodels",
+   "desc": "Statsmodels: statistical modeling and econometrics in Python",
+   "stars": 11735,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "statistics",
+    "prediction",
+    "econometrics",
+    "forecasting",
+    "data-analysis",
+    "regression-models",
+    "hypothesis-testing",
+    "generalized-linear-models",
+    "timeseries-analysis",
+    "robust-estimation"
+   ],
+   "updated": "2026-11-02T13:05:59Z"
+  },
+  {
+   "full": "Yorko/mlcourse.ai",
+   "desc": "Open Machine Learning Course",
+   "stars": 10775,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "docker",
+    "data-science",
+    "machine-learning",
+    "math",
+    "algorithms",
+    "numpy",
+    "scikit-learn",
+    "plotly",
+    "pandas",
+    "seaborn",
+    "ipynb"
+   ],
+   "updated": "2026-09-03T08:10:01Z"
+  },
+  {
+   "full": "NVIDIA/cudf",
+   "desc": "cuDF - GPU DataFrame Library",
+   "stars": 9787,
+   "lang": "C++",
+   "topics": [
+    "python",
+    "data-science",
+    "cpp",
+    "gpu",
+    "arrow",
+    "pydata",
+    "cuda",
+    "pandas",
+    "data-analysis",
+    "dask",
+    "dataframe",
+    "rapids"
+   ],
+   "updated": "2026-11-02T20:14:15Z"
+  },
+  {
+   "full": "jeecgboot/jimureport",
+   "desc": "一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。 一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表设计，兼容国产信创数据源。 对着 AI 说句话，报表就出来了——表格、图表、分组汇总自动生成，复杂报表场景轻松应对。想做数据大屏？同样一句话搞定，让数据分析进入 AI 时代。",
+   "stars": 8559,
+   "lang": "Java",
+   "topics": [
+    "bi",
+    "ai",
+    "highcharts",
+    "superset",
+    "data-visualization",
+    "metabase",
+    "report",
+    "data-analysis",
+    "redash",
+    "print",
+    "tableau",
+    "birt"
+   ],
+   "updated": "2026-11-01T15:05:35Z"
+  },
+  {
+   "full": "growthbook/growthbook",
+   "desc": "Open Source Feature Flags, Experimentation, and Product Analytics",
+   "stars": 8558,
+   "lang": "TypeScript",
+   "topics": [
+    "bigquery",
+    "data-science",
+    "statistics",
+    "analytics",
+    "continuous-delivery",
+    "clickhouse",
+    "snowflake",
+    "feature-flags",
+    "data-engineering",
+    "experimentation",
+    "data-analysis",
+    "ab-testing"
+   ],
+   "updated": "2026-11-02T20:11:05Z"
+  },
+  {
+   "full": "gonum/gonum",
+   "desc": "Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more",
+   "stars": 8453,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "statistics",
+    "graph",
+    "matrix",
+    "scientific-computing",
+    "data-analysis"
+   ],
+   "updated": "2026-10-25T04:35:42Z"
+  },
+  {
+   "full": "ChatLab/ChatLab",
+   "desc": "Local-first chat history analyzer with AI. | 本地优先的 AI 聊天记录分析工具",
+   "stars": 7612,
+   "lang": "TypeScript",
+   "topics": [
+    "data-visualization",
+    "data-analysis",
+    "harness",
+    "chat-history",
+    "chat-analyzer",
+    "ai-agent"
+   ],
+   "updated": "2026-10-30T01:48:48Z"
+  },
+  {
+   "full": "Alluxio/alluxio",
+   "desc": "Alluxio, data orchestration for analytics and machine learning in the cloud",
+   "stars": 7257,
+   "lang": "Java",
+   "topics": [
+    "spark",
+    "presto",
+    "hadoop",
+    "tensorflow",
+    "data-analysis",
+    "alluxio",
+    "memory-speed",
+    "data-orchestration",
+    "virtual-distributed-filesystem"
+   ],
+   "updated": "2026-09-01T18:12:17Z"
+  },
+  {
+   "full": "lance-format/lance",
+   "desc": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+   "stars": 7245,
+   "lang": "Rust",
+   "topics": [
+    "python",
+    "rust",
+    "data-science",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "embeddings",
+    "dataops",
+    "data-analytics",
+    "data-analysis",
+    "data-format",
+    "apache-arrow"
+   ],
+   "updated": "2026-11-02T20:18:06Z"
+  },
+  {
+   "full": "datajuicer/data-juicer",
+   "desc": "Data processing for and with foundation models! 🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷",
+   "stars": 7211,
+   "lang": "Python",
+   "topics": [
+    "data-science",
+    "data",
+    "data-visualization",
+    "data-analysis",
+    "data-processing",
+    "multi-modal",
+    "data-pipeline",
+    "synthetic-data",
+    "pre-training",
+    "foundation-models",
+    "large-language-models",
+    "llm"
+   ],
+   "updated": "2026-11-02T04:20:29Z"
+  },
+  {
+   "full": "scikit-learn-contrib/imbalanced-learn",
+   "desc": "A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning",
+   "stars": 7134,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "statistics",
+    "data-analysis"
+   ],
+   "updated": "2026-06-29T16:33:16Z"
+  },
+  {
+   "full": "rhiever/Data-Analysis-and-Machine-Learning-Projects",
+   "desc": "Repository of teaching materials, code, and data for my data analysis and machine learning projects.",
+   "stars": 6783,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "ipython-notebook",
+    "data-analysis",
+    "evolutionary-algorithm"
+   ],
+   "updated": "2023-06-21T09:06:28Z"
+  },
+  {
+   "full": "cloudquery/cloudquery",
+   "desc": "Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.",
+   "stars": 6551,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "kubernetes",
+    "github-api",
+    "bigquery",
+    "aws",
+    "data",
+    "google",
+    "sql",
+    "etl",
+    "azure",
+    "gcp",
+    "data-engineering"
+   ],
+   "updated": "2026-11-02T16:15:27Z"
+  },
+  {
+   "full": "qinwf/awesome-R",
+   "desc": "A curated list of awesome R packages, frameworks and software.",
+   "stars": 6538,
+   "lang": "R",
+   "topics": [
+    "data-science",
+    "list",
+    "awesome",
+    "r",
+    "rstats",
+    "data-analysis",
+    "awesome-list"
+   ],
+   "updated": "2025-09-18T16:46:19Z"
+  },
+  {
+   "full": "pachyderm/pachyderm",
+   "desc": "Data-Centric Pipelines and Data Versioning",
+   "stars": 6311,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "docker",
+    "kubernetes",
+    "distributed-systems",
+    "data-science",
+    "big-data",
+    "analytics",
+    "containers",
+    "data-analysis",
+    "pachyderm"
+   ],
+   "updated": "2025-02-03T22:27:18Z"
+  },
+  {
+   "full": "microsoft/TaskWeaver",
+   "desc": "The first \"code-first\" agent framework for seamlessly planning and executing data analytics tasks.",
+   "stars": 6160,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "openai",
+    "data-analysis",
+    "copilot",
+    "ai-agents",
+    "llm",
+    "code-interpreter"
+   ],
+   "updated": "2026-03-23T06:17:21Z"
+  },
+  {
+   "full": "tqdm/tqdm",
+   "desc": "⚡ A Fast, Extensible Progress Bar for Python and CLI",
+   "stars": 31376,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "cli",
+    "console",
+    "gui",
+    "time",
+    "terminal",
+    "telegram",
+    "utilities",
+    "jupyter",
+    "progress",
+    "discord",
+    "progress-bar"
+   ],
+   "updated": "2026-10-05T22:54:41Z"
+  },
+  {
+   "full": "trekhleb/homemade-machine-learning",
+   "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+   "stars": 24847,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "machine-learning",
+    "algorithm",
+    "jupyter",
+    "machine-learning-algorithms",
+    "jupyter-notebook",
+    "machinelearning"
+   ],
+   "updated": "2025-11-23T04:22:46Z"
+  },
+  {
+   "full": "plotly/dash",
+   "desc": "Data Apps & Dashboards for Python. No JavaScript Required.",
+   "stars": 24476,
+   "lang": "Python",
+   "topics": [
+    "react",
+    "python",
+    "productivity",
+    "flask",
+    "finance",
+    "data-science",
+    "bioinformatics",
+    "ai",
+    "jupyter",
+    "web-app",
+    "plotly",
+    "data-visualization"
+   ],
+   "updated": "2026-11-02T19:56:57Z"
+  },
+  {
+   "full": "bokeh/bokeh",
+   "desc": "Interactive Data Visualization in the browser, from Python",
+   "stars": 20468,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "javascript",
+    "python",
+    "plots",
+    "jupyter",
+    "visualisation",
+    "data-visualisation",
+    "bokeh",
+    "plotting",
+    "notebooks",
+    "interactive-plots",
+    "numfocus"
+   ],
+   "updated": "2026-11-02T15:43:53Z"
+  },
+  {
+   "full": "ipython/ipython",
+   "desc": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",
+   "stars": 16797,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "jupyter",
+    "ipython",
+    "hacktoberfest",
+    "closember",
+    "spec-0"
+   ],
+   "updated": "2026-11-02T09:19:33Z"
+  },
+  {
+   "full": "emilwallner/Screenshot-to-code",
+   "desc": "A neural network that transforms a design mock-up into a static website.",
+   "stars": 16534,
+   "lang": "HTML",
+   "topics": [
+    "machine-learning",
+    "deep-learning",
+    "jupyter",
+    "keras",
+    "jupyter-notebook",
+    "cnn",
+    "lstm",
+    "floydhub",
+    "seq2seq",
+    "cnn-keras",
+    "encoder-decoder"
+   ],
+   "updated": "2024-08-16T22:05:07Z"
+  },
+  {
+   "full": "FavioVazquez/ds-cheatsheets",
+   "desc": "List of Data Science Cheatsheets to rule the world",
+   "stars": 16375,
+   "lang": null,
+   "topics": [
+    "python",
+    "r",
+    "programming",
+    "spark",
+    "jupyter",
+    "datascience",
+    "cheatsheet"
+   ],
+   "updated": "2024-07-18T03:39:29Z"
+  },
+  {
+   "full": "kubeflow/kubeflow",
+   "desc": "The Cloud Native AI Platform",
+   "stars": 15948,
+   "lang": null,
+   "topics": [
+    "kubernetes",
+    "data-science",
+    "machine-learning",
+    "ai",
+    "jupyter",
+    "notebook",
+    "tensorflow",
+    "ml",
+    "pytorch",
+    "minikube",
+    "google-kubernetes-engine",
+    "kubeflow"
+   ],
+   "updated": "2026-09-30T23:20:11Z"
+  },
+  {
+   "full": "jupyterlab/jupyterlab",
+   "desc": "JupyterLab computational environment.",
+   "stars": 15384,
+   "lang": "TypeScript",
+   "topics": [
+    "jupyter",
+    "jupyterlab"
+   ],
+   "updated": "2026-11-02T14:47:34Z"
+  },
+  {
+   "full": "jpmorganchase/python-training",
+   "desc": "Python training for business analysts and traders",
+   "stars": 14327,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "finance",
+    "data-science",
+    "binder",
+    "jupyter",
+    "banking",
+    "jupyterlab",
+    "jpmorgan",
+    "binder-ready",
+    "cib"
+   ],
+   "updated": "2026-10-30T23:25:46Z"
+  },
+  {
+   "full": "jupyter/notebook",
+   "desc": "Jupyter Interactive Notebook",
+   "stars": 13458,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "jupyter",
+    "notebook",
+    "jupyter-notebook",
+    "closember"
+   ],
+   "updated": "2026-10-30T07:34:36Z"
+  },
+  {
+   "full": "ctgk/PRML",
+   "desc": "PRML algorithms implemented in Python",
+   "stars": 11734,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "jupyter",
+    "notebook",
+    "prml"
+   ],
+   "updated": "2025-04-05T02:01:37Z"
+  },
+  {
+   "full": "perspective-dev/perspective",
+   "desc": "A data visualization and analytics component, especially well-suited for large and/or streaming datasets.",
+   "stars": 11386,
+   "lang": "Rust",
+   "topics": [
+    "react",
+    "javascript",
+    "python",
+    "rust",
+    "charts",
+    "streaming",
+    "real-time",
+    "bi",
+    "dashboard",
+    "jupyter",
+    "analytics",
+    "web-components"
+   ],
+   "updated": "2026-10-27T23:52:28Z"
+  },
+  {
+   "full": "dunovank/jupyter-themes",
+   "desc": "Custom Jupyter Notebook Themes",
+   "stars": 9819,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "syntax-highlighting",
+    "theme",
+    "jupyter",
+    "jupyter-notebook",
+    "jupyter-themes"
+   ],
+   "updated": "2025-06-22T15:37:46Z"
+  },
+  {
+   "full": "HugoBlox/kit",
+   "desc": "🧱 Describe your site, AI builds it, you own it as Markdown. Snap together Tailwind blocks like Lego — landing pages, blogs, portfolios, docs & more. No AI slop. Free to deploy anywhere 👇",
+   "stars": 9782,
+   "lang": "HTML",
+   "topics": [
+    "blog",
+    "static-site-generator",
+    "github-pages",
+    "hugo-theme",
+    "portfolio",
+    "r",
+    "landing-page",
+    "jupyter",
+    "hugo",
+    "rstudio",
+    "personal-website",
+    "academic"
+   ],
+   "updated": "2026-08-04T04:38:22Z"
+  },
+  {
+   "full": "jupyter/docker-stacks",
+   "desc": "Ready-to-run Docker images containing Jupyter applications",
+   "stars": 8473,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "docker",
+    "jupyter",
+    "notebook",
+    "ipython",
+    "jupyter-notebook",
+    "ipython-notebook",
+    "jupyterhub",
+    "jupyterlab",
+    "jupyter-notebooks"
+   ],
+   "updated": "2026-11-02T19:25:08Z"
+  },
+  {
+   "full": "codebasics/py",
+   "desc": "Repository to store sample python programs for python learning",
+   "stars": 7356,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "python-tutorials",
+    "jupyter",
+    "numpy",
+    "pandas-dataframe",
+    "jupyter-notebook",
+    "pandas",
+    "jupyter-notebooks",
+    "python-tutorial",
+    "numpy-tutorial",
+    "pandas-tutorial",
+    "numpy-arrays"
+   ],
+   "updated": "2025-07-24T04:42:19Z"
+  },
+  {
+   "full": "nteract/papermill",
+   "desc": "📚 Parameterize, execute, and analyze notebooks",
+   "stars": 6498,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "r",
+    "scala",
+    "jupyter",
+    "pipeline",
+    "notebook",
+    "julia",
+    "nteract",
+    "publishing",
+    "notebooks",
+    "notebook-generator"
+   ],
+   "updated": "2026-10-05T23:30:41Z"
+  },
+  {
+   "full": "ufoym/deepo",
+   "desc": "Setup and customize deep learning environment in seconds.",
+   "stars": 6281,
+   "lang": "Python",
+   "topics": [
+    "caffe",
+    "lasagne",
+    "theano",
+    "deep-learning",
+    "jupyter",
+    "mxnet",
+    "chainer",
+    "cntk",
+    "tensorflow",
+    "docker-image",
+    "keras",
+    "torch"
+   ],
+   "updated": "2026-03-25T15:09:36Z"
+  },
+  {
+   "full": "dformoso/machine-learning-mindmap",
+   "desc": "A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.",
+   "stars": 6269,
+   "lang": null,
+   "topics": [
+    "python",
+    "learning",
+    "science",
+    "data",
+    "machine-learning",
+    "jupyter",
+    "machine",
+    "cheatsheet",
+    "mindmap"
+   ],
+   "updated": "2020-05-30T07:34:20Z"
+  },
+  {
+   "full": "nteract/archived-desktop-app",
+   "desc": "The old electron based nteract notebook",
+   "stars": 6239,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "data-science",
+    "jupyter",
+    "notebook",
+    "ipython",
+    "zeromq",
+    "repl",
+    "react-components",
+    "jupyter-notebook",
+    "nteract",
+    "monorepo",
+    "desktop-application"
+   ],
+   "updated": "2023-12-30T16:09:02Z"
+  },
+  {
+   "full": "voila-dashboards/voila",
+   "desc": "Voilà turns Jupyter notebooks into standalone web applications",
+   "stars": 5957,
+   "lang": "Python",
+   "topics": [
+    "jupyter",
+    "jupyter-notebook",
+    "jupyterlab-extension",
+    "dashboarding"
+   ],
+   "updated": "2026-10-05T20:55:51Z"
+  },
+  {
+   "full": "aidlearning/AidLearning-FrameWork",
+   "desc": "🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on And",
+   "stars": 5821,
+   "lang": "Python",
+   "topics": [
+    "android",
+    "python",
+    "linux",
+    "terminal",
+    "jupyter",
+    "opencl",
+    "vscode",
+    "python-for-android",
+    "aiot",
+    "tflite",
+    "linux-android",
+    "aios"
+   ],
+   "updated": "2026-04-02T03:25:22Z"
+  },
+  {
+   "full": "holoviz/panel",
+   "desc": "Panel: The powerful data exploration & web app framework for Python",
+   "stars": 5816,
+   "lang": "Python",
+   "topics": [
+    "gui",
+    "dataviz",
+    "jupyter",
+    "panel",
+    "plotly",
+    "datascience",
+    "dashboards",
+    "bokeh",
+    "matplotlib",
+    "holoviews",
+    "hvplot",
+    "holoviz"
+   ],
+   "updated": "2026-11-02T17:41:54Z"
+  },
+  {
+   "full": "lux-org/lux",
+   "desc": "Automatically visualize your pandas dataframe via a single print! 📊 💡",
+   "stars": 5380,
+   "lang": "Python",
+   "topics": [
+    "visualization",
+    "python",
+    "data-science",
+    "jupyter",
+    "exploratory-data-analysis",
+    "pandas",
+    "visualization-tools"
+   ],
+   "updated": "2024-03-20T15:48:47Z"
+  },
+  {
+   "full": "AnswerDotAI/nbdev",
+   "desc": "Create delightful software with Jupyter Notebooks",
+   "stars": 5324,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "jupyter",
+    "pypi",
+    "documentation-tool",
+    "conda",
+    "developer-tools",
+    "literate-programming",
+    "jupyter-notebooks",
+    "python-modules",
+    "fastai",
+    "documentation-generator",
+    "nbdev"
+   ],
+   "updated": "2026-11-02T00:36:50Z"
+  },
+  {
+   "full": "jupyterlite/jupyterlite",
+   "desc": "Wasm powered Jupyter running in the browser 💡",
+   "stars": 4916,
+   "lang": "TypeScript",
+   "topics": [
+    "jupyter",
+    "webassembly",
+    "wasm",
+    "jupyterlab",
+    "lite",
+    "jupyterlab-extension",
+    "pyodide"
+   ],
+   "updated": "2026-10-30T20:33:40Z"
+  },
+  {
+   "full": "ruc-datalab/DeepAnalyze",
+   "desc": "DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！",
+   "stars": 4769,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "open-source",
+    "science",
+    "data-science",
+    "data",
+    "database",
+    "ai",
+    "jupyter",
+    "chatbot",
+    "data-visualization",
+    "python-programming"
+   ],
+   "updated": "2026-11-02T13:47:42Z"
+  },
+  {
+   "full": "markusschanta/awesome-jupyter",
+   "desc": "A curated list of awesome Jupyter projects, libraries and resources",
+   "stars": 4690,
+   "lang": null,
+   "topics": [
+    "visualization",
+    "python",
+    "data-science",
+    "awesome",
+    "frontend",
+    "jupyter",
+    "ipython",
+    "jupyter-notebook",
+    "data-visualization",
+    "jupyterhub",
+    "awesome-list",
+    "jupyterlab"
+   ],
+   "updated": "2026-11-02T02:49:02Z"
+  },
+  {
+   "full": "quantopian/alphalens",
+   "desc": "Performance analysis of predictive (alpha) stock factors",
+   "stars": 4496,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "finance",
+    "jupyter",
+    "numpy",
+    "pandas",
+    "algorithmic-trading"
+   ],
+   "updated": "2024-02-12T06:44:22Z"
+  },
+  {
+   "full": "jupyterlab/jupyter-ai",
+   "desc": "An open source extension that connects AI agents to computational notebooks in JupyterLab.",
+   "stars": 4434,
+   "lang": "Python",
+   "topics": [
+    "jupyter",
+    "jupyterlab",
+    "acp",
+    "agents",
+    "jupyterlab-extension"
+   ],
+   "updated": "2026-10-31T06:02:13Z"
+  },
+  {
+   "full": "mljar/mercury",
+   "desc": "Impress your boss and turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.",
+   "stars": 4357,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "jupyter",
+    "notebook",
+    "jupyter-notebook",
+    "data-visualization",
+    "mercury",
+    "notebook-web",
+    "notebook-application",
+    "notebook-jupyter",
+    "jupyter-lab",
+    "notebook-publish"
+   ],
+   "updated": "2026-10-26T08:33:42Z"
+  },
+  {
+   "full": "jupyterlab/jupyterlab-desktop",
+   "desc": "JupyterLab desktop application, based on Electron.",
+   "stars": 4341,
+   "lang": "TypeScript",
+   "topics": [
+    "jupyter",
+    "jupyter-notebook",
+    "jupyterlab"
+   ],
+   "updated": "2026-10-27T22:38:03Z"
+  },
+  {
+   "full": "briefercloud/briefer",
+   "desc": "Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.",
+   "stars": 4327,
+   "lang": "TypeScript",
+   "topics": [
+    "visualization",
+    "bigquery",
+    "postgres",
+    "bi",
+    "dashboard",
+    "jupyter",
+    "analytics",
+    "notebook",
+    "reporting",
+    "businessintelligence",
+    "postgresql",
+    "data-visualization"
+   ],
+   "updated": "2025-08-07T13:20:05Z"
+  },
+  {
+   "full": "jupyter-book/jupyter-book",
+   "desc": "Create beautiful, publication-quality books and documents from computational content.",
+   "stars": 4289,
+   "lang": "TypeScript",
+   "topics": [
+    "markdown",
+    "jupyter",
+    "notebooks",
+    "documentation-generator",
+    "scientific-writing"
+   ],
+   "updated": "2026-11-02T03:27:47Z"
+  },
+  {
+   "full": "root-project/cling",
+   "desc": "The cling C++ interpreter",
+   "stars": 4203,
+   "lang": "C++",
+   "topics": [
+    "c-plus-plus",
+    "interpreter",
+    "jupyter",
+    "llvm",
+    "clang"
+   ],
+   "updated": "2026-10-30T11:20:19Z"
+  },
+  {
+   "full": "orchest/orchest",
+   "desc": "Build data pipelines, the easy way 🛠️",
+   "stars": 4133,
+   "lang": "TypeScript",
+   "topics": [
+    "python",
+    "docker",
+    "kubernetes",
+    "data-science",
+    "machine-learning",
+    "airflow",
+    "cloud",
+    "deployment",
+    "jupyter",
+    "etl",
+    "ide",
+    "pipelines"
+   ],
+   "updated": "2023-06-06T09:48:26Z"
+  },
+  {
+   "full": "gee-community/geemap",
+   "desc": "A Python package for interactive geospatial analysis and visualization with Google Earth Engine.",
+   "stars": 4057,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "dataviz",
+    "jupyter",
+    "mapping",
+    "geospatial",
+    "jupyter-notebook",
+    "gis",
+    "image-processing",
+    "landsat",
+    "remote-sensing",
+    "colab"
+   ],
+   "updated": "2026-10-30T23:03:01Z"
+  },
+  {
+   "full": "nteract/hydrogen",
+   "desc": "Run code interactively, inspect data, and plot. All the power of Jupyter kernels, inside your favorite text editor.",
+   "stars": 4019,
+   "lang": "TypeScript",
+   "topics": [
+    "atom",
+    "data-science",
+    "jupyter",
+    "ipython",
+    "repl",
+    "jupyter-kernels",
+    "nteract",
+    "hydrogen"
+   ],
+   "updated": "2026-07-19T05:45:37Z"
+  }
+ ]
+}

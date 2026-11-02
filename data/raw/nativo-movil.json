@@ -1,0 +1,1249 @@
+{
+ "subId": "nativo-movil",
+ "topics": [
+  "android",
+  "ios"
+ ],
+ "crawledAt": "2026-11-02T20:19:16.101Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "morluto/rea",
+   "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "stars": 422381,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "android",
+    "python",
+    "java",
+    "linux",
+    "html",
+    "rust",
+    "cli",
+    "security",
+    "typescript"
+   ],
+   "updated": "2026-11-02T19:32:05Z"
+  },
+  {
+   "full": "flutter/flutter",
+   "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+   "stars": 181018,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "dart",
+    "ios",
+    "mobile",
+    "web",
+    "material-design",
+    "cross-platform",
+    "desktop",
+    "web-framework",
+    "app-framework"
+   ],
+   "updated": "2026-11-02T19:58:16Z"
+  },
+  {
+   "full": "Genymobile/scrcpy",
+   "desc": "Display and control your Android device",
+   "stars": 153849,
+   "lang": "C",
+   "topics": [
+    "android",
+    "c",
+    "ffmpeg",
+    "sdl2",
+    "screen",
+    "libav",
+    "recording",
+    "mirroring",
+    "genyteam-system"
+   ],
+   "updated": "2026-11-02T08:47:43Z"
+  },
+  {
+   "full": "rustdesk/rustdesk",
+   "desc": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+   "stars": 127925,
+   "lang": "Rust",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "linux",
+    "dart",
+    "rust",
+    "ios",
+    "remote-control",
+    "p2p",
+    "teamviewer",
+    "rust-lang",
+    "rdp"
+   ],
+   "updated": "2026-11-02T15:48:28Z"
+  },
+  {
+   "full": "react/react-native",
+   "desc": "A framework for building native applications using React",
+   "stars": 126853,
+   "lang": "C++",
+   "topics": [
+    "react",
+    "android",
+    "ios",
+    "mobile",
+    "react-native",
+    "cross-platform",
+    "app-framework",
+    "mobile-development"
+   ],
+   "updated": "2026-11-02T18:03:42Z"
+  },
+  {
+   "full": "Hack-with-Github/Awesome-Hacking",
+   "desc": "A collection of various awesome lists for hackers, pentesters and security researchers",
+   "stars": 124417,
+   "lang": null,
+   "topics": [
+    "android",
+    "security",
+    "awesome",
+    "reverse-engineering",
+    "pentesting-windows",
+    "hacking",
+    "penetration-testing",
+    "bug-bounty",
+    "fuzzing"
+   ],
+   "updated": "2026-10-27T01:45:58Z"
+  },
+  {
+   "full": "justjavac/free-programming-books-zh_CN",
+   "desc": "📚 免费的计算机编程类中文书籍，欢迎投稿",
+   "stars": 119489,
+   "lang": null,
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "kotlin",
+    "python",
+    "swift",
+    "pdf",
+    "ios",
+    "angular",
+    "react-native",
+    "programming",
+    "books"
+   ],
+   "updated": "2026-07-29T00:39:06Z"
+  },
+  {
+   "full": "2dust/v2rayNG",
+   "desc": "A V2Ray client for Android, support Xray core and v2fly core",
+   "stars": 65200,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "proxy",
+    "socks5",
+    "shadowsocks",
+    "vpn",
+    "trojan",
+    "v2ray",
+    "vmess",
+    "xray",
+    "v2fly",
+    "vless",
+    "xtls"
+   ],
+   "updated": "2026-11-01T06:59:31Z"
+  },
+  {
+   "full": "tldr-pages/tldr",
+   "desc": "Collaborative cheatsheets for console commands 📚.",
+   "stars": 64107,
+   "lang": "Markdown",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "linux",
+    "shell",
+    "cli",
+    "console",
+    "documentation",
+    "terminal",
+    "osx",
+    "command-line",
+    "man-page"
+   ],
+   "updated": "2026-11-02T19:46:02Z"
+  },
+  {
+   "full": "termux/termux-app",
+   "desc": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+   "stars": 63960,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "linux",
+    "terminal",
+    "termux",
+    "hacktoberfest"
+   ],
+   "updated": "2026-09-26T05:11:44Z"
+  },
+  {
+   "full": "Solido/awesome-flutter",
+   "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+   "stars": 61758,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "ios",
+    "awesome",
+    "mobile",
+    "material-design",
+    "cross-platform",
+    "resources",
+    "mobile-app",
+    "reactive-programming",
+    "collections",
+    "awesome-list",
+    "flutter"
+   ],
+   "updated": "2026-09-03T04:34:54Z"
+  },
+  {
+   "full": "wasabeef/awesome-android-ui",
+   "desc": "A curated list of awesome Android UI/UX libraries",
+   "stars": 58269,
+   "lang": null,
+   "topics": [
+    "android",
+    "awesome",
+    "ui"
+   ],
+   "updated": "2026-06-05T05:39:52Z"
+  },
+  {
+   "full": "appwrite/appwrite",
+   "desc": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+   "stars": 57854,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "swift",
+    "docker",
+    "ios",
+    "firebase",
+    "react-native",
+    "web",
+    "backend",
+    "nextjs",
+    "firewall"
+   ],
+   "updated": "2026-11-02T20:16:55Z"
+  },
+  {
+   "full": "laurent22/joplin",
+   "desc": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+   "stars": 56994,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "nodejs",
+    "javascript",
+    "android",
+    "react-native",
+    "dropbox",
+    "synchronisation",
+    "nextcloud",
+    "onedrive",
+    "webdav",
+    "note-taking",
+    "evernote"
+   ],
+   "updated": "2026-11-02T19:33:18Z"
+  },
+  {
+   "full": "google/material-design-icons",
+   "desc": "Material Design icons by Google (Material Symbols)",
+   "stars": 54218,
+   "lang": null,
+   "topics": [
+    "android",
+    "ios",
+    "web",
+    "material",
+    "material-design",
+    "sprites",
+    "icons"
+   ],
+   "updated": "2026-10-23T02:18:57Z"
+  },
+  {
+   "full": "expo/expo",
+   "desc": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+   "stars": 53302,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "ios",
+    "mobile",
+    "framework",
+    "typescript",
+    "react-native",
+    "web",
+    "frontend",
+    "native",
+    "universal"
+   ],
+   "updated": "2026-11-02T20:14:13Z"
+  },
+  {
+   "full": "skylot/jadx",
+   "desc": "Dex to Java decompiler",
+   "stars": 51488,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "java",
+    "decompiler",
+    "dex"
+   ],
+   "updated": "2026-10-30T19:13:28Z"
+  },
+  {
+   "full": "team-spotube/spotube",
+   "desc": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+   "stars": 50555,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "music",
+    "windows",
+    "macos",
+    "linux",
+    "youtube",
+    "music-player",
+    "android-client",
+    "desktop-client",
+    "fdroid",
+    "flutter",
+    "android-music-player"
+   ],
+   "updated": "2026-11-02T09:26:30Z"
+  },
+  {
+   "full": "lysine-dev/okhttp",
+   "desc": "A meticulous HTTP client for the JVM, Android, and GraalVM.",
+   "stars": 47106,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "kotlin",
+    "java",
+    "graalvm"
+   ],
+   "updated": "2026-10-30T16:19:16Z"
+  },
+  {
+   "full": "android/architecture-samples",
+   "desc": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+   "stars": 45886,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "sample",
+    "samples",
+    "android-architecture"
+   ],
+   "updated": "2026-10-30T22:35:43Z"
+  },
+  {
+   "full": "lysine-dev/retrofit",
+   "desc": "A type-safe HTTP client for Android and the JVM",
+   "stars": 43940,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "java"
+   ],
+   "updated": "2026-10-31T03:50:41Z"
+  },
+  {
+   "full": "gkd-kit/gkd",
+   "desc": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+   "stars": 43892,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "kotlin",
+    "accessibility",
+    "webassembly",
+    "click",
+    "auto",
+    "compose",
+    "kotlin-js",
+    "kotlin-multiplatform",
+    "jetpack-compose",
+    "compose-multiplatform"
+   ],
+   "updated": "2026-11-02T07:56:49Z"
+  },
+  {
+   "full": "sxyazi/yazi",
+   "desc": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+   "stars": 43192,
+   "lang": "Rust",
+   "topics": [
+    "android",
+    "vim",
+    "windows",
+    "macos",
+    "linux",
+    "rust",
+    "cli",
+    "productivity",
+    "terminal",
+    "cross-platform",
+    "neovim",
+    "command-line"
+   ],
+   "updated": "2026-11-02T13:36:41Z"
+  },
+  {
+   "full": "fastlane/fastlane",
+   "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+   "stars": 42341,
+   "lang": "Ruby",
+   "topics": [
+    "ruby",
+    "android",
+    "ios",
+    "screenshots",
+    "automation",
+    "mobile",
+    "deployment",
+    "fastlane",
+    "apps",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T20:09:53Z"
+  },
+  {
+   "full": "dcloudio/uni-app",
+   "desc": "A cross-platform framework using Vue.js",
+   "stars": 41633,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "android",
+    "ios",
+    "vue",
+    "cross-platform",
+    "uni",
+    "crossplatform",
+    "uniapp",
+    "miniprogram",
+    "vue3",
+    "uni-app",
+    "hbuilderx"
+   ],
+   "updated": "2026-11-02T13:08:51Z"
+  },
+  {
+   "full": "Predidit/Kazumi",
+   "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
+   "stars": 40751,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "ios",
+    "cross-platform",
+    "danmaku",
+    "flutter",
+    "linux-desktop"
+   ],
+   "updated": "2026-11-02T12:40:12Z"
+  },
+  {
+   "full": "TeamNewPipe/NewPipe",
+   "desc": "A libre lightweight streaming front-end for Android.",
+   "stars": 40406,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "video",
+    "translation",
+    "soundcloud",
+    "watch",
+    "youtube-video",
+    "bandcamp",
+    "download-videos",
+    "newpipe",
+    "4k",
+    "peertube"
+   ],
+   "updated": "2026-11-02T12:35:38Z"
+  },
+  {
+   "full": "DioxusLabs/dioxus",
+   "desc": "Fullstack app framework for web, desktop, and mobile.",
+   "stars": 39579,
+   "lang": "Rust",
+   "topics": [
+    "react",
+    "css",
+    "android",
+    "html",
+    "rust",
+    "ios",
+    "ui",
+    "web",
+    "native",
+    "ssr",
+    "wasm",
+    "desktop"
+   ],
+   "updated": "2026-11-02T17:31:32Z"
+  },
+  {
+   "full": "PhilJay/MPAndroidChart",
+   "desc": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+   "stars": 38189,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "java",
+    "chart",
+    "graph",
+    "mpandroidchart"
+   ],
+   "updated": "2026-10-09T22:20:14Z"
+  },
+  {
+   "full": "google-ai-edge/mediapipe",
+   "desc": "Cross-platform, customizable ML solutions for live and streaming media.",
+   "stars": 37523,
+   "lang": "C++",
+   "topics": [
+    "android",
+    "c-plus-plus",
+    "calculator",
+    "machine-learning",
+    "framework",
+    "computer-vision",
+    "deep-learning",
+    "inference",
+    "pipeline-framework",
+    "stream-processing",
+    "video-processing",
+    "perception"
+   ],
+   "updated": "2026-11-02T19:18:29Z"
+  },
+  {
+   "full": "shadowsocks/shadowsocks-android",
+   "desc": "A shadowsocks client for Android",
+   "stars": 36839,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "shadowsocks"
+   ],
+   "updated": "2026-08-09T11:06:54Z"
+  },
+  {
+   "full": "yuliskov/SmartTube",
+   "desc": "Browse media content with your own rules on Android TV",
+   "stars": 35850,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "kotlin",
+    "java",
+    "retrofit2",
+    "android-tv",
+    "rxjava-android",
+    "android-tv-box"
+   ],
+   "updated": "2026-11-02T01:42:52Z"
+  },
+  {
+   "full": "airbnb/lottie-android",
+   "desc": "Render After Effects animations natively on Android and iOS, Web, and React Native",
+   "stars": 35762,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "animation",
+    "airbnb",
+    "after-effects",
+    "lottie"
+   ],
+   "updated": "2026-02-15T22:03:57Z"
+  },
+  {
+   "full": "raysan5/raylib",
+   "desc": "A simple and easy-to-use library to enjoy videogames programming",
+   "stars": 35538,
+   "lang": "C",
+   "topics": [
+    "android",
+    "c",
+    "macos",
+    "linux",
+    "raspberry-pi",
+    "iot",
+    "gamedev",
+    "embedded",
+    "programming",
+    "opengl",
+    "game-engine",
+    "graphics"
+   ],
+   "updated": "2026-11-02T01:35:07Z"
+  },
+  {
+   "full": "xitu/gold-miner",
+   "desc": "🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：",
+   "stars": 34374,
+   "lang": null,
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "swift",
+    "ios",
+    "translation",
+    "ai",
+    "frontend",
+    "tensorflow",
+    "tutorials"
+   ],
+   "updated": "2024-04-17T09:44:37Z"
+  },
+  {
+   "full": "zxing/zxing",
+   "desc": "ZXing (\"Zebra Crossing\") barcode scanning library for Java, Android",
+   "stars": 34183,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "java",
+    "barcode",
+    "qr-code",
+    "zxing",
+    "upc",
+    "datamatrix",
+    "barcode-scanner"
+   ],
+   "updated": "2026-11-02T06:57:11Z"
+  },
+  {
+   "full": "Blankj/AndroidUtilCode",
+   "desc": "🔥 Android developers should collect the following utils(updating).",
+   "stars": 33613,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "app",
+    "log",
+    "network",
+    "cache",
+    "utils",
+    "regex",
+    "file",
+    "reflect",
+    "fragment",
+    "eventbus",
+    "toast"
+   ],
+   "updated": "2024-08-15T10:38:10Z"
+  },
+  {
+   "full": "google/comprehensive-rust",
+   "desc": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+   "stars": 33495,
+   "lang": "Rust",
+   "topics": [
+    "android",
+    "training",
+    "rust",
+    "classroom",
+    "google",
+    "course",
+    "guide",
+    "training-materials"
+   ],
+   "updated": "2026-11-02T10:56:52Z"
+  },
+  {
+   "full": "bilibili/ijkplayer",
+   "desc": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+   "stars": 33233,
+   "lang": "C",
+   "topics": [
+    "android",
+    "ios",
+    "player",
+    "video",
+    "ffmpeg",
+    "ijkplayer"
+   ],
+   "updated": "2024-08-13T00:53:33Z"
+  },
+  {
+   "full": "barry-ran/QtScrcpy",
+   "desc": "Android real-time display control software",
+   "stars": 32687,
+   "lang": "C++",
+   "topics": [
+    "android",
+    "qt"
+   ],
+   "updated": "2026-10-15T06:25:19Z"
+  },
+  {
+   "full": "FiloSottile/mkcert",
+   "desc": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+   "stars": 59819,
+   "lang": "Go",
+   "topics": [
+    "windows",
+    "macos",
+    "linux",
+    "tls",
+    "firefox",
+    "ios",
+    "chrome",
+    "https",
+    "certificates",
+    "localhost",
+    "local-development",
+    "root-ca"
+   ],
+   "updated": "2024-08-13T13:37:46Z"
+  },
+  {
+   "full": "vsouza/awesome-ios",
+   "desc": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects",
+   "stars": 53846,
+   "lang": "Swift",
+   "topics": [
+    "swift-library",
+    "ios",
+    "awesome",
+    "objective-c",
+    "swift-extensions",
+    "swift-framework",
+    "ios-animation",
+    "swift-language",
+    "apple-swift",
+    "swift-programming",
+    "objective-c-library",
+    "ios-libraries"
+   ],
+   "updated": "2026-08-27T19:34:29Z"
+  },
+  {
+   "full": "dkhamsing/open-source-ios-apps",
+   "desc": "📱 Collaborative List of Open-Source iOS Apps",
+   "stars": 52968,
+   "lang": null,
+   "topics": [
+    "game",
+    "swift",
+    "ios",
+    "app",
+    "list",
+    "apple",
+    "awesome",
+    "react-native",
+    "objective-c",
+    "tvos",
+    "watchos",
+    "cocoapods"
+   ],
+   "updated": "2026-11-02T20:14:38Z"
+  },
+  {
+   "full": "ionic-team/ionic-framework",
+   "desc": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+   "stars": 52736,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "ios",
+    "angular",
+    "mobile",
+    "framework",
+    "typescript",
+    "web",
+    "ionic",
+    "pwa",
+    "vue",
+    "material-design"
+   ],
+   "updated": "2026-11-02T15:54:29Z"
+  },
+  {
+   "full": "permissionlesstech/bitchat",
+   "desc": "bluetooth mesh chat, IRC vibes",
+   "stars": 37060,
+   "lang": "Swift",
+   "topics": [
+    "macos",
+    "swift",
+    "ios",
+    "messaging",
+    "decentralized",
+    "bluetooth",
+    "bluetooth-le",
+    "mesh-network",
+    "e2e-encryption",
+    "nostr"
+   ],
+   "updated": "2026-11-01T06:07:19Z"
+  },
+  {
+   "full": "utmapp/UTM",
+   "desc": "Virtual machines for iOS and macOS",
+   "stars": 36651,
+   "lang": "Swift",
+   "topics": [
+    "macos",
+    "ios",
+    "apple",
+    "vm",
+    "emulation",
+    "jailbreak",
+    "qemu",
+    "virtual-machines",
+    "utm"
+   ],
+   "updated": "2026-11-01T02:08:12Z"
+  },
+  {
+   "full": "SheetJS/sheetjs",
+   "desc": "📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs",
+   "stars": 36348,
+   "lang": null,
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "html",
+    "ios",
+    "json",
+    "data",
+    "angular",
+    "grid",
+    "csv",
+    "database",
+    "html5"
+   ],
+   "updated": "2024-04-18T08:06:46Z"
+  },
+  {
+   "full": "AvaloniaUI/Avalonia",
+   "desc": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI",
+   "stars": 31747,
+   "lang": "C#",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "linux",
+    "c-sharp",
+    "ios",
+    "xaml",
+    "gui",
+    "mobile",
+    "browser",
+    "xamarin",
+    "csharp"
+   ],
+   "updated": "2026-11-02T16:58:42Z"
+  },
+  {
+   "full": "ente/ente",
+   "desc": "💚 End-to-end encrypted cloud for everything.",
+   "stars": 29842,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "golang",
+    "photos",
+    "ios",
+    "opensource",
+    "privacy",
+    "typescript",
+    "encryption",
+    "google-photos",
+    "flutter",
+    "authy",
+    "2fa"
+   ],
+   "updated": "2026-11-02T16:23:07Z"
+  },
+  {
+   "full": "fyne-io/fyne",
+   "desc": "Cross platform GUI toolkit in Go inspired by Material Design",
+   "stars": 28806,
+   "lang": "Go",
+   "topics": [
+    "android",
+    "go",
+    "theme",
+    "golang",
+    "ios",
+    "gui",
+    "cross-platform",
+    "toolkit",
+    "hacktoberfest",
+    "fyne"
+   ],
+   "updated": "2026-10-27T18:31:37Z"
+  },
+  {
+   "full": "GopeedLab/gopeed",
+   "desc": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.",
+   "stars": 27338,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "golang",
+    "http",
+    "ios",
+    "torrent",
+    "downloader",
+    "debian",
+    "bittorrent",
+    "cross-platform",
+    "ubuntu"
+   ],
+   "updated": "2026-11-02T15:54:10Z"
+  },
+  {
+   "full": "quasarframework/quasar",
+   "desc": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+   "stars": 27210,
+   "lang": "JavaScript",
+   "topics": [
+    "electron",
+    "javascript",
+    "android",
+    "ios",
+    "vuejs",
+    "pwa",
+    "vue",
+    "material",
+    "material-design",
+    "ssr",
+    "vue-components",
+    "server-side-rendering"
+   ],
+   "updated": "2026-10-19T09:32:37Z"
+  },
+  {
+   "full": "airbnb/lottie-ios",
+   "desc": "An iOS library to natively render After Effects vector animations",
+   "stars": 26926,
+   "lang": "Swift",
+   "topics": [
+    "swift",
+    "ios",
+    "animation",
+    "transition-animation",
+    "ios-animation",
+    "ios-transition",
+    "custom-transitions",
+    "keyframes",
+    "bodymovin"
+   ],
+   "updated": "2026-10-06T17:02:33Z"
+  },
+  {
+   "full": "matteocrippa/awesome-swift",
+   "desc": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
+   "stars": 26361,
+   "lang": "Ruby",
+   "topics": [
+    "linux",
+    "swift",
+    "swift-library",
+    "lists",
+    "ios",
+    "list",
+    "awesome",
+    "swift-extensions",
+    "swift-framework",
+    "swift-language",
+    "awesome-list",
+    "awesome-lists"
+   ],
+   "updated": "2026-10-25T06:06:58Z"
+  },
+  {
+   "full": "react-native-elements/react-native-elements",
+   "desc": "Cross-Platform React Native UI Toolkit",
+   "stars": 25877,
+   "lang": "MDX",
+   "topics": [
+    "react",
+    "android",
+    "ios",
+    "ui",
+    "react-native",
+    "cross-platform",
+    "mobile-app",
+    "ui-components",
+    "hacktoberfest"
+   ],
+   "updated": "2026-05-21T14:17:40Z"
+  },
+  {
+   "full": "NativeScript/NativeScript",
+   "desc": "⚡ Write Native with TypeScript ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you n",
+   "stars": 25689,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "kotlin",
+    "java",
+    "swift",
+    "ios",
+    "angular",
+    "typescript",
+    "vue",
+    "objective-c",
+    "cross-platform"
+   ],
+   "updated": "2026-11-02T18:27:47Z"
+  },
+  {
+   "full": "SDWebImage/SDWebImage",
+   "desc": "Asynchronous image downloader with cache support as a UIImageView category",
+   "stars": 25611,
+   "lang": "Objective-C",
+   "topics": [
+    "macos",
+    "swift",
+    "ios",
+    "image",
+    "png",
+    "objective-c",
+    "watchos",
+    "jpeg",
+    "cache",
+    "cocoapods",
+    "carthage",
+    "gif"
+   ],
+   "updated": "2026-04-15T03:36:16Z"
+  },
+  {
+   "full": "libgdx/libgdx",
+   "desc": "Desktop/Android/HTML5/iOS Java game development framework",
+   "stars": 25506,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "game",
+    "java",
+    "windows",
+    "linux",
+    "ios",
+    "gamedev",
+    "framework",
+    "html5",
+    "cross-platform",
+    "game-engine",
+    "libgdx"
+   ],
+   "updated": "2026-11-02T09:35:51Z"
+  },
+  {
+   "full": "ReactiveX/RxSwift",
+   "desc": "Reactive Programming in Swift",
+   "stars": 24632,
+   "lang": "Swift",
+   "topics": [
+    "swift",
+    "ios",
+    "reactivex",
+    "reactive",
+    "unidirectional",
+    "observer",
+    "functional",
+    "rxswift"
+   ],
+   "updated": "2026-09-04T18:37:03Z"
+  },
+  {
+   "full": "onevcat/Kingfisher",
+   "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+   "stars": 24405,
+   "lang": "Swift",
+   "topics": [
+    "macos",
+    "swift",
+    "ios",
+    "image",
+    "xcode",
+    "cache",
+    "kingfisher",
+    "filters",
+    "image-processor"
+   ],
+   "updated": "2026-11-02T15:47:50Z"
+  },
+  {
+   "full": "Tencent/ncnn",
+   "desc": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+   "stars": 24023,
+   "lang": "C++",
+   "topics": [
+    "android",
+    "ios",
+    "caffe",
+    "deep-learning",
+    "neural-network",
+    "mxnet",
+    "tensorflow",
+    "vulkan",
+    "keras",
+    "inference",
+    "pytorch",
+    "artificial-intelligence"
+   ],
+   "updated": "2026-11-02T08:46:25Z"
+  },
+  {
+   "full": "super-productivity/super-productivity",
+   "desc": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.",
+   "stars": 23356,
+   "lang": "TypeScript",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "linux",
+    "productivity",
+    "open-source",
+    "ios",
+    "todo",
+    "privacy",
+    "to-do-list",
+    "issue-tracker",
+    "pomodoro"
+   ],
+   "updated": "2026-11-02T20:19:08Z"
+  },
+  {
+   "full": "dotnet/maui",
+   "desc": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+   "stars": 23329,
+   "lang": "C#",
+   "topics": [
+    "android",
+    "microsoft",
+    "ios",
+    "multi-platform",
+    "mobile",
+    "dotnet",
+    "desktop",
+    "user-interface",
+    "hacktoberfest",
+    "maui",
+    "winui",
+    "maccatalyst"
+   ],
+   "updated": "2026-11-02T20:17:19Z"
+  },
+  {
+   "full": "CodeEditApp/CodeEdit",
+   "desc": "📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+   "stars": 23104,
+   "lang": "Swift",
+   "topics": [
+    "editor",
+    "macos",
+    "swift",
+    "open-source",
+    "mac",
+    "ios",
+    "app",
+    "apple",
+    "xcode",
+    "code",
+    "ide",
+    "code-editor"
+   ],
+   "updated": "2026-10-17T18:45:36Z"
+  },
+  {
+   "full": "getpaseo/paseo",
+   "desc": "Orchestrate multiple coding agents from desktop and mobile",
+   "stars": 22826,
+   "lang": "TypeScript",
+   "topics": [
+    "android",
+    "windows",
+    "linux",
+    "ios",
+    "mobile",
+    "opencode",
+    "orchestration",
+    "pi",
+    "developer-tools",
+    "hermes",
+    "copilot",
+    "agents"
+   ],
+   "updated": "2026-11-02T19:06:14Z"
+  },
+  {
+   "full": "HeroTransitions/Hero",
+   "desc": "Elegant transition library for iOS & tvOS",
+   "stars": 22492,
+   "lang": "Swift",
+   "topics": [
+    "swift",
+    "ios",
+    "hero",
+    "material-design",
+    "xcode",
+    "animation",
+    "layout",
+    "carthage",
+    "transition-animation",
+    "animations",
+    "ios-animation",
+    "ios-transition"
+   ],
+   "updated": "2025-01-23T20:27:30Z"
+  }
+ ]
+}

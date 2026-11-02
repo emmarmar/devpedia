@@ -1,0 +1,1378 @@
+{
+ "subId": "editores",
+ "topics": [
+  "editor",
+  "neovim"
+ ],
+ "crawledAt": "2026-11-02T20:19:21.364Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "microsoft/vscode",
+   "desc": "Visual Studio Code",
+   "stars": 194496,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "microsoft",
+    "editor",
+    "typescript",
+    "visual-studio-code"
+   ],
+   "updated": "2026-11-02T20:16:30Z"
+  },
+  {
+   "full": "OpenCut-app/OpenCut",
+   "desc": "The open-source CapCut alternative",
+   "stars": 97156,
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "oss",
+    "videoeditor"
+   ],
+   "updated": "2026-09-24T09:24:44Z"
+  },
+  {
+   "full": "toeverything/AFFiNE",
+   "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+   "stars": 74124,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "editor",
+    "markdown",
+    "rust",
+    "app",
+    "wiki",
+    "notes",
+    "table",
+    "rust-language",
+    "workspace",
+    "whiteboard",
+    "tableview"
+   ],
+   "updated": "2026-11-02T13:44:03Z"
+  },
+  {
+   "full": "marktext/marktext",
+   "desc": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+   "stars": 63509,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "editor",
+    "windows",
+    "macos",
+    "linux",
+    "markdown",
+    "mac",
+    "latex",
+    "source-code",
+    "typewriter-mode",
+    "focus-mode",
+    "marktext"
+   ],
+   "updated": "2026-11-02T15:43:11Z"
+  },
+  {
+   "full": "atom/atom",
+   "desc": "The hackable text editor",
+   "stars": 60704,
+   "lang": "JavaScript",
+   "topics": [
+    "electron",
+    "javascript",
+    "atom",
+    "editor",
+    "windows",
+    "macos",
+    "linux"
+   ],
+   "updated": "2023-01-03T10:49:48Z"
+  },
+  {
+   "full": "slab/quill",
+   "desc": "Quill is a modern WYSIWYG editor built for compatibility and extensibility",
+   "stars": 47373,
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "quill",
+    "wysiwyg",
+    "rich-text-editor"
+   ],
+   "updated": "2025-07-25T06:09:23Z"
+  },
+  {
+   "full": "microsoft/monaco-editor",
+   "desc": "A browser based code editor",
+   "stars": 46944,
+   "lang": "JavaScript",
+   "topics": [
+    "editor",
+    "typescript",
+    "browser",
+    "vscode",
+    "monaco-editor"
+   ],
+   "updated": "2026-11-02T15:49:35Z"
+  },
+  {
+   "full": "mifi/lossless-cut",
+   "desc": "The swiss army knife of lossless video/audio editing",
+   "stars": 45623,
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "player",
+    "video",
+    "ffmpeg",
+    "video-files",
+    "cut",
+    "lossless",
+    "codec",
+    "video-editor",
+    "losslesscut"
+   ],
+   "updated": "2026-11-01T05:33:35Z"
+  },
+  {
+   "full": "drawdb-io/drawdb",
+   "desc": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+   "stars": 40223,
+   "lang": "JavaScript",
+   "topics": [
+    "editor",
+    "sql",
+    "sql-server",
+    "database",
+    "sqlite",
+    "mcp",
+    "postgresql",
+    "mariadb",
+    "indexeddb",
+    "oracle-db",
+    "erd",
+    "database-schema"
+   ],
+   "updated": "2026-11-01T17:54:52Z"
+  },
+  {
+   "full": "ueberdosis/tiptap",
+   "desc": "The headless rich text editor framework for web artisans.",
+   "stars": 38937,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "editor",
+    "vue",
+    "js",
+    "prosemirror",
+    "wysiwyg",
+    "wysiwyg-editor",
+    "rich-text",
+    "renderless-components",
+    "tiptap"
+   ],
+   "updated": "2026-11-02T15:35:15Z"
+  },
+  {
+   "full": "VSCodium/vscodium",
+   "desc": "binary releases of VS Code without MS branding/telemetry/licensing",
+   "stars": 33919,
+   "lang": "Shell",
+   "topics": [
+    "editor",
+    "open-source-licensing",
+    "ide",
+    "vscode",
+    "floss"
+   ],
+   "updated": "2026-10-31T02:11:53Z"
+  },
+  {
+   "full": "codex-team/editor.js",
+   "desc": "A block-style editor with clean JSON output",
+   "stars": 31988,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "editor",
+    "json",
+    "typescript",
+    "ui",
+    "wysiwyg",
+    "codex-editor",
+    "redactor"
+   ],
+   "updated": "2026-11-01T14:05:25Z"
+  },
+  {
+   "full": "ianstormtaylor/slate",
+   "desc": "A completely customizable framework for building rich text editors. (Currently in beta.)",
+   "stars": 31747,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "editor",
+    "framework",
+    "browser",
+    "slate",
+    "text-editor",
+    "rich-text"
+   ],
+   "updated": "2026-10-28T18:56:05Z"
+  },
+  {
+   "full": "micro-editor/micro",
+   "desc": "A modern and intuitive terminal-based text editor",
+   "stars": 29819,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "editor",
+    "golang",
+    "terminal",
+    "cross-platform",
+    "command-line",
+    "text-editor",
+    "micro"
+   ],
+   "updated": "2026-11-02T00:24:22Z"
+  },
+  {
+   "full": "notepad-plus-plus/notepad-plus-plus",
+   "desc": "Notepad++ official repository",
+   "stars": 29771,
+   "lang": "C++",
+   "topics": [
+    "editor",
+    "windows",
+    "notepad",
+    "notepad-official"
+   ],
+   "updated": "2026-11-02T16:18:55Z"
+  },
+  {
+   "full": "voideditor/void",
+   "desc": null,
+   "stars": 28722,
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "open-source",
+    "vscode",
+    "visual-studio-code",
+    "openai",
+    "developer-tools",
+    "vscode-extension",
+    "cursor",
+    "copilot",
+    "claude",
+    "llm",
+    "chatgpt"
+   ],
+   "updated": "2026-06-02T22:03:55Z"
+  },
+  {
+   "full": "NickeManarin/ScreenToGif",
+   "desc": "🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.",
+   "stars": 27887,
+   "lang": "C#",
+   "topics": [
+    "editor",
+    "video",
+    "wpf",
+    "gif",
+    "recorder",
+    "webcam",
+    "sketchboard"
+   ],
+   "updated": "2026-10-14T15:04:38Z"
+  },
+  {
+   "full": "pascalorg/editor",
+   "desc": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+   "stars": 25282,
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "threejs",
+    "typescript",
+    "mcp",
+    "nextjs",
+    "architecture",
+    "cad",
+    "bim",
+    "3d",
+    "ai-agents",
+    "floorplan",
+    "react-three-fiber"
+   ],
+   "updated": "2026-11-02T16:17:01Z"
+  },
+  {
+   "full": "CodeEditApp/CodeEdit",
+   "desc": "📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+   "stars": 23104,
+   "lang": "Swift",
+   "topics": [
+    "editor",
+    "macos",
+    "swift",
+    "open-source",
+    "mac",
+    "ios",
+    "app",
+    "apple",
+    "xcode",
+    "code",
+    "ide",
+    "code-editor"
+   ],
+   "updated": "2026-10-17T18:45:36Z"
+  },
+  {
+   "full": "benweet/stackedit",
+   "desc": "In-browser Markdown editor",
+   "stars": 23103,
+   "lang": "JavaScript",
+   "topics": [
+    "github",
+    "javascript",
+    "couchdb",
+    "editor",
+    "markdown",
+    "wordpress",
+    "gist",
+    "zendesk",
+    "gitlab",
+    "offline",
+    "dropbox",
+    "google-drive"
+   ],
+   "updated": "2023-07-04T16:12:06Z"
+  },
+  {
+   "full": "chartdb/chartdb",
+   "desc": "Database diagrams editor that allows you to visualize and design your DB with a single query.",
+   "stars": 23039,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "visualization",
+    "mysql",
+    "editor",
+    "schema-migrations",
+    "typescript",
+    "sql",
+    "database",
+    "sqlite",
+    "postgresql",
+    "mariadb",
+    "db"
+   ],
+   "updated": "2026-11-01T10:28:44Z"
+  },
+  {
+   "full": "eclipse-theia/theia",
+   "desc": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+   "stars": 21732,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "editor",
+    "typescript",
+    "ide",
+    "language-server-protocol",
+    "cloud-ide"
+   ],
+   "updated": "2026-11-02T16:48:32Z"
+  },
+  {
+   "full": "basecamp/trix",
+   "desc": "A rich text editor for everyday writing",
+   "stars": 20014,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "editor",
+    "wysiwyg",
+    "custom-elements",
+    "text-editor",
+    "rich-text-editor",
+    "wysiwyg-editor"
+   ],
+   "updated": "2026-10-27T21:45:52Z"
+  },
+  {
+   "full": "audacity/audacity",
+   "desc": "Audio Editor",
+   "stars": 18928,
+   "lang": "C++",
+   "topics": [
+    "audio",
+    "editor",
+    "cross-platform",
+    "gplv2",
+    "wxwidgets-applications",
+    "qt-application",
+    "qt-qml"
+   ],
+   "updated": "2026-11-02T13:39:37Z"
+  },
+  {
+   "full": "alyssaxuu/screenity",
+   "desc": "The free and privacy-friendly screen recorder with no limits 🎥",
+   "stars": 18894,
+   "lang": "JavaScript",
+   "topics": [
+    "audio",
+    "javascript",
+    "chrome-extension",
+    "editor",
+    "productivity",
+    "design",
+    "video",
+    "camera",
+    "ffmpeg",
+    "annotation",
+    "tensorflow",
+    "screen-recorder"
+   ],
+   "updated": "2026-10-25T11:04:48Z"
+  },
+  {
+   "full": "nhn/tui.editor",
+   "desc": "🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.",
+   "stars": 17988,
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "html",
+    "jquery",
+    "markdown",
+    "gfm",
+    "chart",
+    "documentation",
+    "jquery-plugin",
+    "frontend",
+    "uml",
+    "wysiwyg",
+    "commonmark"
+   ],
+   "updated": "2024-08-01T15:38:05Z"
+  },
+  {
+   "full": "tinymce/tinymce",
+   "desc": "The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular",
+   "stars": 16317,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "editor",
+    "tinymce",
+    "contenteditable",
+    "wysiwyg",
+    "rich-text-editor",
+    "wysiwyg-editor",
+    "wysiwyg-html-editor"
+   ],
+   "updated": "2026-10-28T04:13:12Z"
+  },
+  {
+   "full": "yabwe/medium-editor",
+   "desc": "Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.",
+   "stars": 16099,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "editor",
+    "contenteditable",
+    "wysiwyg",
+    "rich-text-editor",
+    "medium-editor"
+   ],
+   "updated": "2024-10-24T07:27:48Z"
+  },
+  {
+   "full": "iggredible/Learn-Vim",
+   "desc": "Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖",
+   "stars": 15358,
+   "lang": "Dockerfile",
+   "topics": [
+    "vim",
+    "editor",
+    "linux",
+    "learning",
+    "education",
+    "unix",
+    "tutorial",
+    "programming",
+    "book",
+    "book-series",
+    "advanced",
+    "code-editor"
+   ],
+   "updated": "2026-09-07T20:12:20Z"
+  },
+  {
+   "full": "limetext/lime",
+   "desc": "Open source API-compatible alternative to the text editor Sublime Text",
+   "stars": 15276,
+   "lang": null,
+   "topics": [
+    "editor",
+    "golang",
+    "text-editor"
+   ],
+   "updated": "2021-01-02T13:10:47Z"
+  },
+  {
+   "full": "dail8859/NotepadNext",
+   "desc": "A cross-platform, reimplementation of Notepad++",
+   "stars": 14756,
+   "lang": "C++",
+   "topics": [
+    "editor",
+    "macos",
+    "linux",
+    "qt",
+    "notepad",
+    "desktop",
+    "notepad-plus-plus",
+    "qt6"
+   ],
+   "updated": "2026-10-26T04:30:24Z"
+  },
+  {
+   "full": "microsoft/edit",
+   "desc": "We all edit.",
+   "stars": 14746,
+   "lang": "Rust",
+   "topics": [
+    "editor",
+    "rust",
+    "terminal",
+    "text-editor"
+   ],
+   "updated": "2026-11-02T20:04:31Z"
+  },
+  {
+   "full": "pandao/editor.md",
+   "desc": "The open source embeddable online markdown editor (component).",
+   "stars": 14310,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "editor",
+    "jquery",
+    "markdown",
+    "gfm",
+    "documentation",
+    "markdown-editor",
+    "marked",
+    "codemirror",
+    "commonmark",
+    "toc",
+    "katex"
+   ],
+   "updated": "2024-04-26T08:55:55Z"
+  },
+  {
+   "full": "gitpod-io/gitpod",
+   "desc": "The developer platform for on-demand cloud development environments to create software faster and more securely.",
+   "stars": 13804,
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "cloud",
+    "jetbrains",
+    "ide",
+    "vscode",
+    "cloud-ide",
+    "code-review",
+    "disposable",
+    "developer-experience",
+    "ephemeral",
+    "cloud-development",
+    "dev-environment"
+   ],
+   "updated": "2026-11-02T16:46:52Z"
+  },
+  {
+   "full": "doocs/md",
+   "desc": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性",
+   "stars": 13506,
+   "lang": "TypeScript",
+   "topics": [
+    "editor",
+    "markdown",
+    "vue",
+    "markdown-editor",
+    "weixin",
+    "wechat",
+    "tailwindcss",
+    "vue3",
+    "vite",
+    "ai-bot",
+    "doocs",
+    "llm"
+   ],
+   "updated": "2026-11-01T14:25:09Z"
+  },
+  {
+   "full": "vnotex/vnote",
+   "desc": "A pleasant note-taking platform with native speed, majoring in Markdown, MindMap, Typst, and plain text.",
+   "stars": 13029,
+   "lang": "C++",
+   "topics": [
+    "vim",
+    "editor",
+    "markdown",
+    "mathjax",
+    "note-taking",
+    "mindmap",
+    "vnote",
+    "typst"
+   ],
+   "updated": "2026-11-02T16:59:59Z"
+  },
+  {
+   "full": "mapeditor/tiled",
+   "desc": "Flexible level editor",
+   "stars": 13022,
+   "lang": "C++",
+   "topics": [
+    "game",
+    "java",
+    "editor",
+    "c-plus-plus",
+    "level",
+    "qt",
+    "tile",
+    "game-development",
+    "map-editor",
+    "level-editor",
+    "qt-framework",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T07:53:48Z"
+  },
+  {
+   "full": "jaredreich/pell",
+   "desc": "📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies",
+   "stars": 12044,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "editor",
+    "contenteditable",
+    "wysiwyg",
+    "text-editor",
+    "rich-text-editor",
+    "wysiwyg-editor",
+    "text-editing"
+   ],
+   "updated": "2024-05-12T17:09:57Z"
+  },
+  {
+   "full": "Milkdown/milkdown",
+   "desc": "🍼 Plugin driven WYSIWYG markdown editor framework.",
+   "stars": 12038,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "editor",
+    "markdown",
+    "gfm",
+    "typescript",
+    "markdown-editor",
+    "prosemirror",
+    "wysiwyg",
+    "rich-text-editor",
+    "wysiwyg-editor",
+    "remarkjs",
+    "milkdown"
+   ],
+   "updated": "2026-11-02T11:01:23Z"
+  },
+  {
+   "full": "LightTable/LightTable",
+   "desc": "The Light Table IDE ⛺",
+   "stars": 11690,
+   "lang": "Clojure",
+   "topics": [
+    "editor",
+    "clojure",
+    "clojurescript",
+    "ide",
+    "lighttable",
+    "clojure-development"
+   ],
+   "updated": "2022-06-17T00:20:21Z"
+  },
+  {
+   "full": "neovim/neovim",
+   "desc": "Vim-fork focused on extensibility and usability",
+   "stars": 103312,
+   "lang": "Vim Script",
+   "topics": [
+    "c",
+    "vim",
+    "api",
+    "lua",
+    "neovim",
+    "nvim",
+    "text-editor"
+   ],
+   "updated": "2026-11-02T19:34:23Z"
+  },
+  {
+   "full": "junegunn/fzf",
+   "desc": "🌸 A command-line fuzzy finder",
+   "stars": 83949,
+   "lang": "Go",
+   "topics": [
+    "vim",
+    "go",
+    "bash",
+    "zsh",
+    "tmux",
+    "cli",
+    "fish",
+    "unix",
+    "neovim",
+    "fzf"
+   ],
+   "updated": "2026-11-02T13:18:35Z"
+  },
+  {
+   "full": "sxyazi/yazi",
+   "desc": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+   "stars": 43192,
+   "lang": "Rust",
+   "topics": [
+    "android",
+    "vim",
+    "windows",
+    "macos",
+    "linux",
+    "rust",
+    "cli",
+    "productivity",
+    "terminal",
+    "cross-platform",
+    "neovim",
+    "command-line"
+   ],
+   "updated": "2026-11-02T13:36:41Z"
+  },
+  {
+   "full": "NvChad/NvChad",
+   "desc": "Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.",
+   "stars": 28529,
+   "lang": "Lua",
+   "topics": [
+    "vim",
+    "dotfiles",
+    "open-source",
+    "vimrc",
+    "lua",
+    "neovim",
+    "rice",
+    "ide",
+    "vscode",
+    "nvim",
+    "neovim-dotfiles",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-24T22:01:42Z"
+  },
+  {
+   "full": "LazyVim/LazyVim",
+   "desc": "Neovim config for the lazy",
+   "stars": 27787,
+   "lang": "Lua",
+   "topics": [
+    "neovim",
+    "nvim",
+    "neovim-conf",
+    "neovim-plugin",
+    "neovim-configuration",
+    "neovim-config"
+   ],
+   "updated": "2026-10-28T09:09:52Z"
+  },
+  {
+   "full": "folke/lazy.nvim",
+   "desc": "💤 A modern plugin manager for Neovim",
+   "stars": 21701,
+   "lang": "Lua",
+   "topics": [
+    "package-manager",
+    "plugin-manager",
+    "neovim",
+    "nvim",
+    "neovim-plugin"
+   ],
+   "updated": "2026-06-29T18:23:04Z"
+  },
+  {
+   "full": "rockerBOO/awesome-neovim",
+   "desc": "Collections of awesome neovim plugins.",
+   "stars": 21539,
+   "lang": "Shell",
+   "topics": [
+    "awesome",
+    "neovim",
+    "awesome-list",
+    "neovim-plugins",
+    "nvim-lua"
+   ],
+   "updated": "2026-10-31T19:27:34Z"
+  },
+  {
+   "full": "wsdjeg/SpaceVim",
+   "desc": "A modular configuration of Vim and Neovim",
+   "stars": 20180,
+   "lang": "Vim Script",
+   "topics": [
+    "vim",
+    "vimrc",
+    "neovim",
+    "vim-plugin",
+    "spacevim",
+    "neovim-plugin"
+   ],
+   "updated": "2025-02-17T14:14:00Z"
+  },
+  {
+   "full": "nvim-telescope/telescope.nvim",
+   "desc": "Find, Filter, Preview, Pick. All lua, all the time.",
+   "stars": 19844,
+   "lang": "Lua",
+   "topics": [
+    "lua",
+    "neovim",
+    "nvim",
+    "neovim-plugin",
+    "nvim-lua"
+   ],
+   "updated": "2026-10-26T23:24:29Z"
+  },
+  {
+   "full": "LunarVim/LunarVim",
+   "desc": "🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.",
+   "stars": 19251,
+   "lang": "Lua",
+   "topics": [
+    "vim",
+    "snippets",
+    "vimrc",
+    "lua",
+    "neovim",
+    "ide",
+    "vscode",
+    "nvim",
+    "linters",
+    "formatters",
+    "hacktoberfest",
+    "neovim-configuration"
+   ],
+   "updated": "2025-06-05T15:05:30Z"
+  },
+  {
+   "full": "mhinz/vim-galore",
+   "desc": "🎓 All things Vim!",
+   "stars": 18040,
+   "lang": "Vim Script",
+   "topics": [
+    "vim",
+    "viml",
+    "awesome",
+    "neovim",
+    "guide",
+    "tips",
+    "tricks",
+    "help",
+    "vim-scripts",
+    "learn",
+    "awesome-list"
+   ],
+   "updated": "2023-12-22T22:15:38Z"
+  },
+  {
+   "full": "neovide/neovide",
+   "desc": "No Nonsense Neovim Client in Rust",
+   "stars": 15293,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "neovim",
+    "gpu",
+    "skia",
+    "neovim-guis"
+   ],
+   "updated": "2026-11-01T05:31:31Z"
+  },
+  {
+   "full": "nvim-treesitter/nvim-treesitter",
+   "desc": "Nvim Treesitter configurations and abstraction layer",
+   "stars": 14503,
+   "lang": "Tree-sitter Query",
+   "topics": [
+    "tree-sitter",
+    "neovim",
+    "nvim-treesitter"
+   ],
+   "updated": "2026-11-02T09:41:25Z"
+  },
+  {
+   "full": "AstroNvim/AstroNvim",
+   "desc": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+   "stars": 14473,
+   "lang": "Lua",
+   "topics": [
+    "vim",
+    "lua",
+    "neovim",
+    "ide",
+    "nvim",
+    "neovim-dotfiles",
+    "neovim-plugin",
+    "hacktoberfest",
+    "neovim-configuration",
+    "neovim-lua",
+    "neovim-config",
+    "neovim-setup"
+   ],
+   "updated": "2026-10-30T15:37:35Z"
+  },
+  {
+   "full": "dense-analysis/ale",
+   "desc": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
+   "stars": 14022,
+   "lang": "Vim Script",
+   "topics": [
+    "vim",
+    "autocomplete",
+    "lua",
+    "neovim",
+    "vim-plugin",
+    "linter",
+    "vim-plugins",
+    "language-server-protocol",
+    "syntax-checker",
+    "neovim-plugin",
+    "lua-plugin",
+    "languageclient"
+   ],
+   "updated": "2026-10-20T08:31:33Z"
+  },
+  {
+   "full": "neovim/nvim-lspconfig",
+   "desc": "Quickstart configs for Nvim LSP",
+   "stars": 13998,
+   "lang": "Lua",
+   "topics": [
+    "plugin",
+    "vim",
+    "neovim",
+    "language-server",
+    "language-server-protocol",
+    "nvim",
+    "lsp"
+   ],
+   "updated": "2026-11-02T13:18:46Z"
+  },
+  {
+   "full": "onivim/oni",
+   "desc": "Oni: Modern Modal Editing - powered by Neovim",
+   "stars": 11229,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "redux",
+    "javascript",
+    "vim",
+    "editor",
+    "gui",
+    "typescript",
+    "rxjs",
+    "ui",
+    "neovim",
+    "ide",
+    "editing"
+   ],
+   "updated": "2020-04-01T15:27:11Z"
+  },
+  {
+   "full": "dmtrKovalenko/fff",
+   "desc": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS",
+   "stars": 11211,
+   "lang": "Rust",
+   "topics": [
+    "nodejs",
+    "python",
+    "rust",
+    "lua",
+    "neovim",
+    "fzf",
+    "grep",
+    "neovim-plugin",
+    "fff",
+    "bun",
+    "filesearch"
+   ],
+   "updated": "2026-11-01T05:54:27Z"
+  },
+  {
+   "full": "wsdjeg/vim-galore-zh_cn",
+   "desc": "Vim 从入门到精通",
+   "stars": 10577,
+   "lang": "Vim Script",
+   "topics": [
+    "vim",
+    "neovim",
+    "spacevim",
+    "tutor"
+   ],
+   "updated": "2024-12-30T06:07:39Z"
+  },
+  {
+   "full": "mason-org/mason.nvim",
+   "desc": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+   "stars": 10523,
+   "lang": "Lua",
+   "topics": [
+    "package-manager",
+    "package",
+    "lua",
+    "packages",
+    "neovim",
+    "nvim",
+    "neovim-plugin",
+    "mason",
+    "nvim-plugin",
+    "nvim-lsp-installer"
+   ],
+   "updated": "2026-06-19T01:05:36Z"
+  },
+  {
+   "full": "junegunn/fzf.vim",
+   "desc": "fzf ❤️ vim",
+   "stars": 10267,
+   "lang": "Vim Script",
+   "topics": [
+    "vim",
+    "neovim",
+    "fzf"
+   ],
+   "updated": "2026-09-30T12:28:26Z"
+  },
+  {
+   "full": "nvim-mini/mini.nvim",
+   "desc": "Library of 45+ independent Lua modules improving Neovim experience with minimal effort",
+   "stars": 9623,
+   "lang": "Lua",
+   "topics": [
+    "lua",
+    "neovim",
+    "neovim-plugin",
+    "mini-nvim"
+   ],
+   "updated": "2026-10-30T15:54:25Z"
+  },
+  {
+   "full": "nvim-tree/nvim-tree.lua",
+   "desc": "A file explorer tree for neovim written in lua",
+   "stars": 8674,
+   "lang": "Lua",
+   "topics": [
+    "lua",
+    "neovim",
+    "file-explorer"
+   ],
+   "updated": "2026-11-02T01:32:31Z"
+  },
+  {
+   "full": "airblade/vim-gitgutter",
+   "desc": "A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.",
+   "stars": 8520,
+   "lang": "Vim Script",
+   "topics": [
+    "git",
+    "vim",
+    "diff",
+    "neovim",
+    "gitgutter"
+   ],
+   "updated": "2026-07-21T11:08:11Z"
+  },
+  {
+   "full": "folke/tokyonight.nvim",
+   "desc": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+   "stars": 8234,
+   "lang": "Lua",
+   "topics": [
+    "vim",
+    "neovim",
+    "iterm2",
+    "fish-shell",
+    "vim-colorscheme",
+    "fish-theme",
+    "kitty",
+    "alacritty",
+    "neovim-colorscheme",
+    "vim-theme",
+    "neovim-lua",
+    "iterm2-colors"
+   ],
+   "updated": "2026-03-24T15:25:11Z"
+  },
+  {
+   "full": "nvim-lualine/lualine.nvim",
+   "desc": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+   "stars": 8166,
+   "lang": "Lua",
+   "topics": [
+    "lua",
+    "neovim",
+    "nvim",
+    "statusline",
+    "neovim-plugin",
+    "neovim-lua",
+    "lualine",
+    "neovim-statusline"
+   ],
+   "updated": "2026-05-31T02:29:19Z"
+  },
+  {
+   "full": "wbthomason/packer.nvim",
+   "desc": "A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",
+   "stars": 8085,
+   "lang": "Lua",
+   "topics": [
+    "package-manager",
+    "plugin-manager",
+    "lua",
+    "packer",
+    "neovim",
+    "nvim",
+    "neovim-plugin"
+   ],
+   "updated": "2024-03-05T19:20:31Z"
+  },
+  {
+   "full": "iamcco/markdown-preview.nvim",
+   "desc": "markdown preview plugin for (neo)vim",
+   "stars": 8026,
+   "lang": "JavaScript",
+   "topics": [
+    "vim",
+    "markdown",
+    "neovim",
+    "preview"
+   ],
+   "updated": "2024-07-23T03:45:01Z"
+  },
+  {
+   "full": "vscode-neovim/vscode-neovim",
+   "desc": "Vim mode for VSCode, powered by Neovim",
+   "stars": 7758,
+   "lang": "TypeScript",
+   "topics": [
+    "vim",
+    "neovim",
+    "vscode",
+    "nvim",
+    "vscode-extension",
+    "neovim-guis",
+    "hacktoberfest",
+    "neovim-clients",
+    "vscode-neovim",
+    "neovim-backend"
+   ],
+   "updated": "2026-11-01T10:49:33Z"
+  },
+  {
+   "full": "catppuccin/nvim",
+   "desc": "🍨 Soothing pastel theme for Neovim",
+   "stars": 7661,
+   "lang": "Lua",
+   "topics": [
+    "vim",
+    "theme",
+    "lua",
+    "neovim",
+    "colorscheme",
+    "nvim",
+    "neovim-plugin",
+    "hacktoberfest",
+    "neovim-colorscheme",
+    "vim-theme",
+    "neovim-lua",
+    "neovim-theme"
+   ],
+   "updated": "2026-10-16T16:52:47Z"
+  },
+  {
+   "full": "nvim-neorg/neorg",
+   "desc": "Modernity meets insane extensibility. The future of organizing your life in Neovim.",
+   "stars": 7514,
+   "lang": "Lua",
+   "topics": [
+    "lua",
+    "neovim",
+    "organization",
+    "nvim",
+    "org-mode",
+    "neovim-plugin",
+    "neorg"
+   ],
+   "updated": "2026-08-14T16:41:11Z"
+  },
+  {
+   "full": "folke/which-key.nvim",
+   "desc": "💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.",
+   "stars": 7331,
+   "lang": "Lua",
+   "topics": [
+    "lua",
+    "neovim",
+    "neovim-plugin",
+    "neovim-lua"
+   ],
+   "updated": "2025-10-28T16:02:50Z"
+  },
+  {
+   "full": "mfussenegger/nvim-dap",
+   "desc": "Debug Adapter Protocol client implementation for Neovim",
+   "stars": 7294,
+   "lang": "Lua",
+   "topics": [
+    "debugger",
+    "neovim",
+    "neovim-plugin",
+    "debug-adapter-protocol"
+   ],
+   "updated": "2026-09-11T14:13:28Z"
+  },
+  {
+   "full": "lewis6991/gitsigns.nvim",
+   "desc": "Git integration for buffers",
+   "stars": 7160,
+   "lang": "Lua",
+   "topics": [
+    "git",
+    "lua",
+    "neovim",
+    "nvim",
+    "neovim-plugin",
+    "neovim-lua-plugin"
+   ],
+   "updated": "2026-11-02T16:15:23Z"
+  },
+  {
+   "full": "qvacua/vimr",
+   "desc": "VimR — Neovim GUI for macOS in Swift",
+   "stars": 7013,
+   "lang": "Swift",
+   "topics": [
+    "vim",
+    "macos",
+    "swift",
+    "objective-c",
+    "neovim",
+    "cocoa",
+    "neovim-guis",
+    "neovim-clients",
+    "neovim-experience"
+   ],
+   "updated": "2026-10-10T11:11:03Z"
+  },
+  {
+   "full": "stevearc/oil.nvim",
+   "desc": "Neovim file explorer: edit your filesystem like a buffer",
+   "stars": 6967,
+   "lang": "Lua",
+   "topics": [
+    "neovim",
+    "nvim",
+    "neovim-plugin",
+    "nvim-plugin"
+   ],
+   "updated": "2026-10-12T01:05:54Z"
+  },
+  {
+   "full": "olimorris/codecompanion.nvim",
+   "desc": "✨ AI Coding, Vim Style",
+   "stars": 6919,
+   "lang": "Lua",
+   "topics": [
+    "plugin",
+    "agent",
+    "neovim",
+    "nvim",
+    "gemini",
+    "openai",
+    "acp",
+    "copilot",
+    "kimi",
+    "llm",
+    "anthropic",
+    "openrouter"
+   ],
+   "updated": "2026-11-02T18:28:57Z"
+  },
+  {
+   "full": "folke/trouble.nvim",
+   "desc": "🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",
+   "stars": 6909,
+   "lang": "Lua",
+   "topics": [
+    "lua",
+    "neovim",
+    "neovim-plugin",
+    "neovim-lua",
+    "neovim-lsp"
+   ],
+   "updated": "2025-10-31T14:02:34Z"
+  },
+  {
+   "full": "saghen/blink.cmp",
+   "desc": "Performant, batteries-included completion plugin for Neovim",
+   "stars": 6650,
+   "lang": "Lua",
+   "topics": [
+    "neovim",
+    "neovim-plugin",
+    "neovim-lua-plugin"
+   ],
+   "updated": "2026-11-02T15:55:24Z"
+  },
+  {
+   "full": "rebelot/kanagawa.nvim",
+   "desc": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+   "stars": 6442,
+   "lang": "Lua",
+   "topics": [
+    "syntax-highlighting",
+    "theme",
+    "lua",
+    "neovim",
+    "nvim",
+    "neovim-colorscheme",
+    "terminal-colors",
+    "lsp",
+    "neovim-theme",
+    "tree-sitter-highlight"
+   ],
+   "updated": "2026-05-10T16:31:53Z"
+  }
+ ]
+}

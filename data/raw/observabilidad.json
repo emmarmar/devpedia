@@ -1,0 +1,1372 @@
+{
+ "subId": "observabilidad",
+ "topics": [
+  "monitoring",
+  "observability"
+ ],
+ "crawledAt": "2026-11-02T20:18:36.883Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "ruvnet/RuView",
+   "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+   "stars": 102097,
+   "lang": "Rust",
+   "topics": [
+    "react",
+    "home-automation",
+    "npm",
+    "iot",
+    "awesome",
+    "typescript",
+    "networking",
+    "monitoring",
+    "firmware",
+    "skills",
+    "esp32",
+    "wifi"
+   ],
+   "updated": "2026-11-02T18:12:18Z"
+  },
+  {
+   "full": "louislam/uptime-kuma",
+   "desc": "A fancy self-hosted monitoring tool",
+   "stars": 93191,
+   "lang": "JavaScript",
+   "topics": [
+    "docker",
+    "monitor",
+    "monitoring",
+    "responsive",
+    "single-page-app",
+    "websocket",
+    "socket-io",
+    "selfhosted",
+    "self-hosted",
+    "uptime",
+    "webapp",
+    "uptime-monitoring"
+   ],
+   "updated": "2026-11-02T14:41:09Z"
+  },
+  {
+   "full": "koala73/worldmonitor",
+   "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+   "stars": 90022,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "opensource",
+    "osint",
+    "news",
+    "ai",
+    "monitoring",
+    "dashboard",
+    "mcp",
+    "palantir",
+    "geopolitics",
+    "situation",
+    "mcp-server"
+   ],
+   "updated": "2026-11-02T20:10:56Z"
+  },
+  {
+   "full": "netdata/netdata",
+   "desc": "The fastest path to AI-powered full stack observability, even for lean teams.",
+   "stars": 81256,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "linux",
+    "docker",
+    "kubernetes",
+    "devops",
+    "machine-learning",
+    "database",
+    "ai",
+    "monitoring",
+    "mongodb",
+    "influxdb",
+    "mcp"
+   ],
+   "updated": "2026-11-02T19:15:22Z"
+  },
+  {
+   "full": "grafana/grafana",
+   "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+   "stars": 77640,
+   "lang": "TypeScript",
+   "topics": [
+    "mysql",
+    "go",
+    "elasticsearch",
+    "postgres",
+    "monitoring",
+    "dashboard",
+    "influxdb",
+    "analytics",
+    "metrics",
+    "grafana",
+    "alerting",
+    "prometheus"
+   ],
+   "updated": "2026-11-02T20:12:47Z"
+  },
+  {
+   "full": "prometheus/prometheus",
+   "desc": "The Prometheus monitoring system and time series database.",
+   "stars": 66906,
+   "lang": "Go",
+   "topics": [
+    "monitoring",
+    "time-series",
+    "metrics",
+    "alerting",
+    "prometheus",
+    "graphing",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T19:26:25Z"
+  },
+  {
+   "full": "huginn/huginn",
+   "desc": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+   "stars": 50270,
+   "lang": "Ruby",
+   "topics": [
+    "notifications",
+    "agent",
+    "rss",
+    "scraper",
+    "automation",
+    "monitoring",
+    "huginn",
+    "feed",
+    "feedgenerator",
+    "webscraping"
+   ],
+   "updated": "2026-11-02T13:21:30Z"
+  },
+  {
+   "full": "getsentry/sentry",
+   "desc": "Developer-first error tracking and performance monitoring",
+   "stars": 45697,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "devops",
+    "django",
+    "monitor",
+    "monitoring",
+    "crash-reporting",
+    "error-monitoring",
+    "sentry",
+    "crash-reports",
+    "csp-report",
+    "apm",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T20:16:38Z"
+  },
+  {
+   "full": "Unitech/pm2",
+   "desc": "Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.",
+   "stars": 43331,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "process-manager",
+    "node",
+    "monitoring",
+    "command-line",
+    "deploy",
+    "production",
+    "pm2",
+    "load-balancer",
+    "command-line-tool"
+   ],
+   "updated": "2026-10-23T12:07:20Z"
+  },
+  {
+   "full": "glanceapp/glance",
+   "desc": "A self-hosted dashboard that puts all your feeds in one place",
+   "stars": 37981,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "docker",
+    "rss",
+    "youtube",
+    "reddit",
+    "monitoring",
+    "dashboard",
+    "aggregator",
+    "rss-reader",
+    "homepage",
+    "feed-reader",
+    "self-hosted"
+   ],
+   "updated": "2026-11-02T15:05:27Z"
+  },
+  {
+   "full": "langfuse/langfuse",
+   "desc": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+   "stars": 36899,
+   "lang": "TypeScript",
+   "topics": [
+    "open-source",
+    "playground",
+    "monitoring",
+    "analytics",
+    "evaluation",
+    "self-hosted",
+    "ycombinator",
+    "openai",
+    "observability",
+    "autogen",
+    "large-language-models",
+    "llm"
+   ],
+   "updated": "2026-11-02T19:27:03Z"
+  },
+  {
+   "full": "dgtlmoon/changedetection.io",
+   "desc": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+   "stars": 35461,
+   "lang": "Python",
+   "topics": [
+    "notifications",
+    "rss",
+    "monitoring",
+    "self-hosted",
+    "web-scraping",
+    "website-monitor",
+    "url-monitor",
+    "change-alert",
+    "change-detection",
+    "website-change-monitor",
+    "website-change-tracker",
+    "website-monitoring"
+   ],
+   "updated": "2026-11-02T17:30:32Z"
+  },
+  {
+   "full": "nicolargo/glances",
+   "desc": "Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.",
+   "stars": 33892,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "multi-platform",
+    "terminal",
+    "web",
+    "monitoring",
+    "system",
+    "restful",
+    "restful-api"
+   ],
+   "updated": "2026-11-01T19:10:16Z"
+  },
+  {
+   "full": "SigNoz/signoz",
+   "desc": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined ",
+   "stars": 32509,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "go",
+    "open-source",
+    "typescript",
+    "monitoring",
+    "log",
+    "reactjs",
+    "metrics",
+    "nextjs",
+    "logs",
+    "prometheus",
+    "self-hosted"
+   ],
+   "updated": "2026-11-02T19:43:25Z"
+  },
+  {
+   "full": "influxdata/influxdb",
+   "desc": "Scalable datastore for metrics, events, and real-time analytics",
+   "stars": 31797,
+   "lang": "Rust",
+   "topics": [
+    "react",
+    "go",
+    "rust",
+    "database",
+    "monitoring",
+    "influxdb",
+    "time-series",
+    "metrics"
+   ],
+   "updated": "2026-11-02T20:13:31Z"
+  },
+  {
+   "full": "henrygd/beszel",
+   "desc": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+   "stars": 26785,
+   "lang": "Go",
+   "topics": [
+    "monitoring",
+    "self-hosted",
+    "homelab"
+   ],
+   "updated": "2026-11-01T02:16:18Z"
+  },
+  {
+   "full": "cilium/cilium",
+   "desc": "eBPF-based Networking, Security, and Observability",
+   "stars": 25760,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "security",
+    "networking",
+    "monitoring",
+    "kernel",
+    "containers",
+    "cncf",
+    "k8s",
+    "ebpf",
+    "xdp",
+    "troubleshooting",
+    "observability"
+   ],
+   "updated": "2026-11-02T20:05:24Z"
+  },
+  {
+   "full": "taosdata/TDengine",
+   "desc": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+   "stars": 25183,
+   "lang": "C",
+   "topics": [
+    "iot",
+    "sql",
+    "database",
+    "monitoring",
+    "time-series",
+    "metrics",
+    "cluster",
+    "bigdata",
+    "scalability",
+    "distributed",
+    "cloud-native",
+    "financial-analysis"
+   ],
+   "updated": "2026-11-02T09:27:52Z"
+  },
+  {
+   "full": "osquery/osquery",
+   "desc": "SQL powered operating system instrumentation, monitoring, and analytics.",
+   "stars": 23713,
+   "lang": "C++",
+   "topics": [
+    "security",
+    "sql",
+    "monitoring",
+    "intrusion-detection",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-31T06:05:06Z"
+  },
+  {
+   "full": "pranshuparmar/witr",
+   "desc": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+   "stars": 22906,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "windows",
+    "macos",
+    "linux",
+    "docker",
+    "kubernetes",
+    "cli",
+    "golang",
+    "freebsd",
+    "devops",
+    "terminal",
+    "monitoring"
+   ],
+   "updated": "2026-10-23T03:02:05Z"
+  },
+  {
+   "full": "vectordotdev/vector",
+   "desc": "A high-performance observability data pipeline.",
+   "stars": 22785,
+   "lang": "Rust",
+   "topics": [
+    "agent",
+    "events",
+    "monitoring",
+    "etl",
+    "metrics",
+    "high-performance",
+    "telemetry",
+    "logs",
+    "data-transformation",
+    "pipelines",
+    "datadog",
+    "stream-processing"
+   ],
+   "updated": "2026-11-02T20:16:25Z"
+  },
+  {
+   "full": "openobserve/openobserve",
+   "desc": "Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch wit",
+   "stars": 22700,
+   "lang": "TypeScript",
+   "topics": [
+    "elasticsearch",
+    "kibana",
+    "monitoring",
+    "analytics",
+    "splunk",
+    "metrics",
+    "grafana",
+    "logs",
+    "prometheus",
+    "datadog",
+    "apm",
+    "rust-lang"
+   ],
+   "updated": "2026-11-02T20:09:03Z"
+  },
+  {
+   "full": "allinurl/goaccess",
+   "desc": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+   "stars": 21110,
+   "lang": "C",
+   "topics": [
+    "c",
+    "nginx",
+    "cli",
+    "privacy",
+    "real-time",
+    "terminal",
+    "monitoring",
+    "dashboard",
+    "analytics",
+    "command-line",
+    "webserver",
+    "google-analytics"
+   ],
+   "updated": "2026-10-28T13:04:43Z"
+  },
+  {
+   "full": "didi/DoKit",
+   "desc": "一款面向泛前端产品研发全生命周期的效率平台。",
+   "stars": 20415,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "ios",
+    "performance",
+    "tools",
+    "monitoring",
+    "miniapp",
+    "mockgps"
+   ],
+   "updated": "2026-10-20T08:29:21Z"
+  },
+  {
+   "full": "bettercap/bettercap",
+   "desc": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
+   "stars": 20228,
+   "lang": "Go",
+   "topics": [
+    "security",
+    "monitoring",
+    "hid",
+    "proxy",
+    "mitm",
+    "hacking",
+    "wifi",
+    "ble",
+    "spoofing",
+    "wpa2",
+    "mousejack",
+    "wifi-security"
+   ],
+   "updated": "2026-10-26T04:34:04Z"
+  },
+  {
+   "full": "fail2ban/fail2ban",
+   "desc": "Daemon to ban hosts that cause multiple authentication errors",
+   "stars": 18937,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "macos",
+    "linux",
+    "security",
+    "monitoring",
+    "bsd",
+    "ids",
+    "intrusion-detection",
+    "hids",
+    "fail2ban",
+    "intrusion-prevention",
+    "gplv2"
+   ],
+   "updated": "2026-11-02T17:48:49Z"
+  },
+  {
+   "full": "dianping/cat",
+   "desc": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",
+   "stars": 18936,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "monitoring",
+    "metrics",
+    "realtime",
+    "distributed",
+    "apm",
+    "tracing"
+   ],
+   "updated": "2025-01-04T10:23:47Z"
+  },
+  {
+   "full": "VictoriaMetrics/VictoriaMetrics",
+   "desc": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+   "stars": 18000,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "database",
+    "monitoring",
+    "influxdb",
+    "metrics",
+    "grafana",
+    "graphite",
+    "prometheus",
+    "opentsdb",
+    "tsdb",
+    "observability",
+    "promql"
+   ],
+   "updated": "2026-11-02T14:32:23Z"
+  },
+  {
+   "full": "influxdata/telegraf",
+   "desc": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+   "stars": 17893,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "mqtt",
+    "json",
+    "kafka",
+    "monitoring",
+    "influxdb",
+    "time-series",
+    "metrics",
+    "logs",
+    "modbus",
+    "telegraf",
+    "xpath"
+   ],
+   "updated": "2026-11-02T16:53:20Z"
+  },
+  {
+   "full": "bcicen/ctop",
+   "desc": "Top-like interface for container metrics",
+   "stars": 17844,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "commandline",
+    "monitoring",
+    "command-line",
+    "containers",
+    "top",
+    "runc"
+   ],
+   "updated": "2024-07-08T11:15:48Z"
+  },
+  {
+   "full": "winsiderss/systeminformer",
+   "desc": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
+   "stars": 16397,
+   "lang": "C",
+   "topics": [
+    "windows",
+    "debugger",
+    "security",
+    "benchmarking",
+    "process-manager",
+    "performance",
+    "monitor",
+    "monitoring",
+    "realtime",
+    "administrator",
+    "process-monitor",
+    "performance-tuning"
+   ],
+   "updated": "2026-11-02T15:54:36Z"
+  },
+  {
+   "full": "sqshq/sampler",
+   "desc": "Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.",
+   "stars": 14811,
+   "lang": "Go",
+   "topics": [
+    "visualization",
+    "shell",
+    "golang",
+    "charts",
+    "terminal",
+    "monitoring",
+    "command-line",
+    "alerting",
+    "cmd",
+    "sampler",
+    "command-line-tool",
+    "dashbord"
+   ],
+   "updated": "2024-02-22T10:21:15Z"
+  },
+  {
+   "full": "thanos-io/thanos",
+   "desc": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+   "stars": 14266,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "monitoring",
+    "storage",
+    "metrics",
+    "s3",
+    "google-cloud-storage",
+    "cncf",
+    "prometheus",
+    "high-availability",
+    "hacktoberfest",
+    "observability",
+    "prometheus-ha-pairs"
+   ],
+   "updated": "2026-10-30T18:41:48Z"
+  },
+  {
+   "full": "ClementTsang/bottom",
+   "desc": "Yet another cross-platform graphical process/system monitor.",
+   "stars": 14149,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "cli",
+    "terminal",
+    "monitoring",
+    "cross-platform",
+    "tui",
+    "top",
+    "bottom",
+    "btm"
+   ],
+   "updated": "2026-11-02T16:58:12Z"
+  },
+  {
+   "full": "pinpoint-apm/pinpoint",
+   "desc": "APM, (Application Performance Management) tool for large-scale distributed systems.",
+   "stars": 13871,
+   "lang": "Java",
+   "topics": [
+    "agent",
+    "performance",
+    "monitoring",
+    "apm",
+    "tracing",
+    "distributed-tracing"
+   ],
+   "updated": "2026-11-02T09:01:55Z"
+  },
+  {
+   "full": "dastergon/awesome-sre",
+   "desc": "A curated list of Site Reliability and Production Engineering resources.",
+   "stars": 13748,
+   "lang": null,
+   "topics": [
+    "devops",
+    "availability",
+    "list",
+    "awesome",
+    "monitoring",
+    "reliability-engineering",
+    "incident-response",
+    "site-reliability-engineering",
+    "production",
+    "post-mortem",
+    "capacity-planning",
+    "service-level-agreement"
+   ],
+   "updated": "2025-08-28T14:43:14Z"
+  },
+  {
+   "full": "ccfos/nightingale",
+   "desc": "Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.",
+   "stars": 13428,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "monitoring",
+    "time-series",
+    "metrics",
+    "clickhouse",
+    "alerting",
+    "logs",
+    "prometheus",
+    "self-hosted",
+    "on-call",
+    "sre",
+    "loki"
+   ],
+   "updated": "2026-11-01T13:19:24Z"
+  },
+  {
+   "full": "TwiN/gatus",
+   "desc": "Automated developer-oriented status page with alerting and incident support",
+   "stars": 12481,
+   "lang": "Go",
+   "topics": [
+    "notifications",
+    "go",
+    "slack",
+    "docker",
+    "golang",
+    "status",
+    "devops",
+    "monitor",
+    "monitoring",
+    "dashboard",
+    "alerting",
+    "container"
+   ],
+   "updated": "2026-10-29T06:23:05Z"
+  },
+  {
+   "full": "keephq/keep",
+   "desc": "The open-source AIOps and alert management platform",
+   "stars": 12474,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "alarm",
+    "alerts",
+    "monitoring",
+    "alerting",
+    "python3",
+    "workflow-automation",
+    "monitoring-tool",
+    "alarms",
+    "aiops"
+   ],
+   "updated": "2026-11-02T15:30:26Z"
+  },
+  {
+   "full": "grafana/pyroscope",
+   "desc": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+   "stars": 11710,
+   "lang": "Go",
+   "topics": [
+    "ruby",
+    "python",
+    "linux",
+    "golang",
+    "devops",
+    "performance",
+    "monitoring",
+    "developer-tools",
+    "profiling",
+    "hacktoberfest",
+    "observability",
+    "continuous-profiling"
+   ],
+   "updated": "2026-11-02T20:06:13Z"
+  },
+  {
+   "full": "mlflow/mlflow",
+   "desc": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models an",
+   "stars": 28630,
+   "lang": "Python",
+   "topics": [
+    "open-source",
+    "machine-learning",
+    "ai",
+    "apache-spark",
+    "evaluation",
+    "ml",
+    "openai",
+    "agents",
+    "observability",
+    "model-management",
+    "mlops",
+    "mlflow"
+   ],
+   "updated": "2026-11-02T19:26:00Z"
+  },
+  {
+   "full": "apache/skywalking",
+   "desc": "APM, Application Performance Monitoring System",
+   "stars": 24984,
+   "lang": "Java",
+   "topics": [
+    "web-performance",
+    "metrics",
+    "logging",
+    "prometheus",
+    "zabbix",
+    "telegraf",
+    "apm",
+    "dapper",
+    "ebpf",
+    "service-mesh",
+    "observability",
+    "distributed-tracing"
+   ],
+   "updated": "2026-11-02T13:56:08Z"
+  },
+  {
+   "full": "PrefectHQ/prefect",
+   "desc": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+   "stars": 24109,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "infrastructure",
+    "workflow",
+    "data-science",
+    "data",
+    "automation",
+    "pipeline",
+    "workflow-engine",
+    "orchestration",
+    "data-engineering",
+    "observability",
+    "prefect"
+   ],
+   "updated": "2026-11-02T18:36:17Z"
+  },
+  {
+   "full": "mikeroyal/Self-Hosting-Guide",
+   "desc": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+   "stars": 23437,
+   "lang": "Dockerfile",
+   "topics": [
+    "search",
+    "linux",
+    "ssh",
+    "open-source",
+    "home-automation",
+    "raspberry-pi",
+    "oauth",
+    "awesome",
+    "privacy",
+    "authentication",
+    "docker-compose",
+    "decentralized"
+   ],
+   "updated": "2025-06-27T01:51:16Z"
+  },
+  {
+   "full": "jaegertracing/jaeger",
+   "desc": "CNCF Jaeger, a Distributed Tracing Platform",
+   "stars": 23366,
+   "lang": "Go",
+   "topics": [
+    "cncf",
+    "tracing",
+    "hacktoberfest",
+    "observability",
+    "distributed-tracing",
+    "jaeger",
+    "opentelemetry"
+   ],
+   "updated": "2026-11-02T19:16:41Z"
+  },
+  {
+   "full": "NirDiamant/agents-towards-production",
+   "desc": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+   "stars": 21812,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "agent",
+    "deployment",
+    "mcp",
+    "production",
+    "tutorials",
+    "agents",
+    "observability",
+    "multi-agent-systems",
+    "ai-agents",
+    "rag",
+    "mlops"
+   ],
+   "updated": "2026-11-02T00:45:51Z"
+  },
+  {
+   "full": "elastic/kibana",
+   "desc": "Your window into all of your data",
+   "stars": 21356,
+   "lang": "TypeScript",
+   "topics": [
+    "elasticsearch",
+    "kibana",
+    "metrics",
+    "dashboards",
+    "visualizations",
+    "hacktoberfest",
+    "observability"
+   ],
+   "updated": "2026-11-02T20:17:51Z"
+  },
+  {
+   "full": "openzipkin/zipkin",
+   "desc": "Zipkin is a distributed tracing system",
+   "stars": 17476,
+   "lang": "Java",
+   "topics": [
+    "tracing",
+    "zipkin",
+    "observability",
+    "distributed-tracing",
+    "openzipkin"
+   ],
+   "updated": "2026-08-06T04:10:29Z"
+  },
+  {
+   "full": "Effect-TS/effect",
+   "desc": "Build production-ready applications in TypeScript",
+   "stars": 17464,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "cli",
+    "platform",
+    "typescript",
+    "schema",
+    "clustering",
+    "dependency-injection",
+    "concurrency",
+    "error-handling",
+    "workflows",
+    "effect",
+    "observability"
+   ],
+   "updated": "2026-11-02T19:45:30Z"
+  },
+  {
+   "full": "kubesphere/kubesphere",
+   "desc": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+   "stars": 17076,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "devops",
+    "ai",
+    "skills",
+    "cncf",
+    "cloud-native",
+    "ebpf",
+    "multi-tenancy",
+    "hacktoberfest",
+    "observability",
+    "servicemesh",
+    "kubesphere"
+   ],
+   "updated": "2026-07-15T01:14:39Z"
+  },
+  {
+   "full": "apache/doris",
+   "desc": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+   "stars": 16167,
+   "lang": "Java",
+   "topics": [
+    "search",
+    "agent",
+    "bigquery",
+    "real-time",
+    "sql",
+    "database",
+    "ai",
+    "vector",
+    "snowflake",
+    "olap",
+    "query-engine",
+    "redshift"
+   ],
+   "updated": "2026-11-02T14:22:00Z"
+  },
+  {
+   "full": "gojue/ecapture",
+   "desc": "Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.",
+   "stars": 15527,
+   "lang": "C",
+   "topics": [
+    "android",
+    "linux",
+    "tls",
+    "golang",
+    "ssl",
+    "openssl",
+    "boringssl",
+    "wireshark",
+    "pcapng",
+    "ebpf",
+    "network-analysis",
+    "observability"
+   ],
+   "updated": "2026-10-31T15:58:04Z"
+  },
+  {
+   "full": "Tracer-Cloud/opensre",
+   "desc": "The open-source agent for CI/CD reliability.",
+   "stars": 12665,
+   "lang": "Python",
+   "topics": [
+    "slack",
+    "cli",
+    "devops",
+    "grafana",
+    "site-reliability-engineering",
+    "alerting",
+    "gitlab-ci",
+    "ci-cd",
+    "datadog",
+    "observability",
+    "incident-management",
+    "remediation"
+   ],
+   "updated": "2026-11-02T20:01:13Z"
+  },
+  {
+   "full": "kubeshark/kubeshark",
+   "desc": "eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.",
+   "stars": 12126,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "kubernetes",
+    "golang",
+    "devops",
+    "pcap",
+    "rest",
+    "mcp",
+    "incident-response",
+    "grpc",
+    "sniffer",
+    "wireshark",
+    "cloud-native"
+   ],
+   "updated": "2026-11-01T19:51:17Z"
+  },
+  {
+   "full": "getagentseal/codeburn",
+   "desc": "Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn",
+   "stars": 11664,
+   "lang": "TypeScript",
+   "topics": [
+    "cli",
+    "menubar",
+    "developer-tools",
+    "observability",
+    "codex",
+    "web-dashboard",
+    "terminal-ui",
+    "token-usage",
+    "cost-tracking",
+    "cursor-ide",
+    "ai-coding",
+    "claude-code"
+   ],
+   "updated": "2026-11-02T19:26:57Z"
+  },
+  {
+   "full": "VoltAgent/voltagent",
+   "desc": "AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework",
+   "stars": 10916,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "open-source",
+    "framework",
+    "typescript",
+    "ai",
+    "mcp",
+    "tts",
+    "openai",
+    "chatbots",
+    "multiagent",
+    "agents"
+   ],
+   "updated": "2026-10-15T17:38:41Z"
+  },
+  {
+   "full": "hyperdxio/hyperdx",
+   "desc": "Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.",
+   "stars": 9985,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "kubernetes",
+    "typescript",
+    "monitoring",
+    "dashboard",
+    "analytics",
+    "metrics",
+    "clickhouse",
+    "alerting",
+    "logs",
+    "self-hosted",
+    "apm"
+   ],
+   "updated": "2026-11-02T19:18:26Z"
+  },
+  {
+   "full": "upgundecha/howtheysre",
+   "desc": "A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)",
+   "stars": 9830,
+   "lang": "JavaScript",
+   "topics": [
+    "infrastructure",
+    "security",
+    "devops",
+    "monitoring",
+    "incident-response",
+    "site-reliability-engineering",
+    "post-mortem",
+    "reliability",
+    "alerting",
+    "on-call",
+    "software-engineering",
+    "dev-ops"
+   ],
+   "updated": "2026-09-30T16:05:42Z"
+  },
+  {
+   "full": "highlight/highlight",
+   "desc": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.",
+   "stars": 9385,
+   "lang": "TypeScript",
+   "topics": [
+    "golang",
+    "open-source",
+    "typescript",
+    "monitoring",
+    "metrics",
+    "self-hosted",
+    "full-stack",
+    "apm",
+    "tracing",
+    "observability",
+    "session-replay"
+   ],
+   "updated": "2026-10-23T23:31:08Z"
+  },
+  {
+   "full": "openstatusHQ/openstatus",
+   "desc": "Open-source status page, incident response and uptime monitoring",
+   "stars": 9244,
+   "lang": "TypeScript",
+   "topics": [
+    "open-source",
+    "monitoring",
+    "mcp",
+    "terraform",
+    "alerting",
+    "statuspage",
+    "uptime-monitor",
+    "uptime",
+    "on-call",
+    "sre",
+    "observability",
+    "incident-management"
+   ],
+   "updated": "2026-11-01T10:20:44Z"
+  },
+  {
+   "full": "coroot/coroot",
+   "desc": "Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and inspections.",
+   "stars": 7999,
+   "lang": "Go",
+   "topics": [
+    "ai",
+    "monitoring",
+    "dashboard",
+    "microservice",
+    "metrics",
+    "alerting",
+    "prometheus",
+    "apm",
+    "tracing",
+    "slo",
+    "sre",
+    "ebpf"
+   ],
+   "updated": "2026-11-02T17:16:02Z"
+  },
+  {
+   "full": "OneUptime/oneuptime",
+   "desc": "Complete open-source monitoring and observability platform.",
+   "stars": 7783,
+   "lang": "TypeScript",
+   "topics": [
+    "devops",
+    "monitoring",
+    "incident-response",
+    "on-call",
+    "observability",
+    "incident-management",
+    "status-page"
+   ],
+   "updated": "2026-11-02T20:16:16Z"
+  },
+  {
+   "full": "open-telemetry/opentelemetry-collector",
+   "desc": "OpenTelemetry Collector",
+   "stars": 7729,
+   "lang": "Go",
+   "topics": [
+    "monitoring",
+    "metrics",
+    "telemetry",
+    "observability",
+    "opentelemetry",
+    "open-telemetry"
+   ],
+   "updated": "2026-11-02T19:06:03Z"
+  },
+  {
+   "full": "traceloop/openllmetry",
+   "desc": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
+   "stars": 7516,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "open-source",
+    "monitoring",
+    "metrics",
+    "ml",
+    "datascience",
+    "help-wanted",
+    "observability",
+    "good-first-issue",
+    "artifical-intelligence",
+    "model-monitoring",
+    "opentelemetry"
+   ],
+   "updated": "2026-11-02T13:34:23Z"
+  },
+  {
+   "full": "apache/hertzbeat",
+   "desc": "An AI-powered next-generation open source real-time observability system.",
+   "stars": 7451,
+   "lang": "Java",
+   "topics": [
+    "notifications",
+    "linux",
+    "agent",
+    "status",
+    "monitor",
+    "database",
+    "ai",
+    "monitoring",
+    "server",
+    "metrics",
+    "grafana",
+    "alerting"
+   ],
+   "updated": "2026-11-02T10:04:52Z"
+  },
+  {
+   "full": "FailproofAI/failproofai",
+   "desc": "Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement.",
+   "stars": 7435,
+   "lang": "TypeScript",
+   "topics": [
+    "hooks",
+    "reliability",
+    "npm-package",
+    "hermes",
+    "observability",
+    "enforcement",
+    "codex",
+    "guardrails",
+    "ai-agent",
+    "llm",
+    "evals",
+    "llm-observability"
+   ],
+   "updated": "2026-11-02T14:06:01Z"
+  },
+  {
+   "full": "projectcalico/calico",
+   "desc": "Cloud native networking and network security",
+   "stars": 7409,
+   "lang": "Go",
+   "topics": [
+    "cats",
+    "windows",
+    "kubernetes",
+    "security",
+    "networking",
+    "openstack",
+    "k8s",
+    "ebpf",
+    "xdp",
+    "observability",
+    "cni",
+    "kubernetes-networking"
+   ],
+   "updated": "2026-11-02T19:55:44Z"
+  },
+  {
+   "full": "open-multi-agent/open-multi-agent",
+   "desc": "Self-hosted TypeScript agent runtime with durable approvals and verifiable run records. Own it, approve it, audit it.",
+   "stars": 7043,
+   "lang": "TypeScript",
+   "topics": [
+    "typescript",
+    "mcp",
+    "self-hosted",
+    "multi-agent",
+    "gemini",
+    "openai",
+    "observability",
+    "ai-agents",
+    "claude",
+    "agent-framework",
+    "llm",
+    "ai-governance"
+   ],
+   "updated": "2026-10-29T17:50:03Z"
+  },
+  {
+   "full": "GreptimeTeam/greptimedb",
+   "desc": "The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.",
+   "stars": 6778,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "metrics",
+    "logs",
+    "prometheus",
+    "self-hosted",
+    "distributed-database",
+    "cloud-native",
+    "observability",
+    "object-storage",
+    "ai-agents",
+    "traces",
+    "promql"
+   ],
+   "updated": "2026-11-02T19:05:50Z"
+  }
+ ]
+}

@@ -1,0 +1,1469 @@
+{
+ "subId": "apis",
+ "topics": [
+  "graphql",
+  "rest-api"
+ ],
+ "crawledAt": "2026-11-02T20:17:37.911Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "hoppscotch/hoppscotch",
+   "desc": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
+   "stars": 80723,
+   "lang": "TypeScript",
+   "topics": [
+    "testing",
+    "api",
+    "graphql",
+    "http",
+    "vuejs",
+    "spa",
+    "tools",
+    "pwa",
+    "rest",
+    "vue",
+    "rest-api",
+    "websocket"
+   ],
+   "updated": "2026-10-31T09:16:29Z"
+  },
+  {
+   "full": "strapi/strapi",
+   "desc": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+   "stars": 73425,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "mysql",
+    "api",
+    "graphql",
+    "cms",
+    "typescript",
+    "rest",
+    "dashboard",
+    "content-management",
+    "customizable",
+    "strapi"
+   ],
+   "updated": "2026-11-02T19:24:37Z"
+  },
+  {
+   "full": "twentyhq/twenty",
+   "desc": "The open alternative to Salesforce, designed for AI.",
+   "stars": 60319,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "graphql",
+    "open-source",
+    "sales",
+    "marketing",
+    "typescript",
+    "web",
+    "reactjs",
+    "postgresql",
+    "crm",
+    "monorepo"
+   ],
+   "updated": "2026-11-02T20:13:53Z"
+  },
+  {
+   "full": "gatsbyjs/gatsby",
+   "desc": "React-based framework with performance, scalability, and security built in.",
+   "stars": 55921,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "blog",
+    "graphql",
+    "static-site-generator",
+    "compiler",
+    "web-app",
+    "gatsby"
+   ],
+   "updated": "2026-10-20T11:36:56Z"
+  },
+  {
+   "full": "prettier/prettier",
+   "desc": "Prettier is an opinionated code formatter.",
+   "stars": 52405,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "graphql",
+    "markdown",
+    "flow",
+    "yaml",
+    "less",
+    "json",
+    "formatter",
+    "angular",
+    "typescript"
+   ],
+   "updated": "2026-11-02T19:24:26Z"
+  },
+  {
+   "full": "TanStack/query",
+   "desc": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+   "stars": 50521,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "fetch",
+    "graphql",
+    "hooks",
+    "data",
+    "query",
+    "typescript",
+    "rest",
+    "vue",
+    "solid",
+    "async",
+    "cache"
+   ],
+   "updated": "2026-11-02T17:29:39Z"
+  },
+  {
+   "full": "payloadcms/payload",
+   "desc": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+   "stars": 45624,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "graphql",
+    "open-source",
+    "cms",
+    "postgres",
+    "express",
+    "typescript",
+    "mongodb",
+    "nextjs",
+    "headless"
+   ],
+   "updated": "2026-11-02T20:04:36Z"
+  },
+  {
+   "full": "Kong/insomnia",
+   "desc": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+   "stars": 40111,
+   "lang": "TypeScript",
+   "topics": [
+    "api",
+    "graphql",
+    "curl",
+    "rest-api",
+    "websockets",
+    "grpc",
+    "http-client",
+    "api-client",
+    "electron-app",
+    "api-design"
+   ],
+   "updated": "2026-11-02T10:25:32Z"
+  },
+  {
+   "full": "directus/directus",
+   "desc": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+   "stars": 38799,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "mysql",
+    "api",
+    "graphql",
+    "cms",
+    "app",
+    "node",
+    "typescript",
+    "sql",
+    "database",
+    "vue",
+    "sqlite"
+   ],
+   "updated": "2026-11-02T16:01:50Z"
+  },
+  {
+   "full": "refinedev/refine",
+   "desc": "A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+   "stars": 35981,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "graphql",
+    "internal-tools",
+    "crud",
+    "admin",
+    "typescript",
+    "nextjs",
+    "headless",
+    "developer-tools",
+    "admin-ui",
+    "react-framework"
+   ],
+   "updated": "2026-09-10T12:56:35Z"
+  },
+  {
+   "full": "vxcontrol/pentagi",
+   "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+   "stars": 33056,
+   "lang": "Go",
+   "topics": [
+    "react",
+    "graphql",
+    "golang",
+    "open-source",
+    "self-hosted",
+    "penetration-testing",
+    "openai",
+    "gpt",
+    "offensive-security",
+    "autonomous-agents",
+    "security-automation",
+    "security-tools"
+   ],
+   "updated": "2026-10-22T23:26:13Z"
+  },
+  {
+   "full": "hasura/graphql-engine",
+   "desc": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.",
+   "stars": 32126,
+   "lang": "TypeScript",
+   "topics": [
+    "api",
+    "graphql",
+    "bigquery",
+    "postgres",
+    "haskell",
+    "sql-server",
+    "mongodb",
+    "rest-api",
+    "graphql-server",
+    "access-control",
+    "hasura",
+    "graphql-api"
+   ],
+   "updated": "2026-11-02T17:18:03Z"
+  },
+  {
+   "full": "slymnoyann/hey.xyz",
+   "desc": "Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿",
+   "stars": 29353,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "graphql",
+    "social-media",
+    "typescript",
+    "crypto",
+    "nextjs",
+    "dapp",
+    "blockchain",
+    "web3",
+    "hacktoberfest",
+    "tailwindcss",
+    "turborepo"
+   ],
+   "updated": "2026-09-06T19:08:14Z"
+  },
+  {
+   "full": "marmelab/react-admin",
+   "desc": "A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design",
+   "stars": 26982,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "graphql",
+    "admin",
+    "rest",
+    "single-page-app",
+    "reactjs",
+    "material-ui",
+    "admin-dashboard",
+    "admin-ui",
+    "admin-on-rest",
+    "frontend-framework",
+    "react-admin"
+   ],
+   "updated": "2026-11-02T15:45:08Z"
+  },
+  {
+   "full": "saleor/saleor",
+   "desc": "Saleor Core: the high performance, composable, headless commerce API.",
+   "stars": 23503,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "graphql",
+    "ecommerce",
+    "shopping-cart",
+    "checkout",
+    "commerce",
+    "shop",
+    "headless",
+    "store",
+    "payments",
+    "e-commerce",
+    "pim"
+   ],
+   "updated": "2026-11-02T15:55:46Z"
+  },
+  {
+   "full": "pubkey/rxdb",
+   "desc": "The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/",
+   "stars": 23424,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "couchdb",
+    "graphql",
+    "postgres",
+    "firebase",
+    "angular",
+    "react-native",
+    "database",
+    "ionic",
+    "nosql",
+    "pouchdb",
+    "sqlite"
+   ],
+   "updated": "2026-11-02T14:12:50Z"
+  },
+  {
+   "full": "parse-community/parse-server",
+   "desc": "Parse Server for Node.js / Express",
+   "stars": 21397,
+   "lang": "JavaScript",
+   "topics": [
+    "notifications",
+    "nodejs",
+    "graphql",
+    "postgres",
+    "relay",
+    "mongodb",
+    "backend",
+    "rest-api",
+    "graphql-server",
+    "baas",
+    "parse-server",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-01T21:16:04Z"
+  },
+  {
+   "full": "graphql/graphql-js",
+   "desc": "A reference implementation of GraphQL for JavaScript",
+   "stars": 20344,
+   "lang": "TypeScript",
+   "topics": [
+    "graphql",
+    "graphql-js"
+   ],
+   "updated": "2026-11-02T13:18:00Z"
+  },
+  {
+   "full": "apollographql/apollo-client",
+   "desc": "The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate your app development.",
+   "stars": 19785,
+   "lang": "TypeScript",
+   "topics": [
+    "graphql-client",
+    "graphql",
+    "typescript",
+    "apollo-client",
+    "apollographql"
+   ],
+   "updated": "2026-10-31T20:50:08Z"
+  },
+  {
+   "full": "mountain-loop/yaak",
+   "desc": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬",
+   "stars": 19399,
+   "lang": "TypeScript",
+   "topics": [
+    "graphql",
+    "http",
+    "websocket",
+    "grpc",
+    "http-client",
+    "sse",
+    "tauri",
+    "postman-alternative",
+    "insomnia-alternative",
+    "bruno-alternative"
+   ],
+   "updated": "2026-11-02T06:09:41Z"
+  },
+  {
+   "full": "redwoodjs/graphql",
+   "desc": "RedwoodGraphQL",
+   "stars": 17590,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "graphql",
+    "apollo",
+    "jamstack",
+    "prisma"
+   ],
+   "updated": "2026-11-01T17:07:04Z"
+  },
+  {
+   "full": "graphql/graphiql",
+   "desc": "GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.",
+   "stars": 16928,
+   "lang": "TypeScript",
+   "topics": [
+    "graphql",
+    "vscode",
+    "codemirror",
+    "graphiql",
+    "monaco-editor",
+    "lsp-server",
+    "lsp-mode"
+   ],
+   "updated": "2026-11-02T14:04:55Z"
+  },
+  {
+   "full": "dagger/dagger",
+   "desc": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud",
+   "stars": 16573,
+   "lang": "Go",
+   "topics": [
+    "graphql",
+    "docker",
+    "caching",
+    "devops",
+    "continuous-integration",
+    "containers",
+    "continuous-deployment",
+    "ci-cd",
+    "workflows",
+    "agents"
+   ],
+   "updated": "2026-11-02T20:07:52Z"
+  },
+  {
+   "full": "prisma/prisma1",
+   "desc": "💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]",
+   "stars": 16371,
+   "lang": "Scala",
+   "topics": [
+    "graphql",
+    "orm",
+    "database",
+    "serverless",
+    "dao",
+    "datamapper",
+    "prisma1"
+   ],
+   "updated": "2022-09-01T18:57:41Z"
+  },
+  {
+   "full": "amplication/amplication",
+   "desc": "Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, simplify onboarding, and accelerate standa",
+   "stars": 16011,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "api",
+    "graphql",
+    "typescript",
+    "web",
+    "csharp",
+    "dotnet",
+    "dotnet-core",
+    "code-generation",
+    "hacktoberfest",
+    "csharp-code"
+   ],
+   "updated": "2026-06-30T13:46:55Z"
+  },
+  {
+   "full": "chentsulin/awesome-graphql",
+   "desc": "Awesome list of GraphQL",
+   "stars": 15157,
+   "lang": null,
+   "topics": [
+    "graphql",
+    "list",
+    "awesome",
+    "awesome-list"
+   ],
+   "updated": "2026-11-02T18:26:46Z"
+  },
+  {
+   "full": "apollographql/apollo-server",
+   "desc": "🌍 Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.",
+   "stars": 13959,
+   "lang": "TypeScript",
+   "topics": [
+    "graphql",
+    "koa",
+    "express",
+    "node",
+    "hapi",
+    "graphql-server",
+    "express-graphql",
+    "restify",
+    "apollographql",
+    "graphql-schema",
+    "resolvers"
+   ],
+   "updated": "2026-11-01T12:36:56Z"
+  },
+  {
+   "full": "glideapps/quicktype",
+   "desc": "Generate types and converters from JSON, Schema, and GraphQL",
+   "stars": 13906,
+   "lang": "TypeScript",
+   "topics": [
+    "kotlin",
+    "java",
+    "graphql",
+    "swift",
+    "rust",
+    "golang",
+    "json",
+    "typescript",
+    "csharp",
+    "cplusplus",
+    "objective-c",
+    "json-schema"
+   ],
+   "updated": "2026-10-30T02:49:13Z"
+  },
+  {
+   "full": "graphql/dataloader",
+   "desc": "DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.",
+   "stars": 13391,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "graphql",
+    "batch",
+    "dataloader"
+   ],
+   "updated": "2026-10-18T10:28:49Z"
+  },
+  {
+   "full": "stashapp/stash",
+   "desc": "An organizer for your porn, written in Go. Documentation: https://docs.stashapp.cc",
+   "stars": 13344,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "graphql",
+    "golang",
+    "json",
+    "video",
+    "media",
+    "organizer",
+    "hacktoberfest",
+    "organize",
+    "porn"
+   ],
+   "updated": "2026-11-02T18:33:22Z"
+  },
+  {
+   "full": "graphile/crystal",
+   "desc": "🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!",
+   "stars": 12936,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "api",
+    "graphql",
+    "http",
+    "postgres",
+    "koa",
+    "express",
+    "node",
+    "typescript",
+    "schema",
+    "postgresql",
+    "graphql-js"
+   ],
+   "updated": "2026-11-02T20:04:29Z"
+  },
+  {
+   "full": "reactioncommerce/reaction",
+   "desc": "Project has been discontinued ////// Mailchimp Open Commerce is an API-first, headless commerce platform built using Node.js, React, GraphQL. Deployed via Docker and Kubernetes.",
+   "stars": 12400,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "graphql",
+    "docker",
+    "ecommerce",
+    "marketplace",
+    "mongodb",
+    "commerce",
+    "shop",
+    "headless",
+    "storefront",
+    "ecommerce-platform",
+    "e-commerce"
+   ],
+   "updated": "2026-03-01T22:35:00Z"
+  },
+  {
+   "full": "dotansimha/graphql-code-generator",
+   "desc": "A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.",
+   "stars": 11265,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "android",
+    "java",
+    "graphql",
+    "angular",
+    "typescript",
+    "schema",
+    "csharp",
+    "code-generator",
+    "graphql-schema",
+    "codegen",
+    "resolvers"
+   ],
+   "updated": "2026-11-02T20:02:11Z"
+  },
+  {
+   "full": "TykTechnologies/tyk",
+   "desc": "Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)",
+   "stars": 10873,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "api",
+    "graphql",
+    "kubernetes",
+    "microservices",
+    "ai",
+    "api-management",
+    "api-gateway",
+    "mcp",
+    "grpc",
+    "reverse-proxy",
+    "tyk"
+   ],
+   "updated": "2026-11-02T17:47:26Z"
+  },
+  {
+   "full": "withspectrum/spectrum",
+   "desc": "Simple, powerful online communities.",
+   "stars": 10816,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "graphql",
+    "styled-components",
+    "reactjs",
+    "rethinkdb",
+    "flowtype",
+    "expo"
+   ],
+   "updated": "2022-07-20T03:30:21Z"
+  },
+  {
+   "full": "99designs/gqlgen",
+   "desc": "go generate based graphql server library",
+   "stars": 10773,
+   "lang": "Go",
+   "topics": [
+    "graphql",
+    "golang",
+    "dataloader",
+    "codegen",
+    "subscriptions",
+    "schema-first",
+    "gogenerate"
+   ],
+   "updated": "2026-10-29T12:53:36Z"
+  },
+  {
+   "full": "Agents365-ai/drawio-skill",
+   "desc": "Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view projection, drift diff, CI architecture tes",
+   "stars": 10524,
+   "lang": "Python",
+   "topics": [
+    "graphql",
+    "kubernetes",
+    "protobuf",
+    "diagram",
+    "terraform",
+    "architecture",
+    "uml",
+    "bpmn",
+    "flowchart",
+    "sysml",
+    "architecture-diagram",
+    "drawio"
+   ],
+   "updated": "2026-11-01T07:26:09Z"
+  },
+  {
+   "full": "devhubapp/devhub",
+   "desc": "TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them",
+   "stars": 10146,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "github",
+    "notifications",
+    "react",
+    "redux",
+    "javascript",
+    "android",
+    "windows",
+    "macos",
+    "graphql",
+    "github-api",
+    "ios"
+   ],
+   "updated": "2024-09-07T23:06:30Z"
+  },
+  {
+   "full": "graphql-go/graphql",
+   "desc": "An implementation of GraphQL for Go / Golang",
+   "stars": 10142,
+   "lang": "Go",
+   "topics": [
+    "graphql",
+    "subscriptions",
+    "graphql-go"
+   ],
+   "updated": "2026-06-23T01:29:39Z"
+  },
+  {
+   "full": "keystonejs/keystone",
+   "desc": "The superpowered headless CMS for Node.js — built with GraphQL and React",
+   "stars": 9986,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "graphql",
+    "cms",
+    "keystonejs",
+    "cms-framework"
+   ],
+   "updated": "2026-11-01T22:05:32Z"
+  },
+  {
+   "full": "nocodb/nocodb",
+   "desc": "🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative",
+   "stars": 65408,
+   "lang": "TypeScript",
+   "topics": [
+    "rest-api",
+    "sqlite",
+    "postgresql",
+    "swagger",
+    "spreadsheet",
+    "airtable",
+    "restful-api",
+    "hacktoberfest",
+    "low-code",
+    "no-code",
+    "automatic-api",
+    "no-code-platform"
+   ],
+   "updated": "2026-11-02T14:32:10Z"
+  },
+  {
+   "full": "usebruno/bruno",
+   "desc": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+   "stars": 47992,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "git",
+    "testing",
+    "graphql-client",
+    "automation",
+    "opensource",
+    "rest-api",
+    "http-client",
+    "openapi",
+    "api-client",
+    "developer-tools",
+    "testing-tools"
+   ],
+   "updated": "2026-11-02T17:38:46Z"
+  },
+  {
+   "full": "gofiber/fiber",
+   "desc": "⚡️ Express inspired web framework written in Go",
+   "stars": 40241,
+   "lang": "Go",
+   "topics": [
+    "nodejs",
+    "go",
+    "fast",
+    "golang",
+    "performance",
+    "express",
+    "framework",
+    "web",
+    "flexible",
+    "rest-api",
+    "expressjs",
+    "fiber"
+   ],
+   "updated": "2026-11-02T15:28:27Z"
+  },
+  {
+   "full": "httpie/cli",
+   "desc": "🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+   "stars": 38688,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "api",
+    "debugging",
+    "cli",
+    "http",
+    "client",
+    "devops",
+    "json",
+    "development",
+    "terminal",
+    "web",
+    "rest"
+   ],
+   "updated": "2024-12-17T17:30:35Z"
+  },
+  {
+   "full": "binwiederhier/ntfy",
+   "desc": "Send push notifications to your phone or desktop using PUT/POST",
+   "stars": 35242,
+   "lang": "Go",
+   "topics": [
+    "notifications",
+    "curl",
+    "rest-api",
+    "push-notifications",
+    "pubsub",
+    "ntfy",
+    "ntfysh"
+   ],
+   "updated": "2026-11-02T18:02:23Z"
+  },
+  {
+   "full": "zeromicro/go-zero",
+   "desc": "A cloud-native Go microservices framework with cli tool for productivity.",
+   "stars": 33420,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "microservices",
+    "framework",
+    "microservice",
+    "rest-api",
+    "restful",
+    "gateway",
+    "web-framework",
+    "rpc",
+    "grpc-gateway",
+    "cloud-native"
+   ],
+   "updated": "2026-11-02T19:52:50Z"
+  },
+  {
+   "full": "swagger-api/swagger-ui",
+   "desc": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+   "stars": 29071,
+   "lang": "JavaScript",
+   "topics": [
+    "open-source",
+    "rest",
+    "rest-api",
+    "swagger",
+    "openapi",
+    "swagger-ui",
+    "oas",
+    "hacktoberfest",
+    "openapi-specification",
+    "swagger-api",
+    "openapi3",
+    "swagger-client"
+   ],
+   "updated": "2026-10-31T23:02:33Z"
+  },
+  {
+   "full": "OpenAPITools/openapi-generator",
+   "desc": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+   "stars": 26846,
+   "lang": "Java",
+   "topics": [
+    "api",
+    "sdk",
+    "rest",
+    "generator",
+    "rest-api",
+    "openapi",
+    "api-client",
+    "api-server",
+    "restful-api",
+    "hacktoberfest",
+    "rest-client",
+    "openapi3"
+   ],
+   "updated": "2026-11-02T17:03:31Z"
+  },
+  {
+   "full": "microsoft/api-guidelines",
+   "desc": "Microsoft REST API Guidelines",
+   "stars": 23341,
+   "lang": null,
+   "topics": [
+    "api",
+    "styleguide",
+    "rest-api",
+    "guidelines"
+   ],
+   "updated": "2026-10-30T20:17:50Z"
+  },
+  {
+   "full": "go-chi/chi",
+   "desc": "lightweight, idiomatic and composable router for building Go HTTP services",
+   "stars": 23044,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "api",
+    "golang",
+    "http",
+    "middleware",
+    "microservices",
+    "router",
+    "rest-api",
+    "context"
+   ],
+   "updated": "2026-10-18T13:50:22Z"
+  },
+  {
+   "full": "Evil0ctal/Douyin_TikTok_Download_API",
+   "desc": "🚀 自托管的抖音、TikTok、B 站数据采集与无水印视频下载 API，支持 AI agent 通过 MCP 调用与离线语音转文字，Docker 一键部署。| Self-hosted TikTok, Douyin & Bilibili scraper and no-watermark video downloader — async REST API, MCP server for AI agents, CLI and web console, plus offline s",
+   "stars": 21112,
+   "lang": "Python",
+   "topics": [
+    "crawler",
+    "scraper",
+    "downloader",
+    "social-media",
+    "rest-api",
+    "openapi",
+    "video-downloader",
+    "web-scraping",
+    "bilibili",
+    "data-collection",
+    "speech-to-text",
+    "douyin"
+   ],
+   "updated": "2026-11-02T07:43:14Z"
+  },
+  {
+   "full": "gofr-dev/gofr",
+   "desc": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+   "stars": 20820,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "performance",
+    "framework",
+    "microservice",
+    "server",
+    "metrics",
+    "rest-api",
+    "logging",
+    "grpc",
+    "web-framework",
+    "tracing"
+   ],
+   "updated": "2026-11-02T15:24:10Z"
+  },
+  {
+   "full": "grpc-ecosystem/grpc-gateway",
+   "desc": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+   "stars": 20012,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "rest-api",
+    "swagger",
+    "grpc",
+    "openapi",
+    "grpc-gateway",
+    "restful-api"
+   ],
+   "updated": "2026-11-02T17:17:15Z"
+  },
+  {
+   "full": "swagger-api/swagger-codegen",
+   "desc": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
+   "stars": 17795,
+   "lang": "Mustache",
+   "topics": [
+    "open-source",
+    "rest",
+    "rest-api",
+    "swagger",
+    "swagger-codegen",
+    "openapi-specification",
+    "openapi3",
+    "swagger-oss"
+   ],
+   "updated": "2026-11-02T10:04:03Z"
+  },
+  {
+   "full": "scalar/scalar",
+   "desc": "Scalar is an open-source API platform: 🌐 Modern REST API Client 📖 Beautiful API References ✨ 1st-Class OpenAPI/Swagger Support",
+   "stars": 16364,
+   "lang": "TypeScript",
+   "topics": [
+    "api",
+    "docs",
+    "vue",
+    "reference",
+    "rest-api",
+    "swagger",
+    "http-client",
+    "openapi",
+    "api-client",
+    "openapi3"
+   ],
+   "updated": "2026-11-02T17:45:29Z"
+  },
+  {
+   "full": "public-api-lists/public-api-lists",
+   "desc": "A curated list of free public APIs — searchable, community-maintained, with a free JSON API.",
+   "stars": 16288,
+   "lang": null,
+   "topics": [
+    "api",
+    "open-source",
+    "list",
+    "awesome",
+    "collection",
+    "resource",
+    "json-api",
+    "rest-api",
+    "open-data",
+    "developer-tools",
+    "apis",
+    "awesome-list"
+   ],
+   "updated": "2026-09-14T07:19:57Z"
+  },
+  {
+   "full": "kgrzybek/modular-monolith-with-ddd",
+   "desc": "Full Modular Monolith application with Domain-Driven Design approach.",
+   "stars": 14114,
+   "lang": "C#",
+   "topics": [
+    "design-systems",
+    "cqrs",
+    "rest",
+    "dotnet",
+    "ddd",
+    "dotnetcore",
+    "rest-api",
+    "clean-code",
+    "architecture",
+    "domain-driven-design",
+    "design-patterns",
+    "event-sourcing"
+   ],
+   "updated": "2024-06-04T17:51:26Z"
+  },
+  {
+   "full": "darrenburns/posting",
+   "desc": "The modern API client that lives in your terminal.",
+   "stars": 12586,
+   "lang": "Go",
+   "topics": [
+    "cli",
+    "ssh",
+    "golang",
+    "http",
+    "automation",
+    "terminal",
+    "rest",
+    "rest-api",
+    "textual",
+    "tui",
+    "developer-tools",
+    "rest-client"
+   ],
+   "updated": "2026-10-16T02:21:22Z"
+  },
+  {
+   "full": "frappe/frappe",
+   "desc": "Low code web framework for real world applications, in Python and Javascript",
+   "stars": 11046,
+   "lang": "Python",
+   "topics": [
+    "javascript",
+    "python",
+    "cms",
+    "webhooks",
+    "security",
+    "postgres",
+    "email",
+    "rest-api",
+    "socket-io",
+    "web-framework",
+    "mariadb",
+    "full-stack"
+   ],
+   "updated": "2026-11-02T18:21:42Z"
+  },
+  {
+   "full": "r-spacex/SpaceX-API",
+   "desc": "🚀 Open Source REST API for SpaceX launch, rocket, core, capsule, starlink, launchpad, and landing pad data.",
+   "stars": 10921,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "api",
+    "docker",
+    "koa",
+    "nasa",
+    "rest-api",
+    "space",
+    "rocket",
+    "launchpad",
+    "restful-api",
+    "spacex",
+    "capsule"
+   ],
+   "updated": "2024-08-17T01:38:13Z"
+  },
+  {
+   "full": "restify/node-restify",
+   "desc": "The future of Node.js REST development",
+   "stars": 10689,
+   "lang": "JavaScript",
+   "topics": [
+    "server",
+    "rest-api",
+    "restify"
+   ],
+   "updated": "2026-10-23T08:27:18Z"
+  },
+  {
+   "full": "dotnet-architecture/eShopOnWeb",
+   "desc": "Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb",
+   "stars": 10676,
+   "lang": "C#",
+   "topics": [
+    "microsoft",
+    "ddd",
+    "dotnetcore",
+    "rest-api",
+    "clean-code",
+    "architecture",
+    "ebook",
+    "design-patterns",
+    "clean-architecture",
+    "efcore",
+    "asp-net-core",
+    "asp-net-core-mvc"
+   ],
+   "updated": "2025-01-13T20:55:37Z"
+  },
+  {
+   "full": "swagger-api/swagger-editor",
+   "desc": "Swagger Editor",
+   "stars": 9468,
+   "lang": "JavaScript",
+   "topics": [
+    "open-source",
+    "rest",
+    "rest-api",
+    "swagger",
+    "swagger-ui",
+    "hacktoberfest",
+    "openapi-specification",
+    "openapi3",
+    "swagger-editor",
+    "openapi31",
+    "swagger-oss"
+   ],
+   "updated": "2026-10-30T13:59:21Z"
+  },
+  {
+   "full": "vitalik/django-ninja",
+   "desc": "💨 Fast, Async-ready, Openapi, type hints based framework for building APIs",
+   "stars": 9229,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "django",
+    "rest-api",
+    "swagger",
+    "openapi",
+    "swagger-ui",
+    "pydantic",
+    "django-ninja"
+   ],
+   "updated": "2026-11-01T18:39:37Z"
+  },
+  {
+   "full": "httpie/http-prompt",
+   "desc": "An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie",
+   "stars": 9106,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "syntax-highlighting",
+    "shell",
+    "api",
+    "cli",
+    "http",
+    "autocomplete",
+    "json",
+    "development",
+    "web-development",
+    "terminal",
+    "rest-api"
+   ],
+   "updated": "2024-05-21T06:03:21Z"
+  },
+  {
+   "full": "cakephp/cakephp",
+   "desc": "CakePHP: The Rapid Development Framework for PHP - Official Repository",
+   "stars": 8789,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "validation",
+    "orm",
+    "web",
+    "mvc",
+    "cakephp",
+    "rest-api",
+    "web-framework",
+    "mvc-framework",
+    "psr-7",
+    "form-builder",
+    "rapid-development"
+   ],
+   "updated": "2026-11-02T17:40:11Z"
+  },
+  {
+   "full": "oapi-codegen/oapi-codegen",
+   "desc": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
+   "stars": 8639,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "rest-api",
+    "swagger",
+    "openapi",
+    "openapi3",
+    "openapi-codegen",
+    "openapi-generator",
+    "rest-api-client"
+   ],
+   "updated": "2026-11-01T02:32:15Z"
+  },
+  {
+   "full": "Sylius/Sylius",
+   "desc": "Headless open-source eCommerce platform on top of PHP/Symfony/API Platform",
+   "stars": 8564,
+   "lang": "PHP",
+   "topics": [
+    "api",
+    "php",
+    "ecommerce",
+    "framework",
+    "symfony",
+    "shopping-cart",
+    "shop",
+    "symfony-bundle",
+    "rest-api",
+    "headless",
+    "ecommerce-platform",
+    "sylius"
+   ],
+   "updated": "2026-11-02T02:07:46Z"
+  },
+  {
+   "full": "mockoon/mockoon",
+   "desc": "Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.",
+   "stars": 8468,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "mock",
+    "api",
+    "application",
+    "rest",
+    "server",
+    "rest-api",
+    "mock-server",
+    "swagger",
+    "desktop",
+    "openapi",
+    "mocking"
+   ],
+   "updated": "2026-11-01T14:05:11Z"
+  },
+  {
+   "full": "exadel-inc/CompreFace",
+   "desc": "Leading free and open-source face recognition system",
+   "stars": 8398,
+   "lang": "Java",
+   "topics": [
+    "docker",
+    "computer-vision",
+    "docker-compose",
+    "rest-api",
+    "facial-recognition",
+    "face-recognition",
+    "face-detection",
+    "facenet",
+    "hacktoberfest",
+    "face-identification",
+    "face-verification",
+    "insightface"
+   ],
+   "updated": "2024-10-05T10:45:30Z"
+  },
+  {
+   "full": "javalin/javalin",
+   "desc": "A simple and modern Java and Kotlin web framework",
+   "stars": 8380,
+   "lang": "Kotlin",
+   "topics": [
+    "kotlin",
+    "java",
+    "microservice",
+    "rest-api",
+    "web-framework",
+    "jetty",
+    "servlet",
+    "hacktoberfest",
+    "javalin"
+   ],
+   "updated": "2026-11-01T04:34:08Z"
+  },
+  {
+   "full": "traccar/traccar",
+   "desc": "Open source GPS tracking platform - self-hosted or managed, 200+ device protocols",
+   "stars": 8033,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "docker",
+    "open-source",
+    "iot",
+    "rest-api",
+    "gps",
+    "self-hosted",
+    "telematics",
+    "hacktoberfest",
+    "vehicle-tracking",
+    "fleet-management",
+    "traccar"
+   ],
+   "updated": "2026-11-01T22:27:59Z"
+  },
+  {
+   "full": "hagopj13/node-express-boilerplate",
+   "desc": "A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose",
+   "stars": 7666,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "boilerplate",
+    "express",
+    "mongodb",
+    "es6",
+    "jest",
+    "mongoose",
+    "rest-api",
+    "starter",
+    "express-boilerplate",
+    "node-boilerplate",
+    "es2018"
+   ],
+   "updated": "2024-07-08T10:46:16Z"
+  },
+  {
+   "full": "swagger-api/swagger-core",
+   "desc": "Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API",
+   "stars": 7534,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "open-source",
+    "rest",
+    "rest-api",
+    "swagger",
+    "openapi",
+    "hacktoberfest",
+    "openapi-specification",
+    "swagger-api",
+    "openapi3",
+    "swagger-oss"
+   ],
+   "updated": "2026-10-28T14:35:47Z"
+  },
+  {
+   "full": "rest-assured/rest-assured",
+   "desc": "Java DSL for easy testing of REST services",
+   "stars": 7147,
+   "lang": "Java",
+   "topics": [
+    "kotlin",
+    "java",
+    "http",
+    "groovy",
+    "json",
+    "rest",
+    "test",
+    "xml",
+    "rest-api",
+    "test-automation"
+   ],
+   "updated": "2026-10-30T14:53:16Z"
+  },
+  {
+   "full": "reqable/reqable-app",
+   "desc": "Reqable issue track repo",
+   "stars": 6915,
+   "lang": null,
+   "topics": [
+    "desktop-app",
+    "http",
+    "https",
+    "rest-api",
+    "http2",
+    "ios-app",
+    "capture",
+    "android-app",
+    "quic",
+    "flutter",
+    "http3",
+    "debugging-tool"
+   ],
+   "updated": "2026-10-30T10:06:32Z"
+  }
+ ]
+}

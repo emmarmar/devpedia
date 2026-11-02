@@ -1,0 +1,1545 @@
+{
+ "subId": "automatizacion",
+ "topics": [
+  "automation",
+  "workflow-automation"
+ ],
+ "crawledAt": "2026-11-02T20:20:50.747Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "n8n-io/n8n",
+   "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+   "stars": 209375,
+   "lang": "TypeScript",
+   "topics": [
+    "cli",
+    "workflow",
+    "integrations",
+    "development",
+    "automation",
+    "typescript",
+    "ai",
+    "mcp",
+    "data-flow",
+    "self-hosted",
+    "ipaas",
+    "apis"
+   ],
+   "updated": "2026-11-02T20:10:48Z"
+  },
+  {
+   "full": "langgenius/dify",
+   "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+   "stars": 160251,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "workflow",
+    "automation",
+    "ai",
+    "skills",
+    "mcp",
+    "nextjs",
+    "openai",
+    "gpt",
+    "low-code",
+    "no-code"
+   ],
+   "updated": "2026-11-02T19:37:54Z"
+  },
+  {
+   "full": "stablyai/orca",
+   "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+   "stars": 113490,
+   "lang": "TypeScript",
+   "topics": [
+    "bot",
+    "automation",
+    "terminal",
+    "runtime",
+    "opencode",
+    "mobile-app",
+    "orchestration",
+    "muse",
+    "pi",
+    "codex",
+    "ai-agents",
+    "ade"
+   ],
+   "updated": "2026-11-02T20:20:20Z"
+  },
+  {
+   "full": "Panniantong/Agent-Reach",
+   "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+   "stars": 108018,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "cli",
+    "automation",
+    "mcp",
+    "web-scraper",
+    "bilibili",
+    "cursor",
+    "twitter-scraper",
+    "ai-search",
+    "free-api",
+    "reddit-scraper",
+    "xiaohongshu"
+   ],
+   "updated": "2026-11-01T07:23:13Z"
+  },
+  {
+   "full": "microsoft/playwright",
+   "desc": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+   "stars": 99122,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "javascript",
+    "testing",
+    "firefox",
+    "chrome",
+    "automation",
+    "web",
+    "test",
+    "chromium",
+    "test-automation",
+    "testing-tools",
+    "webkit"
+   ],
+   "updated": "2026-11-02T19:13:19Z"
+  },
+  {
+   "full": "puppeteer/puppeteer",
+   "desc": "JavaScript API for Chrome and Firefox",
+   "stars": 95791,
+   "lang": "TypeScript",
+   "topics": [
+    "testing",
+    "firefox",
+    "chrome",
+    "automation",
+    "web",
+    "chromium",
+    "developer-tools",
+    "node-module",
+    "headless-chrome"
+   ],
+   "updated": "2026-11-02T17:57:03Z"
+  },
+  {
+   "full": "D4Vinci/Scrapling",
+   "desc": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+   "stars": 92643,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "crawler",
+    "data",
+    "automation",
+    "ai",
+    "mcp",
+    "scraping",
+    "crawling",
+    "web-scraper",
+    "web-scraping",
+    "selectors",
+    "xpath"
+   ],
+   "updated": "2026-11-02T20:16:23Z"
+  },
+  {
+   "full": "ComposioHQ/awesome-claude-skills",
+   "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+   "stars": 78590,
+   "lang": "Python",
+   "topics": [
+    "automation",
+    "skill",
+    "mcp",
+    "saas",
+    "developer-tools",
+    "cursor",
+    "codex",
+    "workflow-automation",
+    "ai-agents",
+    "claude",
+    "rube",
+    "openai-codex"
+   ],
+   "updated": "2026-09-18T07:16:11Z"
+  },
+  {
+   "full": "huginn/huginn",
+   "desc": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+   "stars": 50271,
+   "lang": "Ruby",
+   "topics": [
+    "notifications",
+    "agent",
+    "rss",
+    "scraper",
+    "automation",
+    "monitoring",
+    "huginn",
+    "feed",
+    "feedgenerator",
+    "webscraping"
+   ],
+   "updated": "2026-11-02T13:21:30Z"
+  },
+  {
+   "full": "usebruno/bruno",
+   "desc": "Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)",
+   "stars": 47992,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "git",
+    "testing",
+    "graphql-client",
+    "automation",
+    "opensource",
+    "rest-api",
+    "http-client",
+    "openapi",
+    "api-client",
+    "developer-tools",
+    "testing-tools"
+   ],
+   "updated": "2026-11-02T17:38:46Z"
+  },
+  {
+   "full": "apache/airflow",
+   "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+   "stars": 47350,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "workflow",
+    "data-science",
+    "machine-learning",
+    "airflow",
+    "automation",
+    "etl",
+    "workflow-engine",
+    "scheduler",
+    "apache",
+    "orchestration",
+    "data-engineering"
+   ],
+   "updated": "2026-11-02T19:15:22Z"
+  },
+  {
+   "full": "fastlane/fastlane",
+   "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+   "stars": 42341,
+   "lang": "Ruby",
+   "topics": [
+    "ruby",
+    "android",
+    "ios",
+    "screenshots",
+    "automation",
+    "mobile",
+    "deployment",
+    "fastlane",
+    "apps",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T20:09:53Z"
+  },
+  {
+   "full": "appsmithorg/appsmith",
+   "desc": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+   "stars": 41153,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "java",
+    "internal-tools",
+    "gui",
+    "automation",
+    "crud",
+    "typescript",
+    "admin-dashboard",
+    "self-hosted",
+    "gui-application",
+    "developer-tools"
+   ],
+   "updated": "2026-11-02T14:20:46Z"
+  },
+  {
+   "full": "Yeachan-Heo/oh-my-claudecode",
+   "desc": "Teams-first Multi-agent orchestration for Claude Code",
+   "stars": 40516,
+   "lang": "TypeScript",
+   "topics": [
+    "automation",
+    "opencode",
+    "multi-agent-systems",
+    "ai-agents",
+    "claude",
+    "parallel-execution",
+    "vibe-coding",
+    "claude-code",
+    "agentic-coding",
+    "oh-my-opencode"
+   ],
+   "updated": "2026-11-02T19:59:48Z"
+  },
+  {
+   "full": "JCodesMore/ai-website-cloner-template",
+   "desc": "Clone any website with one command using AI coding agents",
+   "stars": 38442,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "template",
+    "boilerplate",
+    "automation",
+    "typescript",
+    "ai",
+    "clone",
+    "skills",
+    "nextjs",
+    "reverse-engineering",
+    "web-scraping",
+    "developer-tools"
+   ],
+   "updated": "2026-10-19T22:56:31Z"
+  },
+  {
+   "full": "feder-cr/invisible_dots",
+   "desc": "Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.",
+   "stars": 32357,
+   "lang": "TypeScript",
+   "topics": [
+    "automation",
+    "mcp",
+    "self-hosted",
+    "browser-automation",
+    "autonomous-agents",
+    "ai-agents",
+    "local-first",
+    "manus",
+    "playwright",
+    "open-source-alternative",
+    "ai-assistant",
+    "ai-agent"
+   ],
+   "updated": "2026-10-31T06:28:10Z"
+  },
+  {
+   "full": "FujiwaraChoki/MoneyPrinterV2",
+   "desc": "Automate the process of making money online.",
+   "stars": 32280,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "cli",
+    "money",
+    "outreach",
+    "json",
+    "automation",
+    "youtube",
+    "twitter"
+   ],
+   "updated": "2026-09-15T22:35:17Z"
+  },
+  {
+   "full": "googleworkspace/cli",
+   "desc": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+   "stars": 32064,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "cli",
+    "automation",
+    "oauth2",
+    "google-drive",
+    "google-sheets",
+    "google-calendar",
+    "google-docs",
+    "google-api",
+    "google-chat",
+    "google-workspace",
+    "google-admin"
+   ],
+   "updated": "2026-10-30T16:06:54Z"
+  },
+  {
+   "full": "assafelovic/gpt-researcher",
+   "desc": "An autonomous agent that conducts deep research on any data using any LLM providers",
+   "stars": 30434,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "search",
+    "agent",
+    "automation",
+    "research",
+    "ai",
+    "mcp",
+    "webscraping",
+    "llms",
+    "mcp-server",
+    "deepresearch"
+   ],
+   "updated": "2026-10-10T22:03:53Z"
+  },
+  {
+   "full": "kestra-io/kestra",
+   "desc": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.",
+   "stars": 30123,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "workflow",
+    "devops",
+    "automation",
+    "pipeline",
+    "etl",
+    "scheduler",
+    "orchestration",
+    "data-engineering",
+    "infrastructure-as-code",
+    "high-availability",
+    "control-plane"
+   ],
+   "updated": "2026-11-02T20:08:09Z"
+  },
+  {
+   "full": "simstudioai/sim",
+   "desc": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+   "stars": 29974,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "automation",
+    "typescript",
+    "ai",
+    "nextjs",
+    "chatbot",
+    "artificial-intelligence",
+    "gemini",
+    "openai",
+    "agents",
+    "low-code",
+    "no-code"
+   ],
+   "updated": "2026-11-02T20:19:53Z"
+  },
+  {
+   "full": "ariya/phantomjs",
+   "desc": "Scriptable Headless Browser",
+   "stars": 29421,
+   "lang": "C++",
+   "topics": [
+    "automation",
+    "phantomjs",
+    "headless",
+    "headless-browser"
+   ],
+   "updated": "2022-11-26T19:43:12Z"
+  },
+  {
+   "full": "hashicorp/vagrant",
+   "desc": "Vagrant is a tool for building and distributing development environments.",
+   "stars": 27218,
+   "lang": "Ruby",
+   "topics": [
+    "ruby",
+    "vagrant",
+    "automation",
+    "virtualization"
+   ],
+   "updated": "2026-11-02T07:04:42Z"
+  },
+  {
+   "full": "apify/crawlee",
+   "desc": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Pup",
+   "stars": 26317,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "npm",
+    "crawler",
+    "scraper",
+    "automation",
+    "typescript",
+    "web-crawler",
+    "headless",
+    "scraping",
+    "crawling",
+    "web-scraping"
+   ],
+   "updated": "2026-11-02T20:06:34Z"
+  },
+  {
+   "full": "enescingoz/awesome-n8n-templates",
+   "desc": "280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG chatbots, email automation, social media, DevOps, and document processing. The",
+   "stars": 26232,
+   "lang": null,
+   "topics": [
+    "automation",
+    "awesome",
+    "integration",
+    "telegram-bot",
+    "self-hosted",
+    "awesome-list",
+    "workflow-automation",
+    "low-code",
+    "ai-agents",
+    "n8n",
+    "ai-automation",
+    "no-code-ai"
+   ],
+   "updated": "2026-09-12T13:00:32Z"
+  },
+  {
+   "full": "arendst/Tasmota",
+   "desc": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+   "stars": 24961,
+   "lang": "C",
+   "topics": [
+    "mqtt",
+    "iot",
+    "arduino",
+    "esp8266",
+    "automation",
+    "ota",
+    "firmware",
+    "esp32",
+    "smart-home",
+    "knx",
+    "sonoff",
+    "tasmota"
+   ],
+   "updated": "2026-11-02T14:21:26Z"
+  },
+  {
+   "full": "containrrr/watchtower",
+   "desc": "A process for automating Docker container base image updates.",
+   "stars": 24594,
+   "lang": "Go",
+   "topics": [
+    "notifications",
+    "docker",
+    "registry",
+    "devops",
+    "automation",
+    "continuous-delivery",
+    "hacktoberfest",
+    "update-checker",
+    "watchtower",
+    "receive-notifications"
+   ],
+   "updated": "2025-12-17T14:44:11Z"
+  },
+  {
+   "full": "semantic-release/semantic-release",
+   "desc": "📦🚀 Fully automated version management and package publishing",
+   "stars": 24151,
+   "lang": "JavaScript",
+   "topics": [
+    "package",
+    "automation",
+    "changelog",
+    "semver",
+    "version",
+    "release",
+    "semantic-release",
+    "publish",
+    "release-automation",
+    "semantic-version",
+    "semver-release",
+    "release-workflow"
+   ],
+   "updated": "2026-10-31T12:09:33Z"
+  },
+  {
+   "full": "PrefectHQ/prefect",
+   "desc": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+   "stars": 24109,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "infrastructure",
+    "workflow",
+    "data-science",
+    "data",
+    "automation",
+    "pipeline",
+    "workflow-engine",
+    "orchestration",
+    "data-engineering",
+    "observability",
+    "prefect"
+   ],
+   "updated": "2026-11-02T18:36:17Z"
+  },
+  {
+   "full": "coleam00/Archon",
+   "desc": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+   "stars": 23807,
+   "lang": "TypeScript",
+   "topics": [
+    "cli",
+    "yaml",
+    "automation",
+    "typescript",
+    "ai",
+    "workflow-engine",
+    "developer-tools",
+    "bun",
+    "claude",
+    "coding-assistant"
+   ],
+   "updated": "2026-11-02T18:24:41Z"
+  },
+  {
+   "full": "Skyvern-AI/skyvern",
+   "desc": "Automate browser based workflows with AI",
+   "stars": 23336,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "api",
+    "workflow",
+    "automation",
+    "browser",
+    "ai",
+    "selenium",
+    "computer",
+    "vision",
+    "gpt",
+    "browser-automation",
+    "rpa"
+   ],
+   "updated": "2026-11-02T20:07:11Z"
+  },
+  {
+   "full": "appium/appium",
+   "desc": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol",
+   "stars": 22175,
+   "lang": "TypeScript",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "ios",
+    "automation",
+    "webdriver",
+    "test-automation",
+    "appium"
+   ],
+   "updated": "2026-11-01T20:01:32Z"
+  },
+  {
+   "full": "AutomaApp/automa",
+   "desc": "A browser extension for automating your browser by connecting blocks",
+   "stars": 21705,
+   "lang": "Vue",
+   "topics": [
+    "javascript",
+    "chrome-extension",
+    "workflow",
+    "automation",
+    "vue",
+    "firefox-extension",
+    "browser-extension",
+    "hacktoberfest",
+    "browser-automation"
+   ],
+   "updated": "2026-03-02T11:56:23Z"
+  },
+  {
+   "full": "citrolabs/ego-lite",
+   "desc": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+   "stars": 21332,
+   "lang": "JavaScript",
+   "topics": [
+    "automation",
+    "browser",
+    "skills",
+    "browser-automation",
+    "codex",
+    "ai-agent",
+    "agent-skills",
+    "claude-code",
+    "skills-sh",
+    "hermes-agent"
+   ],
+   "updated": "2026-11-02T10:14:15Z"
+  },
+  {
+   "full": "ImranR98/Obtainium",
+   "desc": "Get Android app updates straight from the source.",
+   "stars": 21148,
+   "lang": "Dart",
+   "topics": [
+    "github",
+    "notifications",
+    "android",
+    "security",
+    "automation",
+    "privacy",
+    "gitlab",
+    "updater",
+    "foss",
+    "apk",
+    "update-checker",
+    "app-updater"
+   ],
+   "updated": "2026-11-01T06:30:08Z"
+  },
+  {
+   "full": "Avaiga/taipy",
+   "desc": "Turns Data and AI algorithms into production-ready web applications in no time.",
+   "stars": 19453,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "workflow",
+    "automation",
+    "pipeline",
+    "job-scheduler",
+    "pipelines",
+    "data-visualization",
+    "orchestration",
+    "datascience",
+    "data-engineering",
+    "developer-tools",
+    "data-integration"
+   ],
+   "updated": "2026-08-10T02:47:18Z"
+  },
+  {
+   "full": "InstaPy/InstaPy",
+   "desc": "📷 Instagram Bot - Tool for automated Instagram interactions",
+   "stars": 18351,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "bot",
+    "instagram",
+    "automation",
+    "script",
+    "selenium",
+    "clarifai"
+   ],
+   "updated": "2026-10-26T22:09:05Z"
+  },
+  {
+   "full": "getmaxun/maxun",
+   "desc": "Turn any website into a structured API. Extract, automate, search and monitor the web.",
+   "stars": 18134,
+   "lang": "TypeScript",
+   "topics": [
+    "api",
+    "crawler",
+    "scraper",
+    "automation",
+    "crawling",
+    "web-scraper",
+    "self-hosted",
+    "web-scraping",
+    "data-extraction",
+    "webscraping",
+    "agents",
+    "browser-automation"
+   ],
+   "updated": "2026-10-28T06:07:06Z"
+  },
+  {
+   "full": "leon-ai/leon",
+   "desc": "🧠 Leon is your open-source personal assistant.",
+   "stars": 17629,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "python",
+    "bot",
+    "text-to-speech",
+    "automation",
+    "privacy",
+    "ai",
+    "offline",
+    "chatbot",
+    "artificial-intelligence",
+    "speech-synthesis",
+    "assistant"
+   ],
+   "updated": "2026-11-02T17:47:55Z"
+  },
+  {
+   "full": "lowlighter/metrics",
+   "desc": "📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!",
+   "stars": 17365,
+   "lang": "JavaScript",
+   "topics": [
+    "github",
+    "javascript",
+    "github-api",
+    "readme",
+    "profile",
+    "automation",
+    "metrics",
+    "github-profile",
+    "svg-image",
+    "automated",
+    "github-metrics",
+    "profile-card"
+   ],
+   "updated": "2026-05-29T21:41:23Z"
+  },
+  {
+   "full": "harry0703/MoneyPrinterTurbo",
+   "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+   "stars": 137458,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "text-to-speech",
+    "ffmpeg",
+    "subtitles",
+    "workflow-automation",
+    "short-video",
+    "tiktok",
+    "content-creation",
+    "video-automation",
+    "youtube-shorts",
+    "instagram-reels",
+    "llm"
+   ],
+   "updated": "2026-11-02T09:22:43Z"
+  },
+  {
+   "full": "paperclipai/paperclip",
+   "desc": "The open-source app everyone uses to manage agents at work",
+   "stars": 110298,
+   "lang": "TypeScript",
+   "topics": [
+    "mcp",
+    "multi-agent",
+    "project-management",
+    "hermes",
+    "codex",
+    "workflow-automation",
+    "autonomous-agents",
+    "ai-agents",
+    "claude",
+    "ai-engineering",
+    "ai-tools",
+    "llm"
+   ],
+   "updated": "2026-11-02T20:20:31Z"
+  },
+  {
+   "full": "FlowiseAI/Flowise",
+   "desc": "Build AI Agents, Visually",
+   "stars": 55542,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "typescript",
+    "chatbot",
+    "artificial-intelligence",
+    "openai",
+    "multiagent-systems",
+    "agents",
+    "workflow-automation",
+    "low-code",
+    "no-code",
+    "rag"
+   ],
+   "updated": "2026-08-13T12:38:19Z"
+  },
+  {
+   "full": "HKUDS/nanobot",
+   "desc": "Your lightweight open-source personal agent.",
+   "stars": 49766,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "chatops",
+    "mcp",
+    "chatbot",
+    "discord-bot",
+    "self-hosted",
+    "multi-agent",
+    "webui",
+    "workflow-automation",
+    "ai-agents",
+    "agent-framework",
+    "ai-agent"
+   ],
+   "updated": "2026-11-02T09:55:24Z"
+  },
+  {
+   "full": "ToolJet/ToolJet",
+   "desc": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
+   "stars": 41179,
+   "lang": "HTML",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "docker",
+    "kubernetes",
+    "internal-tools",
+    "typescript",
+    "reactjs",
+    "self-hosted",
+    "workflow-automation",
+    "web-development-tools",
+    "low-code",
+    "no-code"
+   ],
+   "updated": "2026-11-02T19:19:10Z"
+  },
+  {
+   "full": "freestylefly/awesome-gpt-image-2",
+   "desc": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+   "stars": 35383,
+   "lang": "JavaScript",
+   "topics": [
+    "skills",
+    "agents",
+    "workflow-automation",
+    "prompt-engineering",
+    "ai-image-generation",
+    "chatgpt",
+    "image-prompts",
+    "prompt-as-code",
+    "gpt-image-2",
+    "dsh-plugin"
+   ],
+   "updated": "2026-10-14T08:48:21Z"
+  },
+  {
+   "full": "conductor-oss/conductor",
+   "desc": "Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents",
+   "stars": 32400,
+   "lang": "Java",
+   "topics": [
+    "javascript",
+    "java",
+    "distributed-systems",
+    "spring-boot",
+    "reactjs",
+    "workflow-engine",
+    "grpc",
+    "workflows",
+    "workflow-management",
+    "orchestrator",
+    "workflow-automation",
+    "orchestration-engine"
+   ],
+   "updated": "2026-11-02T17:45:35Z"
+  },
+  {
+   "full": "Budibase/budibase",
+   "desc": "AI agents, automations and apps that run your operations. Model agnostic.",
+   "stars": 28377,
+   "lang": "TypeScript",
+   "topics": [
+    "open-source",
+    "internal-tools",
+    "workflow-engine",
+    "crud-application",
+    "workflow-automation",
+    "low-code",
+    "no-code",
+    "rest-api-framework",
+    "crud-app",
+    "no-code-platform",
+    "data-apps",
+    "low-code-platform"
+   ],
+   "updated": "2026-11-02T16:41:43Z"
+  },
+  {
+   "full": "activepieces/activepieces",
+   "desc": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+   "stars": 25344,
+   "lang": "TypeScript",
+   "topics": [
+    "workflow",
+    "mcp",
+    "workflows",
+    "workflow-automation",
+    "ai-agents",
+    "ai-agent",
+    "mcps",
+    "ai-agents-framework",
+    "ai-agent-tools",
+    "mcp-server",
+    "mcp-tools",
+    "no-code-automation"
+   ],
+   "updated": "2026-11-02T20:09:16Z"
+  },
+  {
+   "full": "temporalio/temporal",
+   "desc": "Temporal service",
+   "stars": 24139,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "distributed-systems",
+    "workflow-engine",
+    "service-bus",
+    "microservices-architecture",
+    "workflows",
+    "workflow-management",
+    "cronjob-scheduler",
+    "service-fabric",
+    "microservice-framework",
+    "workflow-management-system",
+    "orchestrator"
+   ],
+   "updated": "2026-11-02T20:19:03Z"
+  },
+  {
+   "full": "HBAI-Ltd/Toonflow-app",
+   "desc": "短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, AI agents, storyboarding, image and vide",
+   "stars": 20253,
+   "lang": "Vue",
+   "topics": [
+    "open-source",
+    "image-generation",
+    "text-to-image",
+    "infinite-canvas",
+    "workflow-automation",
+    "ai-agents",
+    "storyboarding",
+    "video-generation",
+    "image-to-video",
+    "text-to-video",
+    "ai-comic",
+    "libtv"
+   ],
+   "updated": "2026-11-02T13:04:28Z"
+  },
+  {
+   "full": "cft0808/edict",
+   "desc": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+   "stars": 17046,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "dashboard",
+    "orchestration",
+    "multi-agent",
+    "kanban",
+    "openai",
+    "workflow-automation",
+    "autonomous-agents",
+    "ai-agents",
+    "claude",
+    "llm",
+    "ai-orchestration"
+   ],
+   "updated": "2026-09-28T02:33:22Z"
+  },
+  {
+   "full": "triggerdotdev/trigger.dev",
+   "desc": "Trigger.dev – build and deploy durable AI agents and workflows",
+   "stars": 16699,
+   "lang": "TypeScript",
+   "topics": [
+    "automation",
+    "ai",
+    "serverless",
+    "mcp",
+    "nextjs",
+    "scheduler",
+    "background-jobs",
+    "orchestration",
+    "workflows",
+    "workflow-automation",
+    "ai-agents",
+    "ai-agent-framework"
+   ],
+   "updated": "2026-10-31T11:59:31Z"
+  },
+  {
+   "full": "dagster-io/dagster",
+   "desc": "An orchestration platform for the development, production, and observation of data assets.",
+   "stars": 16364,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "metadata",
+    "workflow",
+    "data-science",
+    "etl",
+    "analytics",
+    "scheduler",
+    "orchestration",
+    "data-engineering",
+    "data-integration",
+    "data-pipelines",
+    "workflow-automation"
+   ],
+   "updated": "2026-10-30T22:21:47Z"
+  },
+  {
+   "full": "alicevision/Meshroom",
+   "desc": "Node-based Visual Programming Toolbox",
+   "stars": 13061,
+   "lang": "Python",
+   "topics": [
+    "computer-vision",
+    "structure-from-motion",
+    "multi-view-stereo",
+    "image-stitching",
+    "photogrammetry",
+    "3d-reconstruction",
+    "workflow-automation",
+    "camera-tracking",
+    "texturing",
+    "hdr-imaging",
+    "nocode",
+    "meshroom"
+   ],
+   "updated": "2026-11-02T15:14:57Z"
+  },
+  {
+   "full": "Netflix/conductor",
+   "desc": "Conductor is a microservices orchestration engine.",
+   "stars": 12750,
+   "lang": "Java",
+   "topics": [
+    "javascript",
+    "java",
+    "distributed-systems",
+    "spring-boot",
+    "reactjs",
+    "workflow-engine",
+    "grpc",
+    "workflows",
+    "workflow-management",
+    "orchestrator",
+    "workflow-automation",
+    "orchestration-engine"
+   ],
+   "updated": "2023-12-22T23:40:04Z"
+  },
+  {
+   "full": "keephq/keep",
+   "desc": "The open-source AIOps and alert management platform",
+   "stars": 12474,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "alarm",
+    "alerts",
+    "monitoring",
+    "alerting",
+    "python3",
+    "workflow-automation",
+    "monitoring-tool",
+    "alarms",
+    "aiops"
+   ],
+   "updated": "2026-11-02T15:30:26Z"
+  },
+  {
+   "full": "EKKOLearnAI/ekko-studio",
+   "desc": "Ekko Studio is a local-first AI workspace for multi-agent chat, coding, and visual workflows, available on desktop and the web.",
+   "stars": 11648,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "multi-platform",
+    "typescript",
+    "dashboard",
+    "web-ui",
+    "self-hosted",
+    "multi-agent",
+    "multi-model",
+    "hermes",
+    "chat-ui",
+    "workflow-automation",
+    "vue3"
+   ],
+   "updated": "2026-11-02T12:57:27Z"
+  },
+  {
+   "full": "cadence-workflow/cadence",
+   "desc": "Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.",
+   "stars": 9535,
+   "lang": "Go",
+   "topics": [
+    "java",
+    "golang",
+    "distributed-systems",
+    "uber",
+    "service-bus",
+    "workflows",
+    "service-fabric",
+    "workflow-automation",
+    "cadence",
+    "services-platform",
+    "orchestration-engine"
+   ],
+   "updated": "2026-10-30T23:11:35Z"
+  },
+  {
+   "full": "bytedance/flowgram.ai",
+   "desc": "FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.",
+   "stars": 8551,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "visualization",
+    "javascript",
+    "flow",
+    "workflow",
+    "automation",
+    "typescript",
+    "ai",
+    "graph",
+    "diagram",
+    "data-flow",
+    "typescript-library"
+   ],
+   "updated": "2026-11-02T08:25:01Z"
+  },
+  {
+   "full": "superplanehq/superplane",
+   "desc": "Open source factory for one-shot engineering",
+   "stars": 8528,
+   "lang": "Go",
+   "topics": [
+    "react",
+    "go",
+    "self-hosted",
+    "developer-tools",
+    "workflow-automation",
+    "software-factory",
+    "ai-agents",
+    "agentic-workflows",
+    "ai-software-engineering",
+    "ai-coding",
+    "agent-orchestration"
+   ],
+   "updated": "2026-11-02T20:16:44Z"
+  },
+  {
+   "full": "Osmantic/ODS",
+   "desc": "ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server.",
+   "stars": 7745,
+   "lang": "Python",
+   "topics": [
+    "docker",
+    "text-to-speech",
+    "amd",
+    "self-hosted",
+    "nvidia",
+    "speech-to-text",
+    "workflow-automation",
+    "ai-agents",
+    "rag",
+    "n8n",
+    "llm",
+    "llama-cpp"
+   ],
+   "updated": "2026-11-02T20:00:05Z"
+  },
+  {
+   "full": "czlonkowski/n8n-skills",
+   "desc": "n8n skillset for Claude Code to build flawless n8n workflows",
+   "stars": 6573,
+   "lang": "Shell",
+   "topics": [
+    "workflow-automation",
+    "ai-agents",
+    "n8n"
+   ],
+   "updated": "2026-10-24T11:44:27Z"
+  },
+  {
+   "full": "breaking-brake/cc-wf-studio",
+   "desc": "CC Workflow Studio",
+   "stars": 5448,
+   "lang": "TypeScript",
+   "topics": [
+    "vscode-extension",
+    "slash-commands",
+    "workflow-automation",
+    "mcp-tools",
+    "agent-skills",
+    "claude-code",
+    "sub-agents"
+   ],
+   "updated": "2026-10-07T00:11:01Z"
+  },
+  {
+   "full": "ScrapeCreators/social-media-research-skills",
+   "desc": "AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries & trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn & more. Powered by ScrapeCreators. Works with Claude Code, Cursor, ",
+   "stars": 5319,
+   "lang": "Python",
+   "topics": [
+    "social-media",
+    "influencer-marketing",
+    "cursor",
+    "content-marketing",
+    "workflow-automation",
+    "market-research",
+    "ai-agents",
+    "competitor-analysis",
+    "agent-skills",
+    "claude-code",
+    "social-media-research",
+    "claude-skills"
+   ],
+   "updated": "2026-08-26T17:26:01Z"
+  },
+  {
+   "full": "Agenta-AI/agenta",
+   "desc": "Agenta is a workspace where you and your team build agents and automations.",
+   "stars": 4881,
+   "lang": "TypeScript",
+   "topics": [
+    "open-source",
+    "self-hosted",
+    "harness",
+    "workflow-automation",
+    "ai-agents",
+    "agent-workspace",
+    "ai-agent",
+    "ai-automation",
+    "agent-builder",
+    "agentic-ai",
+    "ai-workflow-automation",
+    "agent-orchestration"
+   ],
+   "updated": "2026-11-02T20:19:27Z"
+  },
+  {
+   "full": "AlexAnys/awesome-openclaw-usecases-zh",
+   "desc": "🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好",
+   "stars": 4452,
+   "lang": null,
+   "topics": [
+    "productivity",
+    "devops",
+    "automation",
+    "chinese",
+    "personal-assistant",
+    "awesome-list",
+    "hermes",
+    "self-hosting",
+    "knowledge-management",
+    "zh-cn",
+    "workflow-automation",
+    "claude"
+   ],
+   "updated": "2026-07-12T10:14:25Z"
+  },
+  {
+   "full": "composio-community/open-claude-cowork",
+   "desc": "Open Source version of Claude Cowork with 500+ SaaS app integrations",
+   "stars": 4307,
+   "lang": "JavaScript",
+   "topics": [
+    "opencode",
+    "workflow-automation",
+    "anthropic",
+    "anthropic-claude",
+    "aiagents",
+    "claude-code",
+    "claude-cowork",
+    "eclectron-app"
+   ],
+   "updated": "2026-05-23T11:52:19Z"
+  },
+  {
+   "full": "foryourhealth111-pixel/Vibe-Skills",
+   "desc": "Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE.",
+   "stars": 3788,
+   "lang": "Python",
+   "topics": [
+    "automation",
+    "skills",
+    "multi-agent",
+    "developer-tools",
+    "codex",
+    "workflow-automation",
+    "ai-agents",
+    "agent-framework",
+    "llm",
+    "prompt-engineering",
+    "ai-workflow",
+    "ai-scientist"
+   ],
+   "updated": "2026-10-31T02:58:53Z"
+  },
+  {
+   "full": "Arcenox-co/TickerQ",
+   "desc": "TickerQ is a fast, reflection-free background task scheduler for .NET built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard.",
+   "stars": 3635,
+   "lang": "C#",
+   "topics": [
+    "dotnet",
+    "job-scheduler",
+    "calendar-events",
+    "workflow-automation",
+    "background-processing",
+    "multi-node-cluster",
+    "open-code",
+    "real-time-dashboard"
+   ],
+   "updated": "2026-10-27T20:28:57Z"
+  },
+  {
+   "full": "KhazP/vibe-coding-prompt-template",
+   "desc": "Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs",
+   "stars": 3216,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "npm",
+    "typescript",
+    "project-management",
+    "gemini",
+    "developer-tools",
+    "code-quality",
+    "cursor",
+    "beginner-friendly",
+    "workflow-automation",
+    "ai-agents",
+    "technical-design"
+   ],
+   "updated": "2026-10-04T17:01:18Z"
+  },
+  {
+   "full": "MaxMiksa/Autonomous-Company",
+   "desc": "An autonomous company working 24/7 on your own PC - Windows/Linux/macOS.",
+   "stars": 3182,
+   "lang": "Python",
+   "topics": [
+    "dashboard",
+    "self-hosted",
+    "multi-agent",
+    "codex",
+    "workflow-automation",
+    "autonomous-agents",
+    "ai-agents",
+    "llm",
+    "agentic-workflows",
+    "claude-code"
+   ],
+   "updated": "2026-10-30T17:54:45Z"
+  },
+  {
+   "full": "lowdefy/lowdefy",
+   "desc": "Build apps that AI can generate, humans can review, and teams can maintain. Config that works between code and natural language.",
+   "stars": 3018,
+   "lang": "JavaScript",
+   "topics": [
+    "yaml",
+    "internal-tools",
+    "nextjs",
+    "web-app",
+    "selfhosted",
+    "dashboards",
+    "webdev",
+    "workflow-automation",
+    "internal-tool",
+    "low-code-plattform",
+    "admin-panels",
+    "web-app-generator"
+   ],
+   "updated": "2026-11-02T12:12:43Z"
+  },
+  {
+   "full": "yaojingang/yao-meta-skill",
+   "desc": "YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills.",
+   "stars": 2719,
+   "lang": "Python",
+   "topics": [
+    "evaluation",
+    "portability",
+    "governance",
+    "workflow-automation",
+    "ai-agents",
+    "agent-skills",
+    "meta-skill",
+    "skill-engineering"
+   ],
+   "updated": "2026-08-17T09:19:43Z"
+  },
+  {
+   "full": "wanikua/danghuangshang",
+   "desc": "Open-source multi-agent collaboration system inspired by Chinese governance — deploy and coordinate specialized AI agents with OpenClaw.",
+   "stars": 2715,
+   "lang": "TypeScript",
+   "topics": [
+    "tutorial",
+    "ai",
+    "discord",
+    "discord-bot",
+    "multi-agent",
+    "workflow-automation",
+    "autonomous-agents",
+    "ai-agents",
+    "ancient-china",
+    "ming-dynasty",
+    "llm",
+    "ai-orchestration"
+   ],
+   "updated": "2026-05-22T12:41:23Z"
+  },
+  {
+   "full": "argoproj/argo-events",
+   "desc": "Event-driven Automation Framework for Kubernetes",
+   "stars": 2710,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "pipelines",
+    "event-driven",
+    "argo",
+    "cloud-native",
+    "workflows",
+    "automation-framework",
+    "triggers",
+    "event-source",
+    "workflow-automation",
+    "cloudevents",
+    "eventing-framework"
+   ],
+   "updated": "2026-10-31T13:01:14Z"
+  },
+  {
+   "full": "moazbuilds/CodeMachine-CLI",
+   "desc": "CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️",
+   "stars": 2511,
+   "lang": "TypeScript",
+   "topics": [
+    "cli",
+    "automation",
+    "ai",
+    "orchestration",
+    "developer-tools",
+    "code-generation",
+    "scaffolding",
+    "multi-agent-systems",
+    "workflow-automation",
+    "cli-tool",
+    "generative-ai"
+   ],
+   "updated": "2026-02-25T21:09:41Z"
+  }
+ ]
+}

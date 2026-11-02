@@ -1,0 +1,1420 @@
+{
+ "subId": "tutoriales",
+ "topics": [
+  "tutorial",
+  "education"
+ ],
+ "crawledAt": "2026-11-02T20:21:01.946Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "practical-tutorials/project-based-learning",
+   "desc": "Curated list of project-based tutorials",
+   "stars": 288803,
+   "lang": "Python",
+   "topics": [
+    "javascript",
+    "python",
+    "golang",
+    "tutorial",
+    "cpp",
+    "beginner-project",
+    "project",
+    "webdevelopment"
+   ],
+   "updated": "2026-11-02T06:38:53Z"
+  },
+  {
+   "full": "datawhalechina/hello-agents",
+   "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+   "stars": 85783,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "tutorial",
+    "rag",
+    "llm"
+   ],
+   "updated": "2026-10-13T22:28:54Z"
+  },
+  {
+   "full": "shareAI-lab/learn-claude-code",
+   "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+   "stars": 79764,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "tutorial",
+    "teaching",
+    "educational",
+    "claude",
+    "ai-agent",
+    "llm",
+    "agent-development",
+    "claude-code"
+   ],
+   "updated": "2026-10-27T04:47:00Z"
+  },
+  {
+   "full": "rohitg00/ai-engineering-from-scratch",
+   "desc": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+   "stars": 76382,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "rust",
+    "machine-learning",
+    "tutorial",
+    "typescript",
+    "course",
+    "reinforcement-learning",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "mcp",
+    "transformers"
+   ],
+   "updated": "2026-11-02T04:26:52Z"
+  },
+  {
+   "full": "enaqx/awesome-react",
+   "desc": "A collection of awesome things regarding React ecosystem",
+   "stars": 75141,
+   "lang": null,
+   "topics": [
+    "react",
+    "javascript",
+    "awesome",
+    "tutorial",
+    "typescript",
+    "react-native",
+    "react-tutorial",
+    "samples",
+    "awesome-list",
+    "react-apps"
+   ],
+   "updated": "2026-09-04T01:13:20Z"
+  },
+  {
+   "full": "byoungd/up",
+   "desc": "韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生",
+   "stars": 69928,
+   "lang": "JavaScript",
+   "topics": [
+    "tutorial",
+    "chinese",
+    "english-learning",
+    "open-education",
+    "lifelong-learning",
+    "self-directed-learning",
+    "ai-literacy"
+   ],
+   "updated": "2026-10-30T10:06:40Z"
+  },
+  {
+   "full": "firstcontributions/first-contributions",
+   "desc": "🚀✨ Help beginners to contribute to open source projects",
+   "stars": 56673,
+   "lang": null,
+   "topics": [
+    "open-source",
+    "tutorial",
+    "contribution",
+    "beginner",
+    "beginner-friendly",
+    "contributions-welcome",
+    "contribute",
+    "good-first-issue",
+    "good-first-pr",
+    "good-first-contribution"
+   ],
+   "updated": "2026-11-02T19:31:24Z"
+  },
+  {
+   "full": "Avik-Jain/100-Days-Of-ML-Code",
+   "desc": "100 Days of ML Coding",
+   "stars": 52023,
+   "lang": null,
+   "topics": [
+    "python",
+    "machine-learning",
+    "tutorial",
+    "deep-learning",
+    "svm",
+    "linear-regression",
+    "scikit-learn",
+    "linear-algebra",
+    "machine-learning-algorithms",
+    "naive-bayes-classifier",
+    "logistic-regression",
+    "implementation"
+   ],
+   "updated": "2023-12-29T07:57:53Z"
+  },
+  {
+   "full": "luongnv89/claude-howto",
+   "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+   "stars": 46418,
+   "lang": "Python",
+   "topics": [
+    "tutorial",
+    "guide",
+    "claude-code"
+   ],
+   "updated": "2026-11-02T05:48:59Z"
+  },
+  {
+   "full": "aymericdamien/TensorFlow-Examples",
+   "desc": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+   "stars": 43742,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "machine-learning",
+    "tutorial",
+    "deep-learning",
+    "examples",
+    "tensorflow"
+   ],
+   "updated": "2024-07-26T19:46:13Z"
+  },
+  {
+   "full": "mouredev/Hello-Python",
+   "desc": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+   "stars": 37953,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "tutorial",
+    "mongodb",
+    "frontend",
+    "backend",
+    "python3",
+    "openai",
+    "reflex",
+    "fastapi",
+    "gpt-3",
+    "openai-api",
+    "gpt-4"
+   ],
+   "updated": "2025-08-11T12:00:01Z"
+  },
+  {
+   "full": "unknwon/the-way-to-go_ZH_CN",
+   "desc": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+   "stars": 35002,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "tutorial",
+    "translation",
+    "book"
+   ],
+   "updated": "2024-08-14T07:04:25Z"
+  },
+  {
+   "full": "javascript-tutorial/en.javascript.info",
+   "desc": "Modern JavaScript Tutorial",
+   "stars": 25526,
+   "lang": "HTML",
+   "topics": [
+    "javascript",
+    "tutorial",
+    "english"
+   ],
+   "updated": "2026-07-25T16:20:58Z"
+  },
+  {
+   "full": "ssloy/tinyrenderer",
+   "desc": "A brief computer graphics / rendering course",
+   "stars": 24489,
+   "lang": "C++",
+   "topics": [
+    "learning",
+    "c-plus-plus",
+    "fun",
+    "tutorial",
+    "opengl",
+    "cpp",
+    "shaders",
+    "picture",
+    "graphics",
+    "software-rendering",
+    "engine",
+    "rendering"
+   ],
+   "updated": "2026-07-29T12:13:12Z"
+  },
+  {
+   "full": "MostlyAdequate/mostly-adequate-guide",
+   "desc": "Mostly adequate guide to FP (in javascript)",
+   "stars": 23816,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "tutorial",
+    "functional-programming",
+    "reactive-programming"
+   ],
+   "updated": "2024-09-17T06:18:40Z"
+  },
+  {
+   "full": "MLEveryday/100-Days-Of-ML-Code",
+   "desc": "100-Days-Of-ML-Code中文版",
+   "stars": 22232,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "tutorial",
+    "deep-learning",
+    "tensorflow",
+    "keras",
+    "jupyter-notebook",
+    "supervised-learning",
+    "unsupervised-learning",
+    "chinese-simplified",
+    "infographics",
+    "100-days-of-ml-code"
+   ],
+   "updated": "2026-10-24T03:23:11Z"
+  },
+  {
+   "full": "izackwu/TeachYourselfCS-CN",
+   "desc": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS",
+   "stars": 22207,
+   "lang": null,
+   "topics": [
+    "tutorial",
+    "translation",
+    "chinese-translation",
+    "teachyourselfcs"
+   ],
+   "updated": "2023-01-18T11:23:31Z"
+  },
+  {
+   "full": "judasn/IntelliJ-IDEA-Tutorial",
+   "desc": "IntelliJ IDEA 简体中文专题教程",
+   "stars": 22031,
+   "lang": null,
+   "topics": [
+    "java",
+    "tutorial",
+    "intellij",
+    "jetbrains",
+    "phpstorm",
+    "webstorm",
+    "rubymine",
+    "pycharm",
+    "android-studio",
+    "clion",
+    "intellij-idea",
+    "gogland"
+   ],
+   "updated": "2025-09-12T07:27:14Z"
+  },
+  {
+   "full": "recommenders-team/recommenders",
+   "desc": "Best Practices on Recommendation Systems",
+   "stars": 21974,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "kubernetes",
+    "data-science",
+    "machine-learning",
+    "tutorial",
+    "ai",
+    "deep-learning",
+    "rating",
+    "jupyter-notebook",
+    "artificial-intelligence",
+    "ranking",
+    "recommender"
+   ],
+   "updated": "2026-11-02T13:50:58Z"
+  },
+  {
+   "full": "datawhalechina/easy-vibe",
+   "desc": "💻 Vibe Coding 101｜Your First Course For AI Product Builders.",
+   "stars": 20293,
+   "lang": "JavaScript",
+   "topics": [
+    "agent",
+    "workflow",
+    "tutorial",
+    "programming",
+    "course",
+    "ai",
+    "mcp",
+    "nextjs",
+    "vscode",
+    "coding",
+    "gemini",
+    "openai"
+   ],
+   "updated": "2026-10-22T10:52:29Z"
+  },
+  {
+   "full": "inancgumus/learngo",
+   "desc": "❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.",
+   "stars": 20177,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "tutorial",
+    "course",
+    "patterns",
+    "best-practices",
+    "idioms",
+    "exercise",
+    "design-patterns",
+    "project",
+    "learn-to-code",
+    "quizzes"
+   ],
+   "updated": "2025-06-24T23:03:52Z"
+  },
+  {
+   "full": "verekia/js-stack-from-scratch",
+   "desc": "🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.",
+   "stars": 20119,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "redux",
+    "javascript",
+    "heroku",
+    "bootstrap",
+    "flow",
+    "tutorial",
+    "webpack",
+    "yarn",
+    "react-router",
+    "eslint",
+    "stack"
+   ],
+   "updated": "2024-06-05T18:20:56Z"
+  },
+  {
+   "full": "architecture-decision-record/architecture-decision-record",
+   "desc": "Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation",
+   "stars": 17382,
+   "lang": "CSS",
+   "topics": [
+    "documentation",
+    "tutorial",
+    "decisions",
+    "project-management",
+    "teamwork",
+    "adr",
+    "architecture-decision-record",
+    "decision-record"
+   ],
+   "updated": "2026-10-29T13:37:37Z"
+  },
+  {
+   "full": "datawhalechina/leedl-tutorial",
+   "desc": "《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
+   "stars": 16849,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "machine-learning",
+    "tutorial",
+    "reinforcement-learning",
+    "deep-learning",
+    "cnn",
+    "transformer",
+    "gan",
+    "rnn",
+    "pruning",
+    "transfer-learning",
+    "bert",
+    "diffusion"
+   ],
+   "updated": "2026-10-23T14:03:33Z"
+  },
+  {
+   "full": "TianxingChen/Embodied-AI-Guide",
+   "desc": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
+   "stars": 16808,
+   "lang": null,
+   "topics": [
+    "tutorial",
+    "robot",
+    "robotics",
+    "guide",
+    "robotic",
+    "embodied",
+    "embodied-ai"
+   ],
+   "updated": "2026-10-25T08:51:49Z"
+  },
+  {
+   "full": "winterbe/java8-tutorial",
+   "desc": "Modern Java - A Guide to Java 8",
+   "stars": 16709,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "learning",
+    "tutorial",
+    "stream",
+    "guide",
+    "java-8",
+    "lambda-expressions",
+    "parallel-streams"
+   ],
+   "updated": "2023-08-11T18:44:34Z"
+  },
+  {
+   "full": "leandromoreira/digital_video_introduction",
+   "desc": "A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸",
+   "stars": 16379,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "audio",
+    "learning",
+    "tutorial",
+    "compression",
+    "h264",
+    "video",
+    "ffmpeg",
+    "hls",
+    "guide",
+    "handson",
+    "dash",
+    "codec"
+   ],
+   "updated": "2026-09-02T21:43:42Z"
+  },
+  {
+   "full": "github/opensource.guide",
+   "desc": "📚 Community guides for open source creators",
+   "stars": 15780,
+   "lang": "HTML",
+   "topics": [
+    "open-source",
+    "documentation",
+    "tutorial",
+    "oss",
+    "best-practices",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-20T04:12:18Z"
+  },
+  {
+   "full": "iggredible/Learn-Vim",
+   "desc": "Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖",
+   "stars": 15358,
+   "lang": "Dockerfile",
+   "topics": [
+    "vim",
+    "editor",
+    "linux",
+    "learning",
+    "education",
+    "unix",
+    "tutorial",
+    "programming",
+    "book",
+    "book-series",
+    "advanced",
+    "code-editor"
+   ],
+   "updated": "2026-09-07T20:12:20Z"
+  },
+  {
+   "full": "nswbmw/N-blog",
+   "desc": "《一起学 Node.js》",
+   "stars": 15354,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "blog",
+    "express",
+    "tutorial",
+    "course",
+    "mongodb",
+    "mongolass"
+   ],
+   "updated": "2023-04-26T10:06:31Z"
+  },
+  {
+   "full": "graykode/nlp-tutorial",
+   "desc": "Natural Language Processing Tutorial for Deep Learning Researchers",
+   "stars": 14937,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "nlp",
+    "natural-language-processing",
+    "tutorial",
+    "tensorflow",
+    "paper",
+    "pytorch",
+    "transformer",
+    "attention",
+    "bert"
+   ],
+   "updated": "2024-02-21T13:49:10Z"
+  },
+  {
+   "full": "rust-embedded/rust-raspberrypi-OS-tutorials",
+   "desc": "📚 Learn to write an embedded OS in Rust 🦀",
+   "stars": 14742,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "raspberry-pi",
+    "tutorial",
+    "kernel",
+    "os",
+    "operating-system",
+    "raspberry",
+    "rpi3",
+    "arm64",
+    "aarch64",
+    "bare-metal",
+    "armv8"
+   ],
+   "updated": "2024-02-10T03:24:45Z"
+  },
+  {
+   "full": "s-matyukevich/raspberry-pi-os",
+   "desc": "Learning operating system development using Linux kernel and Raspberry Pi",
+   "stars": 13963,
+   "lang": "C",
+   "topics": [
+    "c",
+    "education",
+    "raspberry-pi",
+    "arm",
+    "tutorial",
+    "kernel",
+    "resource",
+    "linux-kernel",
+    "assembler",
+    "osdev",
+    "operating-system",
+    "learn"
+   ],
+   "updated": "2024-03-29T21:19:52Z"
+  },
+  {
+   "full": "Yixiaohan/show-me-the-code",
+   "desc": "Python 练习册，每天一个小程序",
+   "stars": 13731,
+   "lang": null,
+   "topics": [
+    "python",
+    "tutorial",
+    "python-web"
+   ],
+   "updated": "2019-11-11T04:02:04Z"
+  },
+  {
+   "full": "dabeaz-course/python-mastery",
+   "desc": "Advanced Python Mastery (course by @dabeaz)",
+   "stars": 13355,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "tutorial",
+    "python-tutorial"
+   ],
+   "updated": "2026-10-22T23:27:23Z"
+  },
+  {
+   "full": "ttroy50/cmake-examples",
+   "desc": "Useful CMake Examples",
+   "stars": 13068,
+   "lang": "CMake",
+   "topics": [
+    "unit-testing",
+    "cmake",
+    "tutorial",
+    "cpp",
+    "catch",
+    "boost",
+    "static-analysis",
+    "clang",
+    "cpack",
+    "cppcheck",
+    "clang-format",
+    "google-test"
+   ],
+   "updated": "2024-02-28T22:39:37Z"
+  },
+  {
+   "full": "brannondorsey/wifi-cracking",
+   "desc": "Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat",
+   "stars": 12706,
+   "lang": null,
+   "topics": [
+    "tutorial",
+    "hacking",
+    "wifi",
+    "cracking",
+    "hashcat",
+    "aircrack-ng",
+    "password-cracking",
+    "wpa2-cracking"
+   ],
+   "updated": "2024-12-26T23:13:13Z"
+  },
+  {
+   "full": "selierlin/Share-SSR-V2ray",
+   "desc": "机场推荐、Clash / V2ray 客户端配置与代理工具指南",
+   "stars": 12684,
+   "lang": "Python",
+   "topics": [
+    "documentation",
+    "tutorial",
+    "proxy",
+    "vpn",
+    "shadowsocks-client",
+    "clash",
+    "mihomo"
+   ],
+   "updated": "2026-10-11T04:21:58Z"
+  },
+  {
+   "full": "ctjhoa/rust-learning",
+   "desc": "A bunch of links to blog posts, articles, videos, etc for learning Rust",
+   "stars": 12276,
+   "lang": null,
+   "topics": [
+    "rust",
+    "tutorial",
+    "video",
+    "book",
+    "teaching",
+    "blog-article",
+    "learn",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-15T07:51:27Z"
+  },
+  {
+   "full": "adongwanai/AgentGuide",
+   "desc": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
+   "stars": 11568,
+   "lang": "MDX",
+   "topics": [
+    "tutorial",
+    "interview",
+    "multi-agent",
+    "job-hunting",
+    "rag",
+    "sft",
+    "ai-agent",
+    "llm",
+    "langchain",
+    "crewai",
+    "graphrag",
+    "grpo"
+   ],
+   "updated": "2026-10-31T04:00:13Z"
+  },
+  {
+   "full": "freeCodeCamp/freeCodeCamp",
+   "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+   "stars": 458449,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "d3",
+    "teachers",
+    "community",
+    "education",
+    "programming",
+    "curriculum",
+    "math",
+    "freecodecamp",
+    "learn-to-code"
+   ],
+   "updated": "2026-11-02T16:05:01Z"
+  },
+  {
+   "full": "EbookFoundation/free-programming-books",
+   "desc": "📚 Freely available programming books",
+   "stars": 400748,
+   "lang": "Python",
+   "topics": [
+    "education",
+    "list",
+    "books",
+    "resource",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-01T02:48:06Z"
+  },
+  {
+   "full": "TheAlgorithms/Python",
+   "desc": "All Algorithms implemented in Python",
+   "stars": 225784,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "education",
+    "algorithm",
+    "practice",
+    "interview",
+    "sorting-algorithms",
+    "learn",
+    "algos",
+    "algorithm-competitions",
+    "sorts",
+    "hacktoberfest",
+    "algorithms-implemented"
+   ],
+   "updated": "2026-11-02T19:35:18Z"
+  },
+  {
+   "full": "DigitalPlatDev/FreeDomain",
+   "desc": "Free domain registration and practical DNS learning resources for everyone.",
+   "stars": 206837,
+   "lang": "Markdown",
+   "topics": [
+    "dns",
+    "education",
+    "documentation",
+    "domain",
+    "domains",
+    "free",
+    "nameserver",
+    "domainname",
+    "domain-registration",
+    "free-domain",
+    "domain-platform",
+    "freedomain"
+   ],
+   "updated": "2026-08-12T10:36:46Z"
+  },
+  {
+   "full": "getify/You-Dont-Know-JS",
+   "desc": "A book series (2 published editions) on the JS language.",
+   "stars": 184838,
+   "lang": null,
+   "topics": [
+    "javascript",
+    "education",
+    "programming",
+    "es6",
+    "async",
+    "book",
+    "book-series",
+    "es2015",
+    "learn-to-code",
+    "training-providers",
+    "closures",
+    "prototypes"
+   ],
+   "updated": "2026-10-31T16:14:40Z"
+  },
+  {
+   "full": "krahets/hello-algo",
+   "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+   "stars": 131887,
+   "lang": "Swift",
+   "topics": [
+    "education",
+    "algorithm",
+    "programming",
+    "data-structure",
+    "algorithms",
+    "leetcode",
+    "book",
+    "algo",
+    "data-structures",
+    "dsa",
+    "data-structures-and-algorithms"
+   ],
+   "updated": "2026-10-30T20:04:16Z"
+  },
+  {
+   "full": "Chalarangelo/30-seconds-of-code",
+   "desc": "Coding articles to level up your development skills",
+   "stars": 129391,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "css",
+    "git",
+    "html",
+    "education",
+    "snippets",
+    "programming",
+    "es6-javascript",
+    "learn-to-code",
+    "astro",
+    "awesome-list"
+   ],
+   "updated": "2026-10-26T16:14:24Z"
+  },
+  {
+   "full": "microsoft/Web-Dev-For-Beginners",
+   "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+   "stars": 97068,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "learning",
+    "education",
+    "curriculum",
+    "tutorials",
+    "microsoft-for-beginners"
+   ],
+   "updated": "2026-11-01T04:38:21Z"
+  },
+  {
+   "full": "microsoft/ML-For-Beginners",
+   "desc": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+   "stars": 91954,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "education",
+    "data-science",
+    "machine-learning",
+    "r",
+    "scikit-learn",
+    "machine-learning-algorithms",
+    "ml",
+    "machinelearning",
+    "machinelearning-python",
+    "scikit-learn-python",
+    "microsoft-for-beginners"
+   ],
+   "updated": "2026-10-31T23:23:54Z"
+  },
+  {
+   "full": "FreeCodeCampChina/freecodecamp.cn",
+   "desc": "FCC China open source codebase and curriculum. Learn to code and help nonprofits.",
+   "stars": 37788,
+   "lang": "CSS",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "d3",
+    "community",
+    "education",
+    "curriculum",
+    "math",
+    "freecodecamp",
+    "learn-to-code",
+    "nonprofits",
+    "career"
+   ],
+   "updated": "2023-07-16T16:48:59Z"
+  },
+  {
+   "full": "carbon-app/carbon",
+   "desc": "🖤 Create and share beautiful images of your source code",
+   "stars": 36126,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "education",
+    "snippets",
+    "presentation",
+    "sharing",
+    "beautiful",
+    "github-gist",
+    "carbon",
+    "tweet"
+   ],
+   "updated": "2026-10-27T01:26:22Z"
+  },
+  {
+   "full": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
+   "desc": "A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.",
+   "stars": 29548,
+   "lang": null,
+   "topics": [
+    "education",
+    "ai",
+    "gpt-4",
+    "llm"
+   ],
+   "updated": "2025-09-30T08:08:00Z"
+  },
+  {
+   "full": "processing/p5.js",
+   "desc": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5",
+   "stars": 24292,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "art",
+    "processing",
+    "html",
+    "learning",
+    "education",
+    "design",
+    "creative-coding",
+    "graphics",
+    "sound",
+    "p5js"
+   ],
+   "updated": "2026-11-02T20:05:04Z"
+  },
+  {
+   "full": "TheAlgorithms/C",
+   "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+   "stars": 22591,
+   "lang": "C",
+   "topics": [
+    "c",
+    "search",
+    "computer-science",
+    "education",
+    "machine-learning",
+    "algorithms",
+    "datastructures",
+    "machine-learning-algorithms",
+    "mathematics",
+    "interview",
+    "sort",
+    "learn-to-code"
+   ],
+   "updated": "2024-08-07T21:56:16Z"
+  },
+  {
+   "full": "hemanth/functional-programming-jargon",
+   "desc": "Jargon from the functional programming world in simple terms!",
+   "stars": 18743,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "education",
+    "functional-programming",
+    "glossary",
+    "fp",
+    "awesome-list"
+   ],
+   "updated": "2026-10-04T05:28:31Z"
+  },
+  {
+   "full": "mahmoud/awesome-python-applications",
+   "desc": "💿 Free software that works great, and also happens to be open-source Python.",
+   "stars": 18133,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "audio",
+    "game",
+    "python",
+    "productivity",
+    "science",
+    "education",
+    "application",
+    "gui",
+    "video",
+    "graphics"
+   ],
+   "updated": "2026-10-18T07:15:39Z"
+  },
+  {
+   "full": "getify/Functional-Light-JS",
+   "desc": "Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.",
+   "stars": 16719,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "education",
+    "functional-programming",
+    "book",
+    "training-providers",
+    "training-materials"
+   ],
+   "updated": "2023-12-26T15:46:02Z"
+  },
+  {
+   "full": "Chalarangelo/30-seconds-of-css",
+   "desc": "Short CSS code snippets for all your development needs",
+   "stars": 15972,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "education",
+    "snippets",
+    "programming",
+    "learn-to-code",
+    "css-snippets",
+    "snippets-collection",
+    "learning-resources"
+   ],
+   "updated": "2023-05-07T17:09:56Z"
+  },
+  {
+   "full": "Hacker0x01/hacker101",
+   "desc": "Source code for Hacker101.com - a free online web and mobile security class.",
+   "stars": 14616,
+   "lang": "SCSS",
+   "topics": [
+    "education",
+    "security",
+    "hacking",
+    "xss",
+    "sql-injection",
+    "vulnerability",
+    "csrf",
+    "web-security",
+    "mobile-security",
+    "clickjacking",
+    "hackerone",
+    "session-fixation"
+   ],
+   "updated": "2025-02-22T06:59:37Z"
+  },
+  {
+   "full": "bolshchikov/js-must-watch",
+   "desc": "Must-watch videos about javascript",
+   "stars": 13647,
+   "lang": null,
+   "topics": [
+    "javascript",
+    "education",
+    "awesome",
+    "watch",
+    "videos",
+    "awesome-list"
+   ],
+   "updated": "2022-01-20T09:29:27Z"
+  },
+  {
+   "full": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+   "desc": "A list of resources for those interested in getting started in bug bounties",
+   "stars": 12312,
+   "lang": null,
+   "topics": [
+    "education",
+    "hackers",
+    "hacking",
+    "xss",
+    "bug-bounty",
+    "web-security",
+    "bugbounty",
+    "pentest",
+    "ssrf",
+    "bug-bounty-hunters",
+    "learn2hack"
+   ],
+   "updated": "2024-07-23T17:01:39Z"
+  },
+  {
+   "full": "sonic-pi-net/sonic-pi",
+   "desc": "Code. Music. Live.",
+   "stars": 12245,
+   "lang": "C++",
+   "topics": [
+    "audio",
+    "art",
+    "music",
+    "education",
+    "schools",
+    "sonic-pi",
+    "instrument",
+    "synthesizer",
+    "live-coding",
+    "synthesis",
+    "livecoding"
+   ],
+   "updated": "2026-10-23T19:51:34Z"
+  },
+  {
+   "full": "noodle-run/noodle",
+   "desc": "Rethinking Student Productivity",
+   "stars": 12164,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "redis",
+    "education",
+    "typescript",
+    "eslint",
+    "sqlite",
+    "prettier",
+    "next",
+    "tailwindcss",
+    "trpc",
+    "productivity-tool"
+   ],
+   "updated": "2024-10-17T02:31:07Z"
+  },
+  {
+   "full": "ankidroid/Anki-Android",
+   "desc": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
+   "stars": 12151,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "kotlin",
+    "learning",
+    "education",
+    "flashcards",
+    "srs",
+    "anki",
+    "ankidroid"
+   ],
+   "updated": "2026-11-02T20:14:38Z"
+  },
+  {
+   "full": "Chalarangelo/30-seconds-of-interviews",
+   "desc": "A curated collection of common interview questions to help you prepare for your next interview.",
+   "stars": 12125,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "education",
+    "snippets",
+    "interview",
+    "learn-to-code",
+    "awesome-list",
+    "interview-questions",
+    "snippets-collection",
+    "learning-resources"
+   ],
+   "updated": "2022-12-09T05:29:51Z"
+  },
+  {
+   "full": "Chalarangelo/30-seconds-of-python",
+   "desc": "Short Python code snippets for all your development needs",
+   "stars": 8811,
+   "lang": "Python",
+   "topics": [
+    "education",
+    "snippets",
+    "programming",
+    "python3",
+    "learn-to-code",
+    "snippets-library",
+    "snippets-collection",
+    "learning-resources"
+   ],
+   "updated": "2023-05-07T17:09:42Z"
+  },
+  {
+   "full": "logisim-evolution/logisim-evolution",
+   "desc": "Digital logic design tool and simulator",
+   "stars": 7875,
+   "lang": "Java",
+   "topics": [
+    "education",
+    "simulator",
+    "fpga",
+    "vhdl",
+    "logic",
+    "circuits",
+    "verilog",
+    "circuit",
+    "digital-logic",
+    "logisim",
+    "digital-circuit",
+    "digital-circuits"
+   ],
+   "updated": "2026-11-02T17:26:19Z"
+  },
+  {
+   "full": "linsa-io/books",
+   "desc": "Awesome Books",
+   "stars": 7758,
+   "lang": null,
+   "topics": [
+    "learning",
+    "education",
+    "pdf",
+    "list",
+    "awesome",
+    "books",
+    "resources",
+    "free",
+    "awesome-list",
+    "learn-anything"
+   ],
+   "updated": "2026-03-04T15:38:20Z"
+  },
+  {
+   "full": "oppia/oppia",
+   "desc": "A free, online learning platform to make quality education accessible for all.",
+   "stars": 6957,
+   "lang": "Python",
+   "topics": [
+    "javascript",
+    "python",
+    "learning",
+    "education",
+    "angular",
+    "typescript",
+    "appengine",
+    "web",
+    "interactive",
+    "tutorials",
+    "nonprofit",
+    "teaching"
+   ],
+   "updated": "2026-11-02T20:05:39Z"
+  },
+  {
+   "full": "metagrover/ES6-for-humans",
+   "desc": "A kickstarter guide to writing ES6",
+   "stars": 6949,
+   "lang": null,
+   "topics": [
+    "javascript",
+    "education",
+    "programming",
+    "es6",
+    "es2015",
+    "guide",
+    "learn-to-code"
+   ],
+   "updated": "2019-06-12T04:27:34Z"
+  },
+  {
+   "full": "CTFd/CTFd",
+   "desc": "CTFs as you need them",
+   "stars": 6895,
+   "lang": "Python",
+   "topics": [
+    "education",
+    "flask",
+    "security",
+    "ctf",
+    "ctfd"
+   ],
+   "updated": "2026-11-01T22:08:06Z"
+  },
+  {
+   "full": "pshenok/server-survival",
+   "desc": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.",
+   "stars": 6474,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "game",
+    "learning",
+    "open-source",
+    "education",
+    "aws",
+    "devops",
+    "threejs",
+    "cloud",
+    "simulation",
+    "tower-defense"
+   ],
+   "updated": "2026-10-21T04:56:10Z"
+  },
+  {
+   "full": "gsantner/markor",
+   "desc": "Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..",
+   "stars": 6371,
+   "lang": "Java",
+   "topics": [
+    "editor",
+    "markdown",
+    "education",
+    "clipboard",
+    "todo",
+    "school",
+    "university",
+    "filemanager",
+    "orgmode",
+    "markdown-editor",
+    "asciidoc",
+    "syncthing"
+   ],
+   "updated": "2026-10-30T13:31:51Z"
+  },
+  {
+   "full": "mikesprague/udacity-nanodegrees",
+   "desc": "🎓 List of Udacity Nanodegree programs with links to the free courses in their curricula",
+   "stars": 6235,
+   "lang": null,
+   "topics": [
+    "learning",
+    "education",
+    "udacity",
+    "nanodegree",
+    "nanodegree-programs",
+    "udacity-nanodegree",
+    "never-stop-learning"
+   ],
+   "updated": "2024-05-16T18:39:13Z"
+  },
+  {
+   "full": "xiaoyang111222/cn-math-taxonomy",
+   "desc": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+   "stars": 6205,
+   "lang": "Python",
+   "topics": [
+    "education",
+    "curriculum",
+    "math",
+    "mathematics",
+    "edtech",
+    "open-data",
+    "english",
+    "knowledge-graph",
+    "chinese",
+    "high-school",
+    "k12",
+    "primary-school"
+   ],
+   "updated": "2026-11-02T08:43:46Z"
+  },
+  {
+   "full": "ivmm/Student-resources",
+   "desc": "本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。",
+   "stars": 6196,
+   "lang": null,
+   "topics": [
+    "education"
+   ],
+   "updated": "2023-09-16T00:04:33Z"
+  },
+  {
+   "full": "hneemann/Digital",
+   "desc": "A digital logic designer and circuit simulator.",
+   "stars": 6141,
+   "lang": "Java",
+   "topics": [
+    "education",
+    "simulator",
+    "logic",
+    "circuit",
+    "logic-gates",
+    "logisim",
+    "digital-circuits"
+   ],
+   "updated": "2026-10-08T05:21:15Z"
+  },
+  {
+   "full": "CodingTrain/website-archive",
+   "desc": "Archive of the Coding Train website (first version)",
+   "stars": 5742,
+   "lang": "JavaScript",
+   "topics": [
+    "art",
+    "learning",
+    "education",
+    "design",
+    "youtube",
+    "hacktoberfest"
+   ],
+   "updated": "2022-07-05T00:30:46Z"
+  }
+ ]
+}

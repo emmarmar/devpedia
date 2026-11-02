@@ -1,0 +1,1403 @@
+{
+ "subId": "emulacion",
+ "topics": [
+  "emulator",
+  "virtualization"
+ ],
+ "crawledAt": "2026-11-02T20:20:16.688Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "shadps4-emu/shadPS4",
+   "desc": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
+   "stars": 34029,
+   "lang": "C++",
+   "topics": [
+    "windows",
+    "macos",
+    "linux",
+    "emulator",
+    "cpp",
+    "vulkan",
+    "emulation",
+    "imgui",
+    "ps4",
+    "playstation4",
+    "cpp23",
+    "sdl3"
+   ],
+   "updated": "2026-11-02T17:08:11Z"
+  },
+  {
+   "full": "copy/v86",
+   "desc": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
+   "stars": 23653,
+   "lang": "JavaScript",
+   "topics": [
+    "emulator",
+    "virtualization",
+    "wasm",
+    "x86"
+   ],
+   "updated": "2026-10-30T21:48:39Z"
+  },
+  {
+   "full": "ish-app/ish",
+   "desc": "Linux shell for iOS",
+   "stars": 20660,
+   "lang": "C",
+   "topics": [
+    "linux",
+    "emulator",
+    "ios",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-24T00:50:00Z"
+  },
+  {
+   "full": "RPCS3/rpcs3",
+   "desc": "PlayStation 3 emulator and debugger",
+   "stars": 20304,
+   "lang": "C++",
+   "topics": [
+    "c",
+    "emulator",
+    "opengl",
+    "cpp",
+    "vulkan",
+    "emulation",
+    "llvm",
+    "assembly-language",
+    "ps3",
+    "multiplatform"
+   ],
+   "updated": "2026-11-02T16:29:42Z"
+  },
+  {
+   "full": "ruffle-rs/ruffle",
+   "desc": "A Flash Player emulator written in Rust",
+   "stars": 18788,
+   "lang": "Rust",
+   "topics": [
+    "emulator",
+    "rust",
+    "flash",
+    "swf",
+    "reimplementation",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T20:12:51Z"
+  },
+  {
+   "full": "OpenEmu/OpenEmu",
+   "desc": "🕹 Retro video game emulation for macOS",
+   "stars": 17862,
+   "lang": "Swift",
+   "topics": [
+    "macos",
+    "emulator",
+    "objective-c",
+    "emulation",
+    "retrogaming",
+    "openemu"
+   ],
+   "updated": "2025-10-22T21:39:10Z"
+  },
+  {
+   "full": "budtmo/docker-android",
+   "desc": "Android in docker solution with noVNC supported, video recording, mcp server and AI-agent",
+   "stars": 16081,
+   "lang": "Python",
+   "topics": [
+    "android",
+    "emulator",
+    "docker",
+    "kubernetes",
+    "jenkins",
+    "aws",
+    "cloud",
+    "azure",
+    "mcp",
+    "selenium",
+    "gcp",
+    "mobile-app"
+   ],
+   "updated": "2026-11-02T04:00:57Z"
+  },
+  {
+   "full": "PCSX2/pcsx2",
+   "desc": "PCSX2 - The Playstation 2 Emulator",
+   "stars": 15972,
+   "lang": "C++",
+   "topics": [
+    "emulator",
+    "cpp",
+    "emulation",
+    "pcsx2",
+    "ps2"
+   ],
+   "updated": "2026-11-02T18:14:20Z"
+  },
+  {
+   "full": "dolphin-emu/dolphin",
+   "desc": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+   "stars": 15758,
+   "lang": "C++",
+   "topics": [
+    "emulator",
+    "cpp",
+    "emulation",
+    "gamecube",
+    "wii"
+   ],
+   "updated": "2026-11-02T20:16:21Z"
+  },
+  {
+   "full": "stenzek/duckstation",
+   "desc": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+   "stars": 10934,
+   "lang": "C++",
+   "topics": [
+    "emulator",
+    "fast",
+    "opengl",
+    "vulkan",
+    "ps1",
+    "playstation",
+    "psx",
+    "appimage",
+    "jit-compiler",
+    "enhancements",
+    "hardware-renderers"
+   ],
+   "updated": "2026-11-02T14:10:57Z"
+  },
+  {
+   "full": "mobile-next/mobile-mcp",
+   "desc": "Mobile MCP: let AI agents drive your iOS and Android apps. MCP server for simulators, emulators and real devices. Works with Claude Code, Codex, Cursor and any MCP client.",
+   "stars": 10229,
+   "lang": "TypeScript",
+   "topics": [
+    "android",
+    "emulator",
+    "agent",
+    "ios",
+    "mobile",
+    "simulator",
+    "skills",
+    "mcp",
+    "cursor",
+    "mobile-automation",
+    "ios-automation",
+    "codex"
+   ],
+   "updated": "2026-11-02T14:50:26Z"
+  },
+  {
+   "full": "cemu-project/Cemu",
+   "desc": "Cemu - Wii U emulator",
+   "stars": 10078,
+   "lang": "C++",
+   "topics": [
+    "emulator",
+    "nintendo",
+    "cpp",
+    "emulation",
+    "wiiu",
+    "cemu",
+    "cemu-emulator"
+   ],
+   "updated": "2026-11-01T16:04:50Z"
+  },
+  {
+   "full": "xenia-project/xenia",
+   "desc": "Xbox 360 Emulator Research Project",
+   "stars": 9798,
+   "lang": "C++",
+   "topics": [
+    "emulator",
+    "c-plus-plus",
+    "cpp",
+    "vulkan",
+    "emulation",
+    "d3d12",
+    "ppc",
+    "xenon",
+    "xbox360"
+   ],
+   "updated": "2026-02-18T19:46:07Z"
+  },
+  {
+   "full": "unicorn-engine/unicorn",
+   "desc": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",
+   "stars": 9526,
+   "lang": "C",
+   "topics": [
+    "emulator",
+    "security",
+    "arm",
+    "framework",
+    "cpu",
+    "mips",
+    "x86-64",
+    "reverse-engineering",
+    "riscv",
+    "x86",
+    "arm64",
+    "sparc"
+   ],
+   "updated": "2026-10-18T15:17:01Z"
+  },
+  {
+   "full": "azerothcore/azerothcore-wotlk",
+   "desc": "Complete Open Source and Modular solution for MMO",
+   "stars": 9136,
+   "lang": "C++",
+   "topics": [
+    "game",
+    "emulator",
+    "wow",
+    "modular",
+    "gaming",
+    "server",
+    "mmorpg",
+    "game-server",
+    "trinitycore",
+    "azerothcore",
+    "mangos",
+    "sunwellcore"
+   ],
+   "updated": "2026-10-31T21:17:44Z"
+  },
+  {
+   "full": "amitshekhariitbhu/Android-Debug-Database",
+   "desc": "A library for debugging android databases and shared preferences - Make Debugging Great Again",
+   "stars": 8705,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "emulator",
+    "debugging",
+    "room",
+    "awesome",
+    "database",
+    "sharedpreferences",
+    "sqlite",
+    "debug",
+    "android-debug-database",
+    "database-values",
+    "room-persistence-library"
+   ],
+   "updated": "2026-02-05T09:09:32Z"
+  },
+  {
+   "full": "felixrieseberg/macintosh.js",
+   "desc": "🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.",
+   "stars": 8512,
+   "lang": "JavaScript",
+   "topics": [
+    "electron",
+    "javascript",
+    "emulator",
+    "macintosh"
+   ],
+   "updated": "2026-05-05T16:37:17Z"
+  },
+  {
+   "full": "FEX-Emu/FEX",
+   "desc": "A fast usermode x86 and x86-64 emulator for Arm64 Linux",
+   "stars": 8364,
+   "lang": "C++",
+   "topics": [
+    "linux",
+    "emulator",
+    "cpp",
+    "x86-64",
+    "emulation",
+    "x86",
+    "arm64"
+   ],
+   "updated": "2026-11-02T18:41:48Z"
+  },
+  {
+   "full": "Abdess/retrobios",
+   "desc": "Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with emulator source code as the deciding autho",
+   "stars": 7572,
+   "lang": "Python",
+   "topics": [
+    "emulator",
+    "nintendo",
+    "firmware",
+    "retropie",
+    "sega",
+    "playstation",
+    "mame",
+    "retrogaming",
+    "retroarch",
+    "libretro",
+    "bios",
+    "recalbox"
+   ],
+   "updated": "2026-10-28T16:44:51Z"
+  },
+  {
+   "full": "mgba-emu/mgba",
+   "desc": "mGBA Game Boy Advance Emulator",
+   "stars": 7555,
+   "lang": "C",
+   "topics": [
+    "emulator",
+    "gba",
+    "gameboy",
+    "gameboy-emulator",
+    "gameboy-color-emulator",
+    "gameboy-advance",
+    "game-boy",
+    "game-boy-color",
+    "game-boy-advance",
+    "gameboy-advance-emulator",
+    "mgba",
+    "game-boy-emulator"
+   ],
+   "updated": "2026-11-02T09:40:39Z"
+  },
+  {
+   "full": "sharpemu/sharpemu",
+   "desc": "An experimental PlayStation 5 emulator for Windows and Linux",
+   "stars": 6516,
+   "lang": "C#",
+   "topics": [
+    "windows",
+    "linux",
+    "emulator",
+    "csharp",
+    "emulation",
+    "ps5",
+    "playstation5"
+   ],
+   "updated": "2026-11-01T18:16:50Z"
+  },
+  {
+   "full": "bfirsh/jsnes",
+   "desc": "A JavaScript NES emulator.",
+   "stars": 6434,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "emulator",
+    "emulation",
+    "nes",
+    "6502"
+   ],
+   "updated": "2026-10-27T06:24:14Z"
+  },
+  {
+   "full": "Provenance-Emu/Provenance",
+   "desc": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started: https://wiki.provenance-emu.com |",
+   "stars": 6396,
+   "lang": "C++",
+   "topics": [
+    "game",
+    "macos",
+    "emulator",
+    "swift",
+    "ios",
+    "nintendo",
+    "gameboy",
+    "objective-c",
+    "tvos",
+    "emulation",
+    "nes",
+    "snes"
+   ],
+   "updated": "2026-11-02T02:42:26Z"
+  },
+  {
+   "full": "qilingframework/qiling",
+   "desc": "A True Instrumentable Binary Emulation Framework",
+   "stars": 6163,
+   "lang": "Python",
+   "topics": [
+    "emulator",
+    "framework",
+    "analysis",
+    "binary",
+    "reverse-engineering",
+    "malware",
+    "uefi",
+    "unicorn-emulator",
+    "unicorn-engine",
+    "qiling",
+    "cross-architecture"
+   ],
+   "updated": "2026-10-23T23:47:10Z"
+  },
+  {
+   "full": "Vita3K/Vita3K",
+   "desc": "Experimental PlayStation Vita emulator",
+   "stars": 5931,
+   "lang": "C++",
+   "topics": [
+    "emulator",
+    "cpp",
+    "emulation",
+    "playstation",
+    "ps-vita",
+    "hacktoberfest",
+    "vita",
+    "psvita"
+   ],
+   "updated": "2026-11-02T13:45:16Z"
+  },
+  {
+   "full": "mininet/mininet",
+   "desc": "Emulator for rapid prototyping of Software Defined Networks",
+   "stars": 5875,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "linux",
+    "emulator",
+    "sdn",
+    "openflow",
+    "mininet",
+    "network-namespaces"
+   ],
+   "updated": "2024-07-09T13:25:31Z"
+  },
+  {
+   "full": "ptitSeb/box64",
+   "desc": "Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices",
+   "stars": 5700,
+   "lang": "C",
+   "topics": [
+    "linux",
+    "emulator",
+    "arm64",
+    "dynarec",
+    "box64"
+   ],
+   "updated": "2026-11-02T08:03:40Z"
+  },
+  {
+   "full": "zhkl0228/unidbg",
+   "desc": "Allows you to emulate an Android native library, and an experimental iOS emulation",
+   "stars": 5306,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "emulator",
+    "debugger",
+    "ios",
+    "mcp",
+    "emulation",
+    "hypervisor",
+    "keystone",
+    "capstone",
+    "kvm",
+    "whale",
+    "unicorn"
+   ],
+   "updated": "2026-10-30T08:56:37Z"
+  },
+  {
+   "full": "Baekalfen/PyBoy",
+   "desc": "Game Boy emulator written in Python",
+   "stars": 5236,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "emulator",
+    "gameboy",
+    "gameboy-emulator",
+    "cython",
+    "pypy",
+    "gameboy-emulator-library"
+   ],
+   "updated": "2026-10-30T17:22:24Z"
+  },
+  {
+   "full": "melonDS-emu/melonDS",
+   "desc": "DS emulator, sorta",
+   "stars": 5180,
+   "lang": "C++",
+   "topics": [
+    "emulator",
+    "nds",
+    "dsi"
+   ],
+   "updated": "2026-10-27T19:27:55Z"
+  },
+  {
+   "full": "amhndu/SimpleNES",
+   "desc": "An NES emulator in C++",
+   "stars": 5118,
+   "lang": "C++",
+   "topics": [
+    "emulator",
+    "c-plus-plus",
+    "sfml",
+    "nes-emulator"
+   ],
+   "updated": "2025-10-05T11:37:38Z"
+  },
+  {
+   "full": "ministackorg/ministack",
+   "desc": "Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT licensed.",
+   "stars": 5082,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "emulator",
+    "docker",
+    "open-source",
+    "aws",
+    "lambda",
+    "ec2",
+    "terraform",
+    "aws-sdk",
+    "dynamodb",
+    "devtools",
+    "s3"
+   ],
+   "updated": "2026-11-02T13:13:47Z"
+  },
+  {
+   "full": "86Box/86Box",
+   "desc": "Emulator of x86-based machines.",
+   "stars": 4977,
+   "lang": "C",
+   "topics": [
+    "emulator",
+    "emulation",
+    "x86",
+    "ibm",
+    "pc-emulator"
+   ],
+   "updated": "2026-11-02T12:19:53Z"
+  },
+  {
+   "full": "HFO4/gameboy.live",
+   "desc": "🕹️ A basic gameboy emulator with terminal \"Cloud Gaming\" support",
+   "stars": 4900,
+   "lang": "Go",
+   "topics": [
+    "game",
+    "emulator",
+    "gameboy",
+    "ascii",
+    "ternimal"
+   ],
+   "updated": "2025-04-13T07:31:04Z"
+  },
+  {
+   "full": "CalebFenton/simplify",
+   "desc": "Android virtual machine and deobfuscator",
+   "stars": 4675,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "java",
+    "emulator",
+    "optimization",
+    "virtual-machine",
+    "reverse-engineering",
+    "malware",
+    "deobfuscation",
+    "malware-analyzer",
+    "dalvik",
+    "malware-analysis",
+    "malware-research"
+   ],
+   "updated": "2022-04-30T12:20:33Z"
+  },
+  {
+   "full": "Swordfish90/Lemuroid",
+   "desc": "All in one emulator on Android!",
+   "stars": 4475,
+   "lang": "Kotlin",
+   "topics": [
+    "android",
+    "kotlin",
+    "emulator",
+    "nintendo",
+    "kotlin-android",
+    "nes",
+    "snes",
+    "sega",
+    "playstation",
+    "genesis",
+    "psp",
+    "android-app"
+   ],
+   "updated": "2026-10-16T09:07:56Z"
+  },
+  {
+   "full": "JonathanSalwan/Triton",
+   "desc": "Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.",
+   "stars": 4357,
+   "lang": "C++",
+   "topics": [
+    "emulator",
+    "reverse-engineering",
+    "symbolic-execution",
+    "deobfuscation",
+    "dynamic-analysis",
+    "binary-analysis",
+    "instruction-semantics",
+    "program-analysis",
+    "taint-analysis",
+    "lifter",
+    "binary-translation"
+   ],
+   "updated": "2026-10-31T10:34:21Z"
+  },
+  {
+   "full": "EmulatorJS/EmulatorJS",
+   "desc": "A web-based frontend for RetroArch",
+   "stars": 4320,
+   "lang": "JavaScript",
+   "topics": [
+    "emulator",
+    "nintendo",
+    "gameboy",
+    "emulation",
+    "atari2600",
+    "nes",
+    "snes",
+    "playstation",
+    "retroarch",
+    "n64",
+    "virtualboy",
+    "sega-mega-drive"
+   ],
+   "updated": "2026-10-21T15:43:40Z"
+  },
+  {
+   "full": "xemu-project/xemu",
+   "desc": "Original Xbox Emulator for Windows, macOS, and Linux (Active Development)",
+   "stars": 4229,
+   "lang": "C",
+   "topics": [
+    "emulator",
+    "emulation",
+    "xbox",
+    "hacktoberfest",
+    "original-xbox"
+   ],
+   "updated": "2026-11-02T20:08:36Z"
+  },
+  {
+   "full": "ChefKissInc/Inferno",
+   "desc": "moved to https://git.chefkiss.dev/AppleHax/Inferno",
+   "stars": 4050,
+   "lang": "C",
+   "topics": [
+    "emulator",
+    "secure-enclave-processor",
+    "ios",
+    "apple",
+    "vm",
+    "virtual-machine",
+    "emulation",
+    "virtualization",
+    "iphone",
+    "qemu",
+    "sep",
+    "springboard"
+   ],
+   "updated": "2026-10-28T00:04:56Z"
+  },
+  {
+   "full": "dockur/windows",
+   "desc": "Windows inside a Docker container.",
+   "stars": 54033,
+   "lang": "Shell",
+   "topics": [
+    "windows",
+    "docker",
+    "docker-container",
+    "virtualization",
+    "windows-vm",
+    "windows-virtual-machines",
+    "windows-virtual-desktop",
+    "windows-virtual-machine"
+   ],
+   "updated": "2026-11-02T15:32:31Z"
+  },
+  {
+   "full": "firecracker-microvm/firecracker",
+   "desc": "Secure and fast microVMs for serverless computing.",
+   "stars": 37791,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "open-source",
+    "serverless",
+    "containers",
+    "virtual-machine",
+    "sandbox",
+    "virtualization",
+    "minimalist",
+    "oversubscription"
+   ],
+   "updated": "2026-11-02T16:57:09Z"
+  },
+  {
+   "full": "trycua/cua",
+   "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
+   "stars": 31589,
+   "lang": "Rust",
+   "topics": [
+    "windows",
+    "macos",
+    "swift",
+    "agent",
+    "apple",
+    "virtualization",
+    "operator",
+    "desktop-automation",
+    "hacktoberfest",
+    "containerization",
+    "cua",
+    "manus"
+   ],
+   "updated": "2026-11-02T20:18:32Z"
+  },
+  {
+   "full": "hashicorp/vagrant",
+   "desc": "Vagrant is a tool for building and distributing development environments.",
+   "stars": 27218,
+   "lang": "Ruby",
+   "topics": [
+    "ruby",
+    "vagrant",
+    "automation",
+    "virtualization"
+   ],
+   "updated": "2026-11-02T07:04:42Z"
+  },
+  {
+   "full": "bvaughn/react-virtualized",
+   "desc": "React components for efficiently rendering large lists and tabular data",
+   "stars": 27067,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "list",
+    "performance",
+    "grid",
+    "listview",
+    "react-components",
+    "virtualization",
+    "tabular-data",
+    "windowing"
+   ],
+   "updated": "2026-10-31T19:34:26Z"
+  },
+  {
+   "full": "yeasy/docker_practice",
+   "desc": "最新Docker容器技术，从真实案例中学习最佳实践！| Learn and understand Docker&Container technologies, with real DevOps practice!",
+   "stars": 26344,
+   "lang": "Go",
+   "topics": [
+    "linux",
+    "docker",
+    "kubernetes",
+    "devops",
+    "spark",
+    "book",
+    "virtualization",
+    "container",
+    "mesos",
+    "swarm",
+    "cloud-computing"
+   ],
+   "updated": "2026-10-31T21:31:39Z"
+  },
+  {
+   "full": "kholia/OSX-KVM",
+   "desc": "Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.",
+   "stars": 23789,
+   "lang": "Shell",
+   "topics": [
+    "macos",
+    "osx",
+    "emulation",
+    "virtualization",
+    "kvm",
+    "qemu",
+    "hackintosh",
+    "sonoma",
+    "qemu-kvm",
+    "ventura",
+    "macos-installer",
+    "tahoe"
+   ],
+   "updated": "2026-01-26T07:36:59Z"
+  },
+  {
+   "full": "winboat-org/winboat",
+   "desc": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
+   "stars": 23315,
+   "lang": "TypeScript",
+   "topics": [
+    "windows",
+    "linux",
+    "docker",
+    "docker-compose",
+    "virtualization",
+    "rdp"
+   ],
+   "updated": "2026-10-04T06:40:44Z"
+  },
+  {
+   "full": "dockur/macos",
+   "desc": "macOS inside a Docker container.",
+   "stars": 21713,
+   "lang": "Shell",
+   "topics": [
+    "macos",
+    "docker",
+    "mac",
+    "osx",
+    "docker-container",
+    "virtualization",
+    "macosx",
+    "osx-virtual-machine",
+    "macos-vm",
+    "macos-virtual-machine"
+   ],
+   "updated": "2026-10-08T02:03:59Z"
+  },
+  {
+   "full": "quickemu-project/quickemu",
+   "desc": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
+   "stars": 16632,
+   "lang": "Shell",
+   "topics": [
+    "windows",
+    "macos",
+    "linux",
+    "virtualization",
+    "spice",
+    "kvm",
+    "qemu",
+    "hackintosh",
+    "tpm",
+    "hacktoberfest",
+    "efi",
+    "9p"
+   ],
+   "updated": "2026-10-29T17:32:57Z"
+  },
+  {
+   "full": "qemu/qemu",
+   "desc": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are disabled. Please only use release tarballs from the QEMU website.",
+   "stars": 13976,
+   "lang": "C",
+   "topics": [
+    "emulation",
+    "virtualization",
+    "qemu"
+   ],
+   "updated": "2026-11-02T19:51:23Z"
+  },
+  {
+   "full": "jetify-com/devbox",
+   "desc": "Instant, easy, and predictable development environments",
+   "stars": 12440,
+   "lang": "Go",
+   "topics": [
+    "nix",
+    "containers",
+    "virtualization",
+    "buildpack",
+    "build-tool",
+    "build-system",
+    "devbox",
+    "development-environment",
+    "venv",
+    "dev-environment",
+    "virtual-environment"
+   ],
+   "updated": "2026-11-01T21:42:32Z"
+  },
+  {
+   "full": "canonical/multipass",
+   "desc": "Multipass orchestrates virtual Ubuntu instances",
+   "stars": 9327,
+   "lang": "C++",
+   "topics": [
+    "windows",
+    "macos",
+    "linux",
+    "cloud",
+    "virtualbox",
+    "virtual-machine",
+    "virtualization",
+    "container",
+    "qemu",
+    "hyper-v",
+    "qemu-kvm",
+    "virtualization-framework"
+   ],
+   "updated": "2026-11-02T17:53:33Z"
+  },
+  {
+   "full": "kata-containers/kata-containers",
+   "desc": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VM",
+   "stars": 9063,
+   "lang": "Rust",
+   "topics": [
+    "docker",
+    "kubernetes",
+    "security",
+    "containers",
+    "virtual-machine",
+    "virtualization",
+    "kvm",
+    "oci",
+    "qemu",
+    "k8s",
+    "cri",
+    "cri-o"
+   ],
+   "updated": "2026-11-02T17:57:35Z"
+  },
+  {
+   "full": "superradcompany/microsandbox",
+   "desc": "🧱 easy, fast, programmable and local-first microVM runtime and library",
+   "stars": 8916,
+   "lang": "Rust",
+   "topics": [
+    "nodejs",
+    "python",
+    "windows",
+    "macos",
+    "linux",
+    "docker",
+    "rust",
+    "golang",
+    "security",
+    "vm",
+    "typescript",
+    "local"
+   ],
+   "updated": "2026-11-02T18:52:28Z"
+  },
+  {
+   "full": "luchina-gabriel/OSX-PROXMOX",
+   "desc": "Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.",
+   "stars": 7943,
+   "lang": "Shell",
+   "topics": [
+    "macos",
+    "apple",
+    "virtualization",
+    "hackintosh",
+    "proxmox",
+    "opencore"
+   ],
+   "updated": "2026-10-20T18:05:56Z"
+  },
+  {
+   "full": "openai/tart",
+   "desc": "macOS and Linux VMs on Apple Silicon to use in CI and other automations",
+   "stars": 7760,
+   "lang": "Swift",
+   "topics": [
+    "macos",
+    "automation",
+    "ci",
+    "virtualization",
+    "tart",
+    "virtualization-framework",
+    "apple-silicon",
+    "fair-source"
+   ],
+   "updated": "2026-10-30T19:19:35Z"
+  },
+  {
+   "full": "TanStack/virtual",
+   "desc": "🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte",
+   "stars": 7182,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "performance",
+    "vue",
+    "solid",
+    "reactjs",
+    "scrolling",
+    "virtualization",
+    "svelte",
+    "virtualized",
+    "solidjs"
+   ],
+   "updated": "2026-11-02T19:14:17Z"
+  },
+  {
+   "full": "kubevirt/kubevirt",
+   "desc": "Kubernetes Virtualization API and runtime in order to define and manage virtual machines.",
+   "stars": 7158,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "virtualization",
+    "vms",
+    "libvirt",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T17:20:26Z"
+  },
+  {
+   "full": "DroidPluginTeam/DroidPlugin",
+   "desc": "A plugin framework on android,Run any third-party apk without installation, modification or repackage",
+   "stars": 6974,
+   "lang": "Java",
+   "topics": [
+    "android",
+    "plugin",
+    "hook",
+    "virtualization",
+    "pluginframework",
+    "droid-plugin"
+   ],
+   "updated": "2024-06-06T02:32:38Z"
+  },
+  {
+   "full": "smol-machines/smolvm",
+   "desc": "An embeddable, portable, branchable virtual machine to safely run Agents locally.",
+   "stars": 6905,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "containers",
+    "virtual-machine",
+    "sandbox",
+    "virtualization",
+    "code-execution",
+    "ai-agents",
+    "microvm",
+    "crun",
+    "libkrun",
+    "agent-sandbox",
+    "llm"
+   ],
+   "updated": "2026-11-02T14:44:28Z"
+  },
+  {
+   "full": "cloud-hypervisor/cloud-hypervisor",
+   "desc": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a stro",
+   "stars": 6455,
+   "lang": "Rust",
+   "topics": [
+    "virtualization",
+    "kvm",
+    "rust-vmm",
+    "cloud-workloads"
+   ],
+   "updated": "2026-11-02T20:18:10Z"
+  },
+  {
+   "full": "binpash/try",
+   "desc": "Inspect, control, and manipulate a command's effects before modifying your live system.",
+   "stars": 5508,
+   "lang": "Shell",
+   "topics": [
+    "shell",
+    "administration",
+    "tools",
+    "containers",
+    "virtualization"
+   ],
+   "updated": "2026-10-14T17:56:57Z"
+  },
+  {
+   "full": "includeos/IncludeOS",
+   "desc": "A minimal, resource efficient unikernel for cloud services",
+   "stars": 5257,
+   "lang": "C++",
+   "topics": [
+    "cpp",
+    "virtualization",
+    "operating-system",
+    "unikernel"
+   ],
+   "updated": "2026-05-15T07:52:49Z"
+  },
+  {
+   "full": "harvester/harvester",
+   "desc": "Open source hyperconverged infrastructure (HCI) software",
+   "stars": 5232,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "virtualization",
+    "harvester"
+   ],
+   "updated": "2026-11-02T15:09:55Z"
+  },
+  {
+   "full": "arcboxlabs/arcbox",
+   "desc": "Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust.",
+   "stars": 4261,
+   "lang": "Rust",
+   "topics": [
+    "docker",
+    "rust",
+    "containers",
+    "virtual-machine",
+    "sandbox",
+    "virtualization",
+    "ai-agents",
+    "firecracker",
+    "microvm",
+    "computer-use"
+   ],
+   "updated": "2026-11-02T17:31:15Z"
+  },
+  {
+   "full": "HyperDbg/HyperDbg",
+   "desc": "State-of-the-art native debugging tools",
+   "stars": 4181,
+   "lang": "C",
+   "topics": [
+    "debugger",
+    "debugging",
+    "hook",
+    "security",
+    "reverse-engineering",
+    "virtualization",
+    "hypervisor",
+    "debug",
+    "malware-analysis",
+    "binary-analysis",
+    "virtual-machine-introspection",
+    "debugging-tool"
+   ],
+   "updated": "2026-11-01T23:38:32Z"
+  },
+  {
+   "full": "bostrot/wslmanager",
+   "desc": "GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL over SSH.",
+   "stars": 4051,
+   "lang": "Dart",
+   "topics": [
+    "windows",
+    "macos",
+    "docker",
+    "gui",
+    "ai",
+    "virtual-machine",
+    "mcp",
+    "virtualization",
+    "wsl",
+    "developer-tools",
+    "flutter",
+    "turnkey"
+   ],
+   "updated": "2026-10-01T22:04:37Z"
+  },
+  {
+   "full": "unikraft/unikraft",
+   "desc": "A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.",
+   "stars": 3913,
+   "lang": "C",
+   "topics": [
+    "security",
+    "application",
+    "library",
+    "performance",
+    "cloud",
+    "kernel",
+    "microservice",
+    "virtualization",
+    "os",
+    "osdev",
+    "operating-system",
+    "unikernel"
+   ],
+   "updated": "2026-10-29T23:40:50Z"
+  },
+  {
+   "full": "inokawa/virtua",
+   "desc": "A zero-config, fast and small virtual list, grid and masonry component for React, Vue, Solid, Svelte and Angular.",
+   "stars": 3759,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "performance",
+    "angular",
+    "vue",
+    "solid",
+    "react-component",
+    "infinite-scroll",
+    "scrolling",
+    "virtualization",
+    "tabular-data",
+    "svelte",
+    "datatable"
+   ],
+   "updated": "2026-11-02T00:52:52Z"
+  },
+  {
+   "full": "nanovms/nanos",
+   "desc": "A kernel designed to run one and only one application in a virtualized environment",
+   "stars": 3220,
+   "lang": "C",
+   "topics": [
+    "security",
+    "microservice",
+    "sandbox",
+    "virtualization",
+    "osdev",
+    "edge",
+    "unikernel",
+    "operating-systems",
+    "unikernels"
+   ],
+   "updated": "2026-10-31T18:38:41Z"
+  },
+  {
+   "full": "apache/cloudstack",
+   "desc": "Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform",
+   "stars": 3124,
+   "lang": "Java",
+   "topics": [
+    "python",
+    "java",
+    "kubernetes",
+    "infrastructure",
+    "cloud",
+    "vmware",
+    "virtual-machine",
+    "vsphere",
+    "virtualization",
+    "iaas",
+    "orchestration",
+    "kvm"
+   ],
+   "updated": "2026-11-02T16:37:21Z"
+  },
+  {
+   "full": "microvm-nix/microvm.nix",
+   "desc": "NixOS MicroVMs",
+   "stars": 3053,
+   "lang": "Nix",
+   "topics": [
+    "nix",
+    "nixos",
+    "virtualization",
+    "qemu",
+    "flake",
+    "flakes",
+    "crosvm",
+    "firecracker",
+    "microvm",
+    "microvms",
+    "nix-flake",
+    "cloud-hypervisor"
+   ],
+   "updated": "2026-11-02T19:35:52Z"
+  },
+  {
+   "full": "theforeman/foreman",
+   "desc": "an application that automates the lifecycle of servers",
+   "stars": 3000,
+   "lang": "Ruby",
+   "topics": [
+    "ruby",
+    "rails",
+    "infrastructure",
+    "puppet",
+    "cloud",
+    "config-management",
+    "virtualization",
+    "provisioning",
+    "infrastructure-management",
+    "foreman",
+    "theforeman",
+    "maas"
+   ],
+   "updated": "2026-11-02T15:00:39Z"
+  },
+  {
+   "full": "firecracker-microvm/firecracker-containerd",
+   "desc": "firecracker-containerd enables containerd to manage containers as Firecracker microVMs",
+   "stars": 2976,
+   "lang": "Go",
+   "topics": [
+    "aws",
+    "containers",
+    "virtualization",
+    "oci",
+    "containerd",
+    "firecracker",
+    "firecracker-containerd",
+    "firecracker-microvms"
+   ],
+   "updated": "2026-10-21T01:03:02Z"
+  },
+  {
+   "full": "omacom/try-omarchy",
+   "desc": "Run Omarchy on MacOS without any setup.",
+   "stars": 2849,
+   "lang": "Swift",
+   "topics": [
+    "macos",
+    "linux",
+    "community",
+    "arm",
+    "archlinux",
+    "virtualization",
+    "qemu",
+    "arm64",
+    "aarch64",
+    "apple-silicon",
+    "omarchy"
+   ],
+   "updated": "2026-10-26T09:37:28Z"
+  },
+  {
+   "full": "cliffe/SecGen",
+   "desc": "Create randomly insecure VMs",
+   "stars": 2800,
+   "lang": "Python",
+   "topics": [
+    "security",
+    "virtualization",
+    "randomization",
+    "provisioning",
+    "labs",
+    "security-vulnerability",
+    "ctf-challenges",
+    "cybok"
+   ],
+   "updated": "2026-10-31T00:17:07Z"
+  },
+  {
+   "full": "virtio-win/kvm-guest-drivers-windows",
+   "desc": "Windows paravirtualized drivers for QEMU\\KVM",
+   "stars": 2753,
+   "lang": "C",
+   "topics": [
+    "c",
+    "windows",
+    "c-plus-plus",
+    "virtualization",
+    "kvm",
+    "guest",
+    "qemu",
+    "drivers",
+    "kernel-driver",
+    "wdm",
+    "qemu-kvm",
+    "kvm-hypervisor"
+   ],
+   "updated": "2026-10-29T10:16:12Z"
+  }
+ ]
+}

@@ -1,0 +1,907 @@
+{
+ "subId": "awesome",
+ "topics": [
+  "awesome-list",
+  "awesome"
+ ],
+ "crawledAt": "2026-11-02T20:20:56.393Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "codecrafters-io/build-your-own-x",
+   "desc": "Master programming by recreating your favorite technologies from scratch.",
+   "stars": 558861,
+   "lang": "Markdown",
+   "topics": [
+    "programming",
+    "tutorials",
+    "free",
+    "awesome-list",
+    "tutorial-code",
+    "tutorial-exercises"
+   ],
+   "updated": "2026-07-14T19:25:58Z"
+  },
+  {
+   "full": "sindresorhus/awesome",
+   "desc": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+   "stars": 529609,
+   "lang": null,
+   "topics": [
+    "lists",
+    "awesome",
+    "unicorns",
+    "resources",
+    "awesome-list"
+   ],
+   "updated": "2026-09-02T02:10:47Z"
+  },
+  {
+   "full": "awesome-selfhosted/awesome-selfhosted",
+   "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+   "stars": 333091,
+   "lang": null,
+   "topics": [
+    "awesome",
+    "cloud",
+    "privacy",
+    "selfhosted",
+    "hosting",
+    "self-hosted",
+    "free-software",
+    "awesome-list"
+   ],
+   "updated": "2026-11-02T10:34:16Z"
+  },
+  {
+   "full": "vinta/awesome-python",
+   "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+   "stars": 331997,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "awesome",
+    "awesome-list",
+    "python-tools",
+    "python-libraries",
+    "python-frameworks"
+   ],
+   "updated": "2026-11-02T04:36:52Z"
+  },
+  {
+   "full": "trimstray/the-book-of-secret-knowledge",
+   "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+   "stars": 255361,
+   "lang": null,
+   "topics": [
+    "linux",
+    "lists",
+    "security",
+    "devops",
+    "awesome",
+    "hacking",
+    "resources",
+    "bsd",
+    "awesome-list",
+    "guidelines",
+    "hacks",
+    "sysops"
+   ],
+   "updated": "2024-11-19T14:00:38Z"
+  },
+  {
+   "full": "ossu/computer-science",
+   "desc": "🎓 Path to a free self-taught education in Computer Science!",
+   "stars": 210658,
+   "lang": "HTML",
+   "topics": [
+    "computer-science",
+    "curriculum",
+    "courses",
+    "awesome-list"
+   ],
+   "updated": "2026-07-14T05:38:25Z"
+  },
+  {
+   "full": "avelino/awesome-go",
+   "desc": "A curated list of awesome Go frameworks, libraries and software",
+   "stars": 191726,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "awesome",
+    "awesome-list",
+    "golang-library",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T13:35:16Z"
+  },
+  {
+   "full": "f/prompts.chat",
+   "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+   "stars": 175616,
+   "lang": "MDX",
+   "topics": [
+    "open-source",
+    "machine-learning",
+    "typescript",
+    "ai",
+    "nextjs",
+    "artificial-intelligence",
+    "gemini",
+    "openai",
+    "awesome-list",
+    "gpt",
+    "prompts",
+    "claude"
+   ],
+   "updated": "2026-11-02T07:21:46Z"
+  },
+  {
+   "full": "ripienaar/free-for-dev",
+   "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+   "stars": 141610,
+   "lang": "HTML",
+   "topics": [
+    "awesome-list",
+    "free-for-developers"
+   ],
+   "updated": "2026-11-02T11:33:51Z"
+  },
+  {
+   "full": "Chalarangelo/30-seconds-of-code",
+   "desc": "Coding articles to level up your development skills",
+   "stars": 129391,
+   "lang": "JavaScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "css",
+    "git",
+    "html",
+    "education",
+    "snippets",
+    "programming",
+    "es6-javascript",
+    "learn-to-code",
+    "astro",
+    "awesome-list"
+   ],
+   "updated": "2026-10-26T16:14:24Z"
+  },
+  {
+   "full": "VoltAgent/awesome-design-md",
+   "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+   "stars": 125249,
+   "lang": null,
+   "topics": [
+    "landing-page",
+    "awesome-list",
+    "design-tokens",
+    "figma",
+    "design-system",
+    "vibe-coding",
+    "vibecoding",
+    "vibe-design",
+    "design-md"
+   ],
+   "updated": "2026-10-28T15:45:40Z"
+  },
+  {
+   "full": "jaywcjlove/awesome-mac",
+   "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+   "stars": 117607,
+   "lang": "Swift",
+   "topics": [
+    "desktop-app",
+    "macos",
+    "swift",
+    "mac",
+    "application",
+    "app",
+    "list",
+    "apple",
+    "awesome",
+    "apps",
+    "desktop-application",
+    "software"
+   ],
+   "updated": "2026-11-02T13:59:25Z"
+  },
+  {
+   "full": "iluwatar/java-design-patterns",
+   "desc": "Design patterns implemented in Java",
+   "stars": 94841,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "snippets",
+    "design-patterns",
+    "principles",
+    "awesome-list",
+    "hacktoberfest",
+    "snippets-library",
+    "snippets-collection"
+   ],
+   "updated": "2026-10-08T12:44:21Z"
+  },
+  {
+   "full": "MunGell/awesome-for-beginners",
+   "desc": "A list of awesome beginners-friendly projects.",
+   "stars": 91000,
+   "lang": null,
+   "topics": [
+    "list",
+    "awesome",
+    "beginner-project",
+    "awesome-list",
+    "beginners-friendly"
+   ],
+   "updated": "2026-10-01T14:58:51Z"
+  },
+  {
+   "full": "DopplerHQ/awesome-interview-questions",
+   "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓",
+   "stars": 85338,
+   "lang": null,
+   "topics": [
+    "javascript",
+    "ruby",
+    "interviewing",
+    "list",
+    "awesome",
+    "awesomeness",
+    "awesome-list",
+    "interview-practice",
+    "interview-questions",
+    "python-interview-questions",
+    "rails-interview",
+    "javascript-interview-questions"
+   ],
+   "updated": "2024-07-29T14:21:23Z"
+  },
+  {
+   "full": "binhnguyennus/awesome-scalability",
+   "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+   "stars": 75314,
+   "lang": null,
+   "topics": [
+    "computer-science",
+    "lists",
+    "devops",
+    "distributed-systems",
+    "machine-learning",
+    "awesome",
+    "web-development",
+    "programming",
+    "big-data",
+    "system",
+    "backend",
+    "architecture"
+   ],
+   "updated": "2026-01-04T03:51:47Z"
+  },
+  {
+   "full": "enaqx/awesome-react",
+   "desc": "A collection of awesome things regarding React ecosystem",
+   "stars": 75141,
+   "lang": null,
+   "topics": [
+    "react",
+    "javascript",
+    "awesome",
+    "tutorial",
+    "typescript",
+    "react-native",
+    "react-tutorial",
+    "samples",
+    "awesome-list",
+    "react-apps"
+   ],
+   "updated": "2026-09-04T01:13:20Z"
+  },
+  {
+   "full": "fffaraz/awesome-cpp",
+   "desc": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+   "stars": 74176,
+   "lang": null,
+   "topics": [
+    "c",
+    "lists",
+    "c-plus-plus",
+    "list",
+    "awesome",
+    "cpp",
+    "libraries",
+    "resources",
+    "awesome-list",
+    "cppcon",
+    "cpp-library",
+    "programming-tutorial"
+   ],
+   "updated": "2026-10-31T07:29:50Z"
+  },
+  {
+   "full": "prakhar1989/awesome-courses",
+   "desc": "📚 List of awesome university courses for learning Computer Science!",
+   "stars": 72489,
+   "lang": null,
+   "topics": [
+    "computer-science",
+    "awesome",
+    "courses",
+    "awesome-list"
+   ],
+   "updated": "2023-05-04T12:49:34Z"
+  },
+  {
+   "full": "sindresorhus/awesome-nodejs",
+   "desc": "⚡ Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]",
+   "stars": 67349,
+   "lang": null,
+   "topics": [
+    "nodejs",
+    "javascript",
+    "list",
+    "awesome",
+    "node",
+    "awesome-list"
+   ],
+   "updated": "2026-09-02T02:11:34Z"
+  },
+  {
+   "full": "Solido/awesome-flutter",
+   "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+   "stars": 61758,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "ios",
+    "awesome",
+    "mobile",
+    "material-design",
+    "cross-platform",
+    "resources",
+    "mobile-app",
+    "reactive-programming",
+    "collections",
+    "awesome-list",
+    "flutter"
+   ],
+   "updated": "2026-09-03T04:34:54Z"
+  },
+  {
+   "full": "tiimgreen/github-cheat-sheet",
+   "desc": "A list of cool features of Git and GitHub.",
+   "stars": 60113,
+   "lang": null,
+   "topics": [
+    "github",
+    "git",
+    "list",
+    "awesome",
+    "awesome-list"
+   ],
+   "updated": "2024-04-15T20:15:56Z"
+  },
+  {
+   "full": "hesreallyhim/awesome-claude-code",
+   "desc": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier sk",
+   "stars": 57115,
+   "lang": "Python",
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "awesome-lists",
+    "awesome-resources",
+    "claude",
+    "coding-assistant",
+    "llm",
+    "ai-workflows",
+    "anthropic",
+    "anthropic-claude",
+    "coding-agents",
+    "ai-workflow-optimization"
+   ],
+   "updated": "2026-11-02T18:08:06Z"
+  },
+  {
+   "full": "VoltAgent/awesome-openclaw-skills",
+   "desc": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
+   "stars": 53507,
+   "lang": null,
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "awesome-lists",
+    "agent-skills",
+    "clawd",
+    "clawdbot",
+    "clawdhub",
+    "clawdbot-skill",
+    "moltbot",
+    "moltbot-skills",
+    "openclaw",
+    "openclaw-skills"
+   ],
+   "updated": "2026-10-30T13:21:07Z"
+  },
+  {
+   "full": "serhii-londar/open-source-mac-os-apps",
+   "desc": "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps",
+   "stars": 51181,
+   "lang": null,
+   "topics": [
+    "javascript",
+    "ruby",
+    "python",
+    "c",
+    "macos",
+    "swift",
+    "open-source",
+    "mac",
+    "c-plus-plus",
+    "awesome",
+    "opensource",
+    "objective-c"
+   ],
+   "updated": "2026-10-31T07:24:05Z"
+  },
+  {
+   "full": "lukasz-madon/awesome-remote-job",
+   "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
+   "stars": 50298,
+   "lang": null,
+   "topics": [
+    "list",
+    "awesome",
+    "awesome-list"
+   ],
+   "updated": "2026-09-21T15:00:51Z"
+  },
+  {
+   "full": "DovAmir/awesome-design-patterns",
+   "desc": "A curated list of software and architecture related design patterns.",
+   "stars": 49594,
+   "lang": null,
+   "topics": [
+    "lists",
+    "awesome",
+    "microservices",
+    "architecture",
+    "resources",
+    "design-patterns",
+    "cloud-computing",
+    "awesome-list",
+    "gof-patterns"
+   ],
+   "updated": "2024-10-25T19:57:00Z"
+  },
+  {
+   "full": "akullpp/awesome-java",
+   "desc": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+   "stars": 49420,
+   "lang": null,
+   "topics": [
+    "awesome",
+    "awesome-list"
+   ],
+   "updated": "2026-09-23T10:50:49Z"
+  },
+  {
+   "full": "brillout/awesome-react-components",
+   "desc": "Curated List of React Components & Libraries.",
+   "stars": 48787,
+   "lang": null,
+   "topics": [
+    "react",
+    "awesome",
+    "react-component",
+    "react-components",
+    "awesome-list"
+   ],
+   "updated": "2026-01-26T16:36:45Z"
+  },
+  {
+   "full": "dypsilon/frontend-dev-bookmarks",
+   "desc": "Manually curated collection of resources for frontend web developers.",
+   "stars": 47699,
+   "lang": null,
+   "topics": [
+    "list",
+    "awesome",
+    "frontend",
+    "awesome-list"
+   ],
+   "updated": "2024-05-21T10:56:58Z"
+  },
+  {
+   "full": "docker/awesome-compose",
+   "desc": "Awesome Docker Compose samples",
+   "stars": 46629,
+   "lang": "HTML",
+   "topics": [
+    "awesome",
+    "docker-compose",
+    "awesome-list"
+   ],
+   "updated": "2026-10-26T02:54:33Z"
+  },
+  {
+   "full": "goabstract/Awesome-Design-Tools",
+   "desc": "The best design tools and plugins for everything 👉",
+   "stars": 41736,
+   "lang": "JavaScript",
+   "topics": [
+    "design",
+    "ui-design",
+    "design-systems",
+    "awesome",
+    "font-awesome",
+    "animations",
+    "awesome-list",
+    "design-tools"
+   ],
+   "updated": "2024-07-28T19:57:31Z"
+  },
+  {
+   "full": "PatrickJS/awesome-cursorrules",
+   "desc": "📄 Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
+   "stars": 41089,
+   "lang": "JavaScript",
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "cursor",
+    "cursorrules",
+    "cursor-ai-editor"
+   ],
+   "updated": "2026-05-30T18:01:29Z"
+  },
+  {
+   "full": "alebcay/awesome-shell",
+   "desc": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
+   "stars": 37891,
+   "lang": null,
+   "topics": [
+    "shell",
+    "bash",
+    "zsh",
+    "cli",
+    "fish",
+    "list",
+    "awesome",
+    "awesome-list"
+   ],
+   "updated": "2025-08-28T14:40:51Z"
+  },
+  {
+   "full": "veggiemonk/awesome-docker",
+   "desc": "🐳 A curated list of Docker resources and projects",
+   "stars": 37159,
+   "lang": null,
+   "topics": [
+    "docker",
+    "dockerfile",
+    "list",
+    "awesome",
+    "tools",
+    "docker-deployment",
+    "docker-container",
+    "docker-image",
+    "docker-swarm",
+    "docker-registry",
+    "container",
+    "docker-machine"
+   ],
+   "updated": "2026-11-01T15:05:15Z"
+  },
+  {
+   "full": "VoltAgent/awesome-agent-skills",
+   "desc": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+   "stars": 36766,
+   "lang": null,
+   "topics": [
+    "skills",
+    "awesome-list",
+    "cursor",
+    "codex",
+    "ai-agents",
+    "agent-skills",
+    "claude-code",
+    "claude-skills",
+    "claude-code-skills",
+    "codex-skills",
+    "gemini-skills",
+    "cursor-skills"
+   ],
+   "updated": "2026-11-02T08:19:59Z"
+  },
+  {
+   "full": "jondot/awesome-react-native",
+   "desc": "Awesome React Native components, news, tools, and learning material!",
+   "stars": 35707,
+   "lang": null,
+   "topics": [
+    "react",
+    "mobile",
+    "react-native",
+    "awesome-list"
+   ],
+   "updated": "2026-08-26T14:11:18Z"
+  },
+  {
+   "full": "kuchin/awesome-cto",
+   "desc": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+   "stars": 35682,
+   "lang": null,
+   "topics": [
+    "interviewing",
+    "roadmap",
+    "awesome",
+    "architecture",
+    "decision-making",
+    "management",
+    "principles",
+    "hiring",
+    "software-engineering",
+    "awesome-list",
+    "startups",
+    "cto"
+   ],
+   "updated": "2026-03-02T12:50:21Z"
+  },
+  {
+   "full": "awesome-foss/awesome-sysadmin",
+   "desc": "A curated list of amazingly awesome open-source sysadmin resources.",
+   "stars": 35583,
+   "lang": null,
+   "topics": [
+    "devops",
+    "list",
+    "awesome",
+    "ops",
+    "sysadmin",
+    "self-hosted",
+    "software",
+    "awesome-list",
+    "sre"
+   ],
+   "updated": "2026-10-22T11:46:19Z"
+  },
+  {
+   "full": "hesamsheikh/awesome-openclaw-usecases",
+   "desc": "A community collection of OpenClaw use cases for making life easier.",
+   "stars": 31641,
+   "lang": null,
+   "topics": [
+    "awesome-list",
+    "usecase",
+    "clawdbot",
+    "moltbot",
+    "openclaw",
+    "openclaw-skills",
+    "openclaw-plugin",
+    "openclaw-setup"
+   ],
+   "updated": "2026-03-24T14:54:56Z"
+  },
+  {
+   "full": "521xueweihan/HelloGitHub",
+   "desc": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+   "stars": 186408,
+   "lang": "Python",
+   "topics": [
+    "github",
+    "python",
+    "awesome",
+    "hellogithub"
+   ],
+   "updated": "2026-10-31T18:08:05Z"
+  },
+  {
+   "full": "Hack-with-Github/Awesome-Hacking",
+   "desc": "A collection of various awesome lists for hackers, pentesters and security researchers",
+   "stars": 124417,
+   "lang": null,
+   "topics": [
+    "android",
+    "security",
+    "awesome",
+    "reverse-engineering",
+    "pentesting-windows",
+    "hacking",
+    "penetration-testing",
+    "bug-bounty",
+    "fuzzing"
+   ],
+   "updated": "2026-10-27T01:45:58Z"
+  },
+  {
+   "full": "papers-we-love/papers-we-love",
+   "desc": "Papers from the computer science community to read and discuss.",
+   "stars": 111129,
+   "lang": "Shell",
+   "topics": [
+    "computer-science",
+    "meetup",
+    "awesome",
+    "programming",
+    "theory",
+    "papers",
+    "read-papers"
+   ],
+   "updated": "2026-10-28T23:10:37Z"
+  },
+  {
+   "full": "ruvnet/RuView",
+   "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+   "stars": 102097,
+   "lang": "Rust",
+   "topics": [
+    "react",
+    "home-automation",
+    "npm",
+    "iot",
+    "awesome",
+    "typescript",
+    "networking",
+    "monitoring",
+    "firmware",
+    "skills",
+    "esp32",
+    "wifi"
+   ],
+   "updated": "2026-11-02T18:12:18Z"
+  },
+  {
+   "full": "rust-unofficial/awesome-rust",
+   "desc": "A curated list of Rust code and resources.",
+   "stars": 60288,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "awesome"
+   ],
+   "updated": "2026-11-02T19:26:26Z"
+  },
+  {
+   "full": "wasabeef/awesome-android-ui",
+   "desc": "A curated list of awesome Android UI/UX libraries",
+   "stars": 58269,
+   "lang": null,
+   "topics": [
+    "android",
+    "awesome",
+    "ui"
+   ],
+   "updated": "2026-06-05T05:39:52Z"
+  },
+  {
+   "full": "vsouza/awesome-ios",
+   "desc": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects",
+   "stars": 53846,
+   "lang": "Swift",
+   "topics": [
+    "swift-library",
+    "ios",
+    "awesome",
+    "objective-c",
+    "swift-extensions",
+    "swift-framework",
+    "ios-animation",
+    "swift-language",
+    "apple-swift",
+    "swift-programming",
+    "objective-c-library",
+    "ios-libraries"
+   ],
+   "updated": "2026-08-27T19:34:29Z"
+  },
+  {
+   "full": "dkhamsing/open-source-ios-apps",
+   "desc": "📱 Collaborative List of Open-Source iOS Apps",
+   "stars": 52968,
+   "lang": null,
+   "topics": [
+    "game",
+    "swift",
+    "ios",
+    "app",
+    "list",
+    "apple",
+    "awesome",
+    "react-native",
+    "objective-c",
+    "tvos",
+    "watchos",
+    "cocoapods"
+   ],
+   "updated": "2026-11-02T20:14:38Z"
+  },
+  {
+   "full": "DataExpert-io/data-engineer-handbook",
+   "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
+   "stars": 44943,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "data",
+    "awesome",
+    "sql",
+    "bigdata",
+    "dataengineering",
+    "apachespark"
+   ],
+   "updated": "2026-08-03T20:29:57Z"
+  },
+  {
+   "full": "ashishps1/awesome-system-design-resources",
+   "desc": "Learn System Design concepts and prepare for interviews using free resources.",
+   "stars": 43032,
+   "lang": "Java",
+   "topics": [
+    "computer-science",
+    "distributed-systems",
+    "awesome",
+    "backend",
+    "scalability",
+    "interview",
+    "interview-questions",
+    "system-design",
+    "hld",
+    "high-level-design"
+   ],
+   "updated": "2026-11-01T09:36:12Z"
+  },
+  {
+   "full": "github/awesome-copilot",
+   "desc": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+   "stars": 40723,
+   "lang": "JavaScript",
+   "topics": [
+    "awesome",
+    "ai",
+    "agents",
+    "hacktoberfest",
+    "github-copilot",
+    "prompt-engineering",
+    "agent-skills",
+    "custom-agents"
+   ],
+   "updated": "2026-11-02T03:53:09Z"
+  },
+  {
+   "full": "deepseek-ai/awesome-deepseek-integration",
+   "desc": "Integrate the DeepSeek API into popular software",
+   "stars": 39682,
+   "lang": null,
+   "topics": [
+    "awesome",
+    "deepseek"
+   ],
+   "updated": "2026-02-23T16:27:47Z"
+  },
+  {
+   "full": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+   "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+   "stars": 37603,
+   "lang": null,
+   "topics": [
+    "python",
+    "nlp",
+    "data-science",
+    "machine-learning",
+    "awesome",
+    "computer-vision",
+    "deep-learning",
+    "artificial-intelligence",
+    "nlp-projects",
+    "machine-learning-projects",
+    "artificial-intelligence-projects",
+    "computer-vision-project"
+   ],
+   "updated": "2026-09-26T00:44:47Z"
+  }
+ ]
+}

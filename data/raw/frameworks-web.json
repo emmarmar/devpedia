@@ -1,0 +1,1385 @@
+{
+ "subId": "frameworks-web",
+ "topics": [
+  "web-framework",
+  "http-server"
+ ],
+ "crawledAt": "2026-11-02T20:17:31.821Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "flutter/flutter",
+   "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+   "stars": 181018,
+   "lang": "Dart",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "dart",
+    "ios",
+    "mobile",
+    "web",
+    "material-design",
+    "cross-platform",
+    "desktop",
+    "web-framework",
+    "app-framework"
+   ],
+   "updated": "2026-11-02T19:58:16Z"
+  },
+  {
+   "full": "angular/angular",
+   "desc": "Deliver web apps with confidence 🚀",
+   "stars": 101100,
+   "lang": "TypeScript",
+   "topics": [
+    "javascript",
+    "angular",
+    "typescript",
+    "web-performance",
+    "web",
+    "pwa",
+    "web-framework"
+   ],
+   "updated": "2026-11-02T12:05:36Z"
+  },
+  {
+   "full": "pallets/flask",
+   "desc": "The Python micro framework for building web applications.",
+   "stars": 75164,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "flask",
+    "web-framework",
+    "wsgi",
+    "jinja",
+    "werkzeug",
+    "pallets"
+   ],
+   "updated": "2026-10-30T15:05:22Z"
+  },
+  {
+   "full": "expo/expo",
+   "desc": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+   "stars": 53302,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "ios",
+    "mobile",
+    "framework",
+    "typescript",
+    "react-native",
+    "web",
+    "frontend",
+    "native",
+    "universal"
+   ],
+   "updated": "2026-11-02T20:14:13Z"
+  },
+  {
+   "full": "zeromicro/go-zero",
+   "desc": "A cloud-native Go microservices framework with cli tool for productivity.",
+   "stars": 33420,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "microservices",
+    "framework",
+    "microservice",
+    "rest-api",
+    "restful",
+    "gateway",
+    "web-framework",
+    "rpc",
+    "grpc-gateway",
+    "cloud-native"
+   ],
+   "updated": "2026-11-02T19:52:50Z"
+  },
+  {
+   "full": "yewstack/yew",
+   "desc": "Rust / Wasm framework for creating reliable and efficient web applications",
+   "stars": 32842,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "gui",
+    "web",
+    "jsx",
+    "elm",
+    "concurrency",
+    "wasm",
+    "web-framework",
+    "multithreading",
+    "emscripten",
+    "asmjs",
+    "webworkers"
+   ],
+   "updated": "2026-10-30T03:20:20Z"
+  },
+  {
+   "full": "honojs/hono",
+   "desc": "Web framework built on Web Standards",
+   "stars": 32791,
+   "lang": "TypeScript",
+   "topics": [
+    "npm",
+    "typescript",
+    "router",
+    "aws-lambda",
+    "web-framework",
+    "cloudflare",
+    "bun",
+    "deno",
+    "cloudflare-workers"
+   ],
+   "updated": "2026-11-01T02:52:19Z"
+  },
+  {
+   "full": "labstack/echo",
+   "desc": "High performance, minimalist Go web framework",
+   "stars": 32788,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "letsencrypt",
+    "ssl",
+    "middleware",
+    "web",
+    "microservice",
+    "echo",
+    "https",
+    "websocket",
+    "micro-framework",
+    "http2",
+    "web-framework"
+   ],
+   "updated": "2026-10-30T15:04:26Z"
+  },
+  {
+   "full": "vapor/vapor",
+   "desc": "💧 A server-side Swift HTTP web framework.",
+   "stars": 26241,
+   "lang": "Swift",
+   "topics": [
+    "swift",
+    "http",
+    "framework",
+    "server",
+    "http2",
+    "vapor",
+    "web-framework",
+    "server-side-swift"
+   ],
+   "updated": "2026-11-02T09:52:47Z"
+  },
+  {
+   "full": "rwf2/Rocket",
+   "desc": "A web framework for Rust.",
+   "stars": 25779,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "framework",
+    "web-development",
+    "web",
+    "web-framework",
+    "rocket"
+   ],
+   "updated": "2026-10-23T11:34:34Z"
+  },
+  {
+   "full": "kataras/iris",
+   "desc": "The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio 🚀",
+   "stars": 25555,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "mvc",
+    "websocket",
+    "dependency-injection",
+    "http2",
+    "web-framework",
+    "sessions",
+    "iris"
+   ],
+   "updated": "2026-07-27T09:34:12Z"
+  },
+  {
+   "full": "clockworklabs/SpacetimeDB",
+   "desc": "Development at the speed of light",
+   "stars": 25516,
+   "lang": "Rust",
+   "topics": [
+    "web-development",
+    "database",
+    "game-development",
+    "web-framework",
+    "relational-database",
+    "relational",
+    "mmorpg-server",
+    "dataoriented"
+   ],
+   "updated": "2026-11-02T19:57:57Z"
+  },
+  {
+   "full": "phoenixframework/phoenix",
+   "desc": "Peace of mind from prototype to production",
+   "stars": 23212,
+   "lang": "Elixir",
+   "topics": [
+    "elixir",
+    "realtime",
+    "web-framework",
+    "api-server",
+    "distributed"
+   ],
+   "updated": "2026-11-02T13:44:21Z"
+  },
+  {
+   "full": "gofr-dev/gofr",
+   "desc": "An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.",
+   "stars": 20820,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "performance",
+    "framework",
+    "microservice",
+    "server",
+    "metrics",
+    "rest-api",
+    "logging",
+    "grpc",
+    "web-framework",
+    "tracing"
+   ],
+   "updated": "2026-11-02T15:24:10Z"
+  },
+  {
+   "full": "adonisjs/core",
+   "desc": "AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.",
+   "stars": 19172,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "framework",
+    "typescript",
+    "core",
+    "web-framework",
+    "mvc-framework",
+    "nodejs-framework",
+    "typescript-framework"
+   ],
+   "updated": "2026-10-30T22:52:37Z"
+  },
+  {
+   "full": "sanic-org/sanic",
+   "desc": "Accelerate your web app development | Build fast. Run fast.",
+   "stars": 18630,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "framework",
+    "web-server",
+    "web",
+    "sanic",
+    "web-framework",
+    "api-server",
+    "asyncio",
+    "asgi"
+   ],
+   "updated": "2026-07-29T03:09:51Z"
+  },
+  {
+   "full": "ktorio/ktor",
+   "desc": "Framework for quickly creating connected applications in Kotlin with minimal effort",
+   "stars": 14562,
+   "lang": "Kotlin",
+   "topics": [
+    "kotlin",
+    "web",
+    "async",
+    "asynchronous",
+    "web-framework"
+   ],
+   "updated": "2026-11-02T14:58:52Z"
+  },
+  {
+   "full": "revel/revel",
+   "desc": "A high productivity, full-stack web framework for the Go language.",
+   "stars": 13211,
+   "lang": "Go",
+   "topics": [
+    "web-framework",
+    "web-application",
+    "revel",
+    "web-application-framework",
+    "hacktoberfest"
+   ],
+   "updated": "2023-10-28T20:48:11Z"
+  },
+  {
+   "full": "playframework/playframework",
+   "desc": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+   "stars": 12620,
+   "lang": "Scala",
+   "topics": [
+    "java",
+    "framework",
+    "reactive",
+    "scala",
+    "jvm",
+    "restful",
+    "web-framework",
+    "play",
+    "playframework",
+    "webapps",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-29T23:39:47Z"
+  },
+  {
+   "full": "sinatra/sinatra",
+   "desc": "Classy web-development dressed in a DSL (official / canonical repo)",
+   "stars": 12453,
+   "lang": "Ruby",
+   "topics": [
+    "ruby",
+    "rack",
+    "sinatra",
+    "web-framework"
+   ],
+   "updated": "2026-07-20T09:59:21Z"
+  },
+  {
+   "full": "frappe/frappe",
+   "desc": "Low code web framework for real world applications, in Python and Javascript",
+   "stars": 11046,
+   "lang": "Python",
+   "topics": [
+    "javascript",
+    "python",
+    "cms",
+    "webhooks",
+    "security",
+    "postgres",
+    "email",
+    "rest-api",
+    "socket-io",
+    "web-framework",
+    "mariadb",
+    "full-stack"
+   ],
+   "updated": "2026-11-02T18:21:42Z"
+  },
+  {
+   "full": "bottlepy/bottle",
+   "desc": "bottle.py is a fast and simple micro-framework for python web-applications.",
+   "stars": 8801,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "rest",
+    "web-framework",
+    "wsgi",
+    "bottle"
+   ],
+   "updated": "2026-10-25T16:40:59Z"
+  },
+  {
+   "full": "cakephp/cakephp",
+   "desc": "CakePHP: The Rapid Development Framework for PHP - Official Repository",
+   "stars": 8789,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "validation",
+    "orm",
+    "web",
+    "mvc",
+    "cakephp",
+    "rest-api",
+    "web-framework",
+    "mvc-framework",
+    "psr-7",
+    "form-builder",
+    "rapid-development"
+   ],
+   "updated": "2026-11-02T17:40:11Z"
+  },
+  {
+   "full": "dropwizard/dropwizard",
+   "desc": "A damn simple library for building production-ready RESTful web services.",
+   "stars": 8579,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "rest",
+    "jax-rs",
+    "jdbi",
+    "dropwizard",
+    "web-framework",
+    "hibernate",
+    "jetty",
+    "jersey2",
+    "restful-webservices",
+    "jersey-framework"
+   ],
+   "updated": "2026-11-02T11:33:08Z"
+  },
+  {
+   "full": "gobuffalo/buffalo",
+   "desc": "Rapid Web Development w/ Go",
+   "stars": 8424,
+   "lang": "Go",
+   "topics": [
+    "rails",
+    "go",
+    "golang",
+    "framework",
+    "web",
+    "web-framework",
+    "webframework",
+    "buffalo",
+    "gobuffalo"
+   ],
+   "updated": "2026-03-21T14:31:44Z"
+  },
+  {
+   "full": "javalin/javalin",
+   "desc": "A simple and modern Java and Kotlin web framework",
+   "stars": 8380,
+   "lang": "Kotlin",
+   "topics": [
+    "kotlin",
+    "java",
+    "microservice",
+    "rest-api",
+    "web-framework",
+    "jetty",
+    "servlet",
+    "hacktoberfest",
+    "javalin"
+   ],
+   "updated": "2026-11-01T04:34:08Z"
+  },
+  {
+   "full": "ninenines/cowboy",
+   "desc": "Small, fast, modern HTTP server for Erlang/OTP.",
+   "stars": 7521,
+   "lang": "Erlang",
+   "topics": [
+    "http",
+    "erlang",
+    "functional",
+    "web",
+    "rest",
+    "https",
+    "high-performance",
+    "websocket-server",
+    "websocket",
+    "http2",
+    "websockets",
+    "web-framework"
+   ],
+   "updated": "2026-11-02T19:56:19Z"
+  },
+  {
+   "full": "shuttle-hq/shuttle",
+   "desc": "Build & ship backends without writing any infrastructure files.",
+   "stars": 6908,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "devops",
+    "framework",
+    "web",
+    "deployment",
+    "web-framework",
+    "paas",
+    "rust-lang",
+    "baas"
+   ],
+   "updated": "2026-01-09T14:35:17Z"
+  },
+  {
+   "full": "vikejs/vike",
+   "desc": "(Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.",
+   "stars": 5841,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "static-site-generator",
+    "node",
+    "vue",
+    "solid",
+    "ssr",
+    "web-framework",
+    "full-stack",
+    "server-side-rendering",
+    "server-rendering",
+    "vue-ssr",
+    "react-ssr"
+   ],
+   "updated": "2026-11-02T13:23:38Z"
+  },
+  {
+   "full": "douyu/jupiter",
+   "desc": "Jupiter: Governance-oriented Microservice Framework.",
+   "stars": 4568,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "microservice",
+    "metrics",
+    "grpc",
+    "web-framework",
+    "etcd",
+    "trace",
+    "jupiter",
+    "governance",
+    "douyu",
+    "douyutv"
+   ],
+   "updated": "2026-10-29T10:21:49Z"
+  },
+  {
+   "full": "typestack/routing-controllers",
+   "desc": "Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.",
+   "stars": 4504,
+   "lang": "TypeScript",
+   "topics": [
+    "controllers",
+    "framework",
+    "router",
+    "web-framework",
+    "node-framework",
+    "koa-router",
+    "express-router",
+    "typescript-framework"
+   ],
+   "updated": "2026-05-23T11:29:29Z"
+  },
+  {
+   "full": "apache/shiro",
+   "desc": "Apache Shiro is a powerful and easy-to-use Java security framework that performs authentication, authorization, cryptography, and session management",
+   "stars": 4463,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "library",
+    "web-framework",
+    "shiro"
+   ],
+   "updated": "2026-11-02T04:01:03Z"
+  },
+  {
+   "full": "Pylons/pyramid",
+   "desc": "Pyramid - A Python web framework",
+   "stars": 4102,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "web-framework",
+    "wsgi",
+    "pyramid",
+    "pylons"
+   ],
+   "updated": "2026-08-04T21:13:50Z"
+  },
+  {
+   "full": "kemalcr/kemal",
+   "desc": "Fast, Effective, Simple Web Framework",
+   "stars": 3931,
+   "lang": "Crystal",
+   "topics": [
+    "api",
+    "fast",
+    "json",
+    "crystal",
+    "rest",
+    "simple",
+    "websocket",
+    "efficient",
+    "web-framework",
+    "kemal"
+   ],
+   "updated": "2026-10-26T16:01:52Z"
+  },
+  {
+   "full": "mingrammer/go-web-framework-stars",
+   "desc": "⭐ Web frameworks for Go, most starred on GitHub",
+   "stars": 3846,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "web-framework",
+    "ranking",
+    "stars"
+   ],
+   "updated": "2026-11-01T04:01:35Z"
+  },
+  {
+   "full": "seed-rs/seed",
+   "desc": "A Rust framework for creating web apps",
+   "stars": 3832,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "webassembly",
+    "wasm",
+    "web-framework",
+    "frontend-framework",
+    "wasm-bindgen"
+   ],
+   "updated": "2026-11-01T14:29:07Z"
+  },
+  {
+   "full": "pallets/quart",
+   "desc": "An async Python micro framework for building web applications.",
+   "stars": 3682,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "flask",
+    "web-framework",
+    "asyncio",
+    "jinja",
+    "asgi",
+    "quart"
+   ],
+   "updated": "2026-09-12T09:07:36Z"
+  },
+  {
+   "full": "go-macaron/macaron",
+   "desc": "Package macaron is a high productive and modular web framework in Go.",
+   "stars": 3544,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "web-framework",
+    "macaron"
+   ],
+   "updated": "2026-02-16T00:42:27Z"
+  },
+  {
+   "full": "koding/kite",
+   "desc": "Micro-service framework in Go",
+   "stars": 3256,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "web-framework",
+    "authentication-backend",
+    "discovery-service"
+   ],
+   "updated": "2018-10-28T20:12:37Z"
+  },
+  {
+   "full": "halfmoonui/halfmoon",
+   "desc": "Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.",
+   "stars": 3107,
+   "lang": "CSS",
+   "topics": [
+    "css",
+    "bootstrap",
+    "dashboard",
+    "dark-theme",
+    "css-framework",
+    "web-framework",
+    "css-custom-properties",
+    "dark-mode",
+    "css-variables",
+    "bootstrap5",
+    "halfmoon"
+   ],
+   "updated": "2024-12-16T12:21:06Z"
+  },
+  {
+   "full": "caddyserver/caddy",
+   "desc": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+   "stars": 78660,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "tls",
+    "golang",
+    "http",
+    "security",
+    "privacy",
+    "web-server",
+    "https",
+    "acme",
+    "reverse-proxy",
+    "http-server",
+    "caddy"
+   ],
+   "updated": "2026-11-02T10:48:05Z"
+  },
+  {
+   "full": "qinguoyi/TinyWebServer",
+   "desc": "🔥 Linux下C++轻量级WebServer服务器",
+   "stars": 19749,
+   "lang": "C++",
+   "topics": [
+    "cpp",
+    "webserver",
+    "http-server",
+    "webbench",
+    "tinywebserver"
+   ],
+   "updated": "2024-07-05T13:35:04Z"
+  },
+  {
+   "full": "aio-libs/aiohttp",
+   "desc": "Asynchronous HTTP client/server framework for asyncio and Python",
+   "stars": 16605,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "http",
+    "async",
+    "http-client",
+    "aiohttp",
+    "http-server",
+    "asyncio",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T16:26:46Z"
+  },
+  {
+   "full": "drogonframework/drogon",
+   "desc": "Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows",
+   "stars": 14386,
+   "lang": "C++",
+   "topics": [
+    "linux",
+    "http",
+    "http-server",
+    "asynchronous-programming",
+    "non-blocking-io",
+    "drogon",
+    "http-framework"
+   ],
+   "updated": "2026-11-02T10:10:08Z"
+  },
+  {
+   "full": "http-party/http-server",
+   "desc": "A simple, zero-configuration, command-line http server",
+   "stars": 14243,
+   "lang": "JavaScript",
+   "topics": [
+    "http",
+    "server",
+    "command-line",
+    "static",
+    "hosting",
+    "http-server",
+    "hacktoberfest",
+    "static-server"
+   ],
+   "updated": "2026-04-15T11:09:09Z"
+  },
+  {
+   "full": "postmanlabs/httpbin",
+   "desc": "HTTP Request & Response Service, written in Python + Flask.",
+   "stars": 13641,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "testing",
+    "api",
+    "http",
+    "json",
+    "service",
+    "http-server",
+    "httpbin"
+   ],
+   "updated": "2024-05-24T07:51:48Z"
+  },
+  {
+   "full": "Kludex/uvicorn",
+   "desc": "An ASGI web server, for Python. 🦄",
+   "stars": 11061,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "http",
+    "http-server",
+    "asyncio",
+    "asgi"
+   ],
+   "updated": "2026-11-01T07:08:10Z"
+  },
+  {
+   "full": "benoitc/gunicorn",
+   "desc": "gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.",
+   "stars": 10719,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "http",
+    "http-server",
+    "wsgi",
+    "wsgi-server"
+   ],
+   "updated": "2026-09-06T20:09:00Z"
+  },
+  {
+   "full": "pocoproject/poco",
+   "desc": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+   "stars": 9491,
+   "lang": "C++",
+   "topics": [
+    "c-plus-plus",
+    "json",
+    "sql",
+    "networking",
+    "cross-platform",
+    "xml",
+    "logging",
+    "configuration",
+    "http-client",
+    "redis-client",
+    "http-server",
+    "poco"
+   ],
+   "updated": "2026-11-02T19:45:49Z"
+  },
+  {
+   "full": "neutralinojs/neutralinojs",
+   "desc": "Portable and lightweight cross-platform desktop application development framework",
+   "stars": 8684,
+   "lang": "C",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "c-plus-plus",
+    "json",
+    "framework",
+    "cross-platform",
+    "http-server",
+    "hacktoberfest",
+    "native-development",
+    "neutralinojs"
+   ],
+   "updated": "2026-11-02T00:28:56Z"
+  },
+  {
+   "full": "linyacool/WebServer",
+   "desc": "A C++ High Performance Web Server",
+   "stars": 8214,
+   "lang": "C++",
+   "topics": [
+    "http",
+    "webserver",
+    "cpp11",
+    "http-server",
+    "reactor",
+    "thread-pool",
+    "epoll",
+    "raii"
+   ],
+   "updated": "2023-09-27T14:35:07Z"
+  },
+  {
+   "full": "svenstaro/miniserve",
+   "desc": "🌟 For when you really just want to serve some files over HTTP right now!",
+   "stars": 8070,
+   "lang": "Rust",
+   "topics": [
+    "cli",
+    "server",
+    "command-line",
+    "http-server",
+    "command-line-tool",
+    "static-files",
+    "serve"
+   ],
+   "updated": "2026-11-02T02:03:26Z"
+  },
+  {
+   "full": "ithewei/libhv",
+   "desc": "🔥 比libevent/libuv/asio更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT/Redis client/server.",
+   "stars": 7571,
+   "lang": "C",
+   "topics": [
+    "redis",
+    "mqtt",
+    "openssl",
+    "curl",
+    "webserver",
+    "https",
+    "websocket-server",
+    "websocket",
+    "http-client",
+    "websocket-client",
+    "requests",
+    "http-server"
+   ],
+   "updated": "2026-10-28T03:10:40Z"
+  },
+  {
+   "full": "sparckles/Robyn",
+   "desc": "Robyn is a Super Fast Async Python Web Framework with a Rust runtime.",
+   "stars": 7430,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "rust",
+    "web",
+    "backend",
+    "async",
+    "python3",
+    "http-server",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T18:55:43Z"
+  },
+  {
+   "full": "hugapi/hug",
+   "desc": "Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.",
+   "stars": 6872,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "http",
+    "command-line",
+    "python3",
+    "falcon",
+    "http-server",
+    "python-api",
+    "hug-api"
+   ],
+   "updated": "2024-07-04T14:37:30Z"
+  },
+  {
+   "full": "techschool/simplebank",
+   "desc": "Backend master class: build a simple bank service in Go",
+   "stars": 6586,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "docker",
+    "kubernetes",
+    "golang",
+    "backend",
+    "grpc",
+    "gin",
+    "http-server",
+    "grpc-go"
+   ],
+   "updated": "2025-04-20T07:54:28Z"
+  },
+  {
+   "full": "emmett-framework/granian",
+   "desc": "A Rust HTTP server for Python applications",
+   "stars": 5764,
+   "lang": "Rust",
+   "topics": [
+    "python",
+    "rust",
+    "http",
+    "http-server",
+    "asyncio",
+    "wsgi",
+    "asgi",
+    "rsgi"
+   ],
+   "updated": "2026-11-01T10:43:03Z"
+  },
+  {
+   "full": "swoft-cloud/swoft",
+   "desc": "🚀 PHP Microservice Full Coroutine Framework",
+   "stars": 5533,
+   "lang": "PHP",
+   "topics": [
+    "api",
+    "framework",
+    "mvc",
+    "microservice",
+    "websocket-server",
+    "spring-cloud",
+    "annotations",
+    "rpc",
+    "tcp-server",
+    "http-server",
+    "swoole",
+    "aop"
+   ],
+   "updated": "2023-02-28T12:57:06Z"
+  },
+  {
+   "full": "oakserver/oak",
+   "desc": "A middleware framework for handling HTTP with Deno, Node, Bun and Cloudflare Workers 🐿️ 🦕",
+   "stars": 5409,
+   "lang": "TypeScript",
+   "topics": [
+    "http-server",
+    "oak",
+    "router-middleware",
+    "middleware-framework",
+    "deno",
+    "middleware-frameworks"
+   ],
+   "updated": "2026-11-02T10:17:57Z"
+  },
+  {
+   "full": "line/armeria",
+   "desc": "Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies, including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and ",
+   "stars": 5152,
+   "lang": "Java",
+   "topics": [
+    "http",
+    "microservices",
+    "netty",
+    "micro-framework",
+    "http2",
+    "gateway",
+    "grpc",
+    "http-client",
+    "thrift",
+    "rpc",
+    "http-server",
+    "rpc-server"
+   ],
+   "updated": "2026-11-02T08:29:59Z"
+  },
+  {
+   "full": "CrowCpp/Crow",
+   "desc": "A Fast and Easy to use microframework for the web.",
+   "stars": 5024,
+   "lang": "C++",
+   "topics": [
+    "http",
+    "framework",
+    "cpp",
+    "webserver",
+    "websocket",
+    "http-server",
+    "header-only",
+    "crow"
+   ],
+   "updated": "2026-11-01T17:36:47Z"
+  },
+  {
+   "full": "boostorg/beast",
+   "desc": "HTTP and WebSocket built on Boost.Asio in C++11",
+   "stars": 4830,
+   "lang": "C++",
+   "topics": [
+    "windows",
+    "linux",
+    "tls",
+    "ssl",
+    "http",
+    "networking",
+    "server",
+    "cplusplus",
+    "osx",
+    "websocket-server",
+    "websocket",
+    "c-plus-plus-11"
+   ],
+   "updated": "2026-10-30T11:16:01Z"
+  },
+  {
+   "full": "sylar-yin/sylar",
+   "desc": "C++高性能分布式服务器框架,webserver,websocket server,自定义tcp_server（包含日志模块，配置模块，线程模块，协程模块，协程调度模块，io协程调度模块，hook模块，socket模块，bytearray序列化，http模块，TcpServer模块，Websocket模块，Https模块等, Smtp邮件模块, MySQL, SQLite3, ORM,Redis,Zookeeper)",
+   "stars": 4723,
+   "lang": "C++",
+   "topics": [
+    "distribution",
+    "framework",
+    "orm",
+    "cpp",
+    "network",
+    "high-performance",
+    "websocket-server",
+    "http-client",
+    "websocket-client",
+    "http-server",
+    "sqlite3",
+    "fiber"
+   ],
+   "updated": "2023-12-08T04:40:11Z"
+  },
+  {
+   "full": "salvo-rs/salvo",
+   "desc": "A powerful web framework built with a simplified design.",
+   "stars": 4457,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "framework",
+    "web",
+    "async",
+    "http-server",
+    "salvo"
+   ],
+   "updated": "2026-11-02T18:28:26Z"
+  },
+  {
+   "full": "jetty/jetty.project",
+   "desc": "Eclipse Jetty® - Web Container & Clients - supports HTTP/3, HTTP/2, HTTP/1, websocket, servlets, and more",
+   "stars": 4100,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "tls",
+    "ssl",
+    "http",
+    "embedded",
+    "jsp",
+    "https",
+    "eclipse",
+    "http2",
+    "websockets",
+    "http-client",
+    "osgi"
+   ],
+   "updated": "2026-11-02T17:51:31Z"
+  },
+  {
+   "full": "apache/httpd",
+   "desc": "Apache HTTP Server",
+   "stars": 4038,
+   "lang": "C",
+   "topics": [
+    "httpd",
+    "http-server"
+   ],
+   "updated": "2026-11-02T15:33:05Z"
+  },
+  {
+   "full": "rejetto/hfs",
+   "desc": "HFS is a web file server for your computer. Share folders or even a single file thanks to the virtual file system.",
+   "stars": 3976,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "typescript",
+    "web",
+    "file-sharing",
+    "http-server",
+    "file-server"
+   ],
+   "updated": "2026-11-01T17:31:43Z"
+  },
+  {
+   "full": "yanzhenjie/AndServer",
+   "desc": "🍒 Web server and web framework of Android platform.",
+   "stars": 3862,
+   "lang": "Java",
+   "topics": [
+    "website",
+    "web-server",
+    "http-server",
+    "springmvc",
+    "android-server"
+   ],
+   "updated": "2023-06-07T08:04:09Z"
+  },
+  {
+   "full": "rakyll/statik",
+   "desc": "Embed files into a Go executable",
+   "stars": 3829,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "http",
+    "files",
+    "static",
+    "http-server"
+   ],
+   "updated": "2026-01-10T21:15:13Z"
+  },
+  {
+   "full": "Qihoo360/evpp",
+   "desc": "A modern C++ network library for developing high performance network services in TCP/UDP/HTTP protocols.",
+   "stars": 3775,
+   "lang": "C++",
+   "topics": [
+    "high-performance",
+    "cpp11",
+    "async-functions",
+    "libevent",
+    "tcp-server",
+    "http-server",
+    "udp-server",
+    "network-library",
+    "nonblocking",
+    "evpp",
+    "evnsq",
+    "evmc"
+   ],
+   "updated": "2024-04-10T11:09:16Z"
+  },
+  {
+   "full": "nytimes/gizmo",
+   "desc": "A Microservice Toolkit from The New York Times",
+   "stars": 3770,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "kafka",
+    "sqs",
+    "pubsub",
+    "sns",
+    "http-server",
+    "gizmo",
+    "googlecloud",
+    "google-pubsub"
+   ],
+   "updated": "2026-03-18T21:07:31Z"
+  },
+  {
+   "full": "undertow-io/undertow",
+   "desc": "High performance non-blocking webserver",
+   "stars": 3761,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "http",
+    "web",
+    "websocket",
+    "http-server",
+    "servlet",
+    "wildfly",
+    "jboss",
+    "hacktoberfest",
+    "java-nio",
+    "ajp",
+    "jakartaee"
+   ],
+   "updated": "2026-10-20T11:09:14Z"
+  },
+  {
+   "full": "abhinavsingh/proxy.py",
+   "desc": "💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 \"Proxy Server\" framework • 🌐 \"Web Server\" framework • ➵ ➶ ➷ ➠ \"",
+   "stars": 3558,
+   "lang": "Python",
+   "topics": [
+    "tunnel",
+    "web-server",
+    "webserver",
+    "proxy",
+    "mitm",
+    "proxy-server",
+    "http-proxy",
+    "https-proxy",
+    "python3",
+    "reverse-proxy",
+    "vpn",
+    "http-server"
+   ],
+   "updated": "2026-10-19T22:25:10Z"
+  },
+  {
+   "full": "sc0tfree/updog",
+   "desc": "Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.",
+   "stars": 3424,
+   "lang": "Python",
+   "topics": [
+    "file-upload",
+    "file-sharing",
+    "http-server",
+    "simplehttpserver",
+    "https-server"
+   ],
+   "updated": "2025-11-16T20:20:15Z"
+  },
+  {
+   "full": "chronoxor/NetCoreServer",
+   "desc": "Ultra fast and low latency asynchronous socket server & client C# .NET Core library with support TCP, SSL, UDP, HTTP, HTTPS, WebSocket protocols and 10K connections problem solution",
+   "stars": 3131,
+   "lang": "C#",
+   "topics": [
+    "tls",
+    "ssl",
+    "http",
+    "performance",
+    "async",
+    "https",
+    "websocket-server",
+    "websocket",
+    "tcp-server",
+    "socket-server",
+    "tcp-client",
+    "http-server"
+   ],
+   "updated": "2026-10-18T01:04:15Z"
+  },
+  {
+   "full": "acl-dev/acl",
+   "desc": "C/C++ server and network library, including coroutine,redis client,http/https/websocket,mqtt, mysql/postgresql/sqlite client with C/C++ for Linux, Android, iOS, MacOS, Windows, Harmony,etc..",
+   "stars": 3106,
+   "lang": "C",
+   "topics": [
+    "redis",
+    "http",
+    "database",
+    "cplusplus",
+    "https",
+    "network",
+    "websocket",
+    "http-client",
+    "redis-client",
+    "http-server",
+    "smtp",
+    "mqtt-client"
+   ],
+   "updated": "2026-10-12T09:25:15Z"
+  },
+  {
+   "full": "socketry/falcon",
+   "desc": "A high-performance web server for Ruby, supporting HTTP/1, HTTP/2 and TLS.",
+   "stars": 3053,
+   "lang": "Ruby",
+   "topics": [
+    "ruby",
+    "server",
+    "async",
+    "asynchronous",
+    "falcon",
+    "http-server",
+    "concurrent",
+    "async-http"
+   ],
+   "updated": "2026-08-11T10:31:01Z"
+  },
+  {
+   "full": "userver-framework/userver",
+   "desc": "Production-ready C++ Asynchronous Framework with rich functionality",
+   "stars": 3000,
+   "lang": "C++",
+   "topics": [
+    "redis",
+    "http",
+    "postgres",
+    "mongo",
+    "microservices",
+    "framework",
+    "web",
+    "server",
+    "cplusplus",
+    "async",
+    "asynchronous",
+    "coroutines"
+   ],
+   "updated": "2026-11-02T18:02:45Z"
+  }
+ ]
+}

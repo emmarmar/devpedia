@@ -1,0 +1,1321 @@
+{
+ "subId": "algoritmos",
+ "topics": [
+  "algorithms",
+  "interview"
+ ],
+ "crawledAt": "2026-11-02T20:21:07.386Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "jwasham/coding-interview-university",
+   "desc": "A complete computer science study plan to become a software engineer.",
+   "stars": 363734,
+   "lang": null,
+   "topics": [
+    "computer-science",
+    "algorithm",
+    "algorithms",
+    "interview",
+    "data-structures",
+    "software-engineering",
+    "coding-interviews",
+    "study-plan",
+    "interview-prep",
+    "interview-preparation",
+    "coding-interview",
+    "programming-interviews"
+   ],
+   "updated": "2025-08-28T14:42:47Z"
+  },
+  {
+   "full": "trekhleb/javascript-algorithms",
+   "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+   "stars": 196720,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "computer-science",
+    "algorithm",
+    "algorithms",
+    "interview",
+    "data-structures",
+    "interview-preparation",
+    "javascript-algorithms"
+   ],
+   "updated": "2026-07-26T02:43:08Z"
+  },
+  {
+   "full": "yangshun/tech-interview-handbook",
+   "desc": "Curated coding interview preparation materials for busy software engineers",
+   "stars": 143197,
+   "lang": "TypeScript",
+   "topics": [
+    "algorithm",
+    "algorithms",
+    "interview-practice",
+    "interview-questions",
+    "coding-interviews",
+    "interview-preparation",
+    "system-design",
+    "algorithm-interview",
+    "behavioral-interviews",
+    "algorithm-interview-questions"
+   ],
+   "updated": "2026-08-07T12:06:42Z"
+  },
+  {
+   "full": "labuladong/fucking-algorithm",
+   "desc": "Crack LeetCode, not only how, but also why.",
+   "stars": 136015,
+   "lang": "Markdown",
+   "topics": [
+    "computer-science",
+    "algorithms",
+    "leetcode",
+    "data-structures",
+    "interview-questions",
+    "dynamic-programming",
+    "kmp",
+    "dynamic-programming-algorithm"
+   ],
+   "updated": "2026-10-18T11:43:51Z"
+  },
+  {
+   "full": "krahets/hello-algo",
+   "desc": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+   "stars": 131887,
+   "lang": "Swift",
+   "topics": [
+    "education",
+    "algorithm",
+    "programming",
+    "data-structure",
+    "algorithms",
+    "leetcode",
+    "book",
+    "algo",
+    "data-structures",
+    "dsa",
+    "data-structures-and-algorithms"
+   ],
+   "updated": "2026-10-30T20:04:16Z"
+  },
+  {
+   "full": "Developer-Y/cs-video-courses",
+   "desc": "List of Computer Science courses with video lectures.",
+   "stars": 84512,
+   "lang": null,
+   "topics": [
+    "computer-science",
+    "security",
+    "machine-learning",
+    "bioinformatics",
+    "web-development",
+    "reinforcement-learning",
+    "computer-vision",
+    "deep-learning",
+    "algorithms",
+    "robotics",
+    "computational-biology",
+    "databases"
+   ],
+   "updated": "2026-10-31T22:05:30Z"
+  },
+  {
+   "full": "TheAlgorithms/Java",
+   "desc": "All Algorithms implemented in Java",
+   "stars": 66711,
+   "lang": "Java",
+   "topics": [
+    "search",
+    "java",
+    "algorithm",
+    "algorithms",
+    "sort",
+    "data-structures",
+    "sorting-algorithms",
+    "algorithm-challenges",
+    "hacktoberfest",
+    "algorithms-datastructures"
+   ],
+   "updated": "2026-11-01T20:56:03Z"
+  },
+  {
+   "full": "kdn251/interviews",
+   "desc": "Everything you need to know to get the job.",
+   "stars": 65538,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "algorithm",
+    "algorithms",
+    "leetcode",
+    "interview",
+    "interviews",
+    "interview-practice",
+    "algorithm-competitions",
+    "leetcode-solutions",
+    "interview-questions",
+    "technical-coding-interview",
+    "algorithm-challenges"
+   ],
+   "updated": "2025-05-12T12:56:04Z"
+  },
+  {
+   "full": "azl397985856/leetcode",
+   "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+   "stars": 55715,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "python",
+    "java",
+    "computer-science",
+    "tree",
+    "algorithm",
+    "algorithms",
+    "leetcode",
+    "cpp",
+    "interview",
+    "algo",
+    "data-structures"
+   ],
+   "updated": "2025-07-16T09:42:17Z"
+  },
+  {
+   "full": "doocs/leetcode",
+   "desc": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+   "stars": 36749,
+   "lang": "Java",
+   "topics": [
+    "javascript",
+    "java",
+    "golang",
+    "csharp",
+    "algorithms",
+    "leetcode",
+    "cpp",
+    "python3"
+   ],
+   "updated": "2026-11-02T15:06:52Z"
+  },
+  {
+   "full": "geekxh/hello-algorithm",
+   "desc": "🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解 ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站",
+   "stars": 36116,
+   "lang": "Java",
+   "topics": [
+    "algorithms",
+    "leetcode",
+    "leetcode-solutions",
+    "interview-questions",
+    "dynamic-programming"
+   ],
+   "updated": "2023-06-13T04:13:17Z"
+  },
+  {
+   "full": "TheAlgorithms/JavaScript",
+   "desc": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
+   "stars": 34280,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "search",
+    "cryptography",
+    "algorithm",
+    "cipher",
+    "algorithms",
+    "mathematics",
+    "sort",
+    "data-structures",
+    "conversions",
+    "sorting-algorithms",
+    "algorithm-challenges"
+   ],
+   "updated": "2026-03-07T14:45:13Z"
+  },
+  {
+   "full": "halfrost/LeetCode-Go",
+   "desc": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解",
+   "stars": 33815,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "algorithm",
+    "math",
+    "algorithms",
+    "leetcode",
+    "ebook",
+    "competitive-programming",
+    "data-structures",
+    "acm-icpc",
+    "algorithm-competitions",
+    "leetcode-solutions"
+   ],
+   "updated": "2026-10-12T15:45:11Z"
+  },
+  {
+   "full": "kodecocodes/swift-algorithm-club",
+   "desc": "Algorithms and data structures in Swift, with explanations!",
+   "stars": 29056,
+   "lang": "Swift",
+   "topics": [
+    "swift",
+    "algorithms",
+    "data-structures"
+   ],
+   "updated": "2024-12-06T07:03:07Z"
+  },
+  {
+   "full": "forthespada/CS-Books",
+   "desc": "🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~",
+   "stars": 27849,
+   "lang": null,
+   "topics": [
+    "javascript",
+    "python",
+    "c",
+    "java",
+    "linux",
+    "redis",
+    "pdf",
+    "sql",
+    "database",
+    "algorithms",
+    "cpp",
+    "os"
+   ],
+   "updated": "2025-11-06T12:55:46Z"
+  },
+  {
+   "full": "OI-wiki/OI-wiki",
+   "desc": "🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）",
+   "stars": 27101,
+   "lang": "TypeScript",
+   "topics": [
+    "algorithms",
+    "icpc",
+    "competitive-programming",
+    "data-structures",
+    "acm-icpc",
+    "hacktoberfest",
+    "oi",
+    "acm-icpc-handbook",
+    "icpc-training",
+    "oi-handbook",
+    "icpc-handbook",
+    "oi-training"
+   ],
+   "updated": "2026-11-02T17:42:02Z"
+  },
+  {
+   "full": "TheAlgorithms/Rust",
+   "desc": "All Algorithms implemented in Rust",
+   "stars": 26148,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "algorithms",
+    "data-structures",
+    "rust-lang",
+    "hacktoberfest"
+   ],
+   "updated": "2026-10-13T20:49:25Z"
+  },
+  {
+   "full": "keon/algorithms",
+   "desc": "Minimal examples of data structures and algorithms in Python",
+   "stars": 25589,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "search",
+    "tree",
+    "algorithm",
+    "data-structure",
+    "algorithms",
+    "graph",
+    "competitive-programming",
+    "sort"
+   ],
+   "updated": "2026-09-25T06:08:05Z"
+  },
+  {
+   "full": "kunal-kushwaha/DSA-Bootcamp-Java",
+   "desc": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+   "stars": 24097,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "math",
+    "algorithms",
+    "leetcode",
+    "competitive-programming",
+    "data-structures",
+    "leetcode-solutions",
+    "leetcode-java",
+    "interview-preparation",
+    "google-interview",
+    "faang-interview",
+    "faang-preparation"
+   ],
+   "updated": "2024-08-18T08:21:57Z"
+  },
+  {
+   "full": "TheAlgorithms/C",
+   "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+   "stars": 22591,
+   "lang": "C",
+   "topics": [
+    "c",
+    "search",
+    "computer-science",
+    "education",
+    "machine-learning",
+    "algorithms",
+    "datastructures",
+    "machine-learning-algorithms",
+    "mathematics",
+    "interview",
+    "sort",
+    "learn-to-code"
+   ],
+   "updated": "2024-08-07T21:56:16Z"
+  },
+  {
+   "full": "williamfiset/algorithms",
+   "desc": "A collection of algorithms and data structures",
+   "stars": 18886,
+   "lang": "Java",
+   "topics": [
+    "algorithm",
+    "algorithms",
+    "geometry",
+    "strings",
+    "linear-algebra",
+    "mathematics",
+    "matrix-multiplication",
+    "sorting-algorithms",
+    "graph-theory",
+    "traveling-salesman",
+    "dijkstra",
+    "search-algorithm"
+   ],
+   "updated": "2026-06-23T09:33:06Z"
+  },
+  {
+   "full": "TheAlgorithms/Go",
+   "desc": "Algorithms and Data Structures implemented in Go for beginners, following best practices.",
+   "stars": 18243,
+   "lang": "Go",
+   "topics": [
+    "search",
+    "sorting",
+    "algorithms",
+    "datastructures",
+    "interview",
+    "data-structures",
+    "preparation",
+    "hacktoberfest",
+    "algorithms-implemented",
+    "community-driven",
+    "interview-preparation"
+   ],
+   "updated": "2026-08-03T19:23:39Z"
+  },
+  {
+   "full": "InterviewMap/CS-Interview-Knowledge-Map",
+   "desc": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.",
+   "stars": 18226,
+   "lang": null,
+   "topics": [
+    "react",
+    "javascript",
+    "blog",
+    "vue",
+    "algorithms",
+    "interview"
+   ],
+   "updated": "2020-05-03T00:47:59Z"
+  },
+  {
+   "full": "ashishps1/awesome-leetcode-resources",
+   "desc": "Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews.",
+   "stars": 18073,
+   "lang": "Java",
+   "topics": [
+    "algorithms",
+    "leetcode",
+    "data-structures",
+    "coding",
+    "dsa",
+    "leetcode-patterns"
+   ],
+   "updated": "2026-06-06T18:57:28Z"
+  },
+  {
+   "full": "scipy/scipy",
+   "desc": "SciPy library main repository",
+   "stars": 15179,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "algorithms",
+    "scientific-computing",
+    "scipy",
+    "closember"
+   ],
+   "updated": "2026-11-02T11:28:11Z"
+  },
+  {
+   "full": "seanprashad/leetcode-patterns",
+   "desc": "A pattern-based approach to learn technical interview questions",
+   "stars": 14329,
+   "lang": "TypeScript",
+   "topics": [
+    "algorithms",
+    "leetcode",
+    "data-structures",
+    "interview-questions",
+    "study-guide",
+    "interview-prep",
+    "leetcode-patterns"
+   ],
+   "updated": "2026-11-01T13:08:33Z"
+  },
+  {
+   "full": "halfrost/Halfrost-Field",
+   "desc": "✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记",
+   "stars": 13255,
+   "lang": "Go",
+   "topics": [
+    "javascript",
+    "blog",
+    "go",
+    "swift",
+    "tls",
+    "golang",
+    "ios",
+    "machine-learning",
+    "cryptography",
+    "protobuf",
+    "objective-c",
+    "algorithms"
+   ],
+   "updated": "2026-09-30T03:25:27Z"
+  },
+  {
+   "full": "AkashSingh3031/The-Complete-FAANG-Preparation",
+   "desc": "Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We've got Technical Subjects like Operating",
+   "stars": 12306,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "java",
+    "readme",
+    "sql",
+    "algorithms",
+    "leetcode",
+    "cpp",
+    "dbms",
+    "jupyter-notebook",
+    "operating-system",
+    "data-structures",
+    "learn"
+   ],
+   "updated": "2026-10-12T11:34:39Z"
+  },
+  {
+   "full": "iamshuaidi/CS-Book",
+   "desc": "计算机类常用电子书整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等书籍",
+   "stars": 11621,
+   "lang": null,
+   "topics": [
+    "javascript",
+    "python",
+    "c",
+    "java",
+    "linux",
+    "html",
+    "books",
+    "algorithms",
+    "cs-books"
+   ],
+   "updated": "2023-07-28T10:46:41Z"
+  },
+  {
+   "full": "cp-algorithms/cp-algorithms",
+   "desc": "Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)",
+   "stars": 11490,
+   "lang": "C++",
+   "topics": [
+    "translation",
+    "algorithms",
+    "competitive-programming",
+    "data-structures",
+    "algorithm-competitions",
+    "programming-competitions",
+    "programming-contests",
+    "learning-materials",
+    "hacktoberfest",
+    "competitive-programming-contests",
+    "algorithms-and-data-structures",
+    "hacktoberfest-accepted"
+   ],
+   "updated": "2026-11-02T19:20:33Z"
+  },
+  {
+   "full": "careercup/CtCI-6th-Edition",
+   "desc": "Cracking the Coding Interview 6th Ed. Solutions",
+   "stars": 11456,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "algorithms",
+    "cracking-the-coding-interview",
+    "data-structures",
+    "interview-questions",
+    "careercup"
+   ],
+   "updated": "2024-08-04T15:06:57Z"
+  },
+  {
+   "full": "fastai/numerical-linear-algebra",
+   "desc": "Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course",
+   "stars": 11015,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "deep-learning",
+    "algorithms",
+    "numpy",
+    "linear-algebra"
+   ],
+   "updated": "2024-04-16T14:44:18Z"
+  },
+  {
+   "full": "Yorko/mlcourse.ai",
+   "desc": "Open Machine Learning Course",
+   "stars": 10775,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "docker",
+    "data-science",
+    "machine-learning",
+    "math",
+    "algorithms",
+    "numpy",
+    "scikit-learn",
+    "plotly",
+    "pandas",
+    "seaborn",
+    "ipynb"
+   ],
+   "updated": "2026-09-03T08:10:01Z"
+  },
+  {
+   "full": "chefyuan/algorithm-base",
+   "desc": "一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com",
+   "stars": 10747,
+   "lang": null,
+   "topics": [
+    "java",
+    "algorithms",
+    "leetcode",
+    "offer",
+    "interview-practice",
+    "interview-questions",
+    "programmers",
+    "base"
+   ],
+   "updated": "2025-05-03T13:50:26Z"
+  },
+  {
+   "full": "dotnet/machinelearning",
+   "desc": "ML.NET is an open source and cross-platform machine learning framework for .NET.",
+   "stars": 9359,
+   "lang": "C#",
+   "topics": [
+    "machine-learning",
+    "algorithms",
+    "dotnet",
+    "ml"
+   ],
+   "updated": "2026-11-02T19:01:53Z"
+  },
+  {
+   "full": "EndlessCheng/codeforces-go",
+   "desc": "算法竞赛模板库 by 灵茶山艾府 💭💡🎈",
+   "stars": 8798,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "golang",
+    "algorithm",
+    "data-structure",
+    "algorithms",
+    "leetcode",
+    "icpc",
+    "competitive-programming",
+    "data-structures",
+    "acm-icpc",
+    "codeforces",
+    "codeforces-solutions"
+   ],
+   "updated": "2026-11-01T14:00:25Z"
+  },
+  {
+   "full": "ljpzzz/machinelearning",
+   "desc": "My blogs and code for machine learning. http://cnblogs.com/pinard",
+   "stars": 8710,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "algorithms",
+    "scikit-learn",
+    "machinelearning",
+    "reinforcementlearning"
+   ],
+   "updated": "2024-02-16T15:26:27Z"
+  },
+  {
+   "full": "Blankj/awesome-java-leetcode",
+   "desc": "👑 LeetCode of algorithms with java solution(updating).",
+   "stars": 8684,
+   "lang": "Java",
+   "topics": [
+    "facebook",
+    "algorithm",
+    "algorithms",
+    "datastructures",
+    "leetcode",
+    "leetcode-solutions",
+    "datastructure",
+    "leetcode-java"
+   ],
+   "updated": "2020-12-10T15:20:21Z"
+  },
+  {
+   "full": "krahets/LeetCode-Book",
+   "desc": "《剑指 Offer》《图解算法数据结构》《Krahets 笔面试精选 88 题》Python, Java, C++ 解题代码",
+   "stars": 8587,
+   "lang": "Java",
+   "topics": [
+    "python",
+    "java",
+    "algorithm",
+    "data-structure",
+    "algorithms",
+    "leetcode",
+    "data-structures",
+    "leetcode-java",
+    "leetcode-python",
+    "leetcode-cpp",
+    "algorithms-and-data-structures",
+    "sword-for-offer"
+   ],
+   "updated": "2025-12-30T12:39:35Z"
+  },
+  {
+   "full": "mxgmn/MarkovJunior",
+   "desc": "Probabilistic language based on pattern matching and constraint propagation, 153 examples",
+   "stars": 8489,
+   "lang": "C#",
+   "topics": [
+    "language",
+    "gamedev",
+    "csharp",
+    "algorithms",
+    "procedural-generation",
+    "voxel",
+    "cellular-automata",
+    "probabilistic-programming",
+    "markovjunior"
+   ],
+   "updated": "2026-03-20T00:05:35Z"
+  },
+  {
+   "full": "donnemartin/system-design-primer",
+   "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+   "stars": 376560,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "design",
+    "development",
+    "programming",
+    "web",
+    "system",
+    "design-patterns",
+    "interview",
+    "web-application",
+    "webapp",
+    "interview-practice",
+    "interview-questions"
+   ],
+   "updated": "2026-09-15T01:10:09Z"
+  },
+  {
+   "full": "TheAlgorithms/Python",
+   "desc": "All Algorithms implemented in Python",
+   "stars": 225784,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "education",
+    "algorithm",
+    "practice",
+    "interview",
+    "sorting-algorithms",
+    "learn",
+    "algos",
+    "algorithm-competitions",
+    "sorts",
+    "hacktoberfest",
+    "algorithms-implemented"
+   ],
+   "updated": "2026-11-02T19:35:18Z"
+  },
+  {
+   "full": "CyC2018/CS-Notes",
+   "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+   "stars": 186431,
+   "lang": "JavaScript",
+   "topics": [
+    "python",
+    "java",
+    "computer-science",
+    "algorithm",
+    "leetcode",
+    "cpp",
+    "interview",
+    "system-design"
+   ],
+   "updated": "2026-11-01T17:43:48Z"
+  },
+  {
+   "full": "Snailclimb/JavaGuide",
+   "desc": "Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发",
+   "stars": 159392,
+   "lang": "JavaScript",
+   "topics": [
+    "mysql",
+    "java",
+    "agent",
+    "redis",
+    "ai",
+    "skills",
+    "mcp",
+    "interview",
+    "redisson",
+    "system-design",
+    "deepseek",
+    "springai"
+   ],
+   "updated": "2026-10-25T11:47:10Z"
+  },
+  {
+   "full": "bregman-arie/devops-exercises",
+   "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+   "stars": 86414,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "git",
+    "linux",
+    "docker",
+    "kubernetes",
+    "aws",
+    "ansible",
+    "devops",
+    "sql",
+    "azure",
+    "containers",
+    "terraform"
+   ],
+   "updated": "2025-12-27T14:22:30Z"
+  },
+  {
+   "full": "binhnguyennus/awesome-scalability",
+   "desc": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+   "stars": 75314,
+   "lang": null,
+   "topics": [
+    "computer-science",
+    "lists",
+    "devops",
+    "distributed-systems",
+    "machine-learning",
+    "awesome",
+    "web-development",
+    "programming",
+    "big-data",
+    "system",
+    "backend",
+    "architecture"
+   ],
+   "updated": "2026-01-04T03:51:47Z"
+  },
+  {
+   "full": "youngyangyang04/leetcode-master",
+   "desc": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+   "stars": 62779,
+   "lang": "Shell",
+   "topics": [
+    "javascript",
+    "python",
+    "java",
+    "go",
+    "algorithm",
+    "leetcode",
+    "cpp",
+    "interview",
+    "programmer",
+    "offer"
+   ],
+   "updated": "2026-10-24T02:51:43Z"
+  },
+  {
+   "full": "poteto/hiring-without-whiteboards",
+   "desc": "⭐️ Companies that don't have a broken hiring process",
+   "stars": 53102,
+   "lang": "JavaScript",
+   "topics": [
+    "tech",
+    "jobs",
+    "interview",
+    "whiteboard",
+    "hiring",
+    "airtable",
+    "hiring-without-whiteboards"
+   ],
+   "updated": "2026-09-24T04:48:39Z"
+  },
+  {
+   "full": "karanpratapsingh/system-design",
+   "desc": "Learn how to design systems at scale and prepare for system design interviews",
+   "stars": 46763,
+   "lang": null,
+   "topics": [
+    "engineering",
+    "distributed-systems",
+    "microservices",
+    "tech",
+    "architecture",
+    "scalability",
+    "interview",
+    "interview-preparation",
+    "system-design",
+    "system-design-interview"
+   ],
+   "updated": "2026-10-18T23:21:28Z"
+  },
+  {
+   "full": "yangshun/front-end-interview-handbook",
+   "desc": "Front End interview preparation materials for busy engineers (updated for 2026)",
+   "stars": 44003,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "front-end",
+    "web-development",
+    "interview",
+    "interview-questions",
+    "css-questions",
+    "html-questions",
+    "js-questions",
+    "interview-test",
+    "interview-preparation"
+   ],
+   "updated": "2026-10-05T08:51:50Z"
+  },
+  {
+   "full": "ashishps1/awesome-system-design-resources",
+   "desc": "Learn System Design concepts and prepare for interviews using free resources.",
+   "stars": 43032,
+   "lang": "Java",
+   "topics": [
+    "computer-science",
+    "distributed-systems",
+    "awesome",
+    "backend",
+    "scalability",
+    "interview",
+    "interview-questions",
+    "system-design",
+    "hld",
+    "high-level-design"
+   ],
+   "updated": "2026-11-01T09:36:12Z"
+  },
+  {
+   "full": "huihut/interview",
+   "desc": "📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data st",
+   "stars": 38281,
+   "lang": "C++",
+   "topics": [
+    "c",
+    "algorithm",
+    "database",
+    "leetcode",
+    "cpp",
+    "stl",
+    "interview",
+    "operating-system",
+    "data-structures",
+    "interviews",
+    "interview-practice",
+    "interview-questions"
+   ],
+   "updated": "2026-09-17T07:18:55Z"
+  },
+  {
+   "full": "0voice/interview_internal_reference",
+   "desc": "2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+   "stars": 37260,
+   "lang": "Python",
+   "topics": [
+    "mysql",
+    "nginx",
+    "redis",
+    "cpu",
+    "mongodb",
+    "storage",
+    "network",
+    "high-performance",
+    "interview",
+    "zookeeper"
+   ],
+   "updated": "2025-10-22T09:39:06Z"
+  },
+  {
+   "full": "AobingJava/JavaFamily",
+   "desc": "【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+   "stars": 36982,
+   "lang": null,
+   "topics": [
+    "mysql",
+    "java",
+    "redis",
+    "system",
+    "jvm",
+    "interview",
+    "zookeeper",
+    "java8",
+    "rocketmq"
+   ],
+   "updated": "2025-11-03T12:37:27Z"
+  },
+  {
+   "full": "liquidslr/leetcode-company-wise-problems",
+   "desc": "Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 Oct, 2025",
+   "stars": 34236,
+   "lang": null,
+   "topics": [
+    "interview",
+    "google-interview",
+    "amazon-interview",
+    "online-assessment",
+    "meta-interview",
+    "uber-interview"
+   ],
+   "updated": "2026-10-21T01:30:49Z"
+  },
+  {
+   "full": "donnemartin/interactive-coding-challenges",
+   "desc": "120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.",
+   "stars": 31954,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "development",
+    "algorithm",
+    "programming",
+    "data-structure",
+    "interview",
+    "competitive-programming",
+    "coding",
+    "interview-practice",
+    "interview-questions"
+   ],
+   "updated": "2024-05-08T23:07:36Z"
+  },
+  {
+   "full": "ashishps1/awesome-low-level-design",
+   "desc": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+   "stars": 27716,
+   "lang": "Java",
+   "topics": [
+    "awesome",
+    "uml",
+    "design-patterns",
+    "interview",
+    "interview-practice",
+    "interview-questions",
+    "oops",
+    "lld",
+    "solid-principles",
+    "object-oriented-programming",
+    "low-level-design",
+    "machine-coding"
+   ],
+   "updated": "2026-08-19T08:47:42Z"
+  },
+  {
+   "full": "Advanced-Frontend/Daily-Interview-Question",
+   "desc": "我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+   "stars": 27339,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "javascript",
+    "css",
+    "vue",
+    "interview"
+   ],
+   "updated": "2020-11-09T01:07:00Z"
+  },
+  {
+   "full": "haizlin/fe-interview",
+   "desc": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+   "stars": 26261,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "nodejs",
+    "javascript",
+    "css",
+    "html",
+    "resume",
+    "front-end",
+    "node",
+    "vue",
+    "js",
+    "frontend",
+    "interview"
+   ],
+   "updated": "2025-10-26T20:49:10Z"
+  },
+  {
+   "full": "checkcheckzz/system-design-interview",
+   "desc": "System design interview for IT companies",
+   "stars": 23877,
+   "lang": null,
+   "topics": [
+    "design-systems",
+    "system",
+    "interview",
+    "interview-questions",
+    "interview-preparation",
+    "system-design"
+   ],
+   "updated": "2023-04-03T04:22:45Z"
+  },
+  {
+   "full": "afatcoder/LeetcodeTop",
+   "desc": "汇总各大互联网公司容易考察的高频leetcode题🔥",
+   "stars": 20064,
+   "lang": null,
+   "topics": [
+    "leetcode",
+    "interview"
+   ],
+   "updated": "2024-03-13T11:52:55Z"
+  },
+  {
+   "full": "perkfly/reverse-interview-zh",
+   "desc": "技术面试最后反问面试官的话",
+   "stars": 18542,
+   "lang": null,
+   "topics": [
+    "interview",
+    "interview-questions",
+    "reverse-interview"
+   ],
+   "updated": "2024-03-04T15:39:50Z"
+  },
+  {
+   "full": "Olshansk/interview",
+   "desc": "Everything you need to prepare for your technical interview",
+   "stars": 18384,
+   "lang": null,
+   "topics": [
+    "list",
+    "guide",
+    "interview",
+    "interview-questions",
+    "google-interview"
+   ],
+   "updated": "2024-12-25T19:55:23Z"
+  },
+  {
+   "full": "gyoogle/tech-interview-for-developer",
+   "desc": "👶🏻 신입 개발자 전공 지식 & 기술 면접 백과사전 📖",
+   "stars": 17663,
+   "lang": "Java",
+   "topics": [
+    "javascript",
+    "java",
+    "language",
+    "computer-science",
+    "it",
+    "algorithm",
+    "sql",
+    "database",
+    "web",
+    "tech",
+    "interview",
+    "data-structures"
+   ],
+   "updated": "2025-06-04T08:16:06Z"
+  },
+  {
+   "full": "wdndev/llm_interview_note",
+   "desc": "主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题",
+   "stars": 15349,
+   "lang": "HTML",
+   "topics": [
+    "interview",
+    "llm",
+    "llms",
+    "llm-interview"
+   ],
+   "updated": "2026-06-14T14:57:07Z"
+  },
+  {
+   "full": "madd86/awesome-system-design",
+   "desc": "A curated list of awesome System Design (A.K.A. Distributed Systems) resources.",
+   "stars": 12647,
+   "lang": null,
+   "topics": [
+    "distributed-systems",
+    "microservices",
+    "nosql",
+    "interview",
+    "stream-processing",
+    "microservices-architecture",
+    "relational-database",
+    "message-broker",
+    "hadoop-ecosystem"
+   ],
+   "updated": "2026-02-27T13:35:34Z"
+  },
+  {
+   "full": "Chalarangelo/30-seconds-of-interviews",
+   "desc": "A curated collection of common interview questions to help you prepare for your next interview.",
+   "stars": 12125,
+   "lang": "JavaScript",
+   "topics": [
+    "javascript",
+    "css",
+    "html",
+    "education",
+    "snippets",
+    "interview",
+    "learn-to-code",
+    "awesome-list",
+    "interview-questions",
+    "snippets-collection",
+    "learning-resources"
+   ],
+   "updated": "2022-12-09T05:29:51Z"
+  },
+  {
+   "full": "trimstray/test-your-sysadmin-skills",
+   "desc": "A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.",
+   "stars": 11899,
+   "lang": null,
+   "topics": [
+    "linux",
+    "answers",
+    "security",
+    "devops",
+    "unix",
+    "knowledge",
+    "skills",
+    "network",
+    "sysadmin",
+    "databases",
+    "resources",
+    "interview"
+   ],
+   "updated": "2024-11-19T14:07:11Z"
+  },
+  {
+   "full": "frank-lam/fullstack-tutorial",
+   "desc": "🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试",
+   "stars": 11694,
+   "lang": "Java",
+   "topics": [
+    "java",
+    "computer-science",
+    "interview",
+    "skill-tree",
+    "java-interview",
+    "fullstack-developer"
+   ],
+   "updated": "2022-12-02T03:33:19Z"
+  },
+  {
+   "full": "adongwanai/AgentGuide",
+   "desc": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
+   "stars": 11568,
+   "lang": "MDX",
+   "topics": [
+    "tutorial",
+    "interview",
+    "multi-agent",
+    "job-hunting",
+    "rag",
+    "sft",
+    "ai-agent",
+    "llm",
+    "langchain",
+    "crewai",
+    "graphrag",
+    "grpo"
+   ],
+   "updated": "2026-10-31T04:00:13Z"
+  },
+  {
+   "full": "miss-mumu/developer2gwy",
+   "desc": "公务员从入门到上岸，最佳程序员公考实践教程",
+   "stars": 11471,
+   "lang": null,
+   "topics": [
+    "interview",
+    "developer",
+    "exam",
+    "interview-practice",
+    "experiences",
+    "interview-experiences",
+    "public-servants",
+    "gong-wu-yuan",
+    "tizhi"
+   ],
+   "updated": "2024-08-06T09:02:50Z"
+  },
+  {
+   "full": "hxu296/leetcode-company-wise-problems-2022",
+   "desc": "Lists of company wise questions available on leetcode premium. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of May, 2022.",
+   "stars": 11394,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "leetcode",
+    "interview",
+    "google-interview",
+    "amazon-interview",
+    "microsoft-interview",
+    "leetcode-company-questions",
+    "facebook-interview"
+   ],
+   "updated": "2024-07-16T19:08:18Z"
+  }
+ ]
+}

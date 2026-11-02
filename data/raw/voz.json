@@ -1,0 +1,1395 @@
+{
+ "subId": "voz",
+ "topics": [
+  "speech-recognition",
+  "text-to-speech"
+ ],
+ "crawledAt": "2026-11-02T20:16:55.409Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "huggingface/transformers",
+   "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+   "stars": 168458,
+   "lang": "Python",
+   "topics": [
+    "audio",
+    "python",
+    "nlp",
+    "machine-learning",
+    "natural-language-processing",
+    "deep-learning",
+    "pytorch",
+    "transformer",
+    "speech-recognition",
+    "glm",
+    "pretrained-models",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T20:12:02Z"
+  },
+  {
+   "full": "ggml-org/whisper.cpp",
+   "desc": "Port of OpenAI's Whisper model in C/C++",
+   "stars": 54868,
+   "lang": "C++",
+   "topics": [
+    "inference",
+    "transformer",
+    "speech-recognition",
+    "openai",
+    "speech-to-text",
+    "whisper"
+   ],
+   "updated": "2026-10-30T05:51:01Z"
+  },
+  {
+   "full": "mozilla/DeepSpeech",
+   "desc": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.",
+   "stars": 26774,
+   "lang": "C++",
+   "topics": [
+    "machine-learning",
+    "embedded",
+    "deep-learning",
+    "offline",
+    "tensorflow",
+    "speech-recognition",
+    "neural-networks",
+    "speech-to-text",
+    "deepspeech",
+    "on-device"
+   ],
+   "updated": "2025-06-19T12:52:51Z"
+  },
+  {
+   "full": "SYSTRAN/faster-whisper",
+   "desc": "Faster Whisper transcription with CTranslate2",
+   "stars": 26412,
+   "lang": "Python",
+   "topics": [
+    "deep-learning",
+    "inference",
+    "transformer",
+    "speech-recognition",
+    "openai",
+    "speech-to-text",
+    "quantization",
+    "whisper"
+   ],
+   "updated": "2026-11-02T11:19:13Z"
+  },
+  {
+   "full": "m-bain/whisperX",
+   "desc": "WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
+   "stars": 25023,
+   "lang": "Python",
+   "topics": [
+    "speech",
+    "speech-recognition",
+    "speech-to-text",
+    "whisper",
+    "asr"
+   ],
+   "updated": "2026-10-22T14:53:44Z"
+  },
+  {
+   "full": "modelscope/FunASR",
+   "desc": "Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.",
+   "stars": 20913,
+   "lang": "Python",
+   "topics": [
+    "audio",
+    "pytorch",
+    "speech-recognition",
+    "chinese",
+    "speech-to-text",
+    "punctuation",
+    "transcription",
+    "asr",
+    "speaker-diarization",
+    "emotion-recognition",
+    "voice-activity-detection",
+    "streaming-asr"
+   ],
+   "updated": "2026-11-02T16:30:24Z"
+  },
+  {
+   "full": "leon-ai/leon",
+   "desc": "🧠 Leon is your open-source personal assistant.",
+   "stars": 17629,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "python",
+    "bot",
+    "text-to-speech",
+    "automation",
+    "privacy",
+    "ai",
+    "offline",
+    "chatbot",
+    "artificial-intelligence",
+    "speech-synthesis",
+    "assistant"
+   ],
+   "updated": "2026-11-02T17:47:55Z"
+  },
+  {
+   "full": "kaldi-asr/kaldi",
+   "desc": "kaldi-asr/kaldi is the official location of the Kaldi project.",
+   "stars": 15511,
+   "lang": "Shell",
+   "topics": [
+    "shell",
+    "c-plus-plus",
+    "cuda",
+    "speech",
+    "speech-recognition",
+    "speech-to-text",
+    "kaldi",
+    "speaker-verification",
+    "speaker-id"
+   ],
+   "updated": "2025-09-22T07:06:00Z"
+  },
+  {
+   "full": "alphacep/vosk-api",
+   "desc": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",
+   "stars": 15224,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "android",
+    "python",
+    "raspberry-pi",
+    "ios",
+    "privacy",
+    "deep-neural-networks",
+    "deep-learning",
+    "offline",
+    "voice-recognition",
+    "speech-recognition",
+    "speech-to-text",
+    "kaldi"
+   ],
+   "updated": "2026-10-15T08:36:44Z"
+  },
+  {
+   "full": "NVIDIA/DeepLearningExamples",
+   "desc": "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
+   "stars": 14870,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "nlp",
+    "translation",
+    "computer-vision",
+    "deep-learning",
+    "mxnet",
+    "tensorflow",
+    "pytorch",
+    "speech-synthesis",
+    "speech-recognition",
+    "forecasting",
+    "drug-discovery",
+    "recommender-systems"
+   ],
+   "updated": "2024-08-12T14:01:29Z"
+  },
+  {
+   "full": "abus-aikorea/voice-pro",
+   "desc": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
+   "stars": 13391,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "translator",
+    "audiobook",
+    "podcasts",
+    "tts",
+    "speech-synthesis",
+    "subtitles",
+    "speech-recognition",
+    "webui",
+    "speech-to-text",
+    "karaoke",
+    "transcription"
+   ],
+   "updated": "2026-07-13T01:28:10Z"
+  },
+  {
+   "full": "kmario23/deep-learning-drizzle",
+   "desc": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!",
+   "stars": 12977,
+   "lang": "HTML",
+   "topics": [
+    "machine-learning",
+    "natural-language-processing",
+    "deep-neural-networks",
+    "reinforcement-learning",
+    "computer-vision",
+    "deep-learning",
+    "optimization",
+    "probability",
+    "deep-reinforcement-learning",
+    "medical-imaging",
+    "speech-recognition",
+    "artificial-neural-networks"
+   ],
+   "updated": "2026-08-22T15:46:06Z"
+  },
+  {
+   "full": "PaddlePaddle/PaddleSpeech",
+   "desc": "Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL2022 Best ",
+   "stars": 12702,
+   "lang": "Python",
+   "topics": [
+    "tts",
+    "speech-synthesis",
+    "transformer",
+    "voice-recognition",
+    "speech-recognition",
+    "whisper",
+    "asr",
+    "vocoder",
+    "conformer",
+    "sound-classification",
+    "kws",
+    "self-supervised-learning"
+   ],
+   "updated": "2026-08-12T01:07:51Z"
+  },
+  {
+   "full": "speechbrain/speechbrain",
+   "desc": "A PyTorch-based Speech Toolkit",
+   "stars": 11916,
+   "lang": "Python",
+   "topics": [
+    "audio",
+    "deep-learning",
+    "transformers",
+    "pytorch",
+    "voice-recognition",
+    "speech-recognition",
+    "speech-to-text",
+    "language-model",
+    "speaker-recognition",
+    "speaker-verification",
+    "speech-processing",
+    "audio-processing"
+   ],
+   "updated": "2026-10-14T23:12:55Z"
+  },
+  {
+   "full": "QuentinFuxa/WhisperLiveKit",
+   "desc": "Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.",
+   "stars": 11204,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "streaming",
+    "real-time",
+    "translation",
+    "websocket",
+    "pytorch",
+    "speech-recognition",
+    "automatic-speech-recognition",
+    "speech-to-text",
+    "whisper",
+    "speaker-diarization",
+    "fastapi"
+   ],
+   "updated": "2026-11-01T05:12:28Z"
+  },
+  {
+   "full": "openvinotoolkit/openvino",
+   "desc": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+   "stars": 11105,
+   "lang": "C++",
+   "topics": [
+    "nlp",
+    "natural-language-processing",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "transformers",
+    "inference",
+    "speech-recognition",
+    "yolo",
+    "recommendation-system",
+    "performance-boost",
+    "good-first-issue"
+   ],
+   "updated": "2026-11-02T20:16:23Z"
+  },
+  {
+   "full": "espnet/espnet",
+   "desc": "End-to-End Speech Processing Toolkit",
+   "stars": 10004,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "deep-learning",
+    "chainer",
+    "end-to-end",
+    "machine-translation",
+    "pytorch",
+    "speech-synthesis",
+    "speech-recognition",
+    "kaldi",
+    "voice-conversion",
+    "speaker-diarization",
+    "speech-separation"
+   ],
+   "updated": "2026-11-02T19:15:21Z"
+  },
+  {
+   "full": "QwenAudio/SenseVoice",
+   "desc": "Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.",
+   "stars": 9672,
+   "lang": "C",
+   "topics": [
+    "multilingual",
+    "pytorch",
+    "audio-analysis",
+    "speech-recognition",
+    "speech-to-text",
+    "cantonese",
+    "transcription",
+    "asr",
+    "emotion-detection",
+    "cross-lingual",
+    "language-identification",
+    "speech-emotion-recognition"
+   ],
+   "updated": "2026-09-30T10:22:01Z"
+  },
+  {
+   "full": "Uberi/speech_recognition",
+   "desc": "Speech recognition module for Python, supporting several engines and APIs, online and offline.",
+   "stars": 8999,
+   "lang": "Python",
+   "topics": [
+    "audio",
+    "python",
+    "speech-recognition",
+    "speech-to-text"
+   ],
+   "updated": "2026-09-02T00:04:17Z"
+  },
+  {
+   "full": "nl8590687/ASRT_SpeechRecognition",
+   "desc": "A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统",
+   "stars": 8395,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "tensorflow",
+    "keras",
+    "cnn",
+    "python3",
+    "speech-recognition",
+    "speech-to-text",
+    "ctc",
+    "chinese-speech-recognition",
+    "asrt"
+   ],
+   "updated": "2026-04-10T15:33:28Z"
+  },
+  {
+   "full": "Blaizzy/mlx-audio",
+   "desc": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.",
+   "stars": 8184,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "transformers",
+    "speech-synthesis",
+    "speech-recognition",
+    "speech-to-text",
+    "audio-processing",
+    "mlx",
+    "multimodal",
+    "apple-silicon"
+   ],
+   "updated": "2026-11-02T17:24:24Z"
+  },
+  {
+   "full": "TalAter/annyang",
+   "desc": "💬 Speech recognition for your site",
+   "stars": 6820,
+   "lang": "TypeScript",
+   "topics": [
+    "voice",
+    "speech",
+    "speech-recognition",
+    "speech-to-text"
+   ],
+   "updated": "2026-10-29T08:30:37Z"
+  },
+  {
+   "full": "modelscope/FunClip",
+   "desc": "FunASR-powered video transcription, subtitle generation, and LLM-assisted clipping tool with a local Gradio UI.",
+   "stars": 6487,
+   "lang": "Python",
+   "topics": [
+    "video-processing",
+    "speech-recognition",
+    "chinese",
+    "speech-to-text",
+    "transcription",
+    "gradio",
+    "video-editing",
+    "asr",
+    "content-creation",
+    "video-transcription",
+    "subtitles-generator",
+    "ai-tools"
+   ],
+   "updated": "2026-11-01T14:52:34Z"
+  },
+  {
+   "full": "flashlight/wav2letter",
+   "desc": "Facebook AI Research's Automatic Speech Recognition Toolkit",
+   "stars": 6444,
+   "lang": "C++",
+   "topics": [
+    "deep-learning",
+    "cpp",
+    "end-to-end",
+    "speech-recognition",
+    "wav2letter"
+   ],
+   "updated": "2026-08-28T12:17:43Z"
+  },
+  {
+   "full": "argmaxinc/argmax-oss-swift",
+   "desc": "On-device Speech AI for Apple Silicon",
+   "stars": 6442,
+   "lang": "Swift",
+   "topics": [
+    "macos",
+    "swift",
+    "ios",
+    "text-to-speech",
+    "transformers",
+    "inference",
+    "speech-recognition",
+    "speech-to-text",
+    "whisper",
+    "speaker-diarization",
+    "pyannote",
+    "ttskit"
+   ],
+   "updated": "2026-10-27T23:59:52Z"
+  },
+  {
+   "full": "PaddlePaddle/PaddleX",
+   "desc": "All-in-One Development Tool based on PaddlePaddle",
+   "stars": 6290,
+   "lang": "Python",
+   "topics": [
+    "ocr",
+    "time-series",
+    "deployment",
+    "speech-recognition",
+    "classification",
+    "segmentation",
+    "object-detection",
+    "ai-pipelines",
+    "layout-detection",
+    "formula-recognition",
+    "pp-chatocr",
+    "pdf2markdown"
+   ],
+   "updated": "2026-10-20T09:48:57Z"
+  },
+  {
+   "full": "MahmoudAshraf97/whisper-diarization",
+   "desc": "Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper",
+   "stars": 5673,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "speech",
+    "speech-recognition",
+    "speech-to-text",
+    "whisper",
+    "asr",
+    "speaker-diarization"
+   ],
+   "updated": "2026-08-15T09:11:27Z"
+  },
+  {
+   "full": "wenet-e2e/wenet",
+   "desc": "Production First and Production Ready End-to-End Speech Recognition Toolkit",
+   "stars": 5252,
+   "lang": "Python",
+   "topics": [
+    "pytorch",
+    "transformer",
+    "speech-recognition",
+    "automatic-speech-recognition",
+    "production-ready",
+    "whisper",
+    "asr",
+    "conformer",
+    "e2e-models"
+   ],
+   "updated": "2026-10-26T12:07:11Z"
+  },
+  {
+   "full": "Picovoice/porcupine",
+   "desc": "On-device wake word detection powered by deep learning",
+   "stars": 5018,
+   "lang": "Python",
+   "topics": [
+    "speech-recognition",
+    "hotword-detection",
+    "keyword-spotting",
+    "handsfree",
+    "wake-word-detection",
+    "on-device",
+    "hotword-detector",
+    "hotword",
+    "trigger-word-detection",
+    "keyword-spotter",
+    "wake-word",
+    "voice-activation"
+   ],
+   "updated": "2026-11-02T17:26:06Z"
+  },
+  {
+   "full": "yanshengjia/ml-road",
+   "desc": "Machine Learning and Agentic AI Resources, Practice and Research",
+   "stars": 4975,
+   "lang": "Python",
+   "topics": [
+    "nlp",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "tensorflow",
+    "pytorch",
+    "speech-recognition",
+    "agentic-ai"
+   ],
+   "updated": "2026-08-01T12:36:17Z"
+  },
+  {
+   "full": "jianchang512/stt",
+   "desc": "Voice Recognition to Text Tool / 一个离线运行的本地音视频转字幕工具，输出json、srt字幕、纯文字格式",
+   "stars": 4841,
+   "lang": "Python",
+   "topics": [
+    "speech",
+    "speech-recognition",
+    "speech-to-text",
+    "stt"
+   ],
+   "updated": "2026-01-22T08:38:53Z"
+  },
+  {
+   "full": "sanchit-gandhi/whisper-jax",
+   "desc": "JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.",
+   "stars": 4679,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "deep-learning",
+    "speech-recognition",
+    "speech-to-text",
+    "whisper",
+    "jax"
+   ],
+   "updated": "2024-04-03T12:12:52Z"
+  },
+  {
+   "full": "cmusphinx/pocketsphinx",
+   "desc": "A small speech recognizer",
+   "stars": 4353,
+   "lang": "C",
+   "topics": [
+    "python",
+    "c",
+    "speech-recognition"
+   ],
+   "updated": "2026-10-13T18:10:01Z"
+  },
+  {
+   "full": "huggingface/distil-whisper",
+   "desc": "Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate.",
+   "stars": 4119,
+   "lang": "Python",
+   "topics": [
+    "audio",
+    "speech-recognition",
+    "whisper"
+   ],
+   "updated": "2025-01-08T10:09:47Z"
+  },
+  {
+   "full": "anomalyco/hex",
+   "desc": "Local voice dictation for mac, windows and linux",
+   "stars": 4021,
+   "lang": "Rust",
+   "topics": [
+    "macos",
+    "linux",
+    "rust",
+    "speech-recognition",
+    "speech-to-text",
+    "voice-control",
+    "dictation",
+    "local-first"
+   ],
+   "updated": "2026-11-02T19:23:43Z"
+  },
+  {
+   "full": "ahmetoner/whisper-asr-webservice",
+   "desc": "OpenAI Whisper ASR Webservice API",
+   "stars": 3371,
+   "lang": "Python",
+   "topics": [
+    "docker",
+    "speech",
+    "speech-recognition",
+    "automatic-speech-recognition",
+    "speech-to-text",
+    "asr",
+    "openai-whisper"
+   ],
+   "updated": "2026-10-01T17:25:30Z"
+  },
+  {
+   "full": "Purfview/whisper-standalone-win",
+   "desc": "Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.",
+   "stars": 3227,
+   "lang": null,
+   "topics": [
+    "subtitles",
+    "speech-recognition",
+    "openai",
+    "speech-to-text",
+    "whisper",
+    "asr",
+    "speaker-diarization",
+    "uvr",
+    "transcriber",
+    "diarization",
+    "faster-whisper",
+    "ctranslate2"
+   ],
+   "updated": "2025-11-07T19:21:55Z"
+  },
+  {
+   "full": "zzw922cn/awesome-speech-recognition-speech-synthesis-papers",
+   "desc": "Automatic Speech Recognition (ASR), Speaker Verification, Speech Synthesis, Text-to-Speech (TTS), Language Modelling, Singing Voice Synthesis (SVS), Voice Conversion (VC)",
+   "stars": 3133,
+   "lang": null,
+   "topics": [
+    "roadmap",
+    "neural-network",
+    "cnn",
+    "dnn",
+    "tts",
+    "speech-synthesis",
+    "speech-recognition",
+    "rnn",
+    "seq2seq",
+    "automatic-speech-recognition",
+    "papers",
+    "language-model"
+   ],
+   "updated": "2023-10-19T03:52:13Z"
+  },
+  {
+   "full": "chenyme/Chenyme-AAVT",
+   "desc": "这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。",
+   "stars": 3133,
+   "lang": "Python",
+   "topics": [
+    "speech-recognition",
+    "whisper",
+    "video-translation",
+    "gpt-4",
+    "faster-whisper",
+    "gpt-4o"
+   ],
+   "updated": "2025-04-07T05:48:22Z"
+  },
+  {
+   "full": "HeyWillow/willow",
+   "desc": "Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative",
+   "stars": 3131,
+   "lang": "C",
+   "topics": [
+    "home-automation",
+    "alexa",
+    "privacy",
+    "deep-learning",
+    "echo",
+    "esp32",
+    "speech-recognition",
+    "home-assistant",
+    "speech-to-text",
+    "google-home",
+    "esp-idf",
+    "whisper"
+   ],
+   "updated": "2026-11-01T00:35:41Z"
+  },
+  {
+   "full": "harry0703/MoneyPrinterTurbo",
+   "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+   "stars": 137458,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "text-to-speech",
+    "ffmpeg",
+    "subtitles",
+    "workflow-automation",
+    "short-video",
+    "tiktok",
+    "content-creation",
+    "video-automation",
+    "youtube-shorts",
+    "instagram-reels",
+    "llm"
+   ],
+   "updated": "2026-11-02T09:22:43Z"
+  },
+  {
+   "full": "debpalash/VoiceStudio",
+   "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+   "stars": 98873,
+   "lang": "Python",
+   "topics": [
+    "workflow",
+    "text-to-speech",
+    "ai",
+    "cuda",
+    "audiobook",
+    "tts",
+    "translate",
+    "speech-to-text",
+    "transcription",
+    "mlx",
+    "dubbing",
+    "voice-cloning"
+   ],
+   "updated": "2026-11-02T19:54:18Z"
+  },
+  {
+   "full": "unslothai/unsloth",
+   "desc": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+   "stars": 78966,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "text-to-speech",
+    "ui",
+    "reinforcement-learning",
+    "ai",
+    "self-hosted",
+    "tts",
+    "openai",
+    "image-generation",
+    "llama",
+    "gemma"
+   ],
+   "updated": "2026-11-02T17:12:49Z"
+  },
+  {
+   "full": "calesthio/OpenMontage",
+   "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+   "stars": 75190,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "flux",
+    "open-source",
+    "text-to-speech",
+    "ai",
+    "ffmpeg",
+    "openai",
+    "image-generation",
+    "cursor",
+    "copilot",
+    "claude"
+   ],
+   "updated": "2026-10-28T21:46:02Z"
+  },
+  {
+   "full": "RVC-Boss/GPT-SoVITS",
+   "desc": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+   "stars": 64621,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "tts",
+    "voice-cloning",
+    "vits",
+    "voice-clone",
+    "voice-cloneai"
+   ],
+   "updated": "2026-10-31T15:56:56Z"
+  },
+  {
+   "full": "coqui-ai/TTS",
+   "desc": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+   "stars": 46177,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "text-to-speech",
+    "deep-learning",
+    "speech",
+    "pytorch",
+    "tts",
+    "speech-synthesis",
+    "voice-conversion",
+    "vocoder",
+    "voice-synthesis",
+    "tacotron",
+    "voice-cloning"
+   ],
+   "updated": "2024-08-16T12:07:14Z"
+  },
+  {
+   "full": "OpenBMB/VoxCPM",
+   "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+   "stars": 40977,
+   "lang": "Python",
+   "topics": [
+    "audio",
+    "multilingual",
+    "python",
+    "text-to-speech",
+    "speech",
+    "pytorch",
+    "tts",
+    "speech-synthesis",
+    "deeplearning",
+    "voice-cloning",
+    "voice-design",
+    "tts-model"
+   ],
+   "updated": "2026-10-08T03:26:41Z"
+  },
+  {
+   "full": "2noise/ChatTTS",
+   "desc": "A generative speech model for daily dialogue.",
+   "stars": 39974,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "chat",
+    "agent",
+    "text-to-speech",
+    "torch",
+    "tts",
+    "english",
+    "chinese",
+    "gpt",
+    "natural-language-inference",
+    "english-language",
+    "chinese-language"
+   ],
+   "updated": "2026-04-10T16:33:48Z"
+  },
+  {
+   "full": "myshell-ai/OpenVoice",
+   "desc": "Instant voice cloning by MIT and MyShell. Audio foundation model.",
+   "stars": 38126,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "tts",
+    "voice-clone",
+    "zero-shot-tts"
+   ],
+   "updated": "2025-04-19T16:00:00Z"
+  },
+  {
+   "full": "babysor/MockingBird",
+   "desc": "🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+   "stars": 36883,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "ai",
+    "deep-learning",
+    "speech",
+    "pytorch",
+    "tts"
+   ],
+   "updated": "2026-03-03T14:59:58Z"
+  },
+  {
+   "full": "index-tts/index-tts",
+   "desc": "An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System",
+   "stars": 24887,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "tts",
+    "cross-lingual",
+    "voice-clone",
+    "zero-shot-tts",
+    "bigvgan",
+    "indextts"
+   ],
+   "updated": "2026-09-29T16:06:53Z"
+  },
+  {
+   "full": "QwenAudio/CosyVoice",
+   "desc": "Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.",
+   "stars": 24247,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "text-to-speech",
+    "japanese",
+    "chatbot",
+    "multi-lingual",
+    "tts",
+    "english",
+    "chinese",
+    "korean",
+    "cantonese",
+    "natural-language-generation",
+    "cross-lingual"
+   ],
+   "updated": "2026-05-25T18:15:40Z"
+  },
+  {
+   "full": "jianchang512/pyvideotrans",
+   "desc": "Translate the video from one language to another and embed dubbing & subtitles.",
+   "stars": 19623,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "tts",
+    "speech-to-text",
+    "stt",
+    "subtitle-translation",
+    "video-transition"
+   ],
+   "updated": "2026-11-02T15:41:35Z"
+  },
+  {
+   "full": "nari-labs/dia",
+   "desc": "A TTS model capable of generating ultra-realistic dialogue in one pass.",
+   "stars": 19409,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "ai",
+    "open-weight"
+   ],
+   "updated": "2025-11-19T21:11:55Z"
+  },
+  {
+   "full": "k2-fsa/sherpa-onnx",
+   "desc": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, ",
+   "stars": 15686,
+   "lang": "C++",
+   "topics": [
+    "android",
+    "windows",
+    "macos",
+    "linux",
+    "lazarus",
+    "raspberry-pi",
+    "ios",
+    "text-to-speech",
+    "csharp",
+    "cpp",
+    "dotnet",
+    "speech-to-text"
+   ],
+   "updated": "2026-10-29T12:00:57Z"
+  },
+  {
+   "full": "supertone-oss-archive/supertonic",
+   "desc": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+   "stars": 13757,
+   "lang": "Swift",
+   "topics": [
+    "nodejs",
+    "multilingual",
+    "python",
+    "java",
+    "go",
+    "swift",
+    "rust",
+    "lightweight",
+    "ios",
+    "text-to-speech",
+    "web",
+    "csharp"
+   ],
+   "updated": "2026-09-09T06:54:13Z"
+  },
+  {
+   "full": "rany2/edge-tts",
+   "desc": "Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge",
+   "stars": 12443,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "tts",
+    "speech-synthesis"
+   ],
+   "updated": "2026-10-14T09:30:53Z"
+  },
+  {
+   "full": "rhasspy/piper",
+   "desc": "A fast, local neural text to speech system",
+   "stars": 11317,
+   "lang": "C++",
+   "topics": [
+    "text-to-speech",
+    "tts",
+    "speech-synthesis"
+   ],
+   "updated": "2025-08-26T15:01:29Z"
+  },
+  {
+   "full": "lemomo-ai/lemo-opuscar",
+   "desc": "A toolbox of film styles made in code for Claude Code: 66 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：66 种现成风格，也能做出你自己的",
+   "stars": 11062,
+   "lang": "JavaScript",
+   "topics": [
+    "webgl",
+    "threejs",
+    "text-to-speech",
+    "canvas",
+    "ffmpeg",
+    "creative-coding",
+    "animation",
+    "motion-graphics",
+    "filmmaking",
+    "ai-agents",
+    "claude",
+    "video-production"
+   ],
+   "updated": "2026-10-31T14:53:23Z"
+  },
+  {
+   "full": "open-mmlab/Amphion",
+   "desc": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research an",
+   "stars": 10329,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "audit",
+    "speech-synthesis",
+    "audio-synthesis",
+    "music-generation",
+    "voice-conversion",
+    "vocoder",
+    "emilia",
+    "text-to-audio",
+    "fastspeech2",
+    "vits",
+    "audio-generation"
+   ],
+   "updated": "2026-03-25T14:11:57Z"
+  },
+  {
+   "full": "mozilla/TTS",
+   "desc": "🤖 💬 Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)",
+   "stars": 10179,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "text-to-speech",
+    "deep-learning",
+    "speech",
+    "pytorch",
+    "tts",
+    "vocoder",
+    "tacotron",
+    "tensorflow2",
+    "tacotron2",
+    "melgan",
+    "speaker-encoder"
+   ],
+   "updated": "2023-11-09T15:37:59Z"
+  },
+  {
+   "full": "netease-youdao/EmotiVoice",
+   "desc": "EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine",
+   "stars": 8542,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "text-to-speech",
+    "ai",
+    "deep-learning",
+    "style",
+    "prompt",
+    "speech",
+    "emotion",
+    "pytorch",
+    "tts",
+    "speech-synthesis",
+    "multi-speaker"
+   ],
+   "updated": "2026-09-03T08:30:35Z"
+  },
+  {
+   "full": "Plachtaa/VALL-E-X",
+   "desc": "An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/",
+   "stars": 7907,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "tts",
+    "gpt",
+    "transformer-architecture",
+    "emotional-speech",
+    "voice-clone",
+    "vall-e"
+   ],
+   "updated": "2024-02-11T15:36:45Z"
+  },
+  {
+   "full": "jaywalnut310/vits",
+   "desc": "VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech",
+   "stars": 7901,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "deep-learning",
+    "pytorch",
+    "tts",
+    "speech-synthesis"
+   ],
+   "updated": "2023-12-06T01:29:50Z"
+  },
+  {
+   "full": "Osmantic/ODS",
+   "desc": "ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server.",
+   "stars": 7745,
+   "lang": "Python",
+   "topics": [
+    "docker",
+    "text-to-speech",
+    "amd",
+    "self-hosted",
+    "nvidia",
+    "speech-to-text",
+    "workflow-automation",
+    "ai-agents",
+    "rag",
+    "n8n",
+    "llm",
+    "llama-cpp"
+   ],
+   "updated": "2026-11-02T20:00:05Z"
+  },
+  {
+   "full": "myshell-ai/MeloTTS",
+   "desc": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+   "stars": 7696,
+   "lang": "Python",
+   "topics": [
+    "multilingual",
+    "text-to-speech",
+    "japanese",
+    "tts",
+    "english",
+    "spanish",
+    "chinese",
+    "korean",
+    "french"
+   ],
+   "updated": "2024-12-24T19:17:13Z"
+  },
+  {
+   "full": "espeak-ng/espeak-ng",
+   "desc": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
+   "stars": 6990,
+   "lang": "C",
+   "topics": [
+    "android",
+    "text-to-speech",
+    "speech-synthesis",
+    "espeak",
+    "espeak-ng"
+   ],
+   "updated": "2026-09-22T10:58:46Z"
+  },
+  {
+   "full": "promptslab/Awesome-Prompt-Engineering",
+   "desc": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc",
+   "stars": 6430,
+   "lang": "TypeScript",
+   "topics": [
+    "machine-learning",
+    "text-to-speech",
+    "deep-learning",
+    "prompt",
+    "openai",
+    "prompt-toolkit",
+    "gpt",
+    "text-to-image",
+    "few-shot-learning",
+    "text-to-video",
+    "gpt-3",
+    "prompt-learning"
+   ],
+   "updated": "2026-11-02T15:28:02Z"
+  },
+  {
+   "full": "yl4579/StyleTTS2",
+   "desc": "StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models",
+   "stars": 6380,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "deep-learning",
+    "pytorch",
+    "tts",
+    "speech-synthesis",
+    "gan",
+    "speaker-adaptation",
+    "adversarial-training",
+    "diffusion-models",
+    "wavlm",
+    "latent-diffusion",
+    "latent-diffusion-models"
+   ],
+   "updated": "2024-08-10T00:48:18Z"
+  },
+  {
+   "full": "denizsafak/abogen",
+   "desc": "Generate audiobooks from EPUBs, PDFs and text with synchronized captions.",
+   "stars": 6187,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "ebook",
+    "audiobook",
+    "tts",
+    "speech-synthesis",
+    "subtitles",
+    "epub",
+    "voice-conversion",
+    "audiobooks",
+    "narrator",
+    "content-creator",
+    "voice-synthesis"
+   ],
+   "updated": "2026-11-01T17:25:07Z"
+  },
+  {
+   "full": "snakers4/silero-models",
+   "desc": "Silero Models: pre-trained text-to-speech models made embarrassingly simple",
+   "stars": 6160,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "text-to-speech",
+    "speech",
+    "pytorch",
+    "tts",
+    "speech-synthesis",
+    "colab",
+    "armenian",
+    "russian",
+    "speech-to-text",
+    "ukrainian",
+    "pretrained-models",
+    "georgian"
+   ],
+   "updated": "2026-10-15T11:47:38Z"
+  },
+  {
+   "full": "dograh-hq/dograh",
+   "desc": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
+   "stars": 6011,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "open-source",
+    "text-to-speech",
+    "self-hosted",
+    "telephony",
+    "speech-to-text",
+    "no-code",
+    "conversational-ai",
+    "asterisk-ari",
+    "outbound-calls",
+    "inbound-calls",
+    "speech-to-speech"
+   ],
+   "updated": "2026-10-31T21:34:41Z"
+  },
+  {
+   "full": "liuzhao1225/YouDub-webui",
+   "desc": "Open-source AI video localization and dubbing for YouTube/Bilibili: speech recognition, subtitle translation, voice cloning, audio mixing and rendering. 开源 AI 视频翻译配音工具。",
+   "stars": 5787,
+   "lang": "TypeScript",
+   "topics": [
+    "python",
+    "open-source",
+    "text-to-speech",
+    "youtube",
+    "ffmpeg",
+    "nextjs",
+    "bilibili",
+    "speech-to-text",
+    "whisper",
+    "video-translation",
+    "voice-cloning",
+    "subtitle-translation"
+   ],
+   "updated": "2026-10-30T08:33:44Z"
+  },
+  {
+   "full": "remsky/Kokoro-FastAPI",
+   "desc": "Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, clone-tuning, caption timestamps, SSML, optional readalong web UI",
+   "stars": 5627,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "pytorch",
+    "tts",
+    "ssml",
+    "mutilingual-audio",
+    "tts-api",
+    "kokoro",
+    "fastapi",
+    "multi-speaker-tts",
+    "read-along",
+    "sillytavern",
+    "openwebui"
+   ],
+   "updated": "2026-11-01T05:55:50Z"
+  },
+  {
+   "full": "AhmadHassan-BTed/B",
+   "desc": "An autonomous, context-aware AI desktop companion. Built with Python, featuring real-time screen vision, custom ONNX voice synthesis, active window tracking, and a dynamic floating UI with reactive facial expressions.",
+   "stars": 5201,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "text-to-speech",
+    "ai",
+    "computer-vision",
+    "artificial-intelligence",
+    "speech-to-text",
+    "desktop-assistant",
+    "onnx",
+    "autonomous-agent",
+    "ai-agent",
+    "llm",
+    "ai-companion"
+   ],
+   "updated": "2026-07-07T07:01:46Z"
+  }
+ ]
+}

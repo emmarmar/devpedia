@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Devpedia — la enciclopedia funcional del código abierto</title>
+  <meta name="description" content="Catálogo temático de proyectos de GitHub organizado por lo que hacen, no por el lenguaje en que están escritos.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script>
+    // Tema antes del primer pintado para evitar parpadeo
+    try { const t = localStorage.getItem('devpedia:theme'); if (t) document.documentElement.dataset.theme = t; } catch {}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#main">Saltar al contenido</a>
+  <header class="masthead">
+    <button class="icon-btn nav-toggle" id="navToggle" aria-label="Abrir índice" aria-expanded="false" aria-controls="sidebar">
+      <svg width="20" height="20" viewBox="0 0 20 20" aria-hidden="true"><path d="M3 5h14M3 10h14M3 15h14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+    </button>
+    <a class="wordmark" href="#/" aria-label="Devpedia, portada">
+      <span class="wordmark-name">Devpedia</span>
+      <span class="wordmark-tag">la enciclopedia funcional del código abierto</span>
+    </a>
+    <form class="search" id="searchForm" role="search">
+      <label class="sr-only" for="q">Buscar proyectos</label>
+      <svg class="search-icon" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="m11 11 3.5 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+      <input id="q" type="search" placeholder="Buscar 0 proyectos…" autocomplete="off" spellcheck="false">
+      <kbd class="search-kbd" aria-hidden="true">/</kbd>
+    </form>
+    <div class="masthead-actions">
+      <button class="icon-btn" id="randomBtn" title="Proyecto al azar" aria-label="Proyecto al azar">
+        <svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><rect x="2.5" y="2.5" width="13" height="13" rx="3" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="6.5" cy="6.5" r="1.2" fill="currentColor"/><circle cx="11.5" cy="11.5" r="1.2" fill="currentColor"/><circle cx="9" cy="9" r="1.2" fill="currentColor"/></svg>
+      </button>
+      <button class="icon-btn" id="themeBtn" title="Cambiar tema" aria-label="Cambiar tema claro u oscuro">
+        <svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><path d="M9 2.5a6.5 6.5 0 1 0 0 13z" fill="currentColor"/><circle cx="9" cy="9" r="6.5" fill="none" stroke="currentColor" stroke-width="1.5"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <nav class="sidebar" id="sidebar" aria-label="Índice temático">
+      <div class="sidebar-inner" id="toc"></div>
+    </nav>
+    <div class="scrim" id="scrim" hidden></div>
+    <main id="main" class="main" tabindex="-1">
+      <div class="loading" role="status"><span class="loading-bar"></span>Abriendo el catálogo…</div>
+    </main>
+  </div>
+
+  <footer class="colophon" id="colophon"></footer>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

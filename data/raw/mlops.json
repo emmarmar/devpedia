@@ -1,0 +1,1513 @@
+{
+ "subId": "mlops",
+ "topics": [
+  "mlops",
+  "model-serving"
+ ],
+ "crawledAt": "2026-11-02T20:16:49.887Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "GokuMohandas/Made-With-ML",
+   "desc": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+   "stars": 49905,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "natural-language-processing",
+    "deep-learning",
+    "pytorch",
+    "data-engineering",
+    "ray",
+    "data-quality",
+    "distributed-training",
+    "mlops",
+    "distributed-ml"
+   ],
+   "updated": "2026-03-04T23:44:21Z"
+  },
+  {
+   "full": "apache/airflow",
+   "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+   "stars": 47350,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "workflow",
+    "data-science",
+    "machine-learning",
+    "airflow",
+    "automation",
+    "etl",
+    "workflow-engine",
+    "scheduler",
+    "apache",
+    "orchestration",
+    "data-engineering"
+   ],
+   "updated": "2026-11-02T19:15:22Z"
+  },
+  {
+   "full": "qdrant/qdrant",
+   "desc": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+   "stars": 35390,
+   "lang": "Rust",
+   "topics": [
+    "search",
+    "search-engine",
+    "machine-learning",
+    "neural-network",
+    "nearest-neighbor-search",
+    "image-search",
+    "recommender-system",
+    "search-engines",
+    "similarity-search",
+    "ai-search",
+    "knn-algorithm",
+    "mlops"
+   ],
+   "updated": "2026-11-02T20:07:50Z"
+  },
+  {
+   "full": "mlflow/mlflow",
+   "desc": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models an",
+   "stars": 28630,
+   "lang": "Python",
+   "topics": [
+    "open-source",
+    "machine-learning",
+    "ai",
+    "apache-spark",
+    "evaluation",
+    "ml",
+    "openai",
+    "agents",
+    "observability",
+    "model-management",
+    "mlops",
+    "mlflow"
+   ],
+   "updated": "2026-11-02T19:26:00Z"
+  },
+  {
+   "full": "HumanSignal/label-studio",
+   "desc": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+   "stars": 28614,
+   "lang": "TypeScript",
+   "topics": [
+    "computer-vision",
+    "deep-learning",
+    "image-annotation",
+    "annotation",
+    "annotations",
+    "dataset",
+    "yolo",
+    "image-classification",
+    "labeling",
+    "datasets",
+    "semantic-segmentation",
+    "annotation-tool"
+   ],
+   "updated": "2026-11-02T20:05:51Z"
+  },
+  {
+   "full": "jina-ai/serve",
+   "desc": "☁️ Build multimodal AI applications with cloud-native stack",
+   "stars": 21850,
+   "lang": "Python",
+   "topics": [
+    "docker",
+    "kubernetes",
+    "machine-learning",
+    "framework",
+    "deep-learning",
+    "microservice",
+    "pipeline",
+    "cncf",
+    "grpc",
+    "prometheus",
+    "orchestration",
+    "cloud-native"
+   ],
+   "updated": "2025-03-24T13:59:54Z"
+  },
+  {
+   "full": "NirDiamant/agents-towards-production",
+   "desc": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+   "stars": 21812,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "python",
+    "agent",
+    "deployment",
+    "mcp",
+    "production",
+    "tutorials",
+    "agents",
+    "observability",
+    "multi-agent-systems",
+    "ai-agents",
+    "rag",
+    "mlops"
+   ],
+   "updated": "2026-11-02T00:45:51Z"
+  },
+  {
+   "full": "EthicalML/awesome-production-machine-learning",
+   "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+   "stars": 21067,
+   "lang": null,
+   "topics": [
+    "machine-learning",
+    "data-mining",
+    "awesome",
+    "deep-learning",
+    "awesome-list",
+    "interpretability",
+    "privacy-preserving",
+    "production-machine-learning",
+    "mlops",
+    "privacy-preserving-machine-learning",
+    "explainability",
+    "responsible-ai"
+   ],
+   "updated": "2026-11-01T05:14:48Z"
+  },
+  {
+   "full": "stas00/ml-engineering",
+   "desc": "Machine Learning Engineering Open Book",
+   "stars": 19654,
+   "lang": "Python",
+   "topics": [
+    "training",
+    "debugging",
+    "machine-learning",
+    "ai",
+    "storage",
+    "network",
+    "scalability",
+    "transformers",
+    "slurm",
+    "inference",
+    "pytorch",
+    "machine-learning-engineering"
+   ],
+   "updated": "2026-11-02T02:23:24Z"
+  },
+  {
+   "full": "Avaiga/taipy",
+   "desc": "Turns Data and AI algorithms into production-ready web applications in no time.",
+   "stars": 19453,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "workflow",
+    "automation",
+    "pipeline",
+    "job-scheduler",
+    "pipelines",
+    "data-visualization",
+    "orchestration",
+    "datascience",
+    "data-engineering",
+    "developer-tools",
+    "data-integration"
+   ],
+   "updated": "2026-08-10T02:47:18Z"
+  },
+  {
+   "full": "microsoft/agent-lightning",
+   "desc": "The absolute trainer to light up AI agents.",
+   "stars": 18874,
+   "lang": "Python",
+   "topics": [
+    "agent",
+    "reinforcement-learning",
+    "mlops",
+    "llm",
+    "agentic-ai"
+   ],
+   "updated": "2026-11-02T08:13:34Z"
+  },
+  {
+   "full": "argoproj/argo-workflows",
+   "desc": "Workflow Engine for Kubernetes",
+   "stars": 17080,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "workflow",
+    "machine-learning",
+    "airflow",
+    "workflow-engine",
+    "cncf",
+    "pipelines",
+    "data-engineering",
+    "argo",
+    "k8s",
+    "cloud-native",
+    "batch-processing"
+   ],
+   "updated": "2026-11-02T17:19:12Z"
+  },
+  {
+   "full": "weaviate/weaviate",
+   "desc": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+   "stars": 16934,
+   "lang": "Go",
+   "topics": [
+    "search-engine",
+    "information-retrieval",
+    "grpc",
+    "nearest-neighbor-search",
+    "semantic-search-engine",
+    "image-search",
+    "recommender-system",
+    "vectors",
+    "approximate-nearest-neighbor-search",
+    "semantic-search",
+    "similarity-search",
+    "mlops"
+   ],
+   "updated": "2026-11-02T19:45:04Z"
+  },
+  {
+   "full": "dagster-io/dagster",
+   "desc": "An orchestration platform for the development, production, and observation of data assets.",
+   "stars": 16364,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "metadata",
+    "workflow",
+    "data-science",
+    "etl",
+    "analytics",
+    "scheduler",
+    "orchestration",
+    "data-engineering",
+    "data-integration",
+    "data-pipelines",
+    "workflow-automation"
+   ],
+   "updated": "2026-10-30T22:21:47Z"
+  },
+  {
+   "full": "DataTalksClub/mlops-zoomcamp",
+   "desc": "Free MLOps course from DataTalks.Club. Register here 👇🏼 to get notified about the next cohort",
+   "stars": 15517,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "machine-learning",
+    "model-deployment",
+    "mlops",
+    "model-monitoring",
+    "workflow-orchestration"
+   ],
+   "updated": "2026-10-15T13:49:37Z"
+  },
+  {
+   "full": "microsoft/nni",
+   "desc": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+   "stars": 14366,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "deep-learning",
+    "neural-network",
+    "tensorflow",
+    "machine-learning-algorithms",
+    "pytorch",
+    "distributed",
+    "hyperparameter-optimization",
+    "feature-engineering",
+    "nas"
+   ],
+   "updated": "2024-07-03T10:55:10Z"
+  },
+  {
+   "full": "visenger/awesome-mlops",
+   "desc": "A curated list of references for MLOps",
+   "stars": 14257,
+   "lang": null,
+   "topics": [
+    "engineering",
+    "devops",
+    "data-science",
+    "machine-learning",
+    "ai",
+    "ml",
+    "software-engineering",
+    "federated-learning",
+    "mlops"
+   ],
+   "updated": "2024-11-21T14:45:11Z"
+  },
+  {
+   "full": "bentoml/OpenLLM",
+   "desc": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
+   "stars": 12578,
+   "lang": "Python",
+   "topics": [
+    "llama",
+    "mistral",
+    "fine-tuning",
+    "mlops",
+    "bentoml",
+    "vicuna",
+    "llm",
+    "model-inference",
+    "llmops",
+    "llm-serving",
+    "llm-inference",
+    "open-source-llm"
+   ],
+   "updated": "2026-11-02T17:13:48Z"
+  },
+  {
+   "full": "fivetran/great_expectations",
+   "desc": "Always know what to expect from your data.",
+   "stars": 11914,
+   "lang": "Python",
+   "topics": [
+    "data-science",
+    "pipeline",
+    "exploratory-data-analysis",
+    "eda",
+    "data-engineering",
+    "data-quality",
+    "data-profiling",
+    "datacleaner",
+    "exploratory-analysis",
+    "cleandata",
+    "dataquality",
+    "datacleaning"
+   ],
+   "updated": "2026-11-02T18:24:08Z"
+  },
+  {
+   "full": "tensorzero/tensorzero",
+   "desc": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+   "stars": 11709,
+   "lang": "Rust",
+   "topics": [
+    "python",
+    "rust",
+    "machine-learning",
+    "ai",
+    "deep-learning",
+    "ml",
+    "artificial-intelligence",
+    "openai",
+    "llama",
+    "gpt",
+    "mlops",
+    "ml-engineering"
+   ],
+   "updated": "2026-06-11T01:48:44Z"
+  },
+  {
+   "full": "wandb/wandb",
+   "desc": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.",
+   "stars": 11312,
+   "lang": "Python",
+   "topics": [
+    "data-science",
+    "machine-learning",
+    "reinforcement-learning",
+    "ai",
+    "deep-learning",
+    "tensorflow",
+    "keras",
+    "collaboration",
+    "pytorch",
+    "hyperparameter-optimization",
+    "reproducibility",
+    "hyperparameter-tuning"
+   ],
+   "updated": "2026-11-02T18:39:16Z"
+  },
+  {
+   "full": "kedro-org/kedro",
+   "desc": "Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",
+   "stars": 11041,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "data-pipelines",
+    "hacktoberfest",
+    "machine-learning-engineering",
+    "mlops",
+    "kedro",
+    "agentic-workflow",
+    "agentic-ai"
+   ],
+   "updated": "2026-11-02T17:03:22Z"
+  },
+  {
+   "full": "aws/amazon-sagemaker-examples",
+   "desc": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+   "stars": 11001,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "training",
+    "aws",
+    "data-science",
+    "machine-learning",
+    "reinforcement-learning",
+    "deep-learning",
+    "examples",
+    "jupyter-notebook",
+    "inference",
+    "sagemaker",
+    "mlops"
+   ],
+   "updated": "2026-10-14T18:17:30Z"
+  },
+  {
+   "full": "skypilot-org/skypilot",
+   "desc": "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.",
+   "stars": 10783,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "deep-learning",
+    "gpu",
+    "job-scheduler",
+    "slurm",
+    "cloud-management",
+    "spot-instances",
+    "cloud-computing",
+    "job-queue",
+    "hyperparameter-tuning",
+    "cost-optimization",
+    "distributed-training"
+   ],
+   "updated": "2026-11-02T20:01:01Z"
+  },
+  {
+   "full": "chiphuyen/machine-learning-systems-design",
+   "desc": "A booklet on machine learning systems design with exercises. NOT the repo for the book \"Designing Machine Learning Systems\", which is `dmls-book`",
+   "stars": 10717,
+   "lang": "HTML",
+   "topics": [
+    "data-science",
+    "machine-learning-production",
+    "mlops"
+   ],
+   "updated": "2023-04-15T16:33:50Z"
+  },
+  {
+   "full": "Netflix/metaflow",
+   "desc": "Build, Manage and Deploy AI/ML Systems",
+   "stars": 10336,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "kubernetes",
+    "aws",
+    "machine-learning",
+    "ai",
+    "azure",
+    "gcp",
+    "ml",
+    "datascience",
+    "high-performance-computing",
+    "agents",
+    "model-management"
+   ],
+   "updated": "2026-10-29T20:10:02Z"
+  },
+  {
+   "full": "pycaret/pycaret",
+   "desc": "Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.",
+   "stars": 9859,
+   "lang": "Python",
+   "topics": [
+    "react",
+    "python",
+    "open-source",
+    "data-science",
+    "machine-learning",
+    "clustering",
+    "scikit-learn",
+    "ml",
+    "regression",
+    "classification",
+    "automl",
+    "anomaly-detection"
+   ],
+   "updated": "2026-07-23T00:34:25Z"
+  },
+  {
+   "full": "activeloopai/deeplake",
+   "desc": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+   "stars": 9265,
+   "lang": "C++",
+   "topics": [
+    "agent",
+    "postgres",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "memory",
+    "skill",
+    "filesystem",
+    "pytorch",
+    "datalake",
+    "multimodal",
+    "rag"
+   ],
+   "updated": "2026-05-21T15:28:00Z"
+  },
+  {
+   "full": "bentoml/BentoML",
+   "desc": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+   "stars": 8933,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "deep-learning",
+    "model-serving",
+    "multimodal",
+    "mlops",
+    "ml-engineering",
+    "ai-inference",
+    "llm",
+    "generative-ai",
+    "llmops",
+    "llm-serving"
+   ],
+   "updated": "2026-11-02T17:14:27Z"
+  },
+  {
+   "full": "evidentlyai/evidently",
+   "desc": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+   "stars": 8030,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "data-science",
+    "machine-learning",
+    "data-validation",
+    "pandas-dataframe",
+    "jupyter-notebook",
+    "html-report",
+    "hacktoberfest",
+    "data-quality",
+    "mlops",
+    "model-monitoring",
+    "data-drift",
+    "llm"
+   ],
+   "updated": "2026-09-29T08:32:43Z"
+  },
+  {
+   "full": "flyteorg/flyte",
+   "desc": "Type-safe, distributed orchestration of agents, ML pipelines, and real-time inference on your k8s — in pure Python with async/await, also other languages (rust, go and ts)",
+   "stars": 7846,
+   "lang": "Go",
+   "topics": [
+    "python",
+    "workflow",
+    "machine-learning",
+    "reinforcement-learning",
+    "scale",
+    "mcp",
+    "kubernetes-cluster",
+    "agents",
+    "model-serving",
+    "model-training",
+    "mlops",
+    "ai-runtime"
+   ],
+   "updated": "2026-11-02T17:41:50Z"
+  },
+  {
+   "full": "feast-dev/feast",
+   "desc": "The Open Source Feature Store for AI/ML",
+   "stars": 7353,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "big-data",
+    "ml",
+    "data-engineering",
+    "features",
+    "data-quality",
+    "mlops",
+    "feature-store"
+   ],
+   "updated": "2026-11-01T04:05:21Z"
+  },
+  {
+   "full": "lance-format/lance",
+   "desc": "Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..",
+   "stars": 7245,
+   "lang": "Rust",
+   "topics": [
+    "python",
+    "rust",
+    "data-science",
+    "machine-learning",
+    "computer-vision",
+    "deep-learning",
+    "embeddings",
+    "dataops",
+    "data-analytics",
+    "data-analysis",
+    "data-format",
+    "apache-arrow"
+   ],
+   "updated": "2026-11-02T20:13:49Z"
+  },
+  {
+   "full": "clearml/clearml",
+   "desc": "ClearML - Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution",
+   "stars": 6927,
+   "lang": "Python",
+   "topics": [
+    "experiment",
+    "devops",
+    "machine-learning",
+    "control",
+    "ai",
+    "deep-learning",
+    "version-control",
+    "version",
+    "k8s",
+    "machinelearning",
+    "deeplearning",
+    "experiment-manager"
+   ],
+   "updated": "2026-11-02T18:04:12Z"
+  },
+  {
+   "full": "GoogleCloudPlatform/agent-starter-pack",
+   "desc": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+   "stars": 6576,
+   "lang": "Python",
+   "topics": [
+    "gcp",
+    "gemini",
+    "agents",
+    "observability",
+    "mlops",
+    "generative-ai",
+    "llmops",
+    "genai-agents"
+   ],
+   "updated": "2026-07-21T23:42:40Z"
+  },
+  {
+   "full": "mahseema/awesome-ai-tools",
+   "desc": "A curated list of Artificial Intelligence Top Tools",
+   "stars": 6535,
+   "lang": null,
+   "topics": [
+    "workflow",
+    "machine-learning",
+    "awesome",
+    "ai",
+    "ml",
+    "awesome-list",
+    "ai-agents",
+    "awesome-ai",
+    "mlops",
+    "ai-assistant",
+    "ai-tools",
+    "ai-agent"
+   ],
+   "updated": "2025-12-31T14:46:19Z"
+  },
+  {
+   "full": "SkalskiP/courses",
+   "desc": "This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)",
+   "stars": 6491,
+   "lang": "Python",
+   "topics": [
+    "nlp",
+    "machine-learning",
+    "natural-language-processing",
+    "tutorial",
+    "deep-neural-networks",
+    "computer-vision",
+    "deep-learning",
+    "transformers",
+    "generative-model",
+    "multimodal",
+    "mlops",
+    "stable-diffusion"
+   ],
+   "updated": "2024-04-22T09:19:00Z"
+  },
+  {
+   "full": "aimhubio/aim",
+   "desc": "Aim 💫 — An easy-to-use & supercharged open-source experiment tracker.",
+   "stars": 6291,
+   "lang": "Python",
+   "topics": [
+    "visualization",
+    "python",
+    "metadata",
+    "data-science",
+    "machine-learning",
+    "ai",
+    "tensorflow",
+    "ml",
+    "data-visualization",
+    "pytorch",
+    "tensorboard",
+    "mlops"
+   ],
+   "updated": "2026-11-01T23:14:40Z"
+  },
+  {
+   "full": "higgsfield-ai/higgsfield",
+   "desc": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+   "stars": 6269,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "machine-learning",
+    "deep-learning",
+    "pytorch",
+    "distributed",
+    "llama",
+    "mlops",
+    "cluster-management",
+    "llm",
+    "llama2"
+   ],
+   "updated": "2026-10-26T23:17:51Z"
+  },
+  {
+   "full": "kserve/kserve",
+   "desc": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+   "stars": 6184,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "machine-learning",
+    "tensorflow",
+    "cncf",
+    "pytorch",
+    "artificial-intelligence",
+    "xgboost",
+    "k8s",
+    "service-mesh",
+    "hacktoberfest",
+    "istio",
+    "model-serving"
+   ],
+   "updated": "2026-11-02T19:22:34Z"
+  },
+  {
+   "full": "vllm-project/vllm",
+   "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+   "stars": 96159,
+   "lang": "Python",
+   "topics": [
+    "amd",
+    "cuda",
+    "inference",
+    "pytorch",
+    "transformer",
+    "openai",
+    "moe",
+    "llama",
+    "gpt",
+    "model-serving",
+    "tpu",
+    "kimi"
+   ],
+   "updated": "2026-11-02T20:13:23Z"
+  },
+  {
+   "full": "vllm-project/vllm-omni",
+   "desc": "A framework for efficient model inference with omni-modality models",
+   "stars": 7494,
+   "lang": "Python",
+   "topics": [
+    "inference",
+    "pytorch",
+    "transformer",
+    "image-generation",
+    "diffusion",
+    "model-serving",
+    "multimodal",
+    "video-generation",
+    "audio-generation",
+    "world-model"
+   ],
+   "updated": "2026-11-02T17:31:21Z"
+  },
+  {
+   "full": "beclab/Olares",
+   "desc": "Open-Source Personal Cloud OS for Always-On Agents",
+   "stars": 5335,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "self-hosted",
+    "operating-system",
+    "cloud-native",
+    "data-privacy",
+    "homelab",
+    "personal-cloud",
+    "ai-agents",
+    "model-serving",
+    "edge-ai",
+    "local-ai",
+    "agentic-ai"
+   ],
+   "updated": "2026-11-02T18:55:15Z"
+  },
+  {
+   "full": "HuaizhengZhang/AI-Infra-from-Zero-to-Hero",
+   "desc": "🚀 Awesome System for Machine Learning ⚡️ AI System Papers and Industry Practice. ⚡️ System for Machine Learning, LLM (Large Language Model), GenAI (Generative AI). 🍻 OSDI, NSDI, SIGCOMM, SoCC, MLSys, etc. 🗃️ Llama3, Mistral, etc. 🧑‍💻 V",
+   "stars": 4458,
+   "lang": null,
+   "topics": [
+    "model-serving",
+    "model-training",
+    "mlsys",
+    "ai-infra",
+    "large-language-models",
+    "genai",
+    "llmsys"
+   ],
+   "updated": "2025-07-25T02:24:35Z"
+  },
+  {
+   "full": "ahkarami/Deep-Learning-in-Production",
+   "desc": "In this repository, I will share some useful notes and references about deploying deep learning-based models in production.",
+   "stars": 4378,
+   "lang": null,
+   "topics": [
+    "react",
+    "python",
+    "angularjs",
+    "flask",
+    "c-plus-plus",
+    "tutorial",
+    "deep-neural-networks",
+    "deep-learning",
+    "mxnet",
+    "rest-api",
+    "production",
+    "keras"
+   ],
+   "updated": "2024-11-09T07:57:41Z"
+  },
+  {
+   "full": "ModelTC/LightLLM",
+   "desc": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+   "stars": 4350,
+   "lang": "Python",
+   "topics": [
+    "nlp",
+    "deep-learning",
+    "llama",
+    "gpt",
+    "model-serving",
+    "llm",
+    "openai-triton"
+   ],
+   "updated": "2026-11-02T12:22:59Z"
+  },
+  {
+   "full": "FedML-AI/FedML",
+   "desc": "FEDML - The unified and scalable ML library for large-scale distributed training, model serving, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on any GPU cloud or on-premise cluster. Buil",
+   "stars": 4070,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "deep-learning",
+    "inference-engine",
+    "model-deployment",
+    "model-serving",
+    "distributed-training",
+    "federated-learning",
+    "mlops",
+    "edge-ai",
+    "ai-agent",
+    "on-device-training"
+   ],
+   "updated": "2025-10-28T12:44:12Z"
+  },
+  {
+   "full": "predibase/lorax",
+   "desc": "Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs",
+   "stars": 3835,
+   "lang": "Python",
+   "topics": [
+    "transformers",
+    "pytorch",
+    "llama",
+    "gpt",
+    "lora",
+    "model-serving",
+    "fine-tuning",
+    "llm",
+    "llmops",
+    "llm-serving",
+    "llm-inference"
+   ],
+   "updated": "2026-05-28T18:12:20Z"
+  },
+  {
+   "full": "vllm-project/vllm-ascend",
+   "desc": "Community maintained hardware plugin for vLLM on Huawei Ascend",
+   "stars": 3039,
+   "lang": "Python",
+   "topics": [
+    "inference",
+    "transformer",
+    "model-serving",
+    "mlops",
+    "llm",
+    "llmops",
+    "llm-serving",
+    "vllm"
+   ],
+   "updated": "2026-11-02T16:41:36Z"
+  },
+  {
+   "full": "thu-pacman/chitu",
+   "desc": "High-performance inference framework for large language models, focusing on efficiency, flexibility, and availability.",
+   "stars": 2997,
+   "lang": "Python",
+   "topics": [
+    "gpu",
+    "pytorch",
+    "model-serving",
+    "llm",
+    "llm-serving",
+    "deepseek"
+   ],
+   "updated": "2026-11-02T03:31:14Z"
+  },
+  {
+   "full": "openlake-project/openlake",
+   "desc": "OpenLake is a high performance storage engine for efficient LLM inference and GPU Training",
+   "stars": 2645,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "storage",
+    "gpu",
+    "high-performance",
+    "throughput",
+    "rdma",
+    "gpt",
+    "model-serving",
+    "blackwell",
+    "llm",
+    "llm-training"
+   ],
+   "updated": "2026-11-01T20:50:52Z"
+  },
+  {
+   "full": "tensorchord/envd",
+   "desc": "🏕️ Reproducible development environment for humans and agents",
+   "stars": 2242,
+   "lang": "Go",
+   "topics": [
+    "agent",
+    "docker",
+    "developer-tools",
+    "development-environment",
+    "hacktoberfest",
+    "codex",
+    "model-serving",
+    "buildkit",
+    "mlops",
+    "mlops-workflow",
+    "llmops",
+    "code-agent"
+   ],
+   "updated": "2026-11-02T15:24:02Z"
+  },
+  {
+   "full": "microsoft/aici",
+   "desc": "AICI: Prompts as (Wasm) Programs",
+   "stars": 2074,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "ai",
+    "wasm",
+    "inference",
+    "transformer",
+    "language-model",
+    "model-serving",
+    "wasmtime",
+    "llm",
+    "llmops",
+    "llm-serving",
+    "llm-inference"
+   ],
+   "updated": "2025-01-22T21:14:57Z"
+  },
+  {
+   "full": "mlrun/mlrun",
+   "desc": "MLRun is an open source MLOps platform for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates the delivery of production data, ML pipel",
+   "stars": 1703,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "kubernetes",
+    "workflow",
+    "data-science",
+    "machine-learning",
+    "data-engineering",
+    "model-serving",
+    "mlops",
+    "experiment-tracking",
+    "mlops-workflow"
+   ],
+   "updated": "2026-11-02T18:32:26Z"
+  },
+  {
+   "full": "sgl-project/sglang-omni",
+   "desc": "High Performance Serving Runtime For Interactive Super Intelligence System",
+   "stars": 1674,
+   "lang": "Python",
+   "topics": [
+    "text-to-speech",
+    "streaming",
+    "interactive",
+    "cuda",
+    "inference",
+    "pytorch",
+    "tts",
+    "speech-recognition",
+    "music-generation",
+    "asr",
+    "model-serving",
+    "multimodal"
+   ],
+   "updated": "2026-11-02T19:13:37Z"
+  },
+  {
+   "full": "kitops-ml/kitops",
+   "desc": "An open source DevOps tool from the CNCF for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI Artifact.",
+   "stars": 1439,
+   "lang": "Go",
+   "topics": [
+    "kubernetes",
+    "devops",
+    "opensource",
+    "ai",
+    "code",
+    "tensorflow",
+    "sklearn",
+    "models",
+    "ml",
+    "pytorch",
+    "datasets",
+    "devops-tools"
+   ],
+   "updated": "2026-11-02T20:05:42Z"
+  },
+  {
+   "full": "ollaya-dev/ollaya",
+   "desc": "Jev-compatible API server for open decision models. Ollama for decision models: pull and serve 29 model families (Laya, pplx-decider, Clef, Winnow, coba...) locally or self-hosted behind /v1/systemone. The TypeSafe SDK works unchanged: set ",
+   "stars": 1435,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "self-hosted",
+    "calibration",
+    "typesafe",
+    "decision-model",
+    "inference-server",
+    "model-serving",
+    "laya",
+    "systemone",
+    "onnxruntime",
+    "local-inference",
+    "llama-cpp"
+   ],
+   "updated": "2026-11-02T16:12:21Z"
+  },
+  {
+   "full": "alibaba/rtp-llm",
+   "desc": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.",
+   "stars": 1387,
+   "lang": "Python",
+   "topics": [
+    "inference",
+    "llama",
+    "gpt",
+    "model-serving",
+    "llm",
+    "llmops",
+    "llm-serving"
+   ],
+   "updated": "2026-11-02T19:12:41Z"
+  },
+  {
+   "full": "logicalclocks/hopsworks",
+   "desc": "Hopsworks - Data-Intensive AI platform with a Feature Store",
+   "stars": 1311,
+   "lang": "Java",
+   "topics": [
+    "python",
+    "aws",
+    "data-science",
+    "machine-learning",
+    "serverless",
+    "azure",
+    "gcp",
+    "ml",
+    "pyspark",
+    "feature-engineering",
+    "governance",
+    "model-serving"
+   ],
+   "updated": "2025-02-10T05:53:39Z"
+  },
+  {
+   "full": "basetenlabs/truss",
+   "desc": "The simplest way to serve AI/ML models in production",
+   "stars": 1228,
+   "lang": "Python",
+   "topics": [
+    "open-source",
+    "machine-learning",
+    "packaging",
+    "artificial-intelligence",
+    "falcon",
+    "easy-to-use",
+    "whisper",
+    "inference-server",
+    "model-serving",
+    "inference-api",
+    "stable-diffusion",
+    "wizardlm"
+   ],
+   "updated": "2026-11-02T16:22:48Z"
+  },
+  {
+   "full": "efeslab/Nanoflow",
+   "desc": "A throughput-oriented high-performance serving framework for LLMs",
+   "stars": 976,
+   "lang": "Jupyter Notebook",
+   "topics": [
+    "cuda",
+    "inference",
+    "model-serving",
+    "llm",
+    "llm-serving",
+    "llama2"
+   ],
+   "updated": "2026-03-29T05:30:29Z"
+  },
+  {
+   "full": "openvinotoolkit/model_server",
+   "desc": "A scalable inference server for models optimized with OpenVINO™",
+   "stars": 953,
+   "lang": "C++",
+   "topics": [
+    "kubernetes",
+    "machine-learning",
+    "cloud",
+    "ai",
+    "deep-learning",
+    "inference",
+    "edge",
+    "dag",
+    "model-serving",
+    "serving",
+    "openvino",
+    "genai"
+   ],
+   "updated": "2026-11-02T17:16:14Z"
+  },
+  {
+   "full": "zhihu/ZhiLight",
+   "desc": "A highly optimized LLM inference acceleration engine for Llama and its variants.",
+   "stars": 906,
+   "lang": "C++",
+   "topics": [
+    "cuda",
+    "pytorch",
+    "llama",
+    "gpt",
+    "inference-engine",
+    "model-serving",
+    "llm",
+    "llm-serving",
+    "llm-inference",
+    "deepseek-r1"
+   ],
+   "updated": "2026-03-18T02:47:55Z"
+  },
+  {
+   "full": "mosecorg/mosec",
+   "desc": "A high-performance ML model serving framework, offers dynamic batching and CPU/GPU pipelines to fully exploit your compute machine",
+   "stars": 903,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "rust",
+    "machine-learning",
+    "deep-learning",
+    "mxnet",
+    "tensorflow",
+    "gpu",
+    "cv",
+    "pytorch",
+    "tts",
+    "hacktoberfest",
+    "model-serving"
+   ],
+   "updated": "2026-11-02T16:12:09Z"
+  },
+  {
+   "full": "bentoml/Yatai",
+   "desc": "Model Deployment at Scale on Kubernetes 🦄️",
+   "stars": 839,
+   "lang": "TypeScript",
+   "topics": [
+    "kubernetes",
+    "machine-learning",
+    "k8s",
+    "model-deployment",
+    "model-serving",
+    "mlops",
+    "bentoml"
+   ],
+   "updated": "2026-05-30T05:43:01Z"
+  },
+  {
+   "full": "pegainfer-project/pegainfer",
+   "desc": "Pure Rust + CUDA LLM inference engine — no PyTorch, OpenAI-compatible, serves Qwen3 to Kimi-K2",
+   "stars": 731,
+   "lang": "Rust",
+   "topics": [
+    "rust",
+    "gpu",
+    "cuda",
+    "inference",
+    "moe",
+    "cuda-kernels",
+    "inference-engine",
+    "model-serving",
+    "kimi",
+    "kv-cache",
+    "openai-api",
+    "llm"
+   ],
+   "updated": "2026-11-02T18:06:52Z"
+  },
+  {
+   "full": "ServerlessLLM/ServerlessLLM",
+   "desc": "Serverless LLM Serving for Everyone.",
+   "stars": 718,
+   "lang": "Python",
+   "topics": [
+    "cuda",
+    "pytorch",
+    "model-serving",
+    "model-as-a-service",
+    "huggingface-transformers",
+    "large-language-models",
+    "serverless-inference"
+   ],
+   "updated": "2026-09-04T06:24:01Z"
+  },
+  {
+   "full": "kossisoroyce/timber",
+   "desc": "Ollama for classical ML models. AOT compiler that turns XGBoost, LightGBM, scikit-learn, CatBoost & ONNX models into native C99 inference code. One command to load, one command to serve. 336x faster than Python inference.",
+   "stars": 690,
+   "lang": "Python",
+   "topics": [
+    "machine-learning",
+    "compiler",
+    "sklearn",
+    "c99",
+    "inference",
+    "xgboost",
+    "lightgbm",
+    "decision-trees",
+    "gradient-boosting",
+    "model-serving",
+    "catboost",
+    "onnx"
+   ],
+   "updated": "2026-04-16T16:38:25Z"
+  },
+  {
+   "full": "eightBEC/fastapi-ml-skeleton",
+   "desc": "FastAPI Skeleton App to serve machine learning models production-ready.",
+   "stars": 601,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "python3",
+    "model-serving",
+    "fastapi"
+   ],
+   "updated": "2026-01-08T02:06:03Z"
+  },
+  {
+   "full": "underneathall/pinferencia",
+   "desc": "Python + Inference - Model Deployment library in Python. Simplest model inference server ever.",
+   "stars": 541,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "nlp",
+    "data-science",
+    "machine-learning",
+    "ai",
+    "computer-vision",
+    "deep-learning",
+    "tensorflow",
+    "transformers",
+    "inference",
+    "pytorch",
+    "artificial-intelligence"
+   ],
+   "updated": "2023-02-14T22:50:48Z"
+  },
+  {
+   "full": "ome-projects/ome",
+   "desc": "Open Model Engine (OME) — Kubernetes operator for LLM serving, GPU scheduling, and model lifecycle management. Works with SGLang, vLLM, TensorRT-LLM, and Triton",
+   "stars": 523,
+   "lang": "Go",
+   "topics": [
+    "k8s",
+    "llama",
+    "oracle-cloud",
+    "model-serving",
+    "model-as-a-service",
+    "multi-node-kubernetes",
+    "llm",
+    "vllm",
+    "llm-inference",
+    "qwen",
+    "deepseek",
+    "sglang"
+   ],
+   "updated": "2026-11-02T18:39:14Z"
+  },
+  {
+   "full": "AI-Hypercomputer/JetStream",
+   "desc": "JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).",
+   "stars": 472,
+   "lang": "Python",
+   "topics": [
+    "gpu",
+    "inference",
+    "pytorch",
+    "transformer",
+    "llama",
+    "gpt",
+    "gemma",
+    "model-serving",
+    "tpu",
+    "jax",
+    "mlops",
+    "large-language-models"
+   ],
+   "updated": "2026-01-05T17:51:16Z"
+  },
+  {
+   "full": "intel/xFasterTransformer",
+   "desc": null,
+   "stars": 435,
+   "lang": "C++",
+   "topics": [
+    "intel",
+    "inference",
+    "transformer",
+    "xeon",
+    "llama",
+    "model-serving",
+    "llm",
+    "chatglm",
+    "qwen"
+   ],
+   "updated": "2026-09-21T16:48:24Z"
+  },
+  {
+   "full": "Lightning-Universe/stable-diffusion-deploy",
+   "desc": "Learn to serve Stable Diffusion models on cloud infrastructure at scale. This Lightning App shows load-balancing, orchestrating, pre-provisioning, dynamic batching, GPU-inference, micro-services working together via the Lightning Apps frame",
+   "stars": 391,
+   "lang": "Python",
+   "topics": [
+    "model-serving",
+    "stable-diffusion"
+   ],
+   "updated": "2023-10-03T07:52:47Z"
+  },
+  {
+   "full": "bentoml/BentoDiffusion",
+   "desc": "BentoDiffusion: A collection of diffusion models served with BentoML",
+   "stars": 390,
+   "lang": "Python",
+   "topics": [
+    "kubernetes",
+    "ai",
+    "lora",
+    "model-serving",
+    "fine-tuning",
+    "diffusion-models",
+    "stable-diffusion"
+   ],
+   "updated": "2026-10-26T02:49:23Z"
+  },
+  {
+   "full": "Tejas-TA/predikit",
+   "desc": "The missing bridge between your ML models and your AI agents.",
+   "stars": 385,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "machine-learning",
+    "sklearn",
+    "snowflake",
+    "openai",
+    "xgboost",
+    "agents",
+    "model-serving",
+    "pydantic",
+    "llm",
+    "langchain"
+   ],
+   "updated": "2026-10-28T18:34:30Z"
+  },
+  {
+   "full": "interestingLSY/swiftLLM",
+   "desc": "A tiny yet powerful LLM inference system tailored for researching purpose. vLLM-equivalent performance with only 2k lines of code (2% of vLLM).",
+   "stars": 363,
+   "lang": "Python",
+   "topics": [
+    "cuda",
+    "transformers",
+    "inference",
+    "pytorch",
+    "transformer",
+    "llama",
+    "gpt",
+    "inference-engine",
+    "model-serving",
+    "mlops",
+    "llm",
+    "llmops"
+   ],
+   "updated": "2025-06-10T05:43:08Z"
+  }
+ ]
+}

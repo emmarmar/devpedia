@@ -1,0 +1,1502 @@
+{
+ "subId": "self-hosted",
+ "topics": [
+  "self-hosted",
+  "selfhosted"
+ ],
+ "crawledAt": "2026-11-02T20:20:39.522Z",
+ "errors": [],
+ "repos": [
+  {
+   "full": "awesome-selfhosted/awesome-selfhosted",
+   "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+   "stars": 333091,
+   "lang": null,
+   "topics": [
+    "awesome",
+    "cloud",
+    "privacy",
+    "selfhosted",
+    "hosting",
+    "self-hosted",
+    "free-software",
+    "awesome-list"
+   ],
+   "updated": "2026-11-02T10:34:16Z"
+  },
+  {
+   "full": "n8n-io/n8n",
+   "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+   "stars": 209375,
+   "lang": "TypeScript",
+   "topics": [
+    "cli",
+    "workflow",
+    "integrations",
+    "development",
+    "automation",
+    "typescript",
+    "ai",
+    "mcp",
+    "data-flow",
+    "self-hosted",
+    "ipaas",
+    "apis"
+   ],
+   "updated": "2026-11-02T20:10:48Z"
+  },
+  {
+   "full": "open-webui/open-webui",
+   "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+   "stars": 157576,
+   "lang": "Python",
+   "topics": [
+    "ui",
+    "ai",
+    "mcp",
+    "openapi",
+    "self-hosted",
+    "openai",
+    "webui",
+    "rag",
+    "llm",
+    "llms",
+    "ollama",
+    "llm-ui"
+   ],
+   "updated": "2026-11-02T11:42:01Z"
+  },
+  {
+   "full": "immich-app/immich",
+   "desc": "High performance self-hosted photo and video management solution.",
+   "stars": 117998,
+   "lang": "TypeScript",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "photos",
+    "typescript",
+    "svelte",
+    "photo-gallery",
+    "mobile-app",
+    "self-hosted",
+    "videos",
+    "google-photos",
+    "flutter",
+    "backup-tool"
+   ],
+   "updated": "2026-11-02T19:02:14Z"
+  },
+  {
+   "full": "Stirling-Tools/Stirling-PDF",
+   "desc": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+   "stars": 95599,
+   "lang": "TypeScript",
+   "topics": [
+    "java",
+    "docker",
+    "pdf",
+    "pdf-converter",
+    "self-hosted",
+    "hacktoberfest",
+    "pdf-manipulation",
+    "pdfmerger",
+    "pdf-merger",
+    "pdf-tools",
+    "pdf-editor",
+    "pdf-web-apps"
+   ],
+   "updated": "2026-11-02T20:12:39Z"
+  },
+  {
+   "full": "louislam/uptime-kuma",
+   "desc": "A fancy self-hosted monitoring tool",
+   "stars": 93191,
+   "lang": "JavaScript",
+   "topics": [
+    "docker",
+    "monitor",
+    "monitoring",
+    "responsive",
+    "single-page-app",
+    "websocket",
+    "socket-io",
+    "selfhosted",
+    "self-hosted",
+    "uptime",
+    "webapp",
+    "uptime-monitoring"
+   ],
+   "updated": "2026-11-02T14:41:09Z"
+  },
+  {
+   "full": "unslothai/unsloth",
+   "desc": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+   "stars": 78966,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "agent",
+    "text-to-speech",
+    "ui",
+    "reinforcement-learning",
+    "ai",
+    "self-hosted",
+    "tts",
+    "openai",
+    "image-generation",
+    "llama",
+    "gemma"
+   ],
+   "updated": "2026-11-02T17:12:49Z"
+  },
+  {
+   "full": "coollabsio/coolify",
+   "desc": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+   "stars": 65551,
+   "lang": "PHP",
+   "topics": [
+    "nodejs",
+    "mysql",
+    "docker",
+    "redis",
+    "php",
+    "postgres",
+    "laravel",
+    "deployment",
+    "server",
+    "docker-compose",
+    "nextjs",
+    "svelte"
+   ],
+   "updated": "2026-11-02T18:21:06Z"
+  },
+  {
+   "full": "usememos/memos",
+   "desc": "Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.",
+   "stars": 64236,
+   "lang": "Go",
+   "topics": [
+    "react",
+    "go",
+    "docker",
+    "markdown",
+    "open-source",
+    "timeline",
+    "notes",
+    "memo",
+    "sqlite",
+    "foss",
+    "self-hosted",
+    "note-taking"
+   ],
+   "updated": "2026-11-02T13:10:22Z"
+  },
+  {
+   "full": "go-gitea/gitea",
+   "desc": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+   "stars": 58826,
+   "lang": "Go",
+   "topics": [
+    "github",
+    "git",
+    "go",
+    "git-lfs",
+    "golang",
+    "devops",
+    "gitlab",
+    "typescript",
+    "vue",
+    "bitbucket",
+    "self-hosted",
+    "gitea"
+   ],
+   "updated": "2026-11-02T19:50:23Z"
+  },
+  {
+   "full": "pathwaycom/serviette",
+   "desc": "A no-code RAG server that keeps answers in sync with your documents. Works with 8 vector databases. Built on Pathway.",
+   "stars": 58732,
+   "lang": "Python",
+   "topics": [
+    "real-time",
+    "mongodb",
+    "self-hosted",
+    "semantic-search",
+    "pathway",
+    "no-code",
+    "pinecone",
+    "document-search",
+    "live-data",
+    "rag",
+    "weaviate",
+    "milvus"
+   ],
+   "updated": "2026-11-02T15:57:46Z"
+  },
+  {
+   "full": "appwrite/appwrite",
+   "desc": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+   "stars": 57854,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "android",
+    "swift",
+    "docker",
+    "ios",
+    "firebase",
+    "react-native",
+    "web",
+    "backend",
+    "nextjs",
+    "firewall"
+   ],
+   "updated": "2026-11-02T20:16:55Z"
+  },
+  {
+   "full": "QuantumNous/new-api",
+   "desc": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
+   "stars": 51217,
+   "lang": "Go",
+   "topics": [
+    "api-management",
+    "self-hosted",
+    "gemini",
+    "openai",
+    "claude",
+    "newapi",
+    "ai-gateway",
+    "deepseek",
+    "rerank",
+    "llm-gateway",
+    "model-routing"
+   ],
+   "updated": "2026-11-02T11:54:34Z"
+  },
+  {
+   "full": "ClickHouse/ClickHouse",
+   "desc": "ClickHouse® is a real-time analytics database management system",
+   "stars": 50719,
+   "lang": "C++",
+   "topics": [
+    "rust",
+    "embedded",
+    "sql",
+    "database",
+    "big-data",
+    "ai",
+    "analytics",
+    "cpp",
+    "clickhouse",
+    "dbms",
+    "self-hosted",
+    "distributed"
+   ],
+   "updated": "2026-11-02T20:20:11Z"
+  },
+  {
+   "full": "HKUDS/nanobot",
+   "desc": "Your lightweight open-source personal agent.",
+   "stars": 49766,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "chatops",
+    "mcp",
+    "chatbot",
+    "discord-bot",
+    "self-hosted",
+    "multi-agent",
+    "webui",
+    "workflow-automation",
+    "ai-agents",
+    "agent-framework",
+    "ai-agent"
+   ],
+   "updated": "2026-11-02T09:55:24Z"
+  },
+  {
+   "full": "gogs/gogs",
+   "desc": "The painless way to host your own Git service",
+   "stars": 47914,
+   "lang": "Go",
+   "topics": [
+    "mysql",
+    "git",
+    "go",
+    "docker",
+    "raspberry-pi",
+    "version-control",
+    "gogs",
+    "postgresql",
+    "self-hosted",
+    "sqlite3",
+    "source-code-management"
+   ],
+   "updated": "2026-10-31T17:18:16Z"
+  },
+  {
+   "full": "siyuan-note/siyuan",
+   "desc": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
+   "stars": 47041,
+   "lang": "TypeScript",
+   "topics": [
+    "markdown",
+    "mcp",
+    "workspace",
+    "self-hosted",
+    "note-taking",
+    "knowledge-base",
+    "local-first",
+    "siyuan",
+    "ai-agent",
+    "agentic-ai"
+   ],
+   "updated": "2026-11-02T18:05:36Z"
+  },
+  {
+   "full": "janhq/jan",
+   "desc": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+   "stars": 45332,
+   "lang": "Rust",
+   "topics": [
+    "open-source",
+    "self-hosted",
+    "gpt",
+    "tauri",
+    "llm",
+    "chatgpt",
+    "llamacpp",
+    "localai"
+   ],
+   "updated": "2026-11-02T20:13:18Z"
+  },
+  {
+   "full": "reactive-resume/reactive-resume",
+   "desc": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+   "stars": 45217,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "typescript",
+    "ai",
+    "self-hosted",
+    "hacktoberfest",
+    "resume-builder",
+    "mcp-server",
+    "agent-skills",
+    "dsh-plugin"
+   ],
+   "updated": "2026-11-02T20:11:52Z"
+  },
+  {
+   "full": "ToolJet/ToolJet",
+   "desc": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
+   "stars": 41179,
+   "lang": "HTML",
+   "topics": [
+    "nodejs",
+    "javascript",
+    "docker",
+    "kubernetes",
+    "internal-tools",
+    "typescript",
+    "reactjs",
+    "self-hosted",
+    "workflow-automation",
+    "web-development-tools",
+    "low-code",
+    "no-code"
+   ],
+   "updated": "2026-11-02T19:19:10Z"
+  },
+  {
+   "full": "appsmithorg/appsmith",
+   "desc": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+   "stars": 41153,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "java",
+    "internal-tools",
+    "gui",
+    "automation",
+    "crud",
+    "typescript",
+    "admin-dashboard",
+    "self-hosted",
+    "gui-application",
+    "developer-tools"
+   ],
+   "updated": "2026-11-02T14:20:46Z"
+  },
+  {
+   "full": "photoprism/photoprism",
+   "desc": "AI-Powered Photos App 🌈💎✨",
+   "stars": 40396,
+   "lang": "Go",
+   "topics": [
+    "golang",
+    "machine-learning",
+    "ai",
+    "photography",
+    "tensorflow",
+    "self-hosted",
+    "google-photos",
+    "private-cloud"
+   ],
+   "updated": "2026-11-02T14:34:59Z"
+  },
+  {
+   "full": "TriliumNext/Trilium",
+   "desc": "Build your personal knowledge base with Trilium Notes",
+   "stars": 38670,
+   "lang": "TypeScript",
+   "topics": [
+    "electron",
+    "wiki",
+    "notebook",
+    "notes",
+    "self-hosted",
+    "knowledge-graph",
+    "electron-app",
+    "note-taking",
+    "self-hosting",
+    "knowledge-base",
+    "personal-knowledge-base",
+    "knowledge-management"
+   ],
+   "updated": "2026-11-02T19:55:37Z"
+  },
+  {
+   "full": "Dokploy/dokploy",
+   "desc": "Open Source Alternative to Vercel, Netlify and Heroku.",
+   "stars": 38198,
+   "lang": "TypeScript",
+   "topics": [
+    "mysql",
+    "docker",
+    "backups",
+    "devops",
+    "ai",
+    "mongodb",
+    "deployment",
+    "frontend",
+    "backend",
+    "nextjs",
+    "postgresql",
+    "vps"
+   ],
+   "updated": "2026-11-02T16:13:57Z"
+  },
+  {
+   "full": "glanceapp/glance",
+   "desc": "A self-hosted dashboard that puts all your feeds in one place",
+   "stars": 37981,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "docker",
+    "rss",
+    "youtube",
+    "reddit",
+    "monitoring",
+    "dashboard",
+    "aggregator",
+    "rss-reader",
+    "homepage",
+    "feed-reader",
+    "self-hosted"
+   ],
+   "updated": "2026-11-02T15:05:27Z"
+  },
+  {
+   "full": "khoj-ai/khoj",
+   "desc": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistr",
+   "stars": 37946,
+   "lang": "Python",
+   "topics": [
+    "chat",
+    "agent",
+    "productivity",
+    "research",
+    "ai",
+    "emacs",
+    "self-hosted",
+    "assistant",
+    "image-generation",
+    "obsidian",
+    "stt",
+    "semantic-search"
+   ],
+   "updated": "2026-08-02T01:55:40Z"
+  },
+  {
+   "full": "IceWhaleTech/CasaOS",
+   "desc": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+   "stars": 37521,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "golang",
+    "home-automation",
+    "iot",
+    "vuejs",
+    "self-hosted",
+    "raspberry",
+    "home-server",
+    "home-cloud",
+    "casaos"
+   ],
+   "updated": "2026-09-28T10:37:14Z"
+  },
+  {
+   "full": "agentscope-ai/QwenPaw",
+   "desc": "Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.",
+   "stars": 37217,
+   "lang": "TypeScript",
+   "topics": [
+    "agent",
+    "skills",
+    "mcp",
+    "chatbot",
+    "self-hosted",
+    "webui",
+    "ai-agents",
+    "super-agent",
+    "ai-agent",
+    "llms",
+    "llm-tools",
+    "agentscope"
+   ],
+   "updated": "2026-11-02T13:20:12Z"
+  },
+  {
+   "full": "langfuse/langfuse",
+   "desc": "🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform.",
+   "stars": 36899,
+   "lang": "TypeScript",
+   "topics": [
+    "open-source",
+    "playground",
+    "monitoring",
+    "analytics",
+    "evaluation",
+    "self-hosted",
+    "ycombinator",
+    "openai",
+    "observability",
+    "autogen",
+    "large-language-models",
+    "llm"
+   ],
+   "updated": "2026-11-02T20:20:35Z"
+  },
+  {
+   "full": "filebrowser/filebrowser",
+   "desc": "File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.",
+   "stars": 35878,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "vue",
+    "material-design",
+    "file-sharing",
+    "self-hosted",
+    "file-browser",
+    "file-manager"
+   ],
+   "updated": "2026-07-31T10:06:58Z"
+  },
+  {
+   "full": "awesome-foss/awesome-sysadmin",
+   "desc": "A curated list of amazingly awesome open-source sysadmin resources.",
+   "stars": 35583,
+   "lang": null,
+   "topics": [
+    "devops",
+    "list",
+    "awesome",
+    "ops",
+    "sysadmin",
+    "self-hosted",
+    "software",
+    "awesome-list",
+    "sre"
+   ],
+   "updated": "2026-10-22T11:46:19Z"
+  },
+  {
+   "full": "dgtlmoon/changedetection.io",
+   "desc": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+   "stars": 35461,
+   "lang": "Python",
+   "topics": [
+    "notifications",
+    "rss",
+    "monitoring",
+    "self-hosted",
+    "web-scraping",
+    "website-monitor",
+    "url-monitor",
+    "change-alert",
+    "change-detection",
+    "website-change-monitor",
+    "website-change-tracker",
+    "website-monitoring"
+   ],
+   "updated": "2026-11-02T17:30:32Z"
+  },
+  {
+   "full": "gethomepage/homepage",
+   "desc": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+   "stars": 33485,
+   "lang": "JavaScript",
+   "topics": [
+    "react",
+    "docker",
+    "node",
+    "nextjs",
+    "homepage",
+    "self-hosted",
+    "startpage"
+   ],
+   "updated": "2026-11-02T12:18:59Z"
+  },
+  {
+   "full": "onyx-dot-app/onyx",
+   "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+   "stars": 33170,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "information-retrieval",
+    "ai",
+    "nextjs",
+    "self-hosted",
+    "enterprise-search",
+    "chatui",
+    "rag",
+    "vector-search",
+    "ai-chat",
+    "llm",
+    "chatgpt"
+   ],
+   "updated": "2026-11-02T20:17:48Z"
+  },
+  {
+   "full": "vxcontrol/pentagi",
+   "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+   "stars": 33056,
+   "lang": "Go",
+   "topics": [
+    "react",
+    "graphql",
+    "golang",
+    "open-source",
+    "self-hosted",
+    "penetration-testing",
+    "openai",
+    "gpt",
+    "offensive-security",
+    "autonomous-agents",
+    "security-automation",
+    "security-tools"
+   ],
+   "updated": "2026-10-22T23:26:13Z"
+  },
+  {
+   "full": "SigNoz/signoz",
+   "desc": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined ",
+   "stars": 32509,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "go",
+    "open-source",
+    "typescript",
+    "monitoring",
+    "log",
+    "reactjs",
+    "metrics",
+    "nextjs",
+    "logs",
+    "prometheus",
+    "self-hosted"
+   ],
+   "updated": "2026-11-02T19:43:25Z"
+  },
+  {
+   "full": "Zackriya-Solutions/meetily",
+   "desc": "Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.a",
+   "stars": 32388,
+   "lang": "Rust",
+   "topics": [
+    "windows",
+    "rust",
+    "mac",
+    "ai",
+    "offline-first",
+    "self-hosted",
+    "speech-to-text",
+    "transcription",
+    "whisper",
+    "meeting-minutes",
+    "meeting-notes",
+    "privacy-tools"
+   ],
+   "updated": "2026-11-02T17:10:09Z"
+  },
+  {
+   "full": "feder-cr/invisible_dots",
+   "desc": "Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.",
+   "stars": 32357,
+   "lang": "TypeScript",
+   "topics": [
+    "automation",
+    "mcp",
+    "self-hosted",
+    "browser-automation",
+    "autonomous-agents",
+    "ai-agents",
+    "local-first",
+    "manus",
+    "playwright",
+    "open-source-alternative",
+    "ai-assistant",
+    "ai-agent"
+   ],
+   "updated": "2026-10-31T06:28:10Z"
+  },
+  {
+   "full": "dokku/dokku",
+   "desc": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+   "stars": 32223,
+   "lang": "Go",
+   "topics": [
+    "heroku",
+    "docker",
+    "kubernetes",
+    "devops",
+    "containers",
+    "dokku",
+    "selfhosted",
+    "self-hosted",
+    "paas",
+    "buildpack",
+    "nomad"
+   ],
+   "updated": "2026-11-02T13:59:45Z"
+  },
+  {
+   "full": "karakeep-app/karakeep",
+   "desc": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+   "stars": 30248,
+   "lang": "TypeScript",
+   "topics": [
+    "react-native",
+    "nextjs",
+    "bookmarks",
+    "self-hosted",
+    "read-it-later",
+    "bookmarks-manager",
+    "bookmark-manager"
+   ],
+   "updated": "2026-11-02T01:44:10Z"
+  },
+  {
+   "full": "louislam/dockge",
+   "desc": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
+   "stars": 24747,
+   "lang": "TypeScript",
+   "topics": [
+    "docker",
+    "responsive",
+    "docker-compose",
+    "docker-deployment",
+    "single-page-app",
+    "websocket",
+    "socket-io",
+    "selfhosted",
+    "self-hosted",
+    "webapp",
+    "docker-stack",
+    "docker-ui"
+   ],
+   "updated": "2026-10-23T06:35:35Z"
+  },
+  {
+   "full": "mikeroyal/Self-Hosting-Guide",
+   "desc": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+   "stars": 23437,
+   "lang": "Dockerfile",
+   "topics": [
+    "search",
+    "linux",
+    "ssh",
+    "open-source",
+    "home-automation",
+    "raspberry-pi",
+    "oauth",
+    "awesome",
+    "privacy",
+    "authentication",
+    "docker-compose",
+    "decentralized"
+   ],
+   "updated": "2025-06-27T01:51:16Z"
+  },
+  {
+   "full": "BookStackApp/BookStack",
+   "desc": "NOW MANAGED ON CODEBERG",
+   "stars": 19122,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "documentation",
+    "laravel",
+    "wiki",
+    "selfhosted",
+    "bookstack"
+   ],
+   "updated": "2026-11-02T18:23:34Z"
+  },
+  {
+   "full": "gotify/server",
+   "desc": "A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)",
+   "stars": 16168,
+   "lang": "Go",
+   "topics": [
+    "notifications",
+    "react",
+    "javascript",
+    "api",
+    "golang",
+    "cloud",
+    "privacy",
+    "selfhosted",
+    "hosting",
+    "self-hosted",
+    "free-software",
+    "self-hosting"
+   ],
+   "updated": "2026-10-28T03:37:51Z"
+  },
+  {
+   "full": "liketrek/TREK",
+   "desc": "The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routing built in.",
+   "stars": 15334,
+   "lang": "TypeScript",
+   "topics": [
+    "docker",
+    "open-source",
+    "real-time",
+    "pwa",
+    "offline-first",
+    "openstreetmap",
+    "selfhosted",
+    "travel",
+    "tripit",
+    "self-hosted",
+    "collaborative",
+    "itinerary"
+   ],
+   "updated": "2026-11-02T19:58:17Z"
+  },
+  {
+   "full": "cachethq/cachet",
+   "desc": "🚦 Cachet, the open source, self-hosted status page system.",
+   "stars": 15263,
+   "lang": "PHP",
+   "topics": [
+    "php",
+    "laravel",
+    "selfhosted",
+    "cachet",
+    "self-hosted",
+    "status-page",
+    "statuspages"
+   ],
+   "updated": "2026-11-02T07:01:47Z"
+  },
+  {
+   "full": "getumbrel/umbrel",
+   "desc": "An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.",
+   "stars": 12508,
+   "lang": "TypeScript",
+   "topics": [
+    "docker",
+    "raspberry-pi",
+    "lightning",
+    "bitcoin",
+    "raspberrypi",
+    "selfhosted",
+    "homeserver",
+    "self-hosted",
+    "self-hosting",
+    "personal-server",
+    "home-server",
+    "openclaw"
+   ],
+   "updated": "2026-11-01T17:32:27Z"
+  },
+  {
+   "full": "TwiN/gatus",
+   "desc": "Automated developer-oriented status page with alerting and incident support",
+   "stars": 12481,
+   "lang": "Go",
+   "topics": [
+    "notifications",
+    "go",
+    "slack",
+    "docker",
+    "golang",
+    "status",
+    "devops",
+    "monitor",
+    "monitoring",
+    "dashboard",
+    "alerting",
+    "container"
+   ],
+   "updated": "2026-10-29T06:23:05Z"
+  },
+  {
+   "full": "screego/server",
+   "desc": "screen sharing for developers https://screego.net/",
+   "stars": 10744,
+   "lang": "Go",
+   "topics": [
+    "go",
+    "docker",
+    "privacy",
+    "webrtc",
+    "selfhosted",
+    "screensharing-tool"
+   ],
+   "updated": "2026-10-25T18:36:58Z"
+  },
+  {
+   "full": "homarr-labs/dashboard-icons",
+   "desc": "3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.",
+   "stars": 8991,
+   "lang": "TypeScript",
+   "topics": [
+    "docker",
+    "dashboard",
+    "mcp",
+    "icons",
+    "selfhosted",
+    "homepage",
+    "svg-icons",
+    "self-hosted",
+    "logos",
+    "homer",
+    "codex",
+    "heimdall"
+   ],
+   "updated": "2026-10-26T14:25:41Z"
+  },
+  {
+   "full": "TandoorRecipes/recipes",
+   "desc": "Application for managing recipes, planning meals, building shopping lists and much much more!",
+   "stars": 8711,
+   "lang": "HTML",
+   "topics": [
+    "food",
+    "docker",
+    "markdown",
+    "recipes",
+    "django",
+    "recipe",
+    "cooking",
+    "selfhosted",
+    "cookbook",
+    "shopping",
+    "hacktoberfest",
+    "meal-planner"
+   ],
+   "updated": "2026-11-01T00:44:57Z"
+  },
+  {
+   "full": "tinyauthapp/tinyauth",
+   "desc": "The tiniest OpenID Certified™ authorization and authentication server you have ever seen.",
+   "stars": 8459,
+   "lang": "Go",
+   "topics": [
+    "nginx",
+    "golang",
+    "middleware",
+    "authentication",
+    "selfhosted",
+    "totp",
+    "caddy",
+    "sso",
+    "oidc",
+    "2fa",
+    "typescipt",
+    "tinyauth"
+   ],
+   "updated": "2026-11-02T18:00:41Z"
+  },
+  {
+   "full": "LibrePhotos/librephotos",
+   "desc": "A self-hosted open source photo management service.",
+   "stars": 8125,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "photos",
+    "machine-learning",
+    "django",
+    "selfhosted",
+    "photo-gallery"
+   ],
+   "updated": "2026-11-02T13:37:30Z"
+  },
+  {
+   "full": "btcpayserver/btcpayserver",
+   "desc": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
+   "stars": 7884,
+   "lang": "C#",
+   "topics": [
+    "bitcoin",
+    "selfhosted",
+    "crowdfunding",
+    "payment-gateway",
+    "lightning-network",
+    "point-of-sale",
+    "bitcoin-payment-gateway",
+    "bitcoin-payment-processor"
+   ],
+   "updated": "2026-11-02T07:08:34Z"
+  },
+  {
+   "full": "sysadminsmedia/homebox",
+   "desc": "A continuation of HomeBox the inventory and organization system built for the Home User",
+   "stars": 7731,
+   "lang": "Go",
+   "topics": [
+    "inventory",
+    "selfhosted",
+    "hacktoberfest",
+    "homebox"
+   ],
+   "updated": "2026-10-31T23:19:06Z"
+  },
+  {
+   "full": "aceberg/WatchYourLAN",
+   "desc": "Lightweight network IP scanner written in Go. With notifications, history, export to Grafana",
+   "stars": 7654,
+   "lang": "Go",
+   "topics": [
+    "monitoring",
+    "selfhosted",
+    "self-hosted",
+    "intrusion-detection",
+    "arp-scan",
+    "arp-scanner",
+    "network-security"
+   ],
+   "updated": "2025-09-10T12:08:09Z"
+  },
+  {
+   "full": "Haxxnet/Compose-Examples",
+   "desc": "Various Docker Compose examples of selfhosted FOSS and proprietary projects.",
+   "stars": 7411,
+   "lang": null,
+   "topics": [
+    "docker",
+    "devops",
+    "automation",
+    "awesome",
+    "microservices",
+    "stack",
+    "docker-compose",
+    "docker-swarm",
+    "container",
+    "selfhosted",
+    "infrastructure-as-code",
+    "compose"
+   ],
+   "updated": "2026-11-01T17:21:21Z"
+  },
+  {
+   "full": "netalertx/NetAlertX",
+   "desc": "Centralized network visibility and continuous asset discovery. Monitor devices, detect change, and stay aware across distributed networks.",
+   "stars": 7350,
+   "lang": "Python",
+   "topics": [
+    "security",
+    "networking",
+    "selfhosted",
+    "sysadmin",
+    "network-monitoring",
+    "wifi-network",
+    "network-analysis",
+    "network-automation",
+    "arp-scan",
+    "ipam",
+    "dcim",
+    "wifi-security"
+   ],
+   "updated": "2026-11-01T13:14:44Z"
+  },
+  {
+   "full": "0xERR0R/blocky",
+   "desc": "Fast and lightweight DNS proxy as ad-blocker for local network with many features",
+   "stars": 7085,
+   "lang": "Go",
+   "topics": [
+    "dns",
+    "golang",
+    "selfhosted",
+    "self-hosted",
+    "ad-blocker",
+    "adblock",
+    "dns-server",
+    "adblocker",
+    "dns-over-https",
+    "pihole",
+    "parental-control"
+   ],
+   "updated": "2026-11-02T04:58:06Z"
+  },
+  {
+   "full": "CodeWithCJ/SparkyFitness",
+   "desc": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+   "stars": 6663,
+   "lang": "TypeScript",
+   "topics": [
+    "ai",
+    "healthcheck",
+    "selfhosted",
+    "fitness",
+    "health",
+    "self-hosted",
+    "artificial-intelligence",
+    "fitness-app",
+    "fitness-tracker",
+    "health-coaching"
+   ],
+   "updated": "2026-11-01T18:34:40Z"
+  },
+  {
+   "full": "photoview/photoview",
+   "desc": "Photo gallery for self-hosted personal servers",
+   "stars": 6566,
+   "lang": "Go",
+   "topics": [
+    "docker",
+    "gallery",
+    "photography",
+    "selfhosted",
+    "photo-gallery",
+    "exif",
+    "photo",
+    "raw",
+    "nas",
+    "hacktoberfest",
+    "photographers"
+   ],
+   "updated": "2026-10-29T19:14:02Z"
+  },
+  {
+   "full": "azukaar/Cosmos-Server",
+   "desc": "☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot)",
+   "stars": 6190,
+   "lang": "Go",
+   "topics": [
+    "security",
+    "cloud",
+    "authentication",
+    "server",
+    "selfhosted",
+    "self-hosted",
+    "reverse-proxy",
+    "sso",
+    "self-hosting",
+    "cosmos",
+    "selfhosting"
+   ],
+   "updated": "2026-10-21T18:17:39Z"
+  },
+  {
+   "full": "bitmagnet-io/bitmagnet",
+   "desc": "A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.",
+   "stars": 4444,
+   "lang": "Go",
+   "topics": [
+    "torrent",
+    "bittorrent",
+    "sonarr",
+    "selfhosted",
+    "dht",
+    "torrents",
+    "torznab",
+    "radarr",
+    "prowlarr",
+    "servarr"
+   ],
+   "updated": "2026-08-11T09:50:11Z"
+  },
+  {
+   "full": "wasi-master/13ft",
+   "desc": "My own custom 12ft.io replacement",
+   "stars": 4353,
+   "lang": "Python",
+   "topics": [
+    "python",
+    "selfhosted",
+    "self-hosted",
+    "python3",
+    "selfhost",
+    "paywall-blocker",
+    "paywall-bypasser",
+    "paywall-bypass"
+   ],
+   "updated": "2026-09-17T21:31:39Z"
+  },
+  {
+   "full": "open-wanderer/wanderer",
+   "desc": "wanderer is a self-hosted trail database. Save your adventures!",
+   "stars": 4046,
+   "lang": "Go",
+   "topics": [
+    "maps",
+    "gps",
+    "selfhosted",
+    "biking",
+    "hiking",
+    "meilisearch",
+    "sveltekit",
+    "pocketbase"
+   ],
+   "updated": "2026-11-02T19:32:35Z"
+  },
+  {
+   "full": "remvze/moodist",
+   "desc": "Ambient sounds for focus and calm.",
+   "stars": 3927,
+   "lang": "TypeScript",
+   "topics": [
+    "react",
+    "javascript",
+    "productivity",
+    "typescript",
+    "selfhosted",
+    "astro",
+    "focus",
+    "ambient",
+    "white-noise",
+    "productivity-tools",
+    "calm",
+    "ambient-noise"
+   ],
+   "updated": "2026-09-27T09:30:21Z"
+  },
+  {
+   "full": "OliveTin/OliveTin",
+   "desc": "OliveTin gives safe and simple access to predefined shell commands from a web interface.",
+   "stars": 3865,
+   "lang": "Go",
+   "topics": [
+    "linux",
+    "api",
+    "service",
+    "container",
+    "selfhosted",
+    "sysadmin",
+    "homeautomation",
+    "maturity-prod"
+   ],
+   "updated": "2026-10-24T10:03:48Z"
+  },
+  {
+   "full": "seanmorley15/AdventureLog",
+   "desc": "Self-hostable travel tracker and trip planner.",
+   "stars": 3848,
+   "lang": "Svelte",
+   "topics": [
+    "api",
+    "docker",
+    "nginx",
+    "dockerfile",
+    "tracking",
+    "django",
+    "django-rest-framework",
+    "selfhosted",
+    "travel",
+    "self-hosted",
+    "adventure",
+    "allauth"
+   ],
+   "updated": "2026-11-02T00:14:28Z"
+  },
+  {
+   "full": "Smaug6739/Alexandrie",
+   "desc": "📚 The open-source, offline-first Notion, Obsidian & Confluence alternative. Advanced Markdown, multi-tenant teams, OIDC/SSO, and local S3 backups. Deploy in one command.",
+   "stars": 3792,
+   "lang": "Vue",
+   "topics": [
+    "docker",
+    "markdown",
+    "golang",
+    "vuejs",
+    "pwa",
+    "vue",
+    "wiki",
+    "offline-first",
+    "notes",
+    "selfhosted",
+    "nuxt",
+    "kanban"
+   ],
+   "updated": "2026-11-01T12:56:44Z"
+  },
+  {
+   "full": "Anil-matcha/awesome-open-source-saas-alternatives",
+   "desc": "Open source alternatives to paid SaaS apps: Notion, Slack, Auth0, Vercel and more. Curated list with licenses and GitHub stars.",
+   "stars": 3447,
+   "lang": "JavaScript",
+   "topics": [
+    "open-source",
+    "awesome",
+    "privacy",
+    "selfhosted",
+    "self-hosted",
+    "saas",
+    "free-software",
+    "awesome-list",
+    "alternatives",
+    "open-source-software",
+    "firebase-alternative",
+    "slack-alternative"
+   ],
+   "updated": "2026-11-02T14:01:40Z"
+  },
+  {
+   "full": "Kovah/LinkAce",
+   "desc": "LinkAce is a self-hosted archive to collect links of your favorite websites.",
+   "stars": 3351,
+   "lang": "PHP",
+   "topics": [
+    "docker",
+    "php",
+    "laravel",
+    "archiving",
+    "selfhosted",
+    "bookmarks",
+    "self-hosted",
+    "archive",
+    "bookmarking",
+    "hacktoberfest",
+    "bookmark-manager",
+    "bookmark-managers"
+   ],
+   "updated": "2026-11-02T18:55:57Z"
+  },
+  {
+   "full": "wizarrrr/wizarr",
+   "desc": "Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.",
+   "stars": 3277,
+   "lang": "Python",
+   "topics": [
+    "plex",
+    "management",
+    "selfhosted",
+    "user",
+    "emby",
+    "inviter",
+    "jellyfin"
+   ],
+   "updated": "2026-11-02T11:09:25Z"
+  },
+  {
+   "full": "maziggy/bambuddy",
+   "desc": "Your Bambu Lab. No Cloud. Your Rules. Self-hosted command center for Bambu Lab — from one A1 to an entire print farm.",
+   "stars": 3243,
+   "lang": "Python",
+   "topics": [
+    "selfhosted",
+    "self-hosted",
+    "gcode",
+    "3d-printing",
+    "3d-printer",
+    "3dprinting",
+    "bambu",
+    "filament",
+    "filamentadmin",
+    "bambulab",
+    "bambu-lab",
+    "bambu-studio"
+   ],
+   "updated": "2026-11-02T13:50:20Z"
+  },
+  {
+   "full": "msgbyte/tianji",
+   "desc": "Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives",
+   "stars": 3120,
+   "lang": "TypeScript",
+   "topics": [
+    "docker",
+    "statistics",
+    "monitor",
+    "analytics",
+    "google-analytics",
+    "web-analytics",
+    "selfhosted",
+    "self-hosted",
+    "uptime-monitor",
+    "uptime",
+    "server-status",
+    "umami"
+   ],
+   "updated": "2026-10-30T18:55:04Z"
+  },
+  {
+   "full": "sablierapp/sablier",
+   "desc": "Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes, Proxmox LXC, SystemD, AWS ECS and Nomad compatible.",
+   "stars": 3104,
+   "lang": "Go",
+   "topics": [
+    "plugin",
+    "docker",
+    "nginx",
+    "kubernetes",
+    "aws",
+    "systemd",
+    "docker-swarm",
+    "selfhosted",
+    "nomad",
+    "aws-ecs",
+    "traefik",
+    "hacktoberfest"
+   ],
+   "updated": "2026-11-02T18:57:44Z"
+  },
+  {
+   "full": "rafska/awesome-local-llm",
+   "desc": "A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally",
+   "stars": 3026,
+   "lang": null,
+   "topics": [
+    "awesome",
+    "ai",
+    "local",
+    "selfhosted",
+    "resources",
+    "self-hosted",
+    "awesome-list",
+    "llm",
+    "local-llm",
+    "local-ai"
+   ],
+   "updated": "2026-10-28T19:37:41Z"
+  }
+ ]
+}
